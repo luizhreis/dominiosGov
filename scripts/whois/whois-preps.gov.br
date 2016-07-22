@@ -1,0 +1,27 @@
+
+
+
+domain:      preps.gov.br
+owner:       Ministério da Pesca e Aquicultura
+responsible: Ministro Marcelo Bezerra Crivella
+country:     BR
+owner-c:     RESCA114
+admin-c:     RESCA114
+tech-c:      RESCA114
+billing-c:   RESCA114
+nserver:     barroso.preps.gov.br 200.186.28.11 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     tamandare.preps.gov.br 200.186.28.13 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20060529 #2820376
+changed:     20121219
+status:      published
+
+nic-hdl-br:  RESCA114
+person:      Renato Silva de Castro
+created:     20121217
+changed:     20140825
+
+

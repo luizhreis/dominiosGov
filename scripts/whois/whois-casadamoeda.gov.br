@@ -1,0 +1,35 @@
+
+
+
+domain:      casadamoeda.gov.br
+owner:       CASA DA MOEDA DO BRASIL CMB
+responsible: Jefferson Carvalho Rodrigues da Silva
+country:     BR
+owner-c:     CMB
+admin-c:     CMB
+tech-c:      SIC198
+billing-c:   CMB
+nserver:     ns1.casadamoeda.gov.br 201.73.19.130 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns1.avvio.net.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns.embratel.net.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19970501 #38379
+changed:     20160425
+status:      published
+
+nic-hdl-br:  CMB
+person:      Casa da Moeda do Brasil
+created:     19971223
+changed:     20131031
+
+nic-hdl-br:  SIC198
+person:      Suporte Internet CMB
+created:     20040111
+changed:     20040111
+
+

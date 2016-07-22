@@ -1,0 +1,36 @@
+
+
+
+domain:      valec.gov.br
+owner:       VALEC - ENGENHARIA, CONSTRUÇÕES E FERROVIAS S.A.
+responsible: ANTONIO FELIPE SANCHEZ COSTA
+country:     BR
+owner-c:     IRSPI3
+admin-c:     IRSPI3
+tech-c:      IRSPI3
+billing-c:   IRSPI3
+nserver:     antares.serpro.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+created:     20050915 #2346471
+changed:     20120310
+status:      published
+
+nic-hdl-br:  IRSPI3
+person:      Ingrid Ribeiro da Silva Pitombeira
+created:     20090508
+changed:     20151215
+
+

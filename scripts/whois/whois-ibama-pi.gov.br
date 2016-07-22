@@ -1,0 +1,27 @@
+
+
+
+domain:      ibama-pi.gov.br
+owner:       IBAMA - GERENCIA EXECUTIVA ESTADUAL
+responsible: DEOCLECIANO GUEDES FERREIRA
+country:     BR
+owner-c:     WES7
+admin-c:     WES7
+tech-c:      WES7
+billing-c:   WES7
+nserver:     ns.secrel.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.secrel.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20020627 #899914
+changed:     20020627
+status:      published
+
+nic-hdl-br:  WES7
+person:      WebMaster SecrelNet
+created:     19981209
+changed:     20150928
+
+

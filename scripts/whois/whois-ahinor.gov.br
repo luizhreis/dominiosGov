@@ -1,0 +1,27 @@
+
+
+
+domain:      ahinor.gov.br
+owner:       ADMINISTRAÇÃO DAS HIDROVIAS DO NORDESTE - AHINOR
+responsible: JOSÉ OSCAR FRASÃO FROTA
+country:     BR
+owner-c:     HRC25
+admin-c:     HRC25
+tech-c:      HRC25
+billing-c:   HRC25
+nserver:     unix.elo.com.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20150701
+nserver:     nt.elo.com.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20150701
+created:     20071109 #4051221
+changed:     20071109
+status:      published
+
+nic-hdl-br:  HRC25
+person:      Helio Rodrigues Costa
+created:     20020405
+changed:     20141210
+
+

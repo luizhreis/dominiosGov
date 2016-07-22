@@ -1,0 +1,27 @@
+
+
+
+domain:      saemec.gov.br
+owner:       INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIO
+responsible: Francisco Edilson de Carvalho Silva
+country:     BR
+owner-c:     INP
+admin-c:     INP
+tech-c:      INP
+billing-c:   INP
+nserver:     dns1.techne.com.br  
+nsstat:      20160701 UH
+nslastaa:    20060221
+nserver:     dns2.techne.com.br  
+nsstat:      20160701 UH
+nslastaa:    20060704
+created:     19981013 #121239
+changed:     19981125
+status:      published
+
+nic-hdl-br:  INP
+person:      Instituto Nacional de Estudos e Pesquisa
+created:     19971230
+changed:     20110830
+
+

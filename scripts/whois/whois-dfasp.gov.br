@@ -1,0 +1,32 @@
+
+
+
+domain:      dfasp.gov.br
+owner:       Delegacia Federal de Agricultura em São Paulo
+responsible: Ricardo Luiz Ribeiro
+country:     BR
+owner-c:     NFN2
+admin-c:     NFN2
+tech-c:      NFN2
+billing-c:   MIA61
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20020219 #730786
+changed:     20020219
+status:      published
+
+nic-hdl-br:  MIA61
+person:      Ministério da A
+created:     20011031
+changed:     20011031
+
+nic-hdl-br:  NFN2
+person:      WEB MASTER
+created:     20000518
+changed:     20020205
+
+

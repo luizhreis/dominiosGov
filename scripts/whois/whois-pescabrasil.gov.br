@@ -1,0 +1,27 @@
+
+
+
+domain:      pescabrasil.gov.br
+owner:       Ministério da Pesca e Aquicultura
+responsible: Ministro Marcelo Bezerra Crivella
+country:     BR
+owner-c:     RESCA114
+admin-c:     RESCA114
+tech-c:      RESCA114
+billing-c:   RESCA114
+nserver:     masrv53.agricultura.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20050723
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20040229
+created:     20030326 #1144496
+changed:     20121219
+status:      published
+
+nic-hdl-br:  RESCA114
+person:      Renato Silva de Castro
+created:     20121217
+changed:     20140825
+
+

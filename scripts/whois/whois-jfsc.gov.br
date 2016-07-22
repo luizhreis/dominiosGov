@@ -1,0 +1,32 @@
+
+
+
+domain:      jfsc.gov.br
+owner:       Justica Federal de Primeiro Grau em Santa Catarina
+responsible: Juiz Federal Diretor do Foro SJ/SC
+country:     BR
+owner-c:     MLC166
+admin-c:     MLC166
+tech-c:      MLC166
+billing-c:   PEACO7
+nserver:     dns.jfsc.gov.br 189.22.75.199 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns3.jfsc.gov.br 189.22.75.197 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20000127 #245517
+changed:     20141016
+status:      published
+
+nic-hdl-br:  MLC166
+person:      Milton Lucio de Souza Cortes
+created:     20020423
+changed:     20120410
+
+nic-hdl-br:  PEACO7
+person:      Pedro Alex da Costa
+created:     20080910
+changed:     20120510
+
+

@@ -1,0 +1,28 @@
+
+
+
+domain:      simulaminhacasaminhavida.gov.br
+owner:       Ministério das Cidades
+responsible: Ilton José Fernandes Filho
+country:     BR
+owner-c:     IJFFI
+admin-c:     IJFFI
+tech-c:      IJFFI
+billing-c:   IJFFI
+nserver:     dns1.simulaminhacasaminhavida.gov.br 170.66.15.53 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.simulaminhacasaminhavida.gov.br 170.66.15.153 
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20160211 #15187580
+changed:     20160211
+status:      published
+
+nic-hdl-br:  IJFFI
+person:      Ilton José Fernandes Filho
+created:     20140828
+changed:     20140924
+
+

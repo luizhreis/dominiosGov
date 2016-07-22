@@ -1,0 +1,27 @@
+
+
+
+domain:      rio.gov.br
+owner:       Empresa Municipal de Informatica s/a
+responsible: Ricardo de Oliveira (IplanRio)
+country:     BR
+owner-c:     JFASI6
+admin-c:     JFASI6
+tech-c:      JFASI6
+billing-c:   JFASI6
+nserver:     ns1.rio.rj.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.rio.rj.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20000728 #394341
+changed:     20090918
+status:      published
+
+nic-hdl-br:  JFASI6
+person:      Jorge Francisco Antunes da Silva
+created:     20090917
+changed:     20110112
+
+

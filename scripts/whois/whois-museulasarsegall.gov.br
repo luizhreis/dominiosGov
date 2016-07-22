@@ -1,0 +1,27 @@
+
+
+
+domain:      museulasarsegall.gov.br
+owner:       Instituto Brasileiro de Museus - IBRAM
+responsible: Coordenador de TI
+country:     BR
+owner-c:     INBMU
+admin-c:     INBMU
+tech-c:      INBMU
+billing-c:   INBMU
+nserver:     ns1.ibram.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.ibram.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20100727 #7113884
+changed:     20120903
+status:      published
+
+nic-hdl-br:  INBMU
+person:      Instituto Brasileiro de Museus
+created:     20120903
+changed:     20150630
+
+

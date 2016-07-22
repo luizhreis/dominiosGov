@@ -1,0 +1,27 @@
+
+
+
+domain:      trt6.gov.br
+owner:       TRIBUNAL REGIONAL DO TRABALHO DA 6A. REGIAO
+responsible: Depto de Informatica
+country:     BR
+owner-c:     JAS64
+admin-c:     JAS64
+tech-c:      JAS64
+billing-c:   JAS64
+nserver:     dns1.trt6.gov.br 179.189.242.195 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.trt6.gov.br 200.165.134.195 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19961016 #19093
+changed:     20160221
+status:      published
+
+nic-hdl-br:  JAS64
+person:      Joao Adriano Pinheiro de Sousa
+created:     19980805
+changed:     20090611
+
+

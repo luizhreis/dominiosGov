@@ -1,0 +1,30 @@
+
+
+
+domain:      amapa.gov.br
+owner:       PRODAP - C. de Gestão da Tecnologia da Informação
+responsible: Jose Lutiano Costa da Silva
+country:     BR
+owner-c:     GEIPR3
+admin-c:     GEIPR3
+tech-c:      GEIPR3
+billing-c:   GEIPR3
+nserver:     dns1.ap.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns2.ap.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    24889 RSA/SHA-1 0D15F06910FBD21340F17FC6996C07D64F7FF083
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     19980116 #82660
+changed:     20160309
+status:      published
+
+nic-hdl-br:  GEIPR3
+person:      Gerencia de Internet PRODAP
+created:     20160123
+changed:     20160123
+
+

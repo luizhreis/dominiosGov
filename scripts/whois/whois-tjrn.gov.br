@@ -1,0 +1,30 @@
+
+
+
+domain:      tjrn.gov.br
+owner:       TRIBUNAL DE JUSTIÇA DO ESTADO DO RN
+responsible: Francisco Sales
+country:     BR
+owner-c:     DIDTE2
+admin-c:     DIDTE2
+tech-c:      DIDTE2
+billing-c:   DIDTE2
+nserver:     ns1.tjrn.gov.br 186.209.102.4 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.tjrn.gov.br 186.209.102.43 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.tjrn.gov.br 186.209.102.5 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19990409 #147831
+changed:     20121227
+status:      published
+
+nic-hdl-br:  DIDTE2
+person:      DIT - Departamento de Tecnologia
+created:     20081106
+changed:     20150112
+
+

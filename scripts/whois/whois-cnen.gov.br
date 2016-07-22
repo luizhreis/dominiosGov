@@ -1,0 +1,38 @@
+
+
+
+domain:      cnen.gov.br
+owner:       Comissão Nacional de Energia Nuclear
+responsible: Renato Machado Cotta
+country:     BR
+owner-c:     JCR12
+admin-c:     JCR12
+tech-c:      EMACO
+billing-c:   JCR12
+nserver:     nsa.cnen.gov.br 200.156.7.47 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     nsb.cnen.gov.br 200.156.7.46 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     nsc.cnen.gov.br 200.156.7.48 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     guanabara.rederio.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19960216 #5454
+changed:     20150304
+status:      published
+
+nic-hdl-br:  EMACO
+person:      Emerson Antunes Coimbra
+created:     20070215
+changed:     20150210
+
+nic-hdl-br:  JCR12
+person:      Elizabeth Rodrigues Cunha
+created:     19980310
+changed:     20150210
+
+

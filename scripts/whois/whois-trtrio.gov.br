@@ -1,0 +1,32 @@
+
+
+
+domain:      trtrio.gov.br
+owner:       Tribunal Regional do Trabalho da 1a Região
+responsible: Dir. da Sec. de Tecnologia da Informação
+country:     BR
+owner-c:     DIINF4
+admin-c:     DIINF4
+tech-c:      FAD102
+billing-c:   DIINF4
+nserver:     ns1.trtrio.gov.br 189.126.194.200 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.trtrio.gov.br 201.33.31.68 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19970812 #51508
+changed:     20160317
+status:      published
+
+nic-hdl-br:  DIINF4
+person:      Diretor de Informatica
+created:     20070731
+changed:     20160115
+
+nic-hdl-br:  FAD102
+person:      Francisco Assis de Paiva Dreyfuss
+created:     20010914
+changed:     20150223
+
+

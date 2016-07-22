@@ -1,0 +1,27 @@
+
+
+
+domain:      mme.gov.br
+owner:       MINISTERIO DE MINAS E ENERGIA
+responsible: Sergio Luiz Barbosa
+country:     BR
+owner-c:     HCB42
+admin-c:     HCB42
+tech-c:      HCB42
+billing-c:   HCB42
+nserver:     ns1.mme.gov.br 177.43.69.148 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.mme.gov.br 189.9.36.101 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960717 #11916
+changed:     20120918
+status:      published
+
+nic-hdl-br:  HCB42
+person:      Hiram Costa Botelho
+created:     20030911
+changed:     20070307
+
+

@@ -1,0 +1,28 @@
+
+
+
+domain:      cremesp.gov.br
+owner:       CONSELHO REGIONAL DE MEDICINA - SP
+responsible: Marcelo Gonçalves de Castro
+country:     BR
+owner-c:     CRS44
+admin-c:     CRS44
+tech-c:      CRS44
+billing-c:   CRS44
+nserver:     ns1.cremesp.org.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.cremesp.org.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20110117 #7771407
+changed:     20131020
+status:      published
+
+nic-hdl-br:  CRS44
+person:      CONSELHO REGIONAL DE MEDICINA SP
+created:     19990105
+changed:     20090527
+
+

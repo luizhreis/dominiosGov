@@ -1,0 +1,41 @@
+
+
+
+domain:      linea.gov.br
+owner:       Laboratório Nacional de Computação Científica
+responsible: Pedro Leite da Silva Dias
+country:     BR
+owner-c:     WVL
+admin-c:     WVL
+tech-c:      MMM18
+billing-c:   WVL
+nserver:     ns1.linea.gov.br 146.134.17.24 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns5.linea.gov.br 146.134.17.28 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns6.linea.gov.br 146.134.17.30 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns7.linea.gov.br 186.232.60.101 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.linea.gov.br 186.232.60.102 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20100513 #6832432
+changed:     20150122
+status:      published
+
+nic-hdl-br:  MMM18
+person:      Mauro Macedo Machado
+created:     19980430
+changed:     20150114
+
+nic-hdl-br:  WVL
+person:      Wagner Vieira Leo
+created:     20000629
+changed:     20000629
+
+

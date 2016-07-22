@@ -1,0 +1,27 @@
+
+
+
+domain:      minc.gov.br
+owner:       Ministério da Cultura
+responsible: CGTI SPOA SE MinC
+country:     BR
+owner-c:     MICUL2
+admin-c:     MICUL2
+tech-c:      MICUL2
+billing-c:   MICUL2
+nserver:     ns1.cultura.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.cultura.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19951030 #4416
+changed:     20140704
+status:      published
+
+nic-hdl-br:  MICUL2
+person:      Ministério da Cultura
+created:     20130321
+changed:     20150917
+
+

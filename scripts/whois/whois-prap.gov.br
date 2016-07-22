@@ -1,0 +1,27 @@
+
+
+
+domain:      prap.gov.br
+owner:       Procuradoria da Republica no Estado do Amapa
+responsible: Mario Koga
+country:     BR
+owner-c:     MAK6
+admin-c:     MAK6
+tech-c:      MAK6
+billing-c:   MAK6
+nserver:     premio.tvsom.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20020618
+nserver:     tv03.tvsom.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    19980512
+created:     19980116 #82021
+changed:     20030218
+status:      published
+
+nic-hdl-br:  MAK6
+person:      Mario Koga
+created:     19980110
+changed:     19980110
+
+

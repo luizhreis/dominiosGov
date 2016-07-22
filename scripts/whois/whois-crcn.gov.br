@@ -1,0 +1,27 @@
+
+
+
+domain:      crcn.gov.br
+owner:       Centro Regional de Ciencias Nucleares
+responsible: Setor de Informática
+country:     BR
+owner-c:     MDGSO2
+admin-c:     MDGSO2
+tech-c:      MDGSO2
+billing-c:   MDGSO2
+nserver:     bohr.crcn.gov.br 200.133.10.2 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     curie.crcn.gov.br 200.133.10.3 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19991028 #204322
+changed:     20090219
+status:      published
+
+nic-hdl-br:  MDGSO2
+person:      Maria das Graças da Silva Oliveira
+created:     20090116
+changed:     20090116
+
+

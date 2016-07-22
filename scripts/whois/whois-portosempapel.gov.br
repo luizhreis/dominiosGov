@@ -1,0 +1,41 @@
+
+
+
+domain:      portosempapel.gov.br
+owner:       SECRETARIA DE PORTOS DA PRESIDENCIA DA REPUBLICA
+responsible: REYNALDO ABEN-ATHAR
+country:     BR
+owner-c:     REABE16
+admin-c:     REABE16
+tech-c:      MRV103
+billing-c:   REABE16
+nserver:     antares.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20100618 #6934554
+changed:     20100618
+status:      published
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+nic-hdl-br:  REABE16
+person:      REYNALDO ABEN-ATHAR
+created:     20100518
+changed:     20160201
+
+

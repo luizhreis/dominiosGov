@@ -1,0 +1,40 @@
+
+
+
+domain:      mtps.gov.br
+owner:       Ministério do Trabalho e Previdência Social
+responsible: Miguel Soldatelli Rossetto
+country:     BR
+owner-c:     COINF90
+admin-c:     COINF90
+tech-c:      COINF90
+billing-c:   COINF90
+nserver:     ns1.mte.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.mte.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.mte.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns4.mte.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    59791 RSA/SHA-1 3715D0C2C387F1D4B82BE12E77DA736562C36D7B
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+dsrecord:    59791 RSA/SHA-1 680F2962514860E2AB7CB1D54E351C74D6F5C075FF0075EC102EED2FE1FB0BC2
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+saci:        yes
+created:     20160225 #15231628
+changed:     20160303
+status:      published
+
+nic-hdl-br:  COINF90
+person:      Coordenação de Infraestrutura
+created:     20141029
+changed:     20141029
+
+

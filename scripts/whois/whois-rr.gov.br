@@ -1,0 +1,27 @@
+
+
+
+domain:      rr.gov.br
+owner:       Governo do Estado de Roraima
+responsible: Jaime Haickel Fernandez
+country:     BR
+owner-c:     AES64
+admin-c:     AES64
+tech-c:      AES64
+billing-c:   AES64
+nserver:     pacaraima.cti.rr.gov.br 149.56.141.158 
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     rorainopolis.cti.rr.gov.br 149.56.175.95 
+nsstat:      20160626 AA
+nslastaa:    20160626
+created:     19981021 #122624
+changed:     20160519
+status:      published
+
+nic-hdl-br:  AES64
+person:      Albert Einstein Lima da Silva
+created:     20010504
+changed:     20150217
+
+

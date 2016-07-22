@@ -1,0 +1,32 @@
+
+
+
+domain:      pb.gov.br
+owner:       Companhia de Processamento de Dados da Paraiba
+responsible: Krol Jânio Palitot Remígio
+country:     BR
+owner-c:     CHMSA32
+admin-c:     CHMSA32
+tech-c:      ALFAR180
+billing-c:   CHMSA32
+nserver:     ns.codata.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns1.codata.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19961101
+changed:     20151222
+status:      published
+
+nic-hdl-br:  ALFAR180
+person:      Alexeiev Farias de Araújo
+created:     20150113
+changed:     20150113
+
+nic-hdl-br:  CHMSA32
+person:      Christhiny Masiero Sanson
+created:     20151222
+changed:     20151222
+
+

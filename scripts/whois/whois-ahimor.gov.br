@@ -1,0 +1,27 @@
+
+
+
+domain:      ahimor.gov.br
+owner:       Administracao das Hidrovias da Amazonia Oriental
+responsible: Luiz Paulo Monteiro
+country:     BR
+owner-c:     AEA96
+admin-c:     AEA96
+tech-c:      AEA96
+billing-c:   AEA96
+nserver:     maracana.ahimor.gov.br 201.59.191.212 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20150923
+nserver:     piria.ahimor.gov.br 201.59.191.210 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20120619
+created:     19980615 #100243
+changed:     20110711
+status:      published
+
+nic-hdl-br:  AEA96
+person:      Antonio Elias - Informática AHIMOR
+created:     20040820
+changed:     20090511
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      amazonasenergia.gov.br
+owner:       Centrais Eletricas do Norte do Brasil
+responsible: Gerencia de Servicos de Rede Corporativa
+country:     BR
+owner-c:     GSC187
+admin-c:     GSC187
+tech-c:      GSC187
+billing-c:   RYM6
+nserver:     ae-dns-01.amazonasenergia.gov.br 186.208.254.131 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ae-dns-02.amazonasenergia.gov.br 186.208.254.132 
+nsstat:      20160701 NOT SYNC ZONE
+nslastaa:    20160701
+created:     20010928 #639230
+changed:     20151016
+status:      published
+
+nic-hdl-br:  GSC187
+person:      Gerência de Serviço de Rede Corporativa
+created:     20050830
+changed:     20070529
+
+nic-hdl-br:  RYM6
+person:      Rubens Yoshio Mogi
+created:     20010629
+changed:     20010629
+
+

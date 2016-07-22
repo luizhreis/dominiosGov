@@ -1,0 +1,42 @@
+
+
+
+domain:      apo.gov.br
+owner:       Autoridade Pública Olimpica
+responsible: Enos Josué Rose
+country:     BR
+owner-c:     ENJRO2
+admin-c:     ENJRO2
+tech-c:      MRV103
+billing-c:   ENJRO2
+nserver:     antares.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20111007 #8885678
+changed:     20130403
+status:      published
+
+nic-hdl-br:  ENJRO2
+person:      Enos Josué Rose
+created:     20110913
+changed:     20130403
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+

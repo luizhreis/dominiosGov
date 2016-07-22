@@ -1,0 +1,27 @@
+
+
+
+domain:      ipp.gov.br
+owner:       Instituto Philippe Pinel
+responsible: Fernando Augusto Cunha Ramos
+country:     BR
+owner-c:     JUR8
+admin-c:     JUR8
+tech-c:      JUR8
+billing-c:   JUR8
+nserver:     infrasvr01.ipp.gov.br 200.156.22.2 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20010618
+nserver:     ipp.gov.br 200.156.22.1 
+nsstat:      20160630 TIMEOUT
+nslastaa:    19981207
+created:     19981208 #129608
+changed:     19981228
+status:      published
+
+nic-hdl-br:  JUR8
+person:      Jussara R|tzsch
+created:     19981130
+changed:     19981214
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      funai.gov.br
+owner:       Fundação Nacional do Indio
+responsible: Pedro de Albuquerque Cavalcanti
+country:     BR
+owner-c:     FNF2
+admin-c:     FNF2
+tech-c:      FNF2
+billing-c:   FNF2
+nserver:     ns1.funai.gov.br 179.253.9.14 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.funai.gov.br 179.253.9.15 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19980210 #83785
+changed:     20130724
+status:      published
+
+nic-hdl-br:  FNF2
+person:      Fundação Nacional do Índio - FUNAI
+created:     19971224
+changed:     20130619
+
+

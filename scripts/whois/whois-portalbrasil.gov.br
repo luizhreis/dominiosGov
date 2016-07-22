@@ -1,0 +1,38 @@
+
+
+
+domain:      portalbrasil.gov.br
+owner:       EMPRESA BRASIL DE COMUNICACAO S.A. - EBC
+responsible: Ricardo Fontes
+country:     BR
+owner-c:     RSM9
+admin-c:     RSM9
+tech-c:      APRLI2
+billing-c:   APRLI2
+nserver:     antares.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20000717 #370017
+changed:     20110728
+status:      published
+
+nic-hdl-br:  APRLI2
+person:      Anderson Parreiras Riedel Lima
+created:     20090811
+changed:     20160412
+
+nic-hdl-br:  RSM9
+person:      José Wilson Barbosa Souto
+created:     19980310
+changed:     20140417
+
+

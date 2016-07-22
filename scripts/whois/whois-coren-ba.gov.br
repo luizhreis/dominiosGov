@@ -1,0 +1,33 @@
+
+
+
+domain:      coren-ba.gov.br
+owner:       Conselho Regional de Enfermagem da Bahia
+responsible: Conselho Regional de Enfermagem da Bahia
+country:     BR
+owner-c:     CRB188
+admin-c:     CRB188
+tech-c:      EDSBE42
+billing-c:   CRB188
+nserver:     ns114.hostgator.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns115.hostgator.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20140512 #12865901
+changed:     20160311
+status:      published
+
+nic-hdl-br:  CRB188
+person:      Conselho Regional de Enfermagem da Bahia
+created:     20020805
+changed:     20140203
+
+nic-hdl-br:  EDSBE42
+person:      Edmilson Soares Bezerra
+created:     20120807
+changed:     20160311
+
+

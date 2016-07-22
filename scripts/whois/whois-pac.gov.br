@@ -1,0 +1,43 @@
+
+
+
+domain:      pac.gov.br
+owner:       SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO
+responsible: Alexandre dos Santos Ferreira
+country:     BR
+owner-c:     ADSFE47
+admin-c:     ADSFE47
+tech-c:      MRV103
+billing-c:   WEQLI
+nserver:     ns-1000.awsdns-61.net  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-1027.awsdns-00.org  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-1689.awsdns-19.co.uk  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-378.awsdns-47.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20070504 #3544303
+changed:     20150515
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+nic-hdl-br:  WEQLI
+person:      WELDSON QUEIROZ DE LIMA
+created:     20100218
+changed:     20160204
+
+

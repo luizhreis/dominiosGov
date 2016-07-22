@@ -1,0 +1,27 @@
+
+
+
+domain:      errec.gov.br
+owner:       Rede Ferroviaria federal S/A
+responsible: Andre - Dpto sistemas
+country:     BR
+owner-c:     RFA3
+admin-c:     RFA3
+tech-c:      RFA3
+billing-c:   RFA3
+nserver:     dns1.lc-3.la.inter.net  
+nsstat:      20160630 ERR
+nslastaa:    20100930
+nserver:     dns2.lc-3.la.inter.net  
+nsstat:      20160630 ERR
+nslastaa:    20100930
+created:     19980209 #83258
+changed:     20020701
+status:      published
+
+nic-hdl-br:  RFA3
+person:      Rede Ferroviaria Federal S/A - Andre
+created:     19980121
+changed:     20140507
+
+

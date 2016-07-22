@@ -1,0 +1,37 @@
+
+
+
+domain:      tre-ms.gov.br
+owner:       Tribunal Regional Eleitoral de MS
+responsible: Fabiana Saliba Pereira Ramalho
+country:     BR
+owner-c:     TRM7
+admin-c:     DCC
+tech-c:      DCC
+billing-c:   SAS125
+nserver:     sauron.tse.jus.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     saruman.tse.jus.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19980116 #80021
+changed:     20150108
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  SAS125
+person:      Sylvana Alves Souza
+created:     20000524
+changed:     20000524
+
+nic-hdl-br:  TRM7
+person:      Tribunal Regional Eleitoral - MS
+created:     20000209
+changed:     20110707
+
+

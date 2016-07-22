@@ -1,0 +1,27 @@
+
+
+
+domain:      bancodeconteudos.gov.br
+owner:       Ministerio da Cultura
+responsible: Daniel Oliveira Albano
+country:     BR
+owner-c:     CIBRA24
+admin-c:     CIBRA24
+tech-c:      CIBRA24
+billing-c:   CIBRA24
+nserver:     ns1.bancodeconteudos.gov.br 200.133.210.3 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.bancodeconteudos.gov.br 200.133.210.4 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20100212 #6496733
+changed:     20150414
+status:      published
+
+nic-hdl-br:  CIBRA24
+person:      Cinemateca Brasileira
+created:     20141026
+changed:     20141026
+
+

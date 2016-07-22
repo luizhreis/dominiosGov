@@ -1,0 +1,32 @@
+
+
+
+domain:      olacefs.gov.br
+owner:       Tribunal de Contas da União
+responsible: Alfram Roberto Rodrigues de Albuquerque
+country:     BR
+owner-c:     ARRAL9
+admin-c:     ARRAL9
+tech-c:      RETMI
+billing-c:   ARRAL9
+nserver:     falcao.tcu.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     gaviao.tcu.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20000515 #336640
+changed:     20120306
+status:      published
+
+nic-hdl-br:  ARRAL9
+person:      Alfram Roberto Rodrigues de Albuquerque
+created:     20090213
+changed:     20150225
+
+nic-hdl-br:  RETMI
+person:      Regina Tsujiguchi Mikami
+created:     20090206
+changed:     20091216
+
+

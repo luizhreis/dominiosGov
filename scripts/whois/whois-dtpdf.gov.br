@@ -1,0 +1,35 @@
+
+
+
+domain:      dtpdf.gov.br
+owner:       DATAPREV DF
+responsible: Divisão de Apoio a Rede
+country:     BR
+owner-c:     LRS181
+admin-c:     LRS181
+tech-c:      DDT10
+billing-c:   LRS181
+nserver:     poodle.dataprev.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dere-01.dataprev.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dere-02.dataprev.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19970227 #31562
+changed:     20130919
+status:      published
+
+nic-hdl-br:  DDT10
+person:      DERE.O - DIGR.O - TÉCNICO
+created:     20041119
+changed:     20150817
+
+nic-hdl-br:  LRS181
+person:      leonardo resende carvalho da silva
+created:     20030213
+changed:     20090206
+
+

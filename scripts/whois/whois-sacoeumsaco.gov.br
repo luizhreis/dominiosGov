@@ -1,0 +1,30 @@
+
+
+
+domain:      sacoeumsaco.gov.br
+owner:       MINISTERIO DO MEIO AMBIENTE
+responsible: Coord Geral de Tec. da Informação e Info
+country:     BR
+owner-c:     MMR
+admin-c:     MMR
+tech-c:      MMR
+billing-c:   MMR
+nserver:     ns1.sacoeumsaco.gov.br 200.198.242.66 2804:150:11:d602::5
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.sacoeumsaco.gov.br 200.198.242.69 2804:150:11:d602::6
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    48315 RSA/SHA-1 F05054AEDB877672C0B7F1872EB35BABB999C99F
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     20091216 #6283396
+changed:     20160411
+status:      published
+
+nic-hdl-br:  MMR
+person:      Ministério do Meio Ambiente
+created:     19980109
+changed:     20151014
+
+

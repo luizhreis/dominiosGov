@@ -1,0 +1,33 @@
+
+
+
+domain:      cemave.gov.br
+owner:       INSTITUTO CHICO MENDES DE CONS. DA BIODIVERSIDADE
+responsible: ROBERTO RICARDO VIZENTIN
+country:     BR
+owner-c:     CRC644
+admin-c:     CRC644
+tech-c:      DALSO56
+billing-c:   CRC644
+nserver:     ns1.icmbio.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.icmbio.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20130418 #11330434
+changed:     20130419
+status:      published
+
+nic-hdl-br:  CRC644
+person:      CARLOS ROBERTO LACERDA CUNHA
+created:     20050916
+changed:     20101221
+
+nic-hdl-br:  DALSO56
+person:      DAURO LIMA SOBRINHO
+created:     20130419
+changed:     20130419
+
+

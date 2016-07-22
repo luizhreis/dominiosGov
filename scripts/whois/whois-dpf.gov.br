@@ -1,0 +1,30 @@
+
+
+
+domain:      dpf.gov.br
+owner:       DEPARTAMENTO DE POLICIA FEDERAL
+responsible: Coordenação de Tecnologia da Informação
+country:     BR
+owner-c:     CTI44
+admin-c:     CTI44
+tech-c:      CTI44
+billing-c:   CTI44
+nserver:     ns1.dpf.gov.br 200.169.41.14 2001:470:1f06:a95::3
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.dpf.gov.br 200.169.41.15 2001:470:1f06:a95::4
+nsstat:      20160628 AA
+nslastaa:    20160628
+dsrecord:    43729 RSA/SHA-1 133EC0EF96A57181B3312DFBBA39D830D0EC7129
+dsstatus:    20160628 DSOK
+dslastok:    20160628
+created:     19960716 #11801
+changed:     20160129
+status:      published
+
+nic-hdl-br:  CTI44
+person:      Coordenação de Tecnologia da Informação
+created:     20050304
+changed:     20080716
+
+

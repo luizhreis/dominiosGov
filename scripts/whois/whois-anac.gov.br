@@ -1,0 +1,38 @@
+
+
+
+domain:      anac.gov.br
+owner:       Agência Nacional de Aviação Civil - ANAC
+responsible: Rodrigo Pimenta de Figueiredo
+country:     BR
+owner-c:     GESAN124
+admin-c:     GESAN124
+tech-c:      GTSIN3
+billing-c:   GESAN124
+nserver:     ns1.anac.gov.br 201.33.31.4 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.anac.gov.br 201.33.31.5 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns3.anac.gov.br 189.50.88.36 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns4.anac.gov.br 189.50.88.37 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20060426 #2762327
+changed:     20160122
+status:      published
+
+nic-hdl-br:  GESAN124
+person:      Gervásio da Silva Antônio
+created:     20130513
+changed:     20130513
+
+nic-hdl-br:  GTSIN3
+person:      Ger. Tec. de Suporte e Infraestrutura
+created:     20120911
+changed:     20151118
+
+

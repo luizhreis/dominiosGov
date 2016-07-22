@@ -1,0 +1,33 @@
+
+
+
+domain:      palmares.gov.br
+owner:       Fundação Cultural Palmares / MinC
+responsible: Divisão de Tecnologia da Informação- DTI
+country:     BR
+owner-c:     FCP41
+admin-c:     FCP41
+tech-c:      FCP41
+billing-c:   FCP41
+nserver:     antares.serpro.gov.br  
+nsstat:      20160625 AA
+nslastaa:    20160625
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160625 AA
+nslastaa:    20160625
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160625 AA
+nslastaa:    20160625
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160625 AA
+nslastaa:    20160625
+created:     20000324 #276431
+changed:     20080813
+status:      published
+
+nic-hdl-br:  FCP41
+person:      Fundacao Cultural Palmares
+created:     20000410
+changed:     20120601
+
+

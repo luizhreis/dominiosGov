@@ -1,0 +1,40 @@
+
+
+
+domain:      trt2.gov.br
+owner:       Tribunal Regional do Trabalho da 2a Regiao
+responsible: Márcio Nisi Gonçalves
+country:     BR
+owner-c:     COARE11
+admin-c:     RECCO133
+tech-c:      SERTE12
+billing-c:   RECCO133
+nserver:     dns1.trtsp.jus.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns2.trtsp.jus.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+dsrecord:    43102 RSA/SHA-1 E778123B3385D02302DB6847133AB02A8D6BB11F
+dsstatus:    20160628 DSOK
+dslastok:    20160628
+created:     19990611 #168327
+changed:     20160215
+status:      published
+
+nic-hdl-br:  COARE11
+person:      Coordenadoria de Adm. de Recursos
+created:     20160205
+changed:     20160205
+
+nic-hdl-br:  RECCO133
+person:      Renato Cícero Coelho
+created:     20160204
+changed:     20160204
+
+nic-hdl-br:  SERTE12
+person:      Seção de Redes e Telecomunicações
+created:     20160205
+changed:     20160205
+
+

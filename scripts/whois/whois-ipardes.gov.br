@@ -1,0 +1,42 @@
+
+
+
+domain:      ipardes.gov.br
+owner:       INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONOMICO
+responsible: Liana Maria da Frota Carleial
+country:     BR
+owner-c:     PMG11
+admin-c:     HPS12
+tech-c:      MAB10
+billing-c:   ACP108
+nserver:     nsp.pr.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns1.pr.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     before 19950101
+changed:     20091208
+status:      published
+
+nic-hdl-br:  ACP108
+person:      Antonio Carlos Pompermayer
+created:     20000323
+changed:     20000405
+
+nic-hdl-br:  HPS12
+person:      Hudson Prestes dos Santos
+created:     20000323
+changed:     20000405
+
+nic-hdl-br:  MAB10
+person:      Marco Aurélio Bonato
+created:     19971219
+changed:     19991126
+
+nic-hdl-br:  PMG11
+person:      Paulo Mello Garcias
+created:     20000323
+changed:     20000405
+
+

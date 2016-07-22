@@ -1,0 +1,37 @@
+
+
+
+domain:      disque100.gov.br
+owner:       Secretaria de Direitos Humanos
+responsible: Marco Antônio Juliatto
+country:     BR
+owner-c:     MAAJU182
+admin-c:     ALCBA81
+tech-c:      FLMSA16
+billing-c:   ALCBA81
+nserver:     selene.sdh.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     geia.sdh.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20100607 #6924086
+changed:     20150330
+status:      published
+
+nic-hdl-br:  ALCBA81
+person:      ALEXANDRE CARDOSO DE BARROS
+created:     20120213
+changed:     20160309
+
+nic-hdl-br:  FLMSA16
+person:      Flansuel Meneses Santos
+created:     20120507
+changed:     20130319
+
+nic-hdl-br:  MAAJU182
+person:      MARCO ANTÔNIO JULIATTO
+created:     20160412
+changed:     20160412
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      cindacta2.gov.br
+owner:       Segundo Centro Integrado de Contr. Trafego Aéreo
+responsible: CINDACTA II
+country:     BR
+owner-c:     LUAQU28
+admin-c:     LUAQU28
+tech-c:      LUAQU28
+billing-c:   LUAQU28
+nserver:     ns1.cindacta2.gov.br 201.64.25.10 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.cindacta2.gov.br 201.64.25.9 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20100728 #7100525
+changed:     20140603
+status:      published
+
+nic-hdl-br:  LUAQU28
+person:      Luis Alberto de Quadros
+created:     20131213
+changed:     20131213
+
+

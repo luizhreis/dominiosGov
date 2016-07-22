@@ -1,0 +1,28 @@
+
+
+
+domain:      crqxx.gov.br
+owner:       CONSELHO REGIONAL DE QUIMICA 20 REGIAO
+responsible: EVANDER LUIZ FERREIRA
+country:     BR
+owner-c:     CRXXM
+admin-c:     CRXXM
+tech-c:      CRXXM
+billing-c:   CRXXM
+nserver:     ns-1456.awsdns-54.org  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-147.awsdns-18.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20100914 #7307573
+changed:     20150219
+provider:    LOCAWEB (2)
+status:      published
+
+nic-hdl-br:  CRXXM
+person:      CRQ XX-MS
+created:     20080626
+changed:     20140410
+
+

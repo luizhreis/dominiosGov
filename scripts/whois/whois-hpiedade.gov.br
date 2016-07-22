@@ -1,0 +1,27 @@
+
+
+
+domain:      hpiedade.gov.br
+owner:       Hospital da Piedade
+responsible: Dr. Salvador
+country:     BR
+owner-c:     PSB51
+admin-c:     PSB51
+tech-c:      PSB51
+billing-c:   PSB51
+nserver:     gb1-rio.gblnet.com.br  
+nsstat:      20160630 UH
+nslastaa:    20010911
+nserver:     gb5-rio.gblnet.com.br  
+nsstat:      20160630 UH
+nslastaa:    20010911
+created:     19981002 #117547
+changed:     20010814
+status:      published
+
+nic-hdl-br:  PSB51
+person:      PSINet do Brasil S/A
+created:     20010702
+changed:     20020814
+
+

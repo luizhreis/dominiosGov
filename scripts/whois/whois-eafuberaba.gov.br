@@ -1,0 +1,32 @@
+
+
+
+domain:      eafuberaba.gov.br
+owner:       CEFET CENTRO FED EDUCAÇÃO TECNOLOGICA DE UBERABA
+responsible: MAURO BORGES FRANÇA
+country:     BR
+owner-c:     JRS213
+admin-c:     JRS213
+tech-c:      MBF80
+billing-c:   JRS213
+nserver:     srvweb.eafuberaba.gov.br 200.170.144.11 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20091026
+nserver:     eafbl.eafbambui.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20040613
+created:     20001124 #469349
+changed:     20051114
+status:      published
+
+nic-hdl-br:  JRS213
+person:      Mauro Borges França
+created:     20001121
+changed:     20030806
+
+nic-hdl-br:  MBF80
+person:      Mauro Borges França
+created:     20020506
+changed:     20150520
+
+

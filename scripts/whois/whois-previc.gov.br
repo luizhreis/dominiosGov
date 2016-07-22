@@ -1,0 +1,41 @@
+
+
+
+domain:      previc.gov.br
+owner:       PREVIC Sup. Nacional de Previdência Complementar
+responsible: Carlos Alberto de Paula
+country:     BR
+owner-c:     WEMCA39
+admin-c:     WEMCA39
+tech-c:      DDT10
+billing-c:   MAMAZ132
+nserver:     dere-01.dataprev.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     dere-02.dataprev.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     poodle.dataprev.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+saci:        yes
+created:     20131105 #12172583
+changed:     20150817
+status:      published
+
+nic-hdl-br:  DDT10
+person:      DERE.O - DIGR.O - TÉCNICO
+created:     20041119
+changed:     20150817
+
+nic-hdl-br:  MAMAZ132
+person:      MARIA MADALENA DE AZEVEDO
+created:     20140210
+changed:     20140210
+
+nic-hdl-br:  WEMCA39
+person:      Wendel Martinez Carvalho
+created:     20140114
+changed:     20141107
+
+

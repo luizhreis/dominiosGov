@@ -1,0 +1,32 @@
+
+
+
+domain:      eafudi.gov.br
+owner:       Escola Agrotécnica Federal de Uberlândia
+responsible: Administração de Domínios - CTBC Telecom
+country:     BR
+owner-c:     HPF9
+admin-c:     HPF9
+tech-c:      HPF9
+billing-c:   CCRDO
+nserver:     nsp.brasilis.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     nsb.brasilis.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20010607 #576210
+changed:     20070606
+status:      published
+
+nic-hdl-br:  CCRDO
+person:      CTBC - Contratos e Registro de Domínios
+created:     20070606
+changed:     20140813
+
+nic-hdl-br:  HPF9
+person:      Administração de domínios
+created:     19991004
+changed:     20070103
+
+

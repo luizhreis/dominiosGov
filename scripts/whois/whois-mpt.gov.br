@@ -1,0 +1,33 @@
+
+
+
+domain:      mpt.gov.br
+owner:       MINISTERIO PUBLICO DO TRABALHO
+responsible: Diretor do Departamento de Administração
+country:     BR
+owner-c:     STPGT
+admin-c:     STPGT
+tech-c:      STPGT
+billing-c:   STPGT
+nserver:     ns1.mpt.gov.br 200.142.2.3 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20160119
+nserver:     ns2.mpt.gov.br 200.142.2.4 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20160119
+nserver:     ns3.mpt.gov.br 200.142.3.242 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns4.mpt.gov.br 200.142.3.241 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19951113 #4515
+changed:     20140705
+status:      published
+
+nic-hdl-br:  STPGT
+person:      Suporte Téc. da Proc. Geral do Trabalho
+created:     20070419
+changed:     20160622
+
+

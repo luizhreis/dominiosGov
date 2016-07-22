@@ -1,0 +1,32 @@
+
+
+
+domain:      dac.gov.br
+owner:       DEPARTAMENTO DE AVIACAO CIVIL - DAC
+responsible: Rodrigo Pimenta de Figueiredo
+country:     BR
+owner-c:     GESAN124
+admin-c:     RGRSI7
+tech-c:      RGRSI7
+billing-c:   RGRSI7
+nserver:     ns1.anac.gov.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20100429
+nserver:     ns.embratel.net.br  
+nsstat:      20160701 FAIL
+nslastaa:    20100719
+created:     19970408 #35808
+changed:     20120911
+status:      published
+
+nic-hdl-br:  GESAN124
+person:      Gervásio da Silva Antônio
+created:     20130513
+changed:     20130513
+
+nic-hdl-br:  RGRSI7
+person:      Rafael Guilherme Rodrigues da Silva
+created:     20120905
+changed:     20130512
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      fundoamazonia-bndes.gov.br
+owner:       BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI
+responsible: GSUP - Gerencia de Suporte
+country:     BR
+owner-c:     GGT13
+admin-c:     GGT13
+tech-c:      GGT13
+billing-c:   GGT13
+nserver:     rj37.bndes.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     rj38.bndes.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20090317 #5310031
+changed:     20140213
+status:      published
+
+nic-hdl-br:  GGT13
+person:      GTEC - Gerencia de Tecnologia
+created:     20030108
+changed:     20140417
+
+

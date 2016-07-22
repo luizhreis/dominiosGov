@@ -1,0 +1,27 @@
+
+
+
+domain:      casadoscontos.gov.br
+owner:       Centro Regional de Treinamento ESAF
+responsible: Maria Helena Alves Moreira de Abreu
+country:     BR
+owner-c:     CRE21
+admin-c:     CRE21
+tech-c:      CRE21
+billing-c:   CRE21
+nserver:     ouropreto.feop.com.br  
+nsstat:      20160701 UH
+nslastaa:    20051114
+nserver:     mogno.ufop.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20051029
+created:     20010920 #639747
+changed:     20091114
+status:      published
+
+nic-hdl-br:  CRE21
+person:      Centro Regional de Treinamento ESAF
+created:     20010911
+changed:     20011205
+
+

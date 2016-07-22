@@ -1,0 +1,32 @@
+
+
+
+domain:      museudoindio.gov.br
+owner:       Museu do Índio - Fundação Nacional do Índio
+responsible: José Carlos Levinho
+country:     BR
+owner-c:     JCL412
+admin-c:     JCL412
+tech-c:      SUPMI
+billing-c:   JCL412
+nserver:     nsauto01.alog.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     nsauto02.alog.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20031023 #1373769
+changed:     20160511
+status:      published
+
+nic-hdl-br:  JCL412
+person:      José Carlos Levinho
+created:     20030416
+changed:     20150304
+
+nic-hdl-br:  SUPMI
+person:      suporte MI
+created:     20060817
+changed:     20141014
+
+

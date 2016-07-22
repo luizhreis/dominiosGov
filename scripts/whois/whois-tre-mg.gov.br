@@ -1,0 +1,42 @@
+
+
+
+domain:      tre-mg.gov.br
+owner:       TRIBUNAL REGIONAL ELEITORAL DE MINAS GERAIS
+responsible: Dra ELIZABETH REZENDE
+country:     BR
+owner-c:     WRA17
+admin-c:     DCC
+tech-c:      LAM645
+billing-c:   WOS3
+nserver:     sauron.tse.jus.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     saruman.tse.jus.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19980615 #100479
+changed:     20150108
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  LAM645
+person:      Luiz Alvarez Moreira
+created:     20041217
+changed:     20121002
+
+nic-hdl-br:  WOS3
+person:      Wander Oliveira Sobral
+created:     19980202
+changed:     19980202
+
+nic-hdl-br:  WRA17
+person:      Wellerson Rubens de Amarante
+created:     20010312
+changed:     20120926
+
+

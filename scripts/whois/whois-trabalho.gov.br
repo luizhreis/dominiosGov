@@ -1,0 +1,44 @@
+
+
+
+domain:      trabalho.gov.br
+owner:       MINISTERIO DO TRABALHO E EMPREGO
+responsible: Equipe de Redes MTE
+country:     BR
+owner-c:     COINF90
+admin-c:     MALHE11
+tech-c:      MALHE11
+billing-c:   MALHE11
+nserver:     ns1.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns4.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    23839 RSA/SHA-1 9EFF415261F30A17B6A7877E34BEBB58AB2DF0FB
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+dsrecord:    23839 RSA/SHA-1 B86B5E698B4A89D203A05525A9DD232C2AAB17EC1581A7BFBAFE657B918BD0E2
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     20000728 #394684
+changed:     20160205
+status:      published
+
+nic-hdl-br:  COINF90
+person:      Coordenação de Infraestrutura
+created:     20141029
+changed:     20141029
+
+nic-hdl-br:  MALHE11
+person:      Marcelo Luiz Heiden
+created:     20101125
+changed:     20140128
+
+

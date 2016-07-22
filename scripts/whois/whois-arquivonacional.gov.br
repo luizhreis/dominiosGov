@@ -1,0 +1,27 @@
+
+
+
+domain:      arquivonacional.gov.br
+owner:       Arquivo Nacional
+responsible: Ivan Fernandes Neves
+country:     BR
+owner-c:     KERPO
+admin-c:     KERPO
+tech-c:      KERPO
+billing-c:   KERPO
+nserver:     procyon.arquivonacional.gov.br 186.228.0.199 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     naus.arquivonacional.gov.br 186.228.0.198 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19991129 #225434
+changed:     20150522
+status:      published
+
+nic-hdl-br:  KERPO
+person:      Kenya Ribeiro Ponciano
+created:     20060706
+changed:     20160701
+
+

@@ -1,0 +1,38 @@
+
+
+
+domain:      rsbr.gov.br
+owner:       OBSERVATORIO NACIONAL
+responsible: João Carlos Costa dos Anjos
+country:     BR
+owner-c:     JCCDA8
+admin-c:     JCCDA8
+tech-c:      BRBAZ4
+billing-c:   LCPSI66
+nserver:     a.ns.on.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     b.ns.on.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20140509 #12838688
+changed:     20140513
+status:      published
+
+nic-hdl-br:  BRBAZ4
+person:      Bruno Bazzanella
+created:     20110224
+changed:     20110224
+
+nic-hdl-br:  JCCDA8
+person:      João Carlos Costa dos Anjos
+created:     20140417
+changed:     20140417
+
+nic-hdl-br:  LCPSI66
+person:      Luiz Carlos Pereira da silva
+created:     20140417
+changed:     20140417
+
+

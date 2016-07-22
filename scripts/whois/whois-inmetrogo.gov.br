@@ -1,0 +1,32 @@
+
+
+
+domain:      inmetrogo.gov.br
+owner:       Superintendência Regional do Inmetro SUR-01/GO
+responsible: William Santos Duarte
+country:     BR
+owner-c:     WSD11
+admin-c:     WSD11
+tech-c:      RMT47
+billing-c:   WSD11
+nserver:     ns1.softhost.org  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.softhost.org  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20020927 #966348
+changed:     20100622
+status:      published
+
+nic-hdl-br:  RMT47
+person:      Rodrigo Marques Teixeira
+created:     20010619
+changed:     20140519
+
+nic-hdl-br:  WSD11
+person:      William Santos Duarte
+created:     20020911
+changed:     20020911
+
+

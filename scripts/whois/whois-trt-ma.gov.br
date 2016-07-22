@@ -1,0 +1,27 @@
+
+
+
+domain:      trt-ma.gov.br
+owner:       TRIBUNAL REGIONAL DO TRABALHO DA 16A. REGIAO
+responsible: RÔMULO JOSÉ MAIA MOURA
+country:     BR
+owner-c:     TRR7
+admin-c:     TRR7
+tech-c:      TRR7
+billing-c:   TRR7
+nserver:     dns1.trt-ma.gov.br 201.73.205.181 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20130808
+nserver:     dns2.trt-ma.gov.br 201.73.205.182 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20130808
+created:     20070605 #3639585
+changed:     20091210
+status:      published
+
+nic-hdl-br:  TRR7
+person:      Trib. Reg. do Trabalho da 16a. Regiao
+created:     19981118
+changed:     20110201
+
+

@@ -1,0 +1,33 @@
+
+
+
+domain:      crbio5.gov.br
+owner:       Conselho Regional de Biologia 5ª Região
+responsible: Luciene Andrade.
+country:     BR
+owner-c:     CRBRE2
+admin-c:     CRBRE2
+tech-c:      HOT7
+billing-c:   CRBRE2
+nserver:     dns1.hotlink.com.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     dns2.hotlink.com.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+saci:        yes
+created:     20111128 #9123872
+changed:     20160511
+status:      published
+
+nic-hdl-br:  CRBRE2
+person:      Conselho Regional de Biologia 5ª Região
+created:     20061226
+changed:     20061226
+
+nic-hdl-br:  HOT7
+person:      HOTlink Informática LTDA
+created:     20000610
+changed:     20151026
+
+

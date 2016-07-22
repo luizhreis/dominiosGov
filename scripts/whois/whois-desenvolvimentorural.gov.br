@@ -1,0 +1,28 @@
+
+
+
+domain:      desenvolvimentorural.gov.br
+owner:       Ministerio do Desenvolvimento Agrario
+responsible: Coordenador Geral de Modernizacao e Info
+country:     BR
+owner-c:     ECLNA
+admin-c:     ECLNA
+tech-c:      ECLNA
+billing-c:   ECLNA
+nserver:     ns1.desenvolvimentorural.gov.br 200.198.212.52 
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     ns2.desenvolvimentorural.gov.br 200.198.212.43 
+nsstat:      20160626 AA
+nslastaa:    20160626
+saci:        yes
+created:     20130620 #11588729
+changed:     20150608
+status:      published
+
+nic-hdl-br:  ECLNA
+person:      Eduardo Camargos Lagares do Nascimento
+created:     20101116
+changed:     20140204
+
+

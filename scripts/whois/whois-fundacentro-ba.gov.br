@@ -1,0 +1,27 @@
+
+
+
+domain:      fundacentro-ba.gov.br
+owner:       FUNDACAO JORGE DUPRAT FIGUEIREDO DE SEG.E MED.TRAB
+responsible: Paulo César Costa e Silva
+country:     BR
+owner-c:     OAJ5
+admin-c:     OAJ5
+tech-c:      OAJ5
+billing-c:   OAJ5
+nserver:     ns1.atarde.com.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    20151220
+nserver:     ns2.atarde.com.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    20151220
+created:     19980512 #95208
+changed:     20060608
+status:      published
+
+nic-hdl-br:  OAJ5
+person:      Osvaldo A. de Jesus, Jr.
+created:     19990806
+changed:     20070928
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      inpe.gov.br
+owner:       Instituto Nacional de Pesquisas Espaciais
+responsible: Benicio Pereira de Carvalho Filho
+country:     BR
+owner-c:     BPF7
+admin-c:     BPF7
+tech-c:      BPF7
+billing-c:   BPF7
+nserver:     a.ns.inpe.gov.br 150.163.105.9 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     b.ns.inpe.gov.br 150.163.1.22 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19990820 #187057
+changed:     20100304
+status:      published
+
+nic-hdl-br:  BPF7
+person:      Benicio Pereira de Carvalho Filho
+created:     19990805
+changed:     20150318
+
+

@@ -1,0 +1,30 @@
+
+
+
+domain:      cbnb.gov.br
+owner:       TERCEIRO COMANDO AEREO REGIONAL
+responsible: MAGNO CABRAL
+country:     BR
+owner-c:     EDWOL18
+admin-c:     EDWOL18
+tech-c:      EDWOL18
+billing-c:   EDWOL18
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20051024 #2392361
+changed:     20140820
+status:      published
+
+nic-hdl-br:  EDWOL18
+person:      Edno Wilson de Oliveira
+created:     20140811
+changed:     20140811
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      emprel.gov.br
+owner:       EMPREL - EMPRESA MUNICIPAL DE INFORMATICA
+responsible: José Hermes Wanderley
+country:     BR
+owner-c:     JHCWJ
+admin-c:     JHCWJ
+tech-c:      PCM65
+billing-c:   JHCWJ
+nserver:     ns1.emprel.gov.br 192.207.206.3 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.emprel.gov.br 192.207.206.5 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     before 19950101
+changed:     20151106
+status:      published
+
+nic-hdl-br:  JHCWJ
+person:      José Hermes Cordeiro Wanderley Junior
+created:     20130627
+changed:     20130627
+
+nic-hdl-br:  PCM65
+person:      Paulo Cezar Bezerra de Melo
+created:     20000731
+changed:     20151026
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      dnpmsc.gov.br
+owner:       DNPM - 11º Distrito
+responsible: Amilton Guedes
+country:     BR
+owner-c:     IPI12
+admin-c:     IPI12
+tech-c:      IPI12
+billing-c:   IPI12
+nserver:     sun.yadata.com.br  
+nsstat:      20160629 UDN
+nslastaa:    20040828
+nserver:     alfa.yadata.com.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20040828
+created:     20020507 #825078
+changed:     20070507
+status:      published
+
+nic-hdl-br:  IPI12
+person:      InterCorp Provedor de Internet
+created:     20031027
+changed:     20111202
+
+

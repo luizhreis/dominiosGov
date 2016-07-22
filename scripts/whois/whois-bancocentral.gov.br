@@ -1,0 +1,32 @@
+
+
+
+domain:      bancocentral.gov.br
+owner:       Banco Central do Brasil
+responsible: Deise Springer de Freitas
+country:     BR
+owner-c:     SETIN16
+admin-c:     DIBCB
+tech-c:      SETIN16
+billing-c:   DIBCB
+nserver:     ns.bcb.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.bcb.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19981230 #135008
+changed:     20150617
+status:      published
+
+nic-hdl-br:  DIBCB
+person:      DIRED BCB
+created:     20121227
+changed:     20121227
+
+nic-hdl-br:  SETIN16
+person:      Segurança em Tecnologia da Informação
+created:     20150617
+changed:     20150617
+
+

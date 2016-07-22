@@ -1,0 +1,27 @@
+
+
+
+domain:      agronet.gov.br
+owner:       Escola Agrotécnica Federal de São João Evangelista
+responsible: Fernando Ribeiro da Rocha
+country:     BR
+owner-c:     CWSRO5
+admin-c:     CWSRO5
+tech-c:      CWSRO5
+billing-c:   CWSRO5
+nserver:     ns1.agronet.gov.br 200.131.10.194 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20150517
+nserver:     inseto.agronet.gov.br 200.216.232.163 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20120910
+created:     20010326 #537300
+changed:     20120502
+status:      published
+
+nic-hdl-br:  CWSRO5
+person:      Chirlando Weliton de souza Rocha
+created:     20120307
+changed:     20150928
+
+

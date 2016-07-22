@@ -1,0 +1,32 @@
+
+
+
+domain:      creci-pe.gov.br
+owner:       CONSELHO REGIONAL DE CORRETORES DE IMOVEIS 7 REGIA
+responsible: Angelo Pio
+country:     BR
+owner-c:     CRI31
+admin-c:     CRI31
+tech-c:      LIBUA2
+billing-c:   CRI31
+nserver:     ns1.nuvon.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.nuvon.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20080502 #4380454
+changed:     20120309
+status:      published
+
+nic-hdl-br:  CRI31
+person:      CONSELHO REGIONAL DE CORRETORES DE IMÓVE
+created:     20050103
+changed:     20160217
+
+nic-hdl-br:  LIBUA2
+person:      Lígia Buarque
+created:     20080214
+changed:     20160308
+
+

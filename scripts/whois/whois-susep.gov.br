@@ -1,0 +1,32 @@
+
+
+
+domain:      susep.gov.br
+owner:       Superintendência de Seguros Privados
+responsible: Rodrigo Bomfim Rodrigues Pitta
+country:     BR
+owner-c:     SUSPR6
+admin-c:     SUSPR6
+tech-c:      RBRPI3
+billing-c:   SUSPR6
+nserver:     marte.impsat.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     hercules.impsat.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19980116 #82347
+changed:     20130605
+status:      published
+
+nic-hdl-br:  RBRPI3
+person:      Rodrigo Bomfim Rodrigues Pitta
+created:     20130424
+changed:     20130516
+
+nic-hdl-br:  SUSPR6
+person:      Superintendência de Seguros Privados
+created:     20130118
+changed:     20130118
+
+

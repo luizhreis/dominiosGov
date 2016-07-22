@@ -1,0 +1,37 @@
+
+
+
+domain:      portalcofen.gov.br
+owner:       CONSELHO FEDERAL DE ENFERMAGEM
+responsible: Marcelo Felipe Moreira Persegona
+country:     BR
+owner-c:     FASCR11
+admin-c:     FASCR11
+tech-c:      GHV12
+billing-c:   LAM653
+nserver:     dell.ns.cloudflare.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     george.ns.cloudflare.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20000829 #410071
+changed:     20160610
+status:      published
+
+nic-hdl-br:  FASCR11
+person:      Felipe Arlindo da Silva Cruz
+created:     20120601
+changed:     20150331
+
+nic-hdl-br:  GHV12
+person:      Gedalias Hugo de Oliveira Valentim
+created:     20031116
+changed:     20141126
+
+nic-hdl-br:  LAM653
+person:      Leonardo Alves Mangueira
+created:     20041229
+changed:     20140402
+
+

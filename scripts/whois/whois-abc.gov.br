@@ -1,0 +1,32 @@
+
+
+
+domain:      abc.gov.br
+owner:       Ministério das Relações Exteriores
+responsible: Francisco Carlos de Souza
+country:     BR
+owner-c:     ABC106
+admin-c:     ABC106
+tech-c:      VAC23
+billing-c:   ABC106
+nserver:     dns.abc.gov.br 201.73.190.41 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns1.abc.gov.br 201.73.87.162 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20010924 #642972
+changed:     20130506
+status:      published
+
+nic-hdl-br:  ABC106
+person:      Agência Brasileira de Cooperação
+created:     20010917
+changed:     20011226
+
+nic-hdl-br:  VAC23
+person:      Valeria Cotia
+created:     19990211
+changed:     20130521
+
+

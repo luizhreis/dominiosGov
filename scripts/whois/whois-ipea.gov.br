@@ -1,0 +1,35 @@
+
+
+
+domain:      ipea.gov.br
+owner:       IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA
+responsible: MOISÉS HENRIQUE CASTRO DA SILVA
+country:     BR
+owner-c:     MHS92
+admin-c:     MHS92
+tech-c:      FTAFR
+billing-c:   MHS92
+nserver:     ns1.ipea.gov.br 189.21.130.6 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.ipea.gov.br 200.20.248.6 
+nsstat:      20160627 AA
+nslastaa:    20160627
+dsrecord:    26749 RSA/SHA-256 844ED598A6DFC5D617C82999C3E416294DFF03A0
+dsstatus:    20160627 DSOK
+dslastok:    20160627
+created:     19960429 #7297
+changed:     20160530
+status:      published
+
+nic-hdl-br:  FTAFR
+person:      Frederico Thomaz de Aquino Franzosi
+created:     20160129
+changed:     20160129
+
+nic-hdl-br:  MHS92
+person:      Moises Henrique Castro da Silva
+created:     20011220
+changed:     20121121
+
+

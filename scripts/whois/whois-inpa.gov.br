@@ -1,0 +1,32 @@
+
+
+
+domain:      inpa.gov.br
+owner:       INSTITUTO NACIONAL DE PESQUISAS DA AMAZONIA
+responsible: Ricardo Luís da Costa Rocha
+country:     BR
+owner-c:     RLR90
+admin-c:     RLR90
+tech-c:      MOMLI10
+billing-c:   RLR90
+nserver:     peixe-boi.inpa.gov.br 200.17.53.1 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     server1.pop-am.rnp.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19970728 #49011
+changed:     20130521
+status:      published
+
+nic-hdl-br:  MOMLI10
+person:      Moysés Mendes de Lima
+created:     20100115
+changed:     20130429
+
+nic-hdl-br:  RLR90
+person:      Ricardo Luís da Costa Rocha
+created:     20021203
+changed:     20130429
+
+

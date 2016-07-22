@@ -1,0 +1,38 @@
+
+
+
+domain:      crq13.gov.br
+owner:       CONSELHO REGIONAL DE QUIMICA DA 13A REGIAO.
+responsible: José Maximiliano Neto
+country:     BR
+owner-c:     CRR2
+admin-c:     CRR2
+tech-c:      WAL149
+billing-c:   CRR2
+nserver:     ns-712.awsdns-25.net  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns-1083.awsdns-07.org  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns-1821.awsdns-35.co.uk  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns-505.awsdns-63.com  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20100512 #6834102
+changed:     20140725
+status:      published
+
+nic-hdl-br:  CRR2
+person:      Conselho Regional de Química 13a Região
+created:     19980116
+changed:     20120411
+
+nic-hdl-br:  WAL149
+person:      Webpack Ass e Desenv de Software Ltda.
+created:     20031106
+changed:     20071101
+
+

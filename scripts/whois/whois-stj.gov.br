@@ -1,0 +1,32 @@
+
+
+
+domain:      stj.gov.br
+owner:       SUPERIOR TRIBUNAL DE JUSTICA
+responsible: Danilo Ribeiro Confessor
+country:     BR
+owner-c:     DARCO34
+admin-c:     DARCO34
+tech-c:      LEJ2
+billing-c:   DARCO34
+nserver:     ns1.stj.gov.br 200.24.10.71 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.stj.gov.br 200.24.10.72 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19950829
+changed:     20160211
+status:      published
+
+nic-hdl-br:  DARCO34
+person:      Danilo Ribeiro Confessor
+created:     20100909
+changed:     20160420
+
+nic-hdl-br:  LEJ2
+person:      Luiz Eneas Costa Junior
+created:     19980210
+changed:     20020628
+
+

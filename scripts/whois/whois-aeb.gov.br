@@ -1,0 +1,32 @@
+
+
+
+domain:      aeb.gov.br
+owner:       Agência Espacial Brasileira
+responsible: José Raimundo Braga Coelho
+country:     BR
+owner-c:     VIL10
+admin-c:     VIL10
+tech-c:      VIL10
+billing-c:   GMB5
+nserver:     lua.aeb.gov.br 200.130.146.11 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     moon.aeb.gov.br 200.130.146.252 
+nsstat:      20160630 NOT SYNC ZONE
+nslastaa:    20160630
+created:     20020404 #774705
+changed:     20140819
+status:      published
+
+nic-hdl-br:  GMB5
+person:      Gessé Martins Borges
+created:     19980525
+changed:     19980525
+
+nic-hdl-br:  VIL10
+person:      Virgínia Luz
+created:     19980312
+changed:     20160513
+
+

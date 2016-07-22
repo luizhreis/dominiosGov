@@ -1,0 +1,37 @@
+
+
+
+domain:      investecaixa.gov.br
+owner:       CAIXA ECONOMICA FEDERAL
+responsible: Gerência de Internet da CAIXA
+country:     BR
+owner-c:     RMJ35
+admin-c:     RMJ35
+tech-c:      GIT60
+billing-c:   GIC166
+nserver:     ns.dannemann.com.br  
+nsstat:      20160630 FAIL
+nslastaa:    20160616
+nserver:     ns1.dannemann.com.br  
+nsstat:      20160630 FAIL
+nslastaa:    20160616
+created:     20011025 #650497
+changed:     20021218
+status:      published
+
+nic-hdl-br:  GIC166
+person:      Gerência de Internet da CAIXA - Cobrança
+created:     20020930
+changed:     20130613
+
+nic-hdl-br:  GIT60
+person:      Gerência de Internet da CAIXA - Técnico
+created:     20020930
+changed:     20150630
+
+nic-hdl-br:  RMJ35
+person:      Gerência de Internet da CAIXA
+created:     20000101
+changed:     20140729
+
+

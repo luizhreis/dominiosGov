@@ -1,0 +1,27 @@
+
+
+
+domain:      ap.gov.br
+owner:       PRODAP - C. de Gestão da Tecnologia da Informação
+responsible: Jose Lutiano Costa da Silva
+country:     BR
+owner-c:     GEIPR3
+admin-c:     GEIPR3
+tech-c:      GEIPR3
+billing-c:   GEIPR3
+nserver:     dns1.ap.gov.br 177.84.201.7 
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     dns2.ap.gov.br 177.84.201.8 
+nsstat:      20160626 AA
+nslastaa:    20160626
+created:     19981021 #122622
+changed:     20160310
+status:      published
+
+nic-hdl-br:  GEIPR3
+person:      Gerencia de Internet PRODAP
+created:     20160123
+changed:     20160123
+
+

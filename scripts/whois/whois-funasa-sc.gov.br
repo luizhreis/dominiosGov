@@ -1,0 +1,27 @@
+
+
+
+domain:      funasa-sc.gov.br
+owner:       FUNDACAO NACIONAL DE SAUDE - COORDENAÇÃO REGIONAL
+responsible: MILTON TADASHI SHIRATORI
+country:     BR
+owner-c:     RHR2
+admin-c:     RHR2
+tech-c:      RHR2
+billing-c:   RHR2
+nserver:     proxy.fns-sc.gov.br  
+nsstat:      20160629 ERR
+nslastaa:    20020301
+nserver:     webmail.fns-sc.gov.br  
+nsstat:      20160629 ERR
+nslastaa:    20020301
+created:     20010511 #555543
+changed:     20011207
+status:      published
+
+nic-hdl-br:  RHR2
+person:      Ricardo Henrique Ramos
+created:     19980218
+changed:     20140303
+
+

@@ -1,0 +1,30 @@
+
+
+
+domain:      cnrh.gov.br
+owner:       SECRETARIA DE RECURSOS HIDRICOS E AMBIENTE URBANO
+responsible: Silvano Silvério da Costa
+country:     BR
+owner-c:     BRGDU2
+admin-c:     BRGDU2
+tech-c:      BRGDU2
+billing-c:   BRGDU2
+nserver:     ns1.mma.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.mma.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     antares.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20080909 #4837697
+changed:     20110311
+status:      published
+
+nic-hdl-br:  BRGDU2
+person:      BRAULIO GOTTSCHALG DUQUE
+created:     20080123
+changed:     20110414
+
+

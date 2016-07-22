@@ -1,0 +1,44 @@
+
+
+
+domain:      caues.gov.br
+owner:       Conselho de Arquitetura e Urbanismo do Brasil
+responsible: HAROLDO PINHEIRO VILLAR DE QUEIROZ
+country:     BR
+owner-c:     MICLO17
+admin-c:     MICLO17
+tech-c:      SCITI
+billing-c:   SCFIN
+nserver:     ns-1849.awsdns-39.co.uk  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-1031.awsdns-00.org  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-988.awsdns-59.net  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-236.awsdns-29.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20120706 #10045998
+changed:     20150429
+status:      published
+
+nic-hdl-br:  MICLO17
+person:      Mirna C.Lobo
+created:     20120328
+changed:     20140605
+
+nic-hdl-br:  SCFIN
+person:      Scytl Financeiro
+created:     20140710
+changed:     20140710
+
+nic-hdl-br:  SCITI
+person:      Scytl Infraestrutura de TI
+created:     20140710
+changed:     20150303
+
+

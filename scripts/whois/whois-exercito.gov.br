@@ -1,0 +1,32 @@
+
+
+
+domain:      exercito.gov.br
+owner:       MD/EB/Departamento de Ciência e Tecnologia
+responsible: Centro Integrado de Telemática do EB
+country:     BR
+owner-c:     CITEB
+admin-c:     LCR116
+tech-c:      LCR116
+billing-c:   LCR116
+nserver:     dns1.exercito.gov.br 177.15.64.232 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns2.exercito.gov.br 187.6.22.233 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19980129 #84429
+changed:     20151105
+status:      published
+
+nic-hdl-br:  CITEB
+person:      CITEX EB
+created:     20070423
+changed:     20150812
+
+nic-hdl-br:  LCR116
+person:      Luís Carlos Reichert
+created:     20011010
+changed:     20021010
+
+

@@ -1,0 +1,41 @@
+
+
+
+domain:      seppir.gov.br
+owner:       SECRETARIA ESPECIAL DE POLITICAS DE PROMOCAO DA IG
+responsible: Sandra de Souza Almada
+country:     BR
+owner-c:     SASAL43
+admin-c:     SASAL43
+tech-c:      MAR79
+billing-c:   SASAL43
+nserver:     antares.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20100510 #6837324
+changed:     20140922
+status:      published
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+nic-hdl-br:  SASAL43
+person:      Sandra de Souza Almada
+created:     20100819
+changed:     20100920
+
+

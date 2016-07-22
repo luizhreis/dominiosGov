@@ -1,0 +1,27 @@
+
+
+
+domain:      creci-es.gov.br
+owner:       Conselho Regional de Corretores de Imóveis/13 Reg.
+responsible: Luiz Augusto Mill
+country:     BR
+owner-c:     VIMTR2
+admin-c:     VIMTR2
+tech-c:      VIMTR2
+billing-c:   VIMTR2
+nserver:     max.ns.cloudflare.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     rachel.ns.cloudflare.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20000807 #393289
+changed:     20160701
+status:      published
+
+nic-hdl-br:  VIMTR2
+person:      Vitor Machado Trigo
+created:     20090603
+changed:     20150312
+
+

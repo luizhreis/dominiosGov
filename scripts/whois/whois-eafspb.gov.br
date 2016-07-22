@@ -1,0 +1,27 @@
+
+
+
+domain:      eafspb.gov.br
+owner:       ESCOLA AGROTECNICA FEDERAL DE SOUSA
+responsible: FRANCISCO CICUPIRA DE ANDRADE FILHO
+country:     BR
+owner-c:     AMS741
+admin-c:     AMS741
+tech-c:      AMS741
+billing-c:   AMS741
+nserver:     ns1.eafspb.gov.br 200.129.65.67 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.eafspb.gov.br 187.110.160.2 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20110326
+created:     20050908 #2314476
+changed:     20110531
+status:      published
+
+nic-hdl-br:  AMS741
+person:      Alessandro Morais de Sousa
+created:     20031029
+changed:     20140426
+
+

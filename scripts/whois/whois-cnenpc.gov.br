@@ -1,0 +1,27 @@
+
+
+
+domain:      cnenpc.gov.br
+owner:       COMISSÃO NACIONAL DE ENERGIA NUCLEAR
+responsible: ANTONIO LUIZ QUINELATO
+country:     BR
+owner-c:     NCS31
+admin-c:     NCS31
+tech-c:      NCS31
+billing-c:   NCS31
+nserver:     ns1.wix.com  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.wix.com  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20010326 #532132
+changed:     20150211
+status:      published
+
+nic-hdl-br:  NCS31
+person:      Nivaldo Carlos da Silva
+created:     20010312
+changed:     20141007
+
+

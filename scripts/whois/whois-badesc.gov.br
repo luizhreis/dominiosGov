@@ -1,0 +1,27 @@
+
+
+
+domain:      badesc.gov.br
+owner:       AGENCIA DE FOMENTO DO ESTADO DE SANTA CATARINA S.A
+responsible: Claudio Rogerio Fernandes
+country:     BR
+owner-c:     BDE
+admin-c:     BDE
+tech-c:      BDE
+billing-c:   BDE
+nserver:     ns1.badesc.gov.br 201.55.98.85 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.badesc.gov.br 201.55.98.86 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960628 #10625
+changed:     20150612
+status:      published
+
+nic-hdl-br:  BDE
+person:      Badesc-Agência Catarinense de Fomento SA
+created:     19980205
+changed:     20120326
+
+

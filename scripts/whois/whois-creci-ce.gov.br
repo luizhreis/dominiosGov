@@ -1,0 +1,32 @@
+
+
+
+domain:      creci-ce.gov.br
+owner:       Conselho Regional de Corretores de Imoveis do CE
+responsible: Carlos Ernesto da Silva Pinto
+country:     BR
+owner-c:     CFI6
+admin-c:     CFI6
+tech-c:      CRCEA4
+billing-c:   CRCEA4
+nserver:     ns1.servidorlx1.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.servidorlx1.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20011106 #660888
+changed:     20131114
+status:      published
+
+nic-hdl-br:  CFI6
+person:      Conselho Federal de Corretores de Imovei
+created:     20010411
+changed:     20140417
+
+nic-hdl-br:  CRCEA4
+person:      creci ceara
+created:     20131106
+changed:     20151130
+
+

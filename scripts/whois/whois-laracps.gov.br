@@ -1,0 +1,27 @@
+
+
+
+domain:      laracps.gov.br
+owner:       LABORATORIO REGIONAL DE APOIO ANIMAL
+responsible: JOSE GUEDES DEAK
+country:     BR
+owner-c:     AKA7
+admin-c:     AKA7
+tech-c:      AKA7
+billing-c:   AKA7
+nserver:     laracps.gov.br 200.144.127.2 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20040729
+nserver:     www.ansp.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20011107
+created:     19990413 #152221
+changed:     19990413
+status:      published
+
+nic-hdl-br:  AKA7
+person:      ATILA KARDEC ALVES
+created:     19990406
+changed:     19990406
+
+

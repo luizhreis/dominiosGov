@@ -1,0 +1,27 @@
+
+
+
+domain:      veracruz-rs.gov.br
+owner:       Vera Cruz Prefeitura Municipal
+responsible: Flavio Luis Poetter
+country:     BR
+owner-c:     FLP88
+admin-c:     FLP88
+tech-c:      FLP88
+billing-c:   FLP88
+nserver:     ns1.viavale.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.viavale.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20000602 #352374
+changed:     20140718
+status:      published
+
+nic-hdl-br:  FLP88
+person:      Flavio Luis Poetter
+created:     20010320
+changed:     20131122
+
+

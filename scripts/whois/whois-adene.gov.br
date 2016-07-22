@@ -1,0 +1,27 @@
+
+
+
+domain:      adene.gov.br
+owner:       Agência de Desenvolvimento do Nordeste
+responsible: Josué da Silva Ribeiro
+country:     BR
+owner-c:     ADN75
+admin-c:     ADN75
+tech-c:      ADN75
+billing-c:   ADN75
+nserver:     adenefw.adene.gov.br 200.209.60.130 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20080725
+nserver:     ns.embratel.net.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20080808
+created:     20020823 #943225
+changed:     20051201
+status:      published
+
+nic-hdl-br:  ADN75
+person:      Agência de Desenvolvimento do Nordeste
+created:     20020802
+changed:     20030605
+
+

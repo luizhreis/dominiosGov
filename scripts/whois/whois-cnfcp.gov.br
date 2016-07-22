@@ -1,0 +1,27 @@
+
+
+
+domain:      cnfcp.gov.br
+owner:       Centro Nacional de Folclore e Cultura Popular
+responsible: Lucia Yunes
+country:     BR
+owner-c:     LNV9
+admin-c:     LNV9
+tech-c:      LNV9
+billing-c:   LNV9
+nserver:     ns1.cnfcp.gov.br 201.73.47.82 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.cnfcp.gov.br 201.73.47.87 
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20080721 #4643851
+changed:     20150224
+status:      published
+
+nic-hdl-br:  LNV9
+person:      Luciana de Noronha Versiani
+created:     20040707
+changed:     20141009
+
+

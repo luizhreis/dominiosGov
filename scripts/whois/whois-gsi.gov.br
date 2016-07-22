@@ -1,0 +1,32 @@
+
+
+
+domain:      gsi.gov.br
+owner:       GABINETE DE SEGURANCA INSTITUCIONAL DA PRESIDENCIA
+responsible: Marconi dos Reis Bezerra
+country:     BR
+owner-c:     GCTGS
+admin-c:     GCTGS
+tech-c:      MAR79
+billing-c:   GCTGS
+nserver:     alpha.planalto.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20100510 #6837292
+changed:     20160516
+status:      published
+
+nic-hdl-br:  GCTGS
+person:      Grupo de Coordenação de TI do GSIPR
+created:     20100826
+changed:     20110617
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+

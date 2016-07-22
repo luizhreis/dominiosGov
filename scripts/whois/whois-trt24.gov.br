@@ -1,0 +1,37 @@
+
+
+
+domain:      trt24.gov.br
+owner:       TRIBUNAL REGIONAL DO TRABALHO DA 24A REGIAO
+responsible: Gleison Amaral dos Santos
+country:     BR
+owner-c:     GAS5
+admin-c:     GAS5
+tech-c:      AMS339
+billing-c:   MAMSA38
+nserver:     trt24dns1.trt24.gov.br 179.124.8.195 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dnsext02.trt24.gov.br 179.124.8.197 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19970613 #42809
+changed:     20160114
+status:      published
+
+nic-hdl-br:  AMS339
+person:      Alessander Monteiro Silva
+created:     20010618
+changed:     20150624
+
+nic-hdl-br:  GAS5
+person:      Gleison Amaral dos Santos
+created:     19980113
+changed:     20100316
+
+nic-hdl-br:  MAMSA38
+person:      Mauro Marcio Sakai
+created:     20080222
+changed:     20080222
+
+

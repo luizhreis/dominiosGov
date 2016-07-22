@@ -1,0 +1,28 @@
+
+
+
+domain:      cenp.gov.br
+owner:       Centro Nacional de Primatas
+responsible: Marcio Silva Jackson Costa
+country:     BR
+owner-c:     CAKAH
+admin-c:     CAKAH
+tech-c:      CAKAH
+billing-c:   CAKAH
+nserver:     ns1.cenp.gov.br 200.139.10.102 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns.iec.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20151125 #14947108
+changed:     20151125
+status:      published
+
+nic-hdl-br:  CAKAH
+person:      Cassia Kahwage
+created:     20130920
+changed:     20140522
+
+

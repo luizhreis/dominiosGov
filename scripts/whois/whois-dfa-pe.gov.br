@@ -1,0 +1,32 @@
+
+
+
+domain:      dfa-pe.gov.br
+owner:       Ministério da Agricultura - DFA - Lapa - Recife
+responsible: Diana Sione
+country:     BR
+owner-c:     DFA22
+admin-c:     DFA22
+tech-c:      HOT7
+billing-c:   DFA22
+nserver:     ns1.hotlink.com.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20110331
+nserver:     ns2.hotlink.com.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20110331
+created:     19980326 #90348
+changed:     20030218
+status:      published
+
+nic-hdl-br:  DFA22
+person:      Delegacia Federal de Agricultura
+created:     20010109
+changed:     20010109
+
+nic-hdl-br:  HOT7
+person:      HOTlink Informática LTDA
+created:     20000610
+changed:     20151026
+
+

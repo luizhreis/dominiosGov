@@ -1,0 +1,27 @@
+
+
+
+domain:      creci-pb.gov.br
+owner:       Conselho Regional de Corretores de Imóveis 21ª Reg
+responsible: Rômulo Soares de Lima
+country:     BR
+owner-c:     ENL57
+admin-c:     ENL57
+tech-c:      ENL57
+billing-c:   ENL57
+nserver:     cloud1.wdcomserver.com  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     cloud2.wdcomserver.com  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20021001 #978225
+changed:     20160520
+status:      published
+
+nic-hdl-br:  ENL57
+person:      Eduardo Nascimento de Lima
+created:     20020814
+changed:     20150826
+
+

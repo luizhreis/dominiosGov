@@ -1,0 +1,32 @@
+
+
+
+domain:      eletrobras.gov.br
+owner:       CENTRAIS ELETRICAS BRASILEIRAS SA
+responsible: Paulo Roberto Mandarino
+country:     BR
+owner-c:     JMMSA2
+admin-c:     JMMSA2
+tech-c:      VABSI7
+billing-c:   JMMSA2
+nserver:     dns1.eletrobras.gov.br 200.201.184.41 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.eletrobras.gov.br 200.201.184.170 
+nsstat:      20160701 NOT SYNC ZONE
+nslastaa:    20160701
+created:     19960109 #5023
+changed:     20140702
+status:      published
+
+nic-hdl-br:  JMMSA2
+person:      Jane Maria Melo Santos
+created:     20090316
+changed:     20090316
+
+nic-hdl-br:  VABSI7
+person:      Vanessa Barbosa e Silva
+created:     20071004
+changed:     20071004
+
+

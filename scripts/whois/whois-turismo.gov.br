@@ -1,0 +1,27 @@
+
+
+
+domain:      turismo.gov.br
+owner:       Ministério do Turismo
+responsible: Sumaid Andrade de Albuquerque
+country:     BR
+owner-c:     SUAAL3
+admin-c:     SUAAL3
+tech-c:      SUAAL3
+billing-c:   SUAAL3
+nserver:     ns1.turismo.gov.br 189.9.52.52 2804:150:11:9680::2
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.turismo.gov.br 189.9.52.53 2804:150:11:9680::3
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20030115 #1070851
+changed:     20150914
+status:      published
+
+nic-hdl-br:  SUAAL3
+person:      Sumaid Andrade de Albuquerque
+created:     20071206
+changed:     20140527
+
+

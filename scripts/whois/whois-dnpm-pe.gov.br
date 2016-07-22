@@ -1,0 +1,32 @@
+
+
+
+domain:      dnpm-pe.gov.br
+owner:       4 Distrito DNPM - PE
+responsible: 4 Distrito DNPM - PE
+country:     BR
+owner-c:     DDP38
+admin-c:     DDP38
+tech-c:      FOX2
+billing-c:   DDP38
+nserver:     ns1.shservidores19.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.shservidores19.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20021001 #957607
+changed:     20130816
+status:      published
+
+nic-hdl-br:  DDP38
+person:      4 Distrito DNPM - PE
+created:     20020904
+changed:     20130816
+
+nic-hdl-br:  FOX2
+person:      Lucius Magliano
+created:     20020402
+changed:     20090902
+
+

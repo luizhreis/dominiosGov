@@ -1,0 +1,28 @@
+
+
+
+domain:      saudenacopa.gov.br
+owner:       Fundo Nacional de Saúde
+responsible: Departamento Nacional de DST/Aids
+country:     BR
+owner-c:     RGC5
+admin-c:     RGC5
+tech-c:      RGC5
+billing-c:   RGC5
+nserver:     sfw101.aids.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     sap112.aids.gov.br  
+nsstat:      20160630 NOT SYNC ZONE
+nslastaa:    20160630
+saci:        yes
+created:     20140526 #12916924
+changed:     20140808
+status:      published
+
+nic-hdl-br:  RGC5
+person:      Ana Flávia de Oliveira Alves
+created:     19980108
+changed:     20160329
+
+

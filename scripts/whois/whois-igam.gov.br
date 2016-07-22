@@ -1,0 +1,32 @@
+
+
+
+domain:      igam.gov.br
+owner:       Instituto Mineiro de Gestão das Águas
+responsible: Sebastão Virgílio de Alme
+country:     BR
+owner-c:     RTN2
+admin-c:     RTN2
+tech-c:      RTN
+billing-c:   RTN
+nserver:     servidor.igam.gov.br 200.131.58.1 
+nsstat:      20160630 TIMEOUT
+nslastaa:    19990216
+nserver:     hematita.redeminas.br  
+nsstat:      20160630 UH
+nslastaa:    19990222
+created:     19980319 #89689
+changed:     19980319
+status:      published
+
+nic-hdl-br:  RTN
+person:      Ricardo Torres Nunes
+created:     19980317
+changed:     19980317
+
+nic-hdl-br:  RTN2
+person:      Ricardo Torres Nunes
+created:     19980317
+changed:     19980317
+
+

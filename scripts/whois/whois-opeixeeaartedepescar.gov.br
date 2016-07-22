@@ -1,0 +1,30 @@
+
+
+
+domain:      opeixeeaartedepescar.gov.br
+owner:       Camara dos Deputados
+responsible: Guilherme Brügger Damato
+country:     BR
+owner-c:     SSG50
+admin-c:     SSG50
+tech-c:      SSG50
+billing-c:   SSG50
+nserver:     hypatia.camara.leg.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     melissa.camara.leg.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    30172 RSA/SHA-256 5384D248813665C485CFC53F6A7B74B21DEB015C
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     20090416 #5472238
+changed:     20150615
+status:      published
+
+nic-hdl-br:  SSG50
+person:      S S G
+created:     20040402
+changed:     20140422
+
+

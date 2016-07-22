@@ -1,0 +1,32 @@
+
+
+
+domain:      itaipu.gov.br
+owner:       ITAIPU BINACIONAL
+responsible: Claudio Ernesto Pertille Ramos
+country:     BR
+owner-c:     CER16
+admin-c:     CER16
+tech-c:      CER16
+billing-c:   EMB271
+nserver:     ns1.itaipu.gov.br 200.140.194.233 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.itaipu.gov.br 200.140.194.209 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19961015 #18930
+changed:     20141009
+status:      published
+
+nic-hdl-br:  CER16
+person:      Claudio Ernesto Pertille Ramos
+created:     19980604
+changed:     20141007
+
+nic-hdl-br:  EMB271
+person:      Edson Machado Bueno
+created:     20051019
+changed:     20051019
+
+

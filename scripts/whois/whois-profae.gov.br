@@ -1,0 +1,27 @@
+
+
+
+domain:      profae.gov.br
+owner:       Secretaria de Gestão de Investimentos em Saúde
+responsible: Geraldo Biasoto Júnior
+country:     BR
+owner-c:     PMS70
+admin-c:     PMS70
+tech-c:      PMS70
+billing-c:   PMS70
+nserver:     ns2.terraempresas.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20040518
+nserver:     ns3.terraempresas.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20040518
+created:     20011121 #682101
+changed:     20060201
+status:      published
+
+nic-hdl-br:  PMS70
+person:      PROFAE Minist. da Saúde
+created:     20010822
+changed:     20010822
+
+

@@ -1,0 +1,42 @@
+
+
+
+domain:      redegeochronos.gov.br
+owner:       COMPANHIA DE PESQUISA DE RECURSOS MINERAIS
+responsible: Laura Estela Madeira Carvalho
+country:     BR
+owner-c:     RFCSI22
+admin-c:     CPRMI
+tech-c:      AGB20
+billing-c:   CJA97
+nserver:     dns1.cprm.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.cprm.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20060519 #2788606
+changed:     20140424
+status:      published
+
+nic-hdl-br:  AGB20
+person:      alvaro gomes sobral barcellos
+created:     19990929
+changed:     20080424
+
+nic-hdl-br:  CJA97
+person:      Ciro Jorge Appi
+created:     20060314
+changed:     20060314
+
+nic-hdl-br:  CPRMI
+person:      Cia Pesquisa de Recursos Minerais
+created:     20140424
+changed:     20140424
+
+nic-hdl-br:  RFCSI22
+person:      Regina Fatima da Conceição Siebra
+created:     20150805
+changed:     20150805
+
+

@@ -1,0 +1,37 @@
+
+
+
+domain:      cop.gov.br
+owner:       Secretaria de Comunicação Social
+responsible: SECOM - SCI - DEINE
+country:     BR
+owner-c:     MAMPA145
+admin-c:     MAMPA145
+tech-c:      INTVC
+billing-c:   MAR79
+nserver:     ns1.theplanet.com  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.theplanet.com  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20091118 #6275817
+changed:     20140922
+status:      published
+
+nic-hdl-br:  INTVC
+person:      Infraestrutura TV1.com
+created:     20110325
+changed:     20160223
+
+nic-hdl-br:  MAMPA145
+person:      Marcia Maria Pachaly
+created:     20130821
+changed:     20130821
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+

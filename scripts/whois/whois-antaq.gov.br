@@ -1,0 +1,27 @@
+
+
+
+domain:      antaq.gov.br
+owner:       AGENCIA NACIONAL DE TRANSPORTES AQUAVIARIOS
+responsible: Gustavo Henrique de Souto Silva
+country:     BR
+owner-c:     IRP
+admin-c:     IRP
+tech-c:      IRP
+billing-c:   IRP
+nserver:     alfa.antaq.gov.br 200.198.217.197 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dragao.antaq.gov.br 200.198.217.205 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20160312
+created:     20020312 #751032
+changed:     20150122
+status:      published
+
+nic-hdl-br:  IRP
+person:      Maria Cecilia P Parente Badauy
+created:     19980217
+changed:     20141120
+
+

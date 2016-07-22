@@ -1,0 +1,32 @@
+
+
+
+domain:      jfpb.gov.br
+owner:       Justica Federal de Primeira Instancia
+responsible: Rogerio Xavier da Costa
+country:     BR
+owner-c:     JODME4
+admin-c:     ROXCO2
+tech-c:      JODME4
+billing-c:   ROXCO2
+nserver:     ns1.jfpb.jus.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.jfpb.jus.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19990914 #194147
+changed:     20111124
+status:      published
+
+nic-hdl-br:  JODME4
+person:      Josiglei Delfino Medeiros
+created:     20081203
+changed:     20111212
+
+nic-hdl-br:  ROXCO2
+person:      Rogerio Xavier da Costa
+created:     20081204
+changed:     20120127
+
+

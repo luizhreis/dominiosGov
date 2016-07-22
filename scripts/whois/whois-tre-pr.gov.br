@@ -1,0 +1,37 @@
+
+
+
+domain:      tre-pr.gov.br
+owner:       Tribunal Regional Eleitoral do Parana
+responsible: Gilmar José Fernandes de Deus
+country:     BR
+owner-c:     SEDSI27
+admin-c:     DCC
+tech-c:      DCC
+billing-c:   WOS3
+nserver:     sauron.tse.jus.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     saruman.tse.jus.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19980813 #108165
+changed:     20150108
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  SEDSI27
+person:      Seção de Desenvolvimento de Sistemas
+created:     20120320
+changed:     20120426
+
+nic-hdl-br:  WOS3
+person:      Wander Oliveira Sobral
+created:     19980202
+changed:     19980202
+
+

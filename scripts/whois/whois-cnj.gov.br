@@ -1,0 +1,30 @@
+
+
+
+domain:      cnj.gov.br
+owner:       Conselho Nacional de Justiça
+responsible: Fabyano Alberto Stalschmidt Prestes
+country:     BR
+owner-c:     OTNCI
+admin-c:     OTNCI
+tech-c:      OTNCI
+billing-c:   OTNCI
+nserver:     dns01.cnj.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns02.cnj.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    60109 RSA/SHA-1 DD3771FCCDC5B093D37D266D9DC63D3753BAA921
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     20050420 #2111539
+changed:     20150205
+status:      published
+
+nic-hdl-br:  OTNCI
+person:      Otávio Nery Cipriani
+created:     20101217
+changed:     20151125
+
+

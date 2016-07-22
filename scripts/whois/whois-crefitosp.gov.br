@@ -1,0 +1,27 @@
+
+
+
+domain:      crefitosp.gov.br
+owner:       CONS REG DE FISIOTERAPIA E TERAP OCUP TRES REG
+responsible: GIL LUCIO ALMEIDA
+country:     BR
+owner-c:     CRR351
+admin-c:     CRR351
+tech-c:      CRR351
+billing-c:   CRR351
+nserver:     ns1.datacenter1.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.datacenter1.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20080711 #4644585
+changed:     20120330
+status:      published
+
+nic-hdl-br:  CRR351
+person:      Conselho Regional de Fisio e TO 3 Reg
+created:     20050713
+changed:     20120329
+
+

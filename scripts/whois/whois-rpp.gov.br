@@ -1,0 +1,32 @@
+
+
+
+domain:      rpp.gov.br
+owner:       Fundação de Amparo a Pesquisa do Estado do Piauí
+responsible: Aurino Calland de Sousa Leite
+country:     BR
+owner-c:     ACL11
+admin-c:     ACL11
+tech-c:      FSC10
+billing-c:   FSC10
+nserver:     server1.pop-pi.rnp.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20100825
+nserver:     poti.pop-pi.rnp.br  
+nsstat:      20160630 UH
+nslastaa:    20071106
+created:     19980508 #95057
+changed:     20010209
+status:      published
+
+nic-hdl-br:  ACL11
+person:      Aurino Calland de Sousa Leite
+created:     19980108
+changed:     20030902
+
+nic-hdl-br:  FSC10
+person:      Fabiano Sá de Carvalho
+created:     19980511
+changed:     20030617
+
+

@@ -1,0 +1,37 @@
+
+
+
+domain:      tre-se.gov.br
+owner:       Tribunal Regional Eleitoral de Sergipe
+responsible: José Carvalho Peixoto
+country:     BR
+owner-c:     AAJ66
+admin-c:     DCC
+tech-c:      DCC
+billing-c:   WLA14
+nserver:     sauron.tse.jus.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     saruman.tse.jus.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     19980824 #110572
+changed:     20150108
+status:      published
+
+nic-hdl-br:  AAJ66
+person:      André Amâncio de Jesus
+created:     20000323
+changed:     20000323
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  WLA14
+person:      Willams Lucena Alves
+created:     20000522
+changed:     20000522
+
+

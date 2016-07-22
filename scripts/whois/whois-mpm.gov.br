@@ -1,0 +1,40 @@
+
+
+
+domain:      mpm.gov.br
+owner:       MINISTERIO PUBLICO MILITAR
+responsible: Departamento de Tecnologia da Informação
+country:     BR
+owner-c:     SAC404
+admin-c:     MPM70
+tech-c:      SAC404
+billing-c:   SOCOE2
+nserver:     ns1.mpm.gov.br 200.142.4.1 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.mpm.gov.br 200.142.4.242 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns4.mpm.gov.br 200.142.4.241 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19970911 #57113
+changed:     20140621
+status:      published
+
+nic-hdl-br:  MPM70
+person:      Ministerio Publico Militar
+created:     20000810
+changed:     20000810
+
+nic-hdl-br:  SAC404
+person:      Solange Aguiar Coelho
+created:     20040726
+changed:     20040909
+
+nic-hdl-br:  SOCOE2
+person:      Solange Coelho
+created:     20060706
+changed:     20060706
+
+

@@ -1,0 +1,37 @@
+
+
+
+domain:      tre-sc.gov.br
+owner:       Tribunal Regional Eleitoral de Santa Catarina
+responsible: Carlos Rogério Camargo
+country:     BR
+owner-c:     TRC18
+admin-c:     DCC
+tech-c:      DCC
+billing-c:   WOS3
+nserver:     sauron.tse.jus.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     saruman.tse.jus.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19980805 #106213
+changed:     20150108
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  TRC18
+person:      Trib Reg Eleitoral de Santa Catarina
+created:     20000313
+changed:     20000313
+
+nic-hdl-br:  WOS3
+person:      Wander Oliveira Sobral
+created:     19980202
+changed:     19980202
+
+

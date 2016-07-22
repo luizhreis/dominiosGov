@@ -1,0 +1,37 @@
+
+
+
+domain:      ctav.gov.br
+owner:       Ministerio da Cultura
+responsible: Daniel Oliveira Albano
+country:     BR
+owner-c:     CIBRA24
+admin-c:     HGC57
+tech-c:      MICUL2
+billing-c:   MICUL2
+nserver:     ns1.cultura.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.cultura.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20060310 #2663201
+changed:     20150107
+status:      published
+
+nic-hdl-br:  CIBRA24
+person:      Cinemateca Brasileira
+created:     20141026
+changed:     20141026
+
+nic-hdl-br:  HGC57
+person:      Hugo Gois Cordeiro
+created:     20060307
+changed:     20091208
+
+nic-hdl-br:  MICUL2
+person:      Ministério da Cultura
+created:     20130321
+changed:     20150917
+
+

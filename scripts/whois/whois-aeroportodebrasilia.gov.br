@@ -1,0 +1,32 @@
+
+
+
+domain:      aeroportodebrasilia.gov.br
+owner:       INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA
+responsible: Sup. de Tecnologia da Informação
+country:     BR
+owner-c:     SUTIN
+admin-c:     SUTIN
+tech-c:      SUTIN
+billing-c:   GESUP4
+nserver:     ns-1.infraero.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-2.infraero.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20021112 #1008124
+changed:     20130109
+status:      published
+
+nic-hdl-br:  GESUP4
+person:      Gerencia de Suporte
+created:     20130109
+changed:     20130213
+
+nic-hdl-br:  SUTIN
+person:      Sup. de Tecnologia da Informação
+created:     20060712
+changed:     20130710
+
+

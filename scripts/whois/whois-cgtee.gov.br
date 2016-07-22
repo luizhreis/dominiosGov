@@ -1,0 +1,27 @@
+
+
+
+domain:      cgtee.gov.br
+owner:       Companhia de Geração Termica de Energia Eletrica
+responsible: Zoarês Mar Mathias
+country:     BR
+owner-c:     MNM131
+admin-c:     MNM131
+tech-c:      MNM131
+billing-c:   MNM131
+nserver:     dns01.cgtee.gov.br 200.198.165.2 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns02.cgtee.gov.br 200.198.165.3 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20000711 #377572
+changed:     20130914
+status:      published
+
+nic-hdl-br:  MNM131
+person:      Marcelo Ney Marques
+created:     20060606
+changed:     20060606
+
+

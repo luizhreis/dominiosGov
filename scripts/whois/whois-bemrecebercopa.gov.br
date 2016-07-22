@@ -1,0 +1,27 @@
+
+
+
+domain:      bemrecebercopa.gov.br
+owner:       Ministério do Turismo
+responsible: Sumaid Andrade de Albuquerque
+country:     BR
+owner-c:     SUAAL3
+admin-c:     SUAAL3
+tech-c:      SUAAL3
+billing-c:   SUAAL3
+nserver:     ns1.bemrecebercopa.gov.br 186.237.198.182 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20130531
+nserver:     ns2.bemrecebercopa.gov.br 186.237.198.183 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20130914
+created:     20100526 #6815823
+changed:     20130408
+status:      published
+
+nic-hdl-br:  SUAAL3
+person:      Sumaid Andrade de Albuquerque
+created:     20071206
+changed:     20140527
+
+

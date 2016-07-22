@@ -1,0 +1,27 @@
+
+
+
+domain:      manausenergia.gov.br
+owner:       Manaus Energia S/A
+responsible: Moises Antonio Benayon Alencar
+country:     BR
+owner-c:     GSC187
+admin-c:     GSC187
+tech-c:      GSC187
+billing-c:   GSC187
+nserver:     ns1.eln.gov.br  
+nsstat:      20160629 CNAME
+nslastaa:    20120924
+nserver:     ns2.eln.gov.br  
+nsstat:      20160629 CNAME
+nslastaa:    20120924
+created:     20060510 #2754242
+changed:     20080508
+status:      published
+
+nic-hdl-br:  GSC187
+person:      Gerência de Serviço de Rede Corporativa
+created:     20050830
+changed:     20070529
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      funag.gov.br
+owner:       Fundação Alexandre de Gusmão
+responsible: Alex Salgado
+country:     BR
+owner-c:     ALLSA55
+admin-c:     ALLSA55
+tech-c:      TFSFO2
+billing-c:   TFSFO2
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19980521 #98256
+changed:     20111221
+status:      published
+
+nic-hdl-br:  ALLSA55
+person:      Alex Lemos Salgado
+created:     20111219
+changed:     20140625
+
+nic-hdl-br:  TFSFO2
+person:      Tatiane Freita Silva Fonseca
+created:     20111212
+changed:     20111212
+
+

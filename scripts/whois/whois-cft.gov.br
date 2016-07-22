@@ -1,0 +1,33 @@
+
+
+
+domain:      cft.gov.br
+owner:       Conselho de Teologos do Brasil - Coteb
+responsible: Walter da Silva Filho
+country:     BR
+owner-c:     CTBCO
+admin-c:     CTBCO
+tech-c:      ESSCO3
+billing-c:   CTBCO
+nserver:     ns1.dominios.uol.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.dominios.uol.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20110927 #8860780
+changed:     20110927
+status:      published
+
+nic-hdl-br:  CTBCO
+person:      Conselho de teólogos do Brasil - CONTEB
+created:     20080502
+changed:     20110226
+
+nic-hdl-br:  ESSCO3
+person:      Ester Santiago da Costa
+created:     20070521
+changed:     20150323
+
+

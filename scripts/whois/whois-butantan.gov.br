@@ -1,0 +1,27 @@
+
+
+
+domain:      butantan.gov.br
+owner:       Instituto Butantan
+responsible: Instituto Butantan Administrador
+country:     BR
+owner-c:     SMH
+admin-c:     SMH
+tech-c:      SMH
+billing-c:   SMH
+nserver:     ns3.butantan.gov.br 200.136.54.3 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns4.butantan.gov.br 200.136.54.4 
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     19980209 #85080
+changed:     20140425
+status:      published
+
+nic-hdl-br:  SMH
+person:      Sergio Marcello Humantschuk
+created:     19980128
+changed:     20160309
+
+

@@ -1,0 +1,33 @@
+
+
+
+domain:      ans.gov.br
+owner:       Agencia Nacional de Saude Suplementar
+responsible: Marcelo Uzêda
+country:     BR
+owner-c:     JWD3
+admin-c:     JWD3
+tech-c:      JWD3
+billing-c:   JWD3
+nserver:     dns.ans.gov.br 189.125.91.3 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     marte.impsat.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     hercules.impsat.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     venus.impsat.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20000728 #377463
+changed:     20130809
+status:      published
+
+nic-hdl-br:  JWD3
+person:      Marco Venicio Alves de Oliveira
+created:     20000627
+changed:     20130806
+
+

@@ -1,0 +1,31 @@
+
+
+
+domain:      matopiba.gov.br
+owner:       Ministerio da Agricultura Pecuaria e Abastecimento
+responsible: Ministra Katia Abreu
+country:     BR
+owner-c:     MAS3725
+admin-c:     MAS3725
+tech-c:      MAS3725
+billing-c:   MAS3725
+nserver:     masrv1051.agricultura.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     masrv1052.agricultura.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    59779 RSA/SHA-1 7168DFBA34930A002060589F5CF7BC31933F09E0
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+saci:        yes
+created:     20150821 #14547161
+changed:     20150821
+status:      published
+
+nic-hdl-br:  MAS3725
+person:      Marco Antonio Bittencourt Sucupira
+created:     20050512
+changed:     20080319
+
+

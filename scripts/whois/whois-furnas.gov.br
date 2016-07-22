@@ -1,0 +1,35 @@
+
+
+
+domain:      furnas.gov.br
+owner:       Furnas Centrais Elétricas S.A.
+responsible: Clayton Mendonça de Oliveira
+country:     BR
+owner-c:     JCF516
+admin-c:     RSC
+tech-c:      JCF516
+billing-c:   JCF516
+nserver:     ns01.furnas.gov.br 177.223.209.67 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns02.furnas.gov.br 177.223.209.68 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns03.furnas.gov.br 177.223.209.131 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20160227
+created:     19950705
+changed:     20150923
+status:      published
+
+nic-hdl-br:  JCF516
+person:      José Carlos da S. Faria
+created:     20031201
+changed:     20091222
+
+nic-hdl-br:  RSC
+person:      Renato Santos Norbert Costa
+created:     19971218
+changed:     20131113
+
+

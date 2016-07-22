@@ -1,0 +1,33 @@
+
+
+
+domain:      camara.gov.br
+owner:       Camara dos Deputados
+responsible: Guilherme Brügger Damato
+country:     BR
+owner-c:     SSG50
+admin-c:     SSG50
+tech-c:      SSG50
+billing-c:   SSG50
+nserver:     hypatia.camara.leg.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     melissa.camara.leg.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     marte.impsat.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    59074 RSA/SHA-256 0BB86D090C9F0756FD487EFB532333794F2D9770
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     19970426 #37928
+changed:     20160229
+status:      published
+
+nic-hdl-br:  SSG50
+person:      S S G
+created:     20040402
+changed:     20140422
+
+

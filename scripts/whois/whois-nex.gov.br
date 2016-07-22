@@ -1,0 +1,32 @@
+
+
+
+domain:      nex.gov.br
+owner:       Ministério das Relações Exteriores
+responsible: Francisco Carlos de Souza
+country:     BR
+owner-c:     ABC106
+admin-c:     ABC106
+tech-c:      EMS72
+billing-c:   ABC106
+nserver:     marte.orbitel.com.br  
+nsstat:      20160629 UH
+nslastaa:    20040305
+nserver:     venus.orbitel.com.br  
+nsstat:      20160629 UH
+nslastaa:    20030519
+created:     20020110 #714718
+changed:     20020110
+status:      published
+
+nic-hdl-br:  ABC106
+person:      Agência Brasileira de Cooperação
+created:     20010917
+changed:     20011226
+
+nic-hdl-br:  EMS72
+person:      Eduardo Marcelo dos Santos
+created:     20000128
+changed:     20140609
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      worldcup2014.gov.br
+owner:       ME - Ministerio do Esporte
+responsible: Jose Dartalian Gomes Pinheiro
+country:     BR
+owner-c:     JDGPI
+admin-c:     JAA364
+tech-c:      JAA364
+billing-c:   JAA364
+nserver:     ns1.copa2014.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.copa2014.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20100525 #6904342
+changed:     20140611
+status:      published
+
+nic-hdl-br:  JAA364
+person:      Jorge Antônio Lacerda de Andrade
+created:     20030908
+changed:     20160222
+
+nic-hdl-br:  JDGPI
+person:      José Dartalian Gomes Pinheiro
+created:     20160222
+changed:     20160222
+
+

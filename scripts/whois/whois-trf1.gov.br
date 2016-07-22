@@ -1,0 +1,32 @@
+
+
+
+domain:      trf1.gov.br
+owner:       Tribunal Regional Federal da 1a Regiao
+responsible: Coordenadoria de Infra. Tecnologica
+country:     BR
+owner-c:     COITE8
+admin-c:     COITE8
+tech-c:      MSC131
+billing-c:   COITE8
+nserver:     dns3.trf1.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns4.trf1.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19970226 #31411
+changed:     20141031
+status:      published
+
+nic-hdl-br:  COITE8
+person:      Coordenadoria Infraestrutura Tecnologica
+created:     20141023
+changed:     20141023
+
+nic-hdl-br:  MSC131
+person:      Marcello Silva Coutinho
+created:     20011015
+changed:     20131021
+
+

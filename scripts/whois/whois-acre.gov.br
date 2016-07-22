@@ -1,0 +1,27 @@
+
+
+
+domain:      acre.gov.br
+owner:       SECRETARIA DE ESTADO DA GESTAO ADMINISTRATIVA - SG
+responsible: Alan Queiroz da Silva
+country:     BR
+owner-c:     ALQSI
+admin-c:     ALQSI
+tech-c:      ALQSI
+billing-c:   ALQSI
+nserver:     ns1.ac.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.ac.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20100126 #6434360
+changed:     20150525
+status:      published
+
+nic-hdl-br:  ALQSI
+person:      ALAN QUEIROZ DA SILVA
+created:     20071122
+changed:     20071122
+
+

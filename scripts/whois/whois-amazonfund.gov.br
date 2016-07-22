@@ -1,0 +1,27 @@
+
+
+
+domain:      amazonfund.gov.br
+owner:       BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI
+responsible: GSUP - Gerencia de Suporte
+country:     BR
+owner-c:     GGT13
+admin-c:     GGT13
+tech-c:      GGT13
+billing-c:   GGT13
+nserver:     rj37.bndes.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     rj38.bndes.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20090317 #5310125
+changed:     20140227
+status:      published
+
+nic-hdl-br:  GGT13
+person:      GTEC - Gerencia de Tecnologia
+created:     20030108
+changed:     20140417
+
+

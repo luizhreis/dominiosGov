@@ -1,0 +1,31 @@
+
+
+
+domain:      segurancaquimica.gov.br
+owner:       MINISTERIO DO MEIO AMBIENTE
+responsible: Coord Geral de Tec. da Informação e Info
+country:     BR
+owner-c:     MMR
+admin-c:     MMR
+tech-c:      MMR
+billing-c:   MMR
+nserver:     ns1.segurancaquimica.gov.br 200.198.242.66 2804:150:11:d602::5
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.segurancaquimica.gov.br 200.198.242.69 2804:150:11:d602::6
+nsstat:      20160627 AA
+nslastaa:    20160627
+dsrecord:    52695 RSA/SHA-1 CC4A04BD5A9055F0C69CA4C945D4261F043EB2E1
+dsstatus:    20160627 DSOK
+dslastok:    20160627
+saci:        yes
+created:     20111216 #9164073
+changed:     20160411
+status:      published
+
+nic-hdl-br:  MMR
+person:      Ministério do Meio Ambiente
+created:     19980109
+changed:     20151014
+
+

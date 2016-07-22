@@ -1,0 +1,32 @@
+
+
+
+domain:      trt21.gov.br
+owner:       Tribunal Regional do Trabalho da 21ª Região
+responsible: Wilson Collier Junior
+country:     BR
+owner-c:     SERED2
+admin-c:     SERED2
+tech-c:      SERED2
+billing-c:   WCJ56
+nserver:     dns.trt21.gov.br 186.229.5.38 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns2.trt21.gov.br 186.229.5.39 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19970618 #43814
+changed:     20151019
+status:      published
+
+nic-hdl-br:  SERED2
+person:      Setor de Redes
+created:     20130503
+changed:     20140617
+
+nic-hdl-br:  WCJ56
+person:      Wilson Collier Jr
+created:     20020920
+changed:     20140617
+
+

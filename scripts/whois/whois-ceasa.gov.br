@@ -1,0 +1,27 @@
+
+
+
+domain:      ceasa.gov.br
+owner:       COMPANHIA NACIONAL DE ABASTECIMENTO
+responsible: Marcelo Lins Faustino
+country:     BR
+owner-c:     GPL11
+admin-c:     GPL11
+tech-c:      GPL11
+billing-c:   GPL11
+nserver:     ns01.conab.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns02.conab.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20060201 #2591389
+changed:     20150828
+status:      published
+
+nic-hdl-br:  GPL11
+person:      Gustavo Perdigão Meneses Lima
+created:     19981026
+changed:     20160425
+
+

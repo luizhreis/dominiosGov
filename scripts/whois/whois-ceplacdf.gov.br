@@ -1,0 +1,27 @@
+
+
+
+domain:      ceplacdf.gov.br
+owner:       Comissão Executiva do Plano da Lavoura Cacaueira
+responsible: Frederico Braga Barreto
+country:     BR
+owner-c:     FBB24
+admin-c:     FBB24
+tech-c:      FBB24
+billing-c:   FBB24
+nserver:     dns1.ceplacdf.gov.br 200.223.147.147 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20151024
+nserver:     www.ceplacdf.gov.br 200.223.147.131 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20151024
+created:     19980506 #95516
+changed:     20080728
+status:      published
+
+nic-hdl-br:  FBB24
+person:      Frederico Braga Barreto
+created:     20010822
+changed:     20080103
+
+

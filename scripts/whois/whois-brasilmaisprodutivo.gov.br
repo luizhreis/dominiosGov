@@ -1,0 +1,34 @@
+
+
+
+domain:      brasilmaisprodutivo.gov.br
+owner:       MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI
+responsible: Alessandro Franca Dantas
+country:     BR
+owner-c:     MDC167
+admin-c:     MDC167
+tech-c:      MDC167
+billing-c:   MDC167
+nserver:     ns-1512.awsdns-61.org  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns-286.awsdns-35.com  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns-2030.awsdns-61.co.uk  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns-817.awsdns-38.net  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20160330 #15403365
+changed:     20160330
+status:      published
+
+nic-hdl-br:  MDC167
+person:      Ministério do Desenv. Indústria Comércio
+created:     20040901
+changed:     20160627
+
+

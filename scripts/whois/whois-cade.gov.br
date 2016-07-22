@@ -1,0 +1,46 @@
+
+
+
+domain:      cade.gov.br
+owner:       Conselho Administrativo de Defesa Econômica
+responsible: Belmiro da Graça Soares
+country:     BR
+owner-c:     BEGSO3
+admin-c:     VAVSO31
+tech-c:      GACMA58
+billing-c:   BEGSO3
+nserver:     antares.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20010418 #546914
+changed:     20150820
+status:      published
+
+nic-hdl-br:  BEGSO3
+person:      Belmiro da Graça Soares
+created:     20111212
+changed:     20140130
+
+nic-hdl-br:  GACMA58
+person:      Giordanno Azevedo Costa Martins
+created:     20150820
+changed:     20150820
+
+nic-hdl-br:  VAVSO31
+person:      Vicente Aurélio Vieira de Sousa
+created:     20150820
+changed:     20150820
+
+

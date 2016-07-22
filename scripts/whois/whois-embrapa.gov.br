@@ -1,0 +1,35 @@
+
+
+
+domain:      embrapa.gov.br
+owner:       Empresa Brasileira de Pesquisa Agropecuaria
+responsible: George Amaro
+country:     BR
+owner-c:     GEA
+admin-c:     GEA
+tech-c:      GEA
+billing-c:   HES56
+nserver:     sol.cnptia.embrapa.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ipe.cnpm.embrapa.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20150629
+nserver:     mamona.sede.embrapa.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20000609 #357901
+changed:     20030822
+status:      published
+
+nic-hdl-br:  GEA
+person:      George Amaro
+created:     19971218
+changed:     20150511
+
+nic-hdl-br:  HES56
+person:      Hélio de Souza
+created:     19980108
+changed:     19980108
+
+

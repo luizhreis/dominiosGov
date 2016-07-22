@@ -1,0 +1,38 @@
+
+
+
+domain:      trf4.gov.br
+owner:       Tribunal Regional Federal da 4ª Região
+responsible: Cristian Ramos Prange
+country:     BR
+owner-c:     CRP165
+admin-c:     CRP165
+tech-c:      ALKAN5
+billing-c:   CRP165
+nserver:     dns1.trf4.gov.br 191.241.252.7 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.trf4.gov.br 177.220.209.133 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns3.trf4.gov.br 177.220.209.134 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns4.trf4.gov.br 191.241.252.8 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19980619 #102774
+changed:     20151105
+status:      published
+
+nic-hdl-br:  ALKAN5
+person:      Alexandre Kenzi Antonini
+created:     20090713
+changed:     20110128
+
+nic-hdl-br:  CRP165
+person:      Cristian Ramos Prange
+created:     20020110
+changed:     20020110
+
+

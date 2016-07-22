@@ -1,0 +1,28 @@
+
+
+
+domain:      renapi.gov.br
+owner:       Instituto Federal de Brasília
+responsible: Aléssio Trindade de Barros
+country:     BR
+owner-c:     INFBR6
+admin-c:     INFBR6
+tech-c:      INFBR6
+billing-c:   INFBR6
+nserver:     cali.renapi.gov.br 200.130.64.2 
+nsstat:      20160701 QREFUSED
+nslastaa:    20150808
+nserver:     maracaibo.renapi.gov.br 200.130.64.3 
+nsstat:      20160701 QREFUSED
+nslastaa:    20150808
+saci:        yes
+created:     20110204 #7805309
+changed:     20150708
+status:      published
+
+nic-hdl-br:  INFBR6
+person:      Instituto Federal de Brasília
+created:     20111215
+changed:     20150209
+
+

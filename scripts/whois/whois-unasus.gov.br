@@ -1,0 +1,28 @@
+
+
+
+domain:      unasus.gov.br
+owner:       FUNDACAO OSWALDO CRUZ
+responsible: Francisco Eduardo de Campos
+country:     BR
+owner-c:     RAMMO42
+admin-c:     RAMMO42
+tech-c:      RAMMO42
+billing-c:   RAMMO42
+nserver:     dnsex01.unasus.gov.br 200.130.11.219 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dnsex02.unasus.gov.br 200.130.11.220 
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20111025 #8923771
+changed:     20120422
+status:      published
+
+nic-hdl-br:  RAMMO42
+person:      Rafael de Medeiros Monteiro
+created:     20120417
+changed:     20121112
+
+

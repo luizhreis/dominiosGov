@@ -1,0 +1,30 @@
+
+
+
+domain:      marinha.gov.br
+owner:       DIR COMUNICACOES E TECNOLOGIA DA INFORMACAO DA MB
+responsible: Sandro Melo Marques
+country:     BR
+owner-c:     CAS39
+admin-c:     CAS39
+tech-c:      CAS39
+billing-c:   CAS39
+nserver:     barroso.mar.mil.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     tamandare.mar.mil.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     alexandrino.mar.mil.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20090817 #5899323
+changed:     20160126
+status:      published
+
+nic-hdl-br:  CAS39
+person:      Horus Armond da Fonseca
+created:     19980303
+changed:     20141016
+
+

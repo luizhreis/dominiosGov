@@ -1,0 +1,32 @@
+
+
+
+domain:      etfto.gov.br
+owner:       Escola Técnica Federal de Palmas - TO
+responsible: Octaviano Furtado
+country:     BR
+owner-c:     ROP415
+admin-c:     ROP415
+tech-c:      ROP415
+billing-c:   ETP27
+nserver:     ns1.etfto.gov.br 200.241.237.218 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns3.etfto.gov.br 200.129.176.22 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20030605 #1227133
+changed:     20151209
+status:      published
+
+nic-hdl-br:  ETP27
+person:      Escola Técnica Federal de Palmas
+created:     20030505
+changed:     20030505
+
+nic-hdl-br:  ROP415
+person:      Ronaldo Parente
+created:     20030418
+changed:     20140618
+
+

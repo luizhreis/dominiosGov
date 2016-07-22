@@ -1,0 +1,32 @@
+
+
+
+domain:      jfes.gov.br
+owner:       Justiça Federal de 1º Grau no Espírito Santo
+responsible: Fabricio Vasconcelos Costa
+country:     BR
+owner-c:     FAVCO2
+admin-c:     FAVCO2
+tech-c:      ROQBA5
+billing-c:   FAVCO2
+nserver:     ns1.jfes.gov.br 187.73.237.195 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.jfes.gov.br 187.73.237.196 
+nsstat:      20160701 NOT SYNC ZONE
+nslastaa:    20160701
+created:     20070604 #3637470
+changed:     20140723
+status:      published
+
+nic-hdl-br:  FAVCO2
+person:      Fabricio V. Costa
+created:     20070504
+changed:     20080520
+
+nic-hdl-br:  ROQBA5
+person:      Rodrigo Queiroga Barros
+created:     20130301
+changed:     20130806
+
+

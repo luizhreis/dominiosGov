@@ -1,0 +1,27 @@
+
+
+
+domain:      radiobras.gov.br
+owner:       EMPRESA BRASIL DE COMUNICACAO S.A. - EBC
+responsible: Ricardo Fontes
+country:     BR
+owner-c:     RSM9
+admin-c:     RSM9
+tech-c:      RSM9
+billing-c:   RSM9
+nserver:     ns1.radiobras.gov.br 201.57.198.40 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.radiobras.gov.br 189.9.0.21 
+nsstat:      20160630 NOT SYNC ZONE
+nslastaa:    20160630
+created:     19960813 #13827
+changed:     20150522
+status:      published
+
+nic-hdl-br:  RSM9
+person:      José Wilson Barbosa Souto
+created:     19980310
+changed:     20140417
+
+

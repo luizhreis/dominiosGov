@@ -1,0 +1,37 @@
+
+
+
+domain:      fundacentro-pe.gov.br
+owner:       FUNDACENTRO - FUNDACAO JORGE DUPRAT FIGUEIREDO DE
+responsible: Audrovando M. de Lima
+country:     BR
+owner-c:     AML656
+admin-c:     AML656
+tech-c:      HOT7
+billing-c:   DAM8
+nserver:     ns1.hotlink.com.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20141213
+nserver:     ns2.hotlink.com.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20141213
+created:     19971212 #75337
+changed:     20110613
+status:      published
+
+nic-hdl-br:  AML656
+person:      Audrovando M. de Lima
+created:     20050524
+changed:     20110613
+
+nic-hdl-br:  DAM8
+person:      Daniel Martins
+created:     19980129
+changed:     19980129
+
+nic-hdl-br:  HOT7
+person:      HOTlink Informática LTDA
+created:     20000610
+changed:     20151026
+
+

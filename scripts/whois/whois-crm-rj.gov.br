@@ -1,0 +1,27 @@
+
+
+
+domain:      crm-rj.gov.br
+owner:       Conselho Regional de Medicina - CREMERJ
+responsible: André Pamplona
+country:     BR
+owner-c:     ALM784
+admin-c:     ALM784
+tech-c:      ALM784
+billing-c:   ALM784
+nserver:     ns1.crm-rj.gov.br 187.72.57.76 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.crm-rj.gov.br 187.72.57.77 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20081201 #5089377
+changed:     20150704
+status:      published
+
+nic-hdl-br:  ALM784
+person:      Aloisio Miranda
+created:     20020904
+changed:     20110829
+
+

@@ -1,0 +1,33 @@
+
+
+
+domain:      aviacaocivil.gov.br
+owner:       Secretaria de Aviação Civil
+responsible: Secretaria de Aviação Civil
+country:     BR
+owner-c:     ELLPA12
+admin-c:     SEACI
+tech-c:      SEACI
+billing-c:   SEACI
+nserver:     alpha.planalto.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+saci:        yes
+created:     20110601 #8349031
+changed:     20110601
+status:      published
+
+nic-hdl-br:  ELLPA12
+person:      ELISEU LEMOS PADILHA
+created:     20150527
+changed:     20150714
+
+nic-hdl-br:  SEACI
+person:      SECRETARIA DE AVIAÇÃO CIVIL
+created:     20110511
+changed:     20110511
+
+

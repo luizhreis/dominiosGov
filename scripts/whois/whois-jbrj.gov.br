@@ -1,0 +1,32 @@
+
+
+
+domain:      jbrj.gov.br
+owner:       INSTITUTO DE PESQUISAS JARDIM BOTANICO DO RIO =
+responsible: Renato M. Pizarro Drummond
+country:     BR
+owner-c:     MGP95
+admin-c:     RMP6
+tech-c:      MGP95
+billing-c:   RMP6
+nserver:     cactus.jbrj.gov.br 200.20.168.74 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     guanabara.rederio.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19970910 #57014
+changed:     20150820
+status:      published
+
+nic-hdl-br:  MGP95
+person:      Marcelo Gonçalves Pereira
+created:     20040116
+changed:     20120403
+
+nic-hdl-br:  RMP6
+person:      Renato M. Pizarro
+created:     19980202
+changed:     20090824
+
+

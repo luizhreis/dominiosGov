@@ -1,0 +1,27 @@
+
+
+
+domain:      eafsi.gov.br
+owner:       Escola Agrotécnica Federal de Santa Inês - Bahia
+responsible: Nilton de Santana dos Santos
+country:     BR
+owner-c:     NSS21
+admin-c:     NSS21
+tech-c:      NSS21
+billing-c:   NSS21
+nserver:     ns1.eafsi.gov.br 200.130.129.2 
+nsstat:      20160701 CREFUSED
+nslastaa:    20110416
+nserver:     ns1.agronet.gov.br  
+nsstat:      20160701 ERR
+nslastaa:    20110421
+created:     20050615 #2190774
+changed:     20120518
+status:      published
+
+nic-hdl-br:  NSS21
+person:      Nilton de Santana dos Santos
+created:     20000607
+changed:     20050603
+
+

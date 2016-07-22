@@ -1,0 +1,37 @@
+
+
+
+domain:      pbqp-h.gov.br
+owner:       Ministério das Cidades
+responsible: Ilton José Fernandes Filho
+country:     BR
+owner-c:     IJFFI
+admin-c:     CFMSI14
+tech-c:      IJFFI
+billing-c:   YUONI
+nserver:     ns1.pbqp-h.gov.br 200.198.212.137 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.pbqp-h.gov.br 200.198.212.138 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19980604 #100651
+changed:     20140924
+status:      published
+
+nic-hdl-br:  CFMSI14
+person:      CLEBER FRANCO MADUREIRA E SILVA
+created:     20140317
+changed:     20140317
+
+nic-hdl-br:  IJFFI
+person:      Ilton José Fernandes Filho
+created:     20140828
+changed:     20140924
+
+nic-hdl-br:  YUONI
+person:      YUITI OKI NIYAMA
+created:     20140321
+changed:     20160204
+
+

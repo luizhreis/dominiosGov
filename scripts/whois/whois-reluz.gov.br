@@ -1,0 +1,32 @@
+
+
+
+domain:      reluz.gov.br
+owner:       CENTRAIS ELETRICAS BRASILEIRAS SA
+responsible: Paulo Roberto Mandarino
+country:     BR
+owner-c:     JMMSA2
+admin-c:     JMMSA2
+tech-c:      VABSI7
+billing-c:   JMMSA2
+nserver:     dns1.eletrobras.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns2.eletrobras.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20001106 #453442
+changed:     20091005
+status:      published
+
+nic-hdl-br:  JMMSA2
+person:      Jane Maria Melo Santos
+created:     20090316
+changed:     20090316
+
+nic-hdl-br:  VABSI7
+person:      Vanessa Barbosa e Silva
+created:     20071004
+changed:     20071004
+
+

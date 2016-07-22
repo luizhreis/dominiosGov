@@ -1,0 +1,33 @@
+
+
+
+domain:      tjdf.gov.br
+owner:       TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL
+responsible: Luiz Fernando Sirotheau Serique Junior
+country:     BR
+owner-c:     SERCO46
+admin-c:     SERCO46
+tech-c:      SERCO46
+billing-c:   SERCO46
+nserver:     ns01.tjdf.gov.br 200.9.130.11 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns02.tjdf.gov.br 200.9.130.12 
+nsstat:      20160628 AA
+nslastaa:    20160628
+dsrecord:    21211 RSA/SHA-1 01DDEE1F00A5B2EA283D32C7FBADAFDB72EC9357
+dsstatus:    20160628 DSOK
+dslastok:    20160628
+dsrecord:    21211 RSA/SHA-1 0F153EDE9D557D8AB93C2F502A8FFB3E0E761CBEB50175B3EE9EDBC0E41BCC28
+dsstatus:    20160628 DSOK
+dslastok:    20160628
+created:     19971009 #62157
+changed:     20160225
+status:      published
+
+nic-hdl-br:  SERCO46
+person:      Serviço de Redes de Comunicação
+created:     20151210
+changed:     20151210
+
+

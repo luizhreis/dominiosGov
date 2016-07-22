@@ -1,0 +1,27 @@
+
+
+
+domain:      eafcrato.gov.br
+owner:       Escola Agrotécnica Federal de Crato
+responsible: Eder Cardozo Gomes
+country:     BR
+owner-c:     LCL342
+admin-c:     LCL342
+tech-c:      LCL342
+billing-c:   LCL342
+nserver:     dns1.eafcrato.gov.br 200.129.24.98 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.eafcrato.gov.br 200.129.24.99 
+nsstat:      20160701 FAIL
+nslastaa:    20160411
+created:     20050530 #2139432
+changed:     20141009
+status:      published
+
+nic-hdl-br:  LCL342
+person:      Luiz Claudeivan Cruz Lima
+created:     20020123
+changed:     20160406
+
+

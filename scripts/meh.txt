@@ -1,0 +1,1504 @@
+Dominio:  cref4sp.gov.br	Nome: Conselho Regional de Educação Física do Est.de SP.	Cidade: São Paulo
+Dominio:  depv.gov.br	Nome: Departamento de Controle do Espaço Aéreo	Cidade: Rio de Janeiro
+Dominio:  funasa-sc.gov.br	Nome: FUNDACAO NACIONAL DE SAUDE - COORDENAÇÃO REGIONAL	Cidade: Florianopolis
+Dominio:  tre-pi.gov.br	Nome: Tribunal Regional Eleitoral do Piauí	Cidade: Teresína
+Dominio:  pcdl.gov.br	Nome: Primeira Comissao Brasileira Demarcadora de Limite	Cidade: Belem
+Dominio:  trevofederal.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  ahimor.gov.br	Nome: Administracao das Hidrovias da Amazonia Oriental	Cidade: Belém
+Dominio:  corensc.gov.br	Nome: Conselho Regional de Enfermagem de Santa Catarina	Cidade: Florianópolis
+Dominio:  sp.gov.br	Nome: Cia Proc. de Dados do Estado de S Paulo - Prodesp	Cidade: Taboão da Serra
+Dominio:  crbm3.gov.br	Nome: Conselho Regional de Biomedicina	Cidade: Goiânia
+Dominio:  mnba.gov.br	Nome: Museu Nacional de Belas Artes	Cidade: Rio de Janeiro
+Dominio:  xn--previdncia-r7a.gov.br	Nome: 	Cidade: Rio de Janeiro
+Dominio:  casadoscontos.gov.br	Nome: Centro Regional de Treinamento ESAF	Cidade: Belo Horizonte
+Dominio:  trt8.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO - 8A REGIAO	Cidade: Belém
+Dominio:  eln.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  trt3.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 3A REGIAO	Cidade: Belo Horizonte
+Dominio:  anp.gov.br	Nome: Agência Nacional do Petróleo, Gás Natural e Bioco.	Cidade: Rio de Janeiro
+Dominio:  faroldodesenvolvimento.gov.br	Nome: BANCO DO NORDESTE DO BRASIL S/A	Cidade: Fortaleza
+Dominio:  conseg.gov.br	Nome: Ministério da Justiça	Cidade: Brasília
+Dominio:  oconsumidor.gov.br	Nome: INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECN	Cidade: Rio de Janeiro
+Dominio:  dtceagw.gov.br	Nome: Comando da Aeronautica - SRPV-SP	Cidade: São Paulo
+Dominio:  trf4.gov.br	Nome: Tribunal Regional Federal da 4ª Região	Cidade: Porto Alegre
+Dominio:  cidadesdigitais.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  portalgoverno.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  foccopb.gov.br	Nome: Procuradoria da República na Paraíba	Cidade: João Pessoa
+Dominio:  crmvpaap.gov.br	Nome: Conselho Regional de Medicina Veterinaria Para	Cidade: Belém
+Dominio:  ccom.gov.br	Nome: Agencia Brasileira de Inteligencia	Cidade: Brasília
+Dominio:  crbm1.gov.br	Nome: Conselho Regional de Biomedicina 1º Regiao	Cidade: São Paulo
+Dominio:  radiocamara.gov.br	Nome: Camara dos Deputados	Cidade: Brasília
+Dominio:  abrasil.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  diariodajustica.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  brasilcultura.gov.br	Nome: MINISTERIO DAS RELACOES EXTERIORES	Cidade: Brasília
+Dominio:  ceplacdf.gov.br	Nome: Comissão Executiva do Plano da Lavoura Cacaueira	Cidade: Brasília
+Dominio:  crbio03.gov.br	Nome: Conselho Regional de Biologia - 3a. Região	Cidade: Porto Alegre
+Dominio:  coren-mg.gov.br	Nome: CONSELHO REGIONAL DE ENFERMAGEM DE MINAS GERAIS	Cidade: Belo Horizonte
+Dominio:  dataprev.gov.br	Nome: EMP. DE TEC. E INFORMACOES DA PREVIDENCIA SOCIAL	Cidade: Rio de Janeiro
+Dominio:  brmcc.gov.br	Nome: Departamento de Controle do Espaço Aéreo	Cidade: Rio de Janeiro
+Dominio:  purn.gov.br	Nome: Procuradoria da União no RN	Cidade: Natal
+Dominio:  in.gov.br	Nome: Imprensa Nacional/Presidência da República	Cidade: Brasília
+Dominio:  butantan.gov.br	Nome: Instituto Butantan	Cidade: São Paulo
+Dominio:  laracps.gov.br	Nome: LABORATORIO REGIONAL DE APOIO ANIMAL	Cidade: Campinas
+Dominio:  sdh.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  rededecontrole.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  cadastrominhacasaminhavida.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  planejamentoterritorial.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  cortesmercosul.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  caixavirtual.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  brasilexport.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  e-conta.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  tesourotransparente.gov.br	Nome: Secretaria do Tesouro Nacional	Cidade: Brasília
+Dominio:  irb-brasilre.gov.br	Nome: IRB - BRASIL RESSEGUROS SA	Cidade: Rio de Janeiro
+Dominio:  torcidalegal.gov.br	Nome: ME - Ministerio do Esporte	Cidade: Brasília
+Dominio:  sivam.gov.br	Nome: COMISSAO DE IMPLANTACAO DO SISTEMA DE CONTROLE DO	Cidade: RIO DE JANEIRO
+Dominio:  saofrancisco.gov.br	Nome: Companhia de Pesquisa de Recursos Minerais - CPRM	Cidade: Belo Horizonte
+Dominio:  jfceara.gov.br	Nome: JUSTICA FED DE PRIM INST SECAO JUD DO CEARA	Cidade: Fortaleza
+Dominio:  caupa.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  brasilia2010.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  parana.gov.br	Nome: CIA. DE TECNOL. DA INFOR. E COMUNICAÇÃO DO PARANÁ	Cidade: Curitiba
+Dominio:  participa.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  al.gov.br	Nome: FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS	Cidade: Maceió
+Dominio:  mg.gov.br	Nome: COMPANHIA DE TECNOLOGIA DA INFORMAÇÃO ESTADO MG	Cidade: Belo Horizonte
+Dominio:  portalconsular.gov.br	Nome: MINISTERIO DAS RELACOES EXTERIORES	Cidade: Brasília
+Dominio:  portodesantos.gov.br	Nome: COMPANHIA DOCAS DO EST DE SAO PAULO - CODESP	Cidade: Santos
+Dominio:  pame.gov.br	Nome: Parque de Material de Eletrônica da Aeronáutica	Cidade: Rio de Janeiro
+Dominio:  relacoesexteriores.gov.br	Nome: MINISTERIO DAS RELACOES EXTERIORES	Cidade: Brasília
+Dominio:  senador.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  ans-saude.gov.br	Nome: Agencia Nacional de Saude Suplementar	Cidade: Rio de Janeiro
+Dominio:  enamat.gov.br	Nome: TRIBUNAL SUPERIOR DO TRABALHO	Cidade: Brasília
+Dominio:  jbrj.gov.br	Nome: INSTITUTO DE PESQUISAS JARDIM BOTANICO DO RIO =	Cidade: Rio de Janeiro
+Dominio:  pndrss.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  portosempapel.gov.br	Nome: SECRETARIA DE PORTOS DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  rais.gov.br	Nome: SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  pgfn.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  mpu.gov.br	Nome: Ministerio Publico da Uniao	Cidade: Brasilia
+Dominio:  inss.gov.br	Nome: DATAPREV DF	Cidade: Brasília
+Dominio:  prt16.gov.br	Nome: PROCURADORIA REGIONAL DO TRABALHO DA 16a REGIAO	Cidade: SAO LUIS
+Dominio:  cnv.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  caurs.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  crq-9.gov.br	Nome: CONSELHO REGIONAL DE QUÍMICA DA 9A REGIÃO	Cidade: Curitiba
+Dominio:  epost.gov.br	Nome: Empresa Brasileira de Correios e Telégrafos	Cidade: Brasília
+Dominio:  pesquisa.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  informacao.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  pessoacomdeficiencia.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  museudoindio.gov.br	Nome: Museu do Índio - Fundação Nacional do Índio	Cidade: Rio de Janeiro
+Dominio:  eafspb.gov.br	Nome: ESCOLA AGROTECNICA FEDERAL DE SOUSA	Cidade: SOUSA
+Dominio:  eletrofurnas.gov.br	Nome: Furnas Centrais Elétricas S.A.	Cidade: Rio de Janeiro
+Dominio:  cnarq.gov.br	Nome: Arquivo Nacional	Cidade: Rio de Janeiro
+Dominio:  fgts.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  exportadoresbrasilenos.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  agricultura.gov.br	Nome: MINISTERIO DA AGRICULTURA E DO ABASTECIMENTO	Cidade: Brasília
+Dominio:  netminas.gov.br	Nome: COMPANHIA DE TECNOLOGIA DA INFORMAÇÃO ESTADO MG	Cidade: Belo Horizonte
+Dominio:  coren-ba.gov.br	Nome: Conselho Regional de Enfermagem da Bahia	Cidade: Salvador
+Dominio:  mpt.gov.br	Nome: MINISTERIO PUBLICO DO TRABALHO	Cidade: Brasília
+Dominio:  cidadaniafinanceira.gov.br	Nome: Banco Central do Brasil	Cidade: Brasília
+Dominio:  prsc.gov.br	Nome: PROCURADORIA DA REPUBLICA EM SANTA CATARINA	Cidade: Florianopolis
+Dominio:  corenpb.gov.br	Nome: CONSELHO REGIONAL DE ENFERMAGEM DA PARAIBA	Cidade: João Pessoa
+Dominio:  manausenergia.gov.br	Nome: Manaus Energia S/A	Cidade: Manaus
+Dominio:  gesac.gov.br	Nome: Ministério das Comunicações	Cidade: Brasília
+Dominio:  ceturb.gov.br	Nome: Comp de Transp Urb da Grande Vitória	Cidade: Vitória
+Dominio:  radiojustica.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  nordesteeletronico.gov.br	Nome: BANCO DO NORDESTE DO BRASIL S/A	Cidade: Fortaleza
+Dominio:  mincrj.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  eafst.gov.br	Nome: Escola Agrotécnica de Santa Teresa	Cidade: Santa Teresa
+Dominio:  eafcrato.gov.br	Nome: Escola Agrotécnica Federal de Crato	Cidade: Crato
+Dominio:  institutochicomendes.gov.br	Nome: INSTITUTO CHICO MENDES DE CONS. DA BIODIVERSIDADE	Cidade: Brasília
+Dominio:  brasil.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  fundoamazonia-bndes.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  opeixeeaartedepescar.gov.br	Nome: Camara dos Deputados	Cidade: Brasília
+Dominio:  ancine.gov.br	Nome: Agencia Nacional do Cinema	Cidade: Brasília
+Dominio:  sgi.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  ibge2.gov.br	Nome: IBGE - Instituto Brasileiro de Geografia	Cidade: Rio de Janeiro
+Dominio:  teimozinha.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  caixaseguridade.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  eafrs.gov.br	Nome: Escola Agrotécnica Federal de Rio do Sul	Cidade: Rio do Sul
+Dominio:  crqsc.gov.br	Nome: CONSELHO REGIONAL DE QUIMICA DA 13A REGIAO.	Cidade: Florianópolis
+Dominio:  cop.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  portalambiental.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  sintegra.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  crbm5.gov.br	Nome: Conselho Regional de Biomedicina 5ª Região	Cidade: Porto Alegre
+Dominio:  guiadeservicos.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  trt9.gov.br	Nome: Tribunal Regional do Trabalho da 9ª Região	Cidade: Curitiba
+Dominio:  mt.gov.br	Nome: ESTADO DE MATO GROSSO	Cidade: Cuiabá
+Dominio:  a2000.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  brazilglobalnet.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  ma.gov.br	Nome: SEPLAN - Governo do Estado do Maranhão	Cidade: São Luís
+Dominio:  abcd.gov.br	Nome: ME - Ministerio do Esporte	Cidade: Brasília
+Dominio:  trtsp.gov.br	Nome: Tribunal Regional do Trabalho da 2a Regiao	Cidade: São Paulo
+Dominio:  worldcup2014.gov.br	Nome: ME - Ministerio do Esporte	Cidade: Brasília
+Dominio:  portosrio.gov.br	Nome: Companhia Docas do Rio de Janeiro	Cidade: Rio de Janeiro
+Dominio:  pru-pe.gov.br	Nome: Advocacia Geral da União	Cidade: Recife
+Dominio:  inova.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  aviacaocivil.gov.br	Nome: Secretaria de Aviação Civil	Cidade: Brasília
+Dominio:  cjf.gov.br	Nome: CONSELHO DA JUSTICA FEDERAL	Cidade: Brasília
+Dominio:  ada.gov.br	Nome: Superintedência do Denvolvimento da Amazônia	Cidade: Belém
+Dominio:  cofeci.gov.br	Nome: CONSELHO FEDERAL DE CORRETORES DE IMÓVEIS	Cidade: Brasília
+Dominio:  crm.gov.br	Nome: Companhia Riograndense de Mineração	Cidade: Porto Alegre
+Dominio:  informacaoecidadania.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  sisbacen.gov.br	Nome: Banco Central do Brasil	Cidade: Brasília
+Dominio:  apec.gov.br	Nome: FUNDAÇÃO NACIONAL DE SAÚDE	Cidade: Brasília
+Dominio:  mte.gov.br	Nome: MINISTERIO DO TRABALHO E EMPREGO	Cidade: Brasília
+Dominio:  ines.gov.br	Nome: Instituto Nacional de Educacao de Surdos	Cidade: Rio de Janeiro
+Dominio:  ic-brazil.gov.br	Nome: Centro de Tecnologia da Informação Renato Archer	Cidade: Campinas
+Dominio:  redejudiciario.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  loteriaesportiva.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  iphan.gov.br	Nome: Instituto do Patrimônio Histórico e Artístico Nac.	Cidade: Brasília
+Dominio:  biodiversidade.gov.br	Nome: INSTITUTO CHICO MENDES DE CONS. DA BIODIVERSIDADE	Cidade: Brasília
+Dominio:  colab.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  tre-ro.gov.br	Nome: Tribunal Regional Eleitoral de Rondônia	Cidade: Porto Velho
+Dominio:  cref4.gov.br	Nome: Conselho Regional de Educação Física do Est.de SP.	Cidade: São Paulo
+Dominio:  trensurb.gov.br	Nome: MINISTERIO DOS TRANSPORTES	Cidade: Brasília
+Dominio:  frameworkdemoiselle.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  crqpr.gov.br	Nome: CONSELHO REGIONAL DE QUÍMICA DA 9A REGIÃO	Cidade: Curitiba
+Dominio:  avancabrasil.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  cref-sp.gov.br	Nome: Conselho Regional de Educação Física do Est.de SP.	Cidade: São Paulo
+Dominio:  qualidadedoleite.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  sedh.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  crmvsp.gov.br	Nome: Conselho Regional de Med.Veterinária de SP	Cidade: São Paulo
+Dominio:  btn.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  guiafacilgps.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  am.gov.br	Nome: PRODAM Processamento de Dados Amazonas S.A	Cidade: Manaus
+Dominio:  antaq.gov.br	Nome: AGENCIA NACIONAL DE TRANSPORTES AQUAVIARIOS	Cidade: Brasília
+Dominio:  defencil.gov.br	Nome: MINISTERIO DA INTEGRACAO NACIONAL	Cidade: Brasília
+Dominio:  recadastramento.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  meioambiente.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  pr.gov.br	Nome: CIA. DE TECNOL. DA INFOR. E COMUNICAÇÃO DO PARANÁ	Cidade: Curitiba
+Dominio:  cindacta2.gov.br	Nome: Segundo Centro Integrado de Contr. Trafego Aéreo	Cidade: Curitiba
+Dominio:  memoriasreveladas.gov.br	Nome: Arquivo Nacional	Cidade: Rio de Janeiro
+Dominio:  maerj.gov.br	Nome: Departamento de Controle do Espaço Aéreo - SDTI	Cidade: Rio de Janeiro
+Dominio:  crecies.gov.br	Nome: Conselho Regional de Corretores de Imóveis/13 Reg.	Cidade: Vitória
+Dominio:  dnrc.gov.br	Nome: DEPARTAMENTO NACIONAL DE REGISTRO DO COMERCIO	Cidade: Brasília
+Dominio:  codesp.gov.br	Nome: COMPANHIA DOCAS DO EST DE SAO PAULO - CODESP	Cidade: Santos
+Dominio:  eletronorte.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  dinheiroemcaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  trtwap.gov.br	Nome: Tribunal Regional do Trabalho da 2a Regiao	Cidade: São Paulo
+Dominio:  portaldoinvestidor.gov.br	Nome: CVM - COMISSAO DE VALORES MOBILIARIOS	Cidade: Rio de Janeiro
+Dominio:  preps.gov.br	Nome: Ministério da Pesca e Aquicultura	Cidade: Brasília
+Dominio:  xn--certidodenascimento-0vb.gov.br	Nome: 	Cidade: Brasília
+Dominio:  an.gov.br	Nome: Arquivo Nacional	Cidade: Rio de Janeiro
+Dominio:  acs.gov.br	Nome: ALCANTARA CYCLONE SPACE - BINACIONAL	Cidade: Brasília
+Dominio:  servicoflorestal.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  tre-pe.gov.br	Nome: Tribunal Regional Eleitoral do Pernambuco	Cidade: Recife
+Dominio:  tre-rn.gov.br	Nome: Tribunal Regional Eleitoral do Rio Grande do Norte	Cidade: Natal
+Dominio:  bancodeconteudos.gov.br	Nome: Ministerio da Cultura	Cidade: São Paulo
+Dominio:  cra-amrr.gov.br	Nome: CONSELHO REGIONAL DE ADMINISTRAÇÃO DO AMAZONAS	Cidade: Manaus
+Dominio:  cprmba.gov.br	Nome: Companhia de Pesquisa de Recursos Minerais	Cidade: Salvador
+Dominio:  corenmg.gov.br	Nome: CONSELHO REGIONAL DE ENFERMAGEM DE MINAS GERAIS	Cidade: Belo Horizonte
+Dominio:  jfrs.gov.br	Nome: Justica Federal de Primeiro Grau no RS	Cidade: Porto Alegre
+Dominio:  territoriosdacidadania.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  fiscalizario2016.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  crq13.gov.br	Nome: CONSELHO REGIONAL DE QUIMICA DA 13A REGIAO.	Cidade: Florianópolis
+Dominio:  crecimg.gov.br	Nome: Conselho Regional de Corretores de Imoveis	Cidade: Belo Horizonte
+Dominio:  tre-ms.gov.br	Nome: Tribunal Regional Eleitoral de MS	Cidade: Campo Grande
+Dominio:  ctac.gov.br	Nome: FUNDAÇÃO NACIONAL DE ARTES	Cidade: Rio de Janeiro
+Dominio:  comprasgovernamentais.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  mpdf.gov.br	Nome: Ministério Público do DF e Territórios	Cidade: Brasília
+Dominio:  segov.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  seti.gov.br	Nome: SECRETARIA DE ESTADO DA CIENCIA, TECNOLOGIA	Cidade: Curitiba
+Dominio:  tre-to.gov.br	Nome: Tribunal Regional Eleitoral do Tocantins	Cidade: Palmas
+Dominio:  portalbrasil.gov.br	Nome: EMPRESA BRASIL DE COMUNICACAO S.A. - EBC	Cidade: Brasília
+Dominio:  caminhaodasorte.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  iec.gov.br	Nome: FNS - Instituto Evandro Chagas	Cidade: Ananindeua
+Dominio:  creci-ce.gov.br	Nome: Conselho Regional de Corretores de Imoveis do CE	Cidade: Fortaleza
+Dominio:  pdp.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  cidades.gov.br	Nome: Ministério das Cidades	Cidade: Brasília
+Dominio:  ceplac.gov.br	Nome: COMISSAO EXECUTIVA DO PLANO DA LAVOURA CACAUEIRA	Cidade: Ilhéus
+Dominio:  cbee.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  labcluster.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  protocolo.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  loteca.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  pescabrasil.gov.br	Nome: Ministério da Pesca e Aquicultura	Cidade: Brasília
+Dominio:  tre-ba.gov.br	Nome: Tribunal Regional Eleitoral da Bahia	Cidade: Salvador
+Dominio:  finep.gov.br	Nome: FINANCIADORA DE ESTUDOS E PROJETOS - FINEP	Cidade: Rio de Janeiro
+Dominio:  florestal.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  loteriafederal.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  caixadotesouro.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  coren-ap.gov.br	Nome: Conselho Regional de Enfermagem do Amapá - Coren	Cidade: Macapá
+Dominio:  eafguanambi.gov.br	Nome: Escola Agrotécnica Federal Antônio José Teixeira	Cidade: Guanambi
+Dominio:  fjp.gov.br	Nome: FUNDACAO JOAO PINHEIRO	Cidade: Belo Horizonte
+Dominio:  denatran.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  sepm.gov.br	Nome: Secretaria Especial de Politícas para as Mulheres	Cidade: BRASILIA
+Dominio:  amapa.gov.br	Nome: PRODAP - C. de Gestão da Tecnologia da Informação	Cidade: Macapá
+Dominio:  poupeenergia.gov.br	Nome: MINISTERIO DE MINAS E ENERGIA	Cidade: Brasília
+Dominio:  unijus.gov.br	Nome: SUPERIOR TRIBUNAL DE JUSTICA	Cidade: Brasília
+Dominio:  tre-se.gov.br	Nome: Tribunal Regional Eleitoral de Sergipe	Cidade: Aracaju
+Dominio:  governancapublica.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  cauma.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  brazil.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  jfes.gov.br	Nome: Justiça Federal de 1º Grau no Espírito Santo	Cidade: Vitória
+Dominio:  iufro2019.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  cauro.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  direitosdacrianca.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  reste.gov.br	Nome: Companhia de Pesquisa de Recursos Minerais	Cidade: Teresina
+Dominio:  to.gov.br	Nome: Governo do Estado do Tocantins	Cidade: Palmas
+Dominio:  mi.gov.br	Nome: MINISTERIO DA INTEGRACAO NACIONAL	Cidade: Brasília
+Dominio:  cetene.gov.br	Nome: Ministério da Ciência, Tecnologia e Inovação	Cidade: Recife
+Dominio:  vispublica.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  eafsrbonfim.gov.br	Nome: Escola Agrotecnica Federal de Senhor do Bonfim	Cidade: Senhor do Bonfim
+Dominio:  cprm-sp.gov.br	Nome: Companhia de Pesquisa de Recursos Minerais	Cidade: São Paulo
+Dominio:  scdp.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  eafsertao.gov.br	Nome: Escola Agrotécnica Federal de Sertão	Cidade: Sertão
+Dominio:  mp-df.gov.br	Nome: Ministério Público do DF e Territórios	Cidade: Brasília
+Dominio:  ceasa.gov.br	Nome: COMPANHIA NACIONAL DE ABASTECIMENTO	Cidade: Brasília
+Dominio:  agenciabrasil.gov.br	Nome: EMPRESA BRASIL DE COMUNICACAO S.A. - EBC	Cidade: Brasília
+Dominio:  cgna.gov.br	Nome: Departamento de Controle do Espaço Aéreo	Cidade: Rio de Janeiro
+Dominio:  unasus.gov.br	Nome: FUNDACAO OSWALDO CRUZ	Cidade: Brasília
+Dominio:  redesim.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  caupb.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  govbankingcaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  acessoajustica.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  programadorabrasil.gov.br	Nome: MINISTÉRIO DA CULTURA / CINEMATECA BRASILEIRA	Cidade: São Paulo
+Dominio:  copadacultura.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  maisbrasil.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  businessbrasil.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  veracruz-rs.gov.br	Nome: Vera Cruz Prefeitura Municipal	Cidade: Vera Cruz
+Dominio:  fomezero.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  prodemge.gov.br	Nome: COMPANHIA DE TECNOLOGIA DA INFORMAÇÃO ESTADO MG	Cidade: Belo Horizonte
+Dominio:  banconordeste.gov.br	Nome: BANCO DO NORDESTE DO BRASIL S/A	Cidade: Fortaleza
+Dominio:  semanaenef.gov.br	Nome: CVM - COMISSAO DE VALORES MOBILIARIOS	Cidade: Rio de Janeiro
+Dominio:  ceara.gov.br	Nome: Secretaria da Administração	Cidade: Fortaleza
+Dominio:  epe.gov.br	Nome: Empresa de Pesquisa Energética	Cidade: Rio de Janeiro
+Dominio:  agronet-pe.gov.br	Nome: ESCOLA AGROTECNICA FEDERAL DE BELO JARDIM	Cidade: Belo Jardim
+Dominio:  lotomania.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  cnen.gov.br	Nome: Comissão Nacional de Energia Nuclear	Cidade: Rio de Janeiro
+Dominio:  conter.gov.br	Nome: Conselho Nacional de Téc. em Radiologia - Conter	Cidade: Brasília
+Dominio:  peticaoeletronica.gov.br	Nome: Justica Federal de Primeiro Grau no RS	Cidade: Porto Alegre
+Dominio:  crt.gov.br	Nome: COMPANHIA RIOGRANDENSE DE TELECOMUNICACOES	Cidade: Porto Alegre
+Dominio:  brasilsemmiseria.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  governo.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  rededojudiciario.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  cauam.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  mincsp.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  creci-es.gov.br	Nome: Conselho Regional de Corretores de Imóveis/13 Reg.	Cidade: Vitória
+Dominio:  sc.gov.br	Nome: Centro de Informatica e Automacao do Estado de SC	Cidade: Florianópolis
+Dominio:  cefetsvs.gov.br	Nome: INSTITUTO FEDERAL FARROUPILHA	Cidade: São Vicente do Sul
+Dominio:  corenma.gov.br	Nome: Conselho Regional de Enfermagem - COREN/MA	Cidade: São Luís
+Dominio:  rotasdascidades.gov.br	Nome: Ministério das Cidades	Cidade: Brasília
+Dominio:  dom.gov.br	Nome: Projeto Dom Helder Câmara	Cidade: Recife
+Dominio:  faesa-oscip.gov.br	Nome: FEDERAÇÃO DAS ASSOC. E ENTID. P/ DESENV. SEMIÁRIDO	Cidade: Jaguarari
+Dominio:  prt21.gov.br	Nome: Procuradoria Regional do Trabalho - 21ª Região	Cidade: Natal
+Dominio:  trf2.gov.br	Nome: TRIBUNAL REGIONAL FEDERAL DA 2A. REGIAO	Cidade: Rio de Janeiro
+Dominio:  fbn.gov.br	Nome: FUNDACAO BIBLIOTECA NACIONAL	Cidade: Rio de Janeiro
+Dominio:  radiobras.gov.br	Nome: EMPRESA BRASIL DE COMUNICACAO S.A. - EBC	Cidade: Brasília
+Dominio:  planobrasil.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  controle.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  bolaofederal.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  genero.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  consumosustentavel.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  emgea.gov.br	Nome: Empresa Gestora de Ativos - EMGEA	Cidade: Brasília
+Dominio:  jef-rs.gov.br	Nome: Justica Federal de Primeiro Grau no RS	Cidade: Porto Alegre
+Dominio:  passaporteverde.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  lapa-pe.gov.br	Nome: Ministério da Agricultura - DFA - Lapa - Recife	Cidade: Recife
+Dominio:  trt11.gov.br	Nome: Tribunal Regional do Trabalho - 11ª Região	Cidade: Manaus
+Dominio:  minhacasaminhavida.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  almg.gov.br	Nome: ASSEMBLEIA LEGISLATIVA DE MINAS GERAIS	Cidade: Belo Horizonte
+Dominio:  ibamanet.gov.br	Nome: INSTITUTO BRASILEIRO DO MEIO AMBIENTE	Cidade: Brasilia
+Dominio:  mega-sena.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  crmvrs.gov.br	Nome: onselho Reg.de Medicina Veterinaria do RS-CRMV	Cidade: Porto Alegre
+Dominio:  dner-ms.gov.br	Nome: DNER - DEPTº NAC. DE ESTRADAS E RODAGENS	Cidade: Campo Grande
+Dominio:  bvenergia.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  sigepe.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  nordestedigital.gov.br	Nome: BANCO DO NORDESTE DO BRASIL S/A	Cidade: Fortaleza
+Dominio:  caixacultural.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  energiaboavista.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  cra-pr.gov.br	Nome: Conselho Regional de Administração do Paraná	Cidade: Curitiba
+Dominio:  fundoamazonia.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  presidencia.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  ctav.gov.br	Nome: Ministerio da Cultura	Cidade: São Paulo
+Dominio:  cenad.gov.br	Nome: MINISTERIO DA INTEGRACAO NACIONAL	Cidade: Brasília
+Dominio:  c-brasil.gov.br	Nome: SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  crecigo.gov.br	Nome: CONSELHO REG. DE CORRETORES DE IMOVEIS 5ªREGIAO/GO	Cidade: Goiânia
+Dominio:  cnmp.gov.br	Nome: CONSELHO NACIONAL DO MINISTERIO PUBLICO	Cidade: Brasília
+Dominio:  jfms.gov.br	Nome: Justiça Federal de 1ª Instância	Cidade: Campo Grande
+Dominio:  cfmv.gov.br	Nome: CONSELHO FEDERAL DE MEDICINA VETERINARIA	Cidade: Brasília
+Dominio:  brasilsemiseria.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  loto-tauloteriadacopa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  sudeco.gov.br	Nome: SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO CENTRO-OEST	Cidade: Brasília
+Dominio:  mda.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  sp-trt.gov.br	Nome: Tribunal Regional do Trabalho da 2a Regiao	Cidade: São Paulo
+Dominio:  cdes.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  aeb.gov.br	Nome: Agência Espacial Brasileira	Cidade: Brasília
+Dominio:  amazonianfund.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  vozdobrasil.gov.br	Nome: EMPRESA BRASIL DE COMUNICACAO S.A. - EBC	Cidade: Brasília
+Dominio:  pbqp.gov.br	Nome: INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECN	Cidade: Rio de Janeiro
+Dominio:  dialogabrasil.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  mc.gov.br	Nome: Ministério das Comunicações	Cidade: Brasília
+Dominio:  serpro.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  chequeazul.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  trtrio.gov.br	Nome: Tribunal Regional do Trabalho da 1a Região	Cidade: Rio de Janeiro
+Dominio:  data.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  agrolivre.gov.br	Nome: EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA	Cidade: Campinas
+Dominio:  jfrj.gov.br	Nome: JUSTICA FEDERAL DE PRIMEIRO GRAU NO RIO DE JANEIR	Cidade: Rio de Janeiro
+Dominio:  spmulheres.gov.br	Nome: Secretaria Especial de Politícas para as Mulheres	Cidade: BRASILIA
+Dominio:  cprmbh.gov.br	Nome: Companhia de Pesquisa de Recursos Minerais - CPRM	Cidade: Belo Horizonte
+Dominio:  cef.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  comunicacaosocial.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  cop15.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  dialogosfederativos.gov.br	Nome: Subchefia de Assuntos Federativos	Cidade: Brasília
+Dominio:  trevodasorte.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  aviacao.gov.br	Nome: Secretaria de Aviação Civil	Cidade: Brasília
+Dominio:  selic.gov.br	Nome: Banco Central do Brasil	Cidade: Rio de Janeiro
+Dominio:  cndrs.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  datasus.gov.br	Nome: Ministério da Saúde	Cidade: Rio de Janeiro
+Dominio:  defesaagropecuaria.gov.br	Nome: Secretaria de Defesa Agropecuaria	Cidade: Brasilia
+Dominio:  desaparecidos.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  projetodomhelder.gov.br	Nome: Projeto Dom Helder Câmara	Cidade: Recife
+Dominio:  crcn.gov.br	Nome: Centro Regional de Ciencias Nucleares	Cidade: Recife
+Dominio:  nossoambiente.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  novoaeroportorecife.gov.br	Nome: INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA	Cidade: Recife
+Dominio:  inma.gov.br	Nome: MUSEU DE BIOLOGIA PROFESSOR MELLO LEITAO	Cidade: Santa Teresa
+Dominio:  infraestruturabrasil.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  telebrasilia.gov.br	Nome: TELEBRASILIA S.A. (576)	Cidade: Brasilia
+Dominio:  dnpmsc.gov.br	Nome: DNPM - 11º Distrito	Cidade: Florianópolis
+Dominio:  supersenaduplachance.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  crbio-3.gov.br	Nome: Conselho Regional de Biologia - 3a. Região	Cidade: Porto Alegre
+Dominio:  aleam.gov.br	Nome: ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS	Cidade: MANAUS
+Dominio:  registrocivil.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  presidenciadarepublica.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  redecontrole.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  mpf.gov.br	Nome: MINISTERIO PUBLICO FEDERAL - PROCURADORIA GERAL DA	Cidade: Brasília
+Dominio:  cnater.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  cprmpa.gov.br	Nome: Companhia de Pesquisas de Recursos Minerais CPRM	Cidade: Porto Alegre
+Dominio:  dner1drf.gov.br	Nome: DNER / 1º Distrito Rodoviário Federal	Cidade: Manaus
+Dominio:  pnll.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  transparenciapublica.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  crbio5.gov.br	Nome: Conselho Regional de Biologia 5ª Região	Cidade: Recife
+Dominio:  receita.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  caixaeconomicafederal.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  crbio2.gov.br	Nome: Conselho Regional Biologia 2ª Reg RJ/ES	Cidade: Rio de Janeiro
+Dominio:  dialoga.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  cefetbg.gov.br	Nome: Centro Federal de Educação Tecno Bento G	Cidade: Bento Gonçalves
+Dominio:  stj.gov.br	Nome: SUPERIOR TRIBUNAL DE JUSTICA	Cidade: Brasília
+Dominio:  mtps.gov.br	Nome: Ministério do Trabalho e Previdência Social	Cidade: Brasília
+Dominio:  cauap.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  deputado.gov.br	Nome: Camara dos Deputados	Cidade: Brasília
+Dominio:  certics.gov.br	Nome: Centro de Tecnologia da Informação Renato Archer	Cidade: Campinas
+Dominio:  portosdobrasil.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  comexbrasil.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  previdência.gov.brxn--previdncia-r7a.gov.br	Nome: EMP. DE TEC. E INFORMACOES DA PREVIDENCIA SOCIAL	Cidade: 
+Dominio:  cbnb.gov.br	Nome: TERCEIRO COMANDO AEREO REGIONAL	Cidade: Rio de Janeiro
+Dominio:  caupi.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  comexresponde.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  cenipa.gov.br	Nome: CENTRO DE INV E PREV DE ACIDENTES AERONÁUTICOS	Cidade: Brasília
+Dominio:  creditoruralcaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  trt4.gov.br	Nome: Tribunal Regional do Trabalho da 4 Regiao	Cidade: Porto Alegre
+Dominio:  tre-pa.gov.br	Nome: Tribunal Regional Eleitoral do Pará	Cidade: Belém
+Dominio:  ect.gov.br	Nome: Empresa Brasileira de Correios e Telégrafos	Cidade: Brasília
+Dominio:  creci-am.gov.br	Nome: CONSELHO REG DE CORRETORES DE IMOVEIS DO AMAZONAS	Cidade: Manaus
+Dominio:  jcdf.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  e-contacaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  acraiz.gov.br	Nome: Instituto Nacional de Tecnologia Informação - ITI	Cidade: Brasília
+Dominio:  integracao.gov.br	Nome: MINISTERIO DA INTEGRACAO NACIONAL	Cidade: Brasília
+Dominio:  ouvidoria.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  tjdft.gov.br	Nome: TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL	Cidade: Brasília
+Dominio:  infra-estruturabrasil.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  portaljt.gov.br	Nome: TRIBUNAL SUPERIOR DO TRABALHO	Cidade: Brasília
+Dominio:  culturaviva.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  coredopiaui.gov.br	Nome: Conselho Regional dos Representantes Coml. do Piau	Cidade: Teresina
+Dominio:  cnrh.gov.br	Nome: SECRETARIA DE RECURSOS HIDRICOS E AMBIENTE URBANO	Cidade: Brasília
+Dominio:  dnc.gov.br	Nome: Agência Nacional do Petróleo - DNC	Cidade: Rio de Janeiro
+Dominio:  igualdaderacial.gov.br	Nome: SECRETARIA ESPECIAL DE POLITICAS DE PROMOCAO DA IG	Cidade: Brasília
+Dominio:  direitoshumanos.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  jef-sc.gov.br	Nome: Justica Federal de Primeiro Grau no RS	Cidade: Porto Alegre
+Dominio:  cprm-be.gov.br	Nome: COMPANHIA DE PESQUISA DE RECURSOS MINERAIS	Cidade: Belem
+Dominio:  tre-es.gov.br	Nome: Tribunal Regional Eleitoral do Esprito do Santo	Cidade: Vitória
+Dominio:  epl.gov.br	Nome: Empresa de Planejamento e Logística S.A - EPL	Cidade: Brasília
+Dominio:  relacoesinstitucionais.gov.br	Nome: SECRETARIA DE RELACOES INSTITUCIONAIS DA PRESIDENC	Cidade: Brasília
+Dominio:  portaldoexportador.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  raspadinhadacaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  agenciacamara.gov.br	Nome: Camara dos Deputados	Cidade: Brasília
+Dominio:  cepec.gov.br	Nome: CEPLAC / CEPEC / NUCAD	Cidade: Ilhéus
+Dominio:  trtes.gov.br	Nome: Tribunal Regional do Trabalho 17ª Região	Cidade: Vitória
+Dominio:  eaf-sbf.gov.br	Nome: Escola Agrotecnica Federal de Senhor do Bonfim	Cidade: Senhor do Bonfim
+Dominio:  funpresp.gov.br	Nome: FUNDAÇÃO PREVIDÊNCIA COMPLEMENTAR SERVIDOR PUBLICO	Cidade: Brasília
+Dominio:  incra.gov.br	Nome: INCRA/INSTITUTO NACIONAL DE COLON E REF. AGRARIA	Cidade: Brasilia
+Dominio:  aeroportoindustrial.gov.br	Nome: INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA	Cidade: Brasília
+Dominio:  mpas.gov.br	Nome: Ministerio da Previdencia e Assistencia Social	Cidade: Brasília
+Dominio:  susep.gov.br	Nome: Superintendência de Seguros Privados	Cidade: Rio de Janeiro
+Dominio:  crmvrn.gov.br	Nome: Conselho Regional de Medicina Veterinária do RN	Cidade: Natal
+Dominio:  pru5.gov.br	Nome: Advocacia Geral da União	Cidade: Recife
+Dominio:  expresso.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  jornadasdip.gov.br	Nome: Ministério das Relações Exteriores - DCD	Cidade: Brasília
+Dominio:  cepesc.gov.br	Nome: Agencia Brasileira de Inteligencia	Cidade: Brasília
+Dominio:  tcu.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  pronera.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  crbio-pr.gov.br	Nome: conselho regional de biologia da setima região	Cidade: Curitiba
+Dominio:  inep.gov.br	Nome: INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIO	Cidade: Brasília
+Dominio:  crbio-7.gov.br	Nome: conselho regional de biologia da setima região	Cidade: Curitiba
+Dominio:  ibc.gov.br	Nome: Instituto Benjamin Constant	Cidade: Rio de Janeiro
+Dominio:  dtceamt.gov.br	Nome: Comando da Aeronautica - SRPV-SP	Cidade: São Paulo
+Dominio:  turismobrasil.gov.br	Nome: Ministério do Turismo	Cidade: Brasília
+Dominio:  xn--justia-0ua.gov.br	Nome: 	Cidade: Brasília
+Dominio:  citenel.gov.br	Nome: ANEEL - Agência Nacional de Energia Elétrica	Cidade: Brasília
+Dominio:  investexportbrazil.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  eafbambui.gov.br	Nome: CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE BAMBUÍ	Cidade: Bambuí
+Dominio:  maismedicos.gov.br	Nome: EMPRESA BRASILEIRA DE SERV HOSPITALARES - EBSERH	Cidade: Brasília
+Dominio:  supercaminhaodasorte.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  energiaheliotermica.gov.br	Nome: IBICT - MCTI	Cidade: Brasília
+Dominio:  riocmsi.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  fundacentro-ba.gov.br	Nome: FUNDACAO JORGE DUPRAT FIGUEIREDO DE SEG.E MED.TRAB	Cidade: Salvador
+Dominio:  xn--previdnciasocial-xqb.gov.br	Nome: 	Cidade: Brasília
+Dominio:  badesc.gov.br	Nome: AGENCIA DE FOMENTO DO ESTADO DE SANTA CATARINA S.A	Cidade: Florianópolis
+Dominio:  fnde.gov.br	Nome: FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO	Cidade: Brasília
+Dominio:  creci-pr.gov.br	Nome: CRECI-PR ORGANIZACAO DE CORRETORES DE IMOV=	Cidade: Curitiba
+Dominio:  caixamasterpass.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  inmetro-sc.gov.br	Nome: Inst Nac Metrologia e Norm Ind	Cidade: São José
+Dominio:  camex.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  supertrinca.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  gnre.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  inpi.gov.br	Nome: INPI - INSTITUTO NAC. DA PROPRIEDADE INDUSTRIAL	Cidade: Rio de Janeiro
+Dominio:  bacen.gov.br	Nome: Banco Central do Brasil	Cidade: Brasília
+Dominio:  cienciasemfronteiras.gov.br	Nome: FUNDACAO CAPES	Cidade: Brasília
+Dominio:  fibge.gov.br	Nome: FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE	Cidade: Rio de Janeiro
+Dominio:  socinfo.gov.br	Nome: IBICT - MCTI	Cidade: Brasília
+Dominio:  vivaleitura.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  crfsc.gov.br	Nome: Conselho Regional de Farmácia do Estado de SC	Cidade: Florianópolis
+Dominio:  gestaoemdestaque.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  saemec.gov.br	Nome: INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIO	Cidade: Brasília
+Dominio:  eusoumaismedico.gov.br	Nome: EMPRESA BRASILEIRA DE SERV HOSPITALARES - EBSERH	Cidade: Brasília
+Dominio:  prf.gov.br	Nome: Departamento de Polícia Rodoviária Federal	Cidade: Brasília
+Dominio:  convensi.gov.br	Nome: CONSELHO FEDERAL DE CORRETORES DE IMÓVEIS	Cidade: Brasília
+Dominio:  rffsa.gov.br	Nome: REDE FERROVIARIA FEDERAL S.A.	Cidade: Rio de Janeiro
+Dominio:  fab.gov.br	Nome: Centro de Computação da Aeronáutica de Brasília	Cidade: Brasília
+Dominio:  secretariageral.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  pb.gov.br	Nome: Companhia de Processamento de Dados da Paraiba	Cidade: João Pessoa
+Dominio:  investexportbrasil.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  trt17.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO - 17A REGIAO	Cidade: Vitória
+Dominio:  presalpetroleo.gov.br	Nome: Empresa Brasileira de Administração de Petroleo de	Cidade: Rio de Janeiro
+Dominio:  coegv.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  rrc.gov.br	Nome: Ministério da Ciência, Tecnologia e Inovação	Cidade: Recife
+Dominio:  caums.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  tecanet.gov.br	Nome: INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA	Cidade: Brasília
+Dominio:  justicafederal.gov.br	Nome: CONSELHO DA JUSTICA FEDERAL	Cidade: Brasília
+Dominio:  codomar.gov.br	Nome: Codomar - Companhia Docas do Maranhao	Cidade: Sao Luis
+Dominio:  irb.gov.br	Nome: IRB - BRASIL RESSEGUROS SA	Cidade: Rio de Janeiro
+Dominio:  colabora.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  cnpd.gov.br	Nome: IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA	Cidade: Brasília
+Dominio:  dpu.gov.br	Nome: Defensoria Pública-Geral da União	Cidade: Brasília
+Dominio:  coren-sp.gov.br	Nome: Conselho Regional de Enfermagem de SP	Cidade: São Paulo
+Dominio:  caixaoperadoradeseguros.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  creci-se.gov.br	Nome: CONSELHO REGIONAL CORRETORES DE IMOVEIS 16 REGIAO	Cidade: Aracaju
+Dominio:  rio.gov.br	Nome: Empresa Municipal de Informatica s/a	Cidade: Rio de Janeiro
+Dominio:  obrasnet.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  cdv.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  qualidadedealimentos.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  enap.gov.br	Nome: Escola Nacional de Administração Pública - ENAP	Cidade: Brasília
+Dominio:  caixaforte.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  museuimperial.gov.br	Nome: Museu Imperial	Cidade: Petrópolis
+Dominio:  aeroportoindustria.gov.br	Nome: INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA	Cidade: Brasília
+Dominio:  ceitec.gov.br	Nome: Centro Nacional de Tecnologia Eletronica Avancada	Cidade: Porto Alegre
+Dominio:  anssaude.gov.br	Nome: Agencia Nacional de Saude Suplementar	Cidade: Rio de Janeiro
+Dominio:  sisbin.gov.br	Nome: Agencia Brasileira de Inteligencia	Cidade: Brasília
+Dominio:  territoriosrurais.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  tre-ce.gov.br	Nome: Tribunal Regional Eleitoral do Ceará	Cidade: Fortaleza
+Dominio:  enccla.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  orint.gov.br	Nome: Agencia Brasileira de Inteligencia	Cidade: Brasília
+Dominio:  eafa-to.gov.br	Nome: Escola Agrotecnica Federal de Araguatins	Cidade: Araguatins
+Dominio:  jfce.gov.br	Nome: Justiça Federal no Ceará	Cidade: Fortaleza
+Dominio:  guiadeserviços.gov.brxn--guiadeservios-sgb.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: 
+Dominio:  corensp.gov.br	Nome: Conselho Regional de Enfermagem de SP	Cidade: São Paulo
+Dominio:  agriculturafamiliar.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  protocolointegrado.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  redecidadao.gov.br	Nome: CIA. DE TECNOL. DA INFOR. E COMUNICAÇÃO DO PARANÁ	Cidade: Curitiba
+Dominio:  crq7.gov.br	Nome: Conselho Regional de Quimica Vii Região	Cidade: Salvador
+Dominio:  ruralminas.gov.br	Nome: Fundação Rural Mineira - Ruralminas	Cidade: Belo Horizonte
+Dominio:  eafmanaus.gov.br	Nome: ESCOLA AGROTECNICA FEDERAL DE MANAUS	Cidade: MANAUS
+Dominio:  funarte.gov.br	Nome: FUNDAÇÃO NACIONAL DE ARTES	Cidade: Rio de Janeiro
+Dominio:  emdiacomopronaf.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  d.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  coletapilotocnae.gov.br	Nome: MINISTERIO DA FAZENDA	Cidade: Brasília
+Dominio:  portodevitoria.gov.br	Nome: COMPANHIA DOCAS DO ESPIRITO SANTO	Cidade: Vitoria
+Dominio:  casacivil.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  crimecongress2010.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  promocaocomercial.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  educacaofiscal.gov.br	Nome: Escola de Administração Fazendária	Cidade: Brasília
+Dominio:  egressos-esaf.gov.br	Nome: Escola de Administração Fazendária	Cidade: Brasília
+Dominio:  plenarinho.gov.br	Nome: Camara dos Deputados	Cidade: Brasília
+Dominio:  avozdobrasil.gov.br	Nome: EMPRESA BRASIL DE COMUNICACAO S.A. - EBC	Cidade: Brasília
+Dominio:  siop.gov.br	Nome: MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO-MP	Cidade: Brasília
+Dominio:  secretariadegoverno.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  xn--servios-yxa.gov.br	Nome: 	Cidade: Brasília
+Dominio:  servidor.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  cause.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  ba.gov.br	Nome: Cia. de Processamento de Dados do Estado da Bahia	Cidade: Salvador
+Dominio:  antarcticabrazil.gov.br	Nome: MINISTERIO DAS RELACOES EXTERIORES	Cidade: Brasília
+Dominio:  previc.gov.br	Nome: PREVIC Sup. Nacional de Previdência Complementar	Cidade: Brasília
+Dominio:  jt.gov.br	Nome: TRIBUNAL SUPERIOR DO TRABALHO	Cidade: Brasília
+Dominio:  transparencia.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  businessbrazil.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  valec.gov.br	Nome: VALEC - ENGENHARIA, CONSTRUÇÕES E FERROVIAS S.A.	Cidade: Brasília
+Dominio:  crescenordeste.gov.br	Nome: BANCO DO NORDESTE DO BRASIL S/A	Cidade: Fortaleza
+Dominio:  eafco.gov.br	Nome: Escola Agrotécnica Federal de Colorado do Oeste	Cidade: Colorado do Oeste
+Dominio:  cbh.gov.br	Nome: Agência Nacional de Águas	Cidade: Brasília
+Dominio:  somostodosbrasil.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  senasp.gov.br	Nome: Secretaria Nacional de Segurança Pública	Cidade: Brasília
+Dominio:  ec.gov.br	Nome: MINISTERIO DA SAUDE	Cidade: Brasília
+Dominio:  crtr01.gov.br	Nome: Conselho Regional de Tecnicos em Radiologia -01	Cidade: Brasília
+Dominio:  exportadoresbrasileiros.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  mma.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  ecobrancacaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  crbio06.gov.br	Nome: Conselho Regional de Biologia 6ª Região	Cidade: Manaus
+Dominio:  dominiopublico.gov.br	Nome: Ministério da Educação	Cidade: Brasília
+Dominio:  dnocs.gov.br	Nome: DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS	Cidade: Fortaleza
+Dominio:  ouvidorias.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  ce.gov.br	Nome: EMPRESA DE TECNOLOGIA DA INFORMACAO DO CEARA-ETICE	Cidade: Fortaleza
+Dominio:  forumsocinfo.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  caupr.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  crefsp.gov.br	Nome: Conselho Regional de Educação Física do Est.de SP.	Cidade: São Paulo
+Dominio:  fimdotrabalhoinfantil.gov.br	Nome: DTI/SE/MDS E COMBATE A FOME	Cidade: Brasília
+Dominio:  dfasp.gov.br	Nome: Delegacia Federal de Agricultura em São Paulo	Cidade: São Paulo
+Dominio:  cfbm.gov.br	Nome: CONSELHO FEDERAL DE BIOMEDICINA	Cidade: Ribeirão Preto
+Dominio:  ci-brasil.gov.br	Nome: Centro de Tecnologia da Informação Renato Archer	Cidade: Campinas
+Dominio:  sae.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  arquitetura.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  crtr17.gov.br	Nome: Conselho Regional de Técnicos em Radiologia 17ª Rg	Cidade: São Luís
+Dominio:  redepcs.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  govbrasil.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  prodepa.gov.br	Nome: PRODEPA - Processamento de Dados do Pará	Cidade: Belém
+Dominio:  pgi.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  sirc.gov.br	Nome: EMP. DE TEC. E INFORMACOES DA PREVIDENCIA SOCIAL	Cidade: Rio de Janeiro
+Dominio:  caixaaqui.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  proinfo.gov.br	Nome: Ministério da Educação	Cidade: Brasília
+Dominio:  topawa-kaa.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  publicgovernance.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  cdb.gov.br	Nome: Ministério das Relações Exteriores - DCD	Cidade: Brasília
+Dominio:  dpr.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  mulheres.gov.br	Nome: Secretaria Especial de Politícas para as Mulheres	Cidade: BRASILIA
+Dominio:  chesf.gov.br	Nome: COMPANHIA HIDROELETRICA DO SAO FRANCISCO	Cidade: Recife
+Dominio:  anvs.gov.br	Nome: Agencia Nacional de Vigilancia Sanitaria	Cidade: Brasília
+Dominio:  trt6.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 6A. REGIAO	Cidade: Recife
+Dominio:  prr4.gov.br	Nome: PROCURADORIA REGIONAL DA REPUBLICA DA 4ª REGIÃO	Cidade: Porto Alegre
+Dominio:  eletrosul.gov.br	Nome: Eletrosul Centrais Elétricas S.A.	Cidade: Florianópolis
+Dominio:  irbbrasilre.gov.br	Nome: IRB - BRASIL RESSEGUROS SA	Cidade: Rio de Janeiro
+Dominio:  portalexportacao.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  sisgen.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  mict.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  dtceatmrj.gov.br	Nome: Comando da Aeronautica - SRPV-SP	Cidade: São Paulo
+Dominio:  agu.gov.br	Nome: Advocacia-Geral da União	Cidade: Brasília
+Dominio:  turismo.gov.br	Nome: Ministério do Turismo	Cidade: Brasília
+Dominio:  ro.gov.br	Nome: Secretaria de Estado - SEPLAD - RO	Cidade: Porto Velho
+Dominio:  maranhao.gov.br	Nome: SEPLAN - Governo do Estado do Maranhão	Cidade: São Luís
+Dominio:  serviços.gov.brxn--servios-yxa.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: 
+Dominio:  ipeadata.gov.br	Nome: IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA	Cidade: Brasília
+Dominio:  trf3.gov.br	Nome: Tribunal Regional Federal da Terceira Regiao	Cidade: São Paulo
+Dominio:  brasiltradenet.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  eletronuclear.gov.br	Nome: Eletrobrás Termonuclear SA	Cidade: Rio de Janeiro
+Dominio:  brasiltransparente.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  amazoniafund.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  ird.gov.br	Nome: INSTITUTO DE RADIOPROTECAO E DOSIMETRIA	Cidade: Rio de Janeiro
+Dominio:  amazoniafundo.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  ensaiosclinicos.gov.br	Nome: MINISTERIO DA SAUDE	Cidade: Brasília
+Dominio:  amazonianfund-bndes.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  ls.gov.br	Nome: Agencia Brasileira de Inteligencia	Cidade: Brasília
+Dominio:  telepar.gov.br	Nome: Oi S.A.	Cidade: Rio de Janeiro
+Dominio:  crasp.gov.br	Nome: Conselho Regional de Administração de São Paulo	Cidade: São Paulo
+Dominio:  bnb.gov.br	Nome: BANCO DO NORDESTE DO BRASIL S/A	Cidade: Fortaleza
+Dominio:  saude.gov.br	Nome: MINISTERIO DA SAUDE	Cidade: Brasília
+Dominio:  caual.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  comunicacoes.gov.br	Nome: Ministério das Comunicações	Cidade: Brasília
+Dominio:  premio-e.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  governancadosolo.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  alemg.gov.br	Nome: ASSEMBLEIA LEGISLATIVA DE MINAS GERAIS	Cidade: Belo Horizonte
+Dominio:  bndespar.gov.br	Nome: BNDES Participações S/A	Cidade: Rio de Janeiro
+Dominio:  ipardes.gov.br	Nome: INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONOMICO	Cidade: Curitiba
+Dominio:  atlasdeacessoajustica.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  previdênciasocial.gov.brxn--previdnciasocial-xqb.gov.br	Nome: DATAPREV DF	Cidade: 
+Dominio:  caixaeconomica.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  sena.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  sibbr.gov.br	Nome: Laboratório Nacional de Computação Científica	Cidade: Petrópolis
+Dominio:  cvm.gov.br	Nome: CVM - COMISSAO DE VALORES MOBILIARIOS	Cidade: Rio de Janeiro
+Dominio:  projud.gov.br	Nome: TRIBUNAL DE JUSTIÇA DO ESTADO DO RN	Cidade: Natal
+Dominio:  previdencia.gov.br	Nome: EMP. DE TEC. E INFORMACOES DA PREVIDENCIA SOCIAL	Cidade: Rio de Janeiro
+Dominio:  olaturista.gov.br	Nome: Ministério do Turismo	Cidade: Brasília
+Dominio:  uca.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  comercioeinvestimento.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  logisticsbrazil.gov.br	Nome: Empresa de Planejamento e Logística S.A - EPL	Cidade: Brasília
+Dominio:  pronaf.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  ahipar.gov.br	Nome: AHIPAR ADMINISTRAÇÃO DA HIDROVIA DO PARAGUAI	Cidade: CORUMBÁ
+Dominio:  fundacentroms.gov.br	Nome: FUNDAÇÃO JORGE DUPRAT FIGUEIREDO DE SEG	Cidade: Campo Grande
+Dominio:  tre-sc.gov.br	Nome: Tribunal Regional Eleitoral de Santa Catarina	Cidade: Florianópolis
+Dominio:  redemulheres.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  cenpra.gov.br	Nome: Centro de Tecnologia da Informação Renato Archer	Cidade: Campinas
+Dominio:  metrobh.gov.br	Nome: Companhia Brasileira de Trens Urbanos	Cidade: Belo Horizonte
+Dominio:  geres.gov.br	Nome: Grupo Executivo P Recup Econ do Est Esp Santo	Cidade: Vitoria
+Dominio:  mec.gov.br	Nome: Ministério da Educação	Cidade: Brasília
+Dominio:  sus.gov.br	Nome: Ministério da Saúde	Cidade: Rio de Janeiro
+Dominio:  promocaodaigualdaderacial.gov.br	Nome: SECRETARIA ESPECIAL DE POLITICAS DE PROMOCAO DA IG	Cidade: Brasília
+Dominio:  corenpr.gov.br	Nome: Conselho Regional de Enfermagem do Paraná	Cidade: Curitiba
+Dominio:  mercosul.gov.br	Nome: MINISTERIO DAS RELACOES EXTERIORES	Cidade: Brasília
+Dominio:  excelenciaemturismo.gov.br	Nome: Ministério do Turismo	Cidade: Brasília
+Dominio:  trt18.gov.br	Nome: Tribunal Regional do Trabalho da 18ª Região	Cidade: Goiânia
+Dominio:  tecnojusc.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO 12 REGIAO	Cidade: Florianópolis
+Dominio:  rj.gov.br	Nome: PRODERJ-Centro de Tecnologia da Informação do RJ	Cidade: Rio de Janeiro
+Dominio:  mds.gov.br	Nome: DTI/SE/MDS E COMBATE A FOME	Cidade: Brasília
+Dominio:  siapenet.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  brasilpresente.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  fat.gov.br	Nome: MINISTERIO DO TRABALHO E EMPREGO	Cidade: Brasília
+Dominio:  saudenacopa.gov.br	Nome: Fundo Nacional de Saúde	Cidade: Brasília
+Dominio:  stn.gov.br	Nome: Secretaria do Tesouro Nacional	Cidade: Brasília
+Dominio:  reformaagraria.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  tre-pr.gov.br	Nome: Tribunal Regional Eleitoral do Parana	Cidade: Curitiba
+Dominio:  consorciobdjur.gov.br	Nome: SUPERIOR TRIBUNAL DE JUSTICA	Cidade: Brasília
+Dominio:  embratur.gov.br	Nome: Ministério do Turismo	Cidade: Brasília
+Dominio:  anac.gov.br	Nome: Agência Nacional de Aviação Civil - ANAC	Cidade: Brasília
+Dominio:  creciba.gov.br	Nome: CRECI 9º Regiao/Ba	Cidade: Salvador
+Dominio:  ibama-pi.gov.br	Nome: IBAMA - GERENCIA EXECUTIVA ESTADUAL	Cidade: FORTALEZA
+Dominio:  anatel.gov.br	Nome: AGENCIA NACIONAL DE TELECOMUNICACOES - ANATEL	Cidade: Brasília
+Dominio:  seliganacaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  sinir.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  eafmuz.gov.br	Nome: Instituto Federal Sul de Minas Gerais	Cidade: Pouso Alegre
+Dominio:  cd.gov.br	Nome: Camara dos Deputados	Cidade: Brasília
+Dominio:  ctlivre.gov.br	Nome: Ministério da Ciência e Tecnologia	Cidade: Brasília
+Dominio:  voz.gov.br	Nome: EMPRESA BRASIL DE COMUNICACAO S.A. - EBC	Cidade: Brasília
+Dominio:  aplicativos.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  crecipe.gov.br	Nome: CONSELHO REGIONAL DE CORRETORES DE IMOVEIS 7 REGIA	Cidade: Recife
+Dominio:  mtbauru.gov.br	Nome: Ministério do Trabalho e Emprego - MTE	Cidade: Bauru
+Dominio:  cgtee.gov.br	Nome: Companhia de Geração Termica de Energia Eletrica	Cidade: Porto Alegre
+Dominio:  capacidades.gov.br	Nome: Ministério das Cidades	Cidade: Brasília
+Dominio:  concar.gov.br	Nome: FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE	Cidade: Rio de Janeiro
+Dominio:  cin-sci.gov.br	Nome: Agencia Brasileira de Inteligencia	Cidade: Brasília
+Dominio:  economizar.gov.br	Nome: PETROLEO BRASILEIRO S.A. - PETROBRAS	Cidade: Rio de Janeiro
+Dominio:  tavbrasil.gov.br	Nome: Agência Nacional de Transportes Terrestres	Cidade: Brasília
+Dominio:  secgeral.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  cinemateca.gov.br	Nome: Ministerio da Cultura	Cidade: São Paulo
+Dominio:  dnpmma.gov.br	Nome: DNPM - Depart. Nacional de Produção Mineral	Cidade: sao luis
+Dominio:  bolsadacaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  aneel.gov.br	Nome: ANEEL - Agência Nacional de Energia Elétrica	Cidade: Brasília
+Dominio:  bndes.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  politicasmulheres.gov.br	Nome: Secretaria Especial de Politícas para as Mulheres	Cidade: BRASILIA
+Dominio:  cidadania.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  ans.gov.br	Nome: Agencia Nacional de Saude Suplementar	Cidade: Rio de Janeiro
+Dominio:  bioform.gov.br	Nome: FUNDACAO OSWALDO CRUZ	Cidade: Brasília
+Dominio:  pormin.gov.br	Nome: Departamento Nacional de Producao Mineral	Cidade: Brasília
+Dominio:  sg.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  portaltransparencia.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  brazilrounds.gov.br	Nome: Agência Nacional do Petróleo, Gás Natural e Bioco.	Cidade: Rio de Janeiro
+Dominio:  reformapostal.gov.br	Nome: Empresa Brasileira de Correios e Telégrafos	Cidade: Brasília
+Dominio:  vice-presidencia.gov.br	Nome: VICE PRESIDENCIA DA REPUBLICA	Cidade: Brasilia
+Dominio:  nead.gov.br	Nome: INCRA/INSTITUTO NACIONAL DE COLON E REF. AGRARIA	Cidade: Brasilia
+Dominio:  empresa.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  bemrecebercopa.gov.br	Nome: Ministério do Turismo	Cidade: Brasília
+Dominio:  pe.gov.br	Nome: AGENCIA ESTADUAL DE TECNOLOGIA DA INFORMACAO - ATI	Cidade: Recife
+Dominio:  redebrasil.gov.br	Nome: Ministério da Ciência, Tecnologia e Inovação	Cidade: Brasília
+Dominio:  crmvto.gov.br	Nome: Conselho Regional de Medicina Veterinaria TO	Cidade: Palmas
+Dominio:  palmares.gov.br	Nome: Fundação Cultural Palmares / MinC	Cidade: Brasília
+Dominio:  corenms.gov.br	Nome: CONSELHO REGIONAL DE ENFERMAGEM DE MS	Cidade: Campo Grande
+Dominio:  orcamentofederal.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  inovaif.gov.br	Nome: Instituto Federal de Educação, Ciências e Tecnolog	Cidade: Brasília
+Dominio:  previdenciasocial.gov.br	Nome: DATAPREV DF	Cidade: Brasília
+Dominio:  justica.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  conferenciameioambiente.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  tre-sp.gov.br	Nome: Tribunal Regional Eleitoral de São Paulo	Cidade: São Paulo
+Dominio:  ibama.gov.br	Nome: INSTITUTO BRASILEIRO DO MEIO AMBIENTE	Cidade: Brasilia
+Dominio:  justra.gov.br	Nome: TRIBUNAL SUPERIOR DO TRABALHO	Cidade: Brasília
+Dominio:  acessoainformacao.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  petrobras.gov.br	Nome: PETROLEO BRASILEIRO S/A - PETROBRAS	Cidade: Rio de Janeiro
+Dominio:  condraf.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  dfa-pe.gov.br	Nome: Ministério da Agricultura - DFA - Lapa - Recife	Cidade: Recife
+Dominio:  coren-pb.gov.br	Nome: CONSELHO REGIONAL DE ENFERMAGEM DA PARAIBA	Cidade: João Pessoa
+Dominio:  vigilanciasanitaria.gov.br	Nome: Agencia Nacional de Vigilancia Sanitaria	Cidade: Brasília
+Dominio:  ahsfra.gov.br	Nome: Administração da Hidrovia do São Francisco	Cidade: Pirapora
+Dominio:  mulhergoverno.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  telesc.gov.br	Nome: Oi S.A.	Cidade: Rio de Janeiro
+Dominio:  mpa.gov.br	Nome: Ministério da Pesca e Aquicultura	Cidade: Brasília
+Dominio:  anvisa.gov.br	Nome: Agencia Nacional de Vigilancia Sanitaria	Cidade: Brasília
+Dominio:  logisticabrasil.gov.br	Nome: Empresa de Planejamento e Logística S.A - EPL	Cidade: Brasília
+Dominio:  cbtu-sturec.gov.br	Nome: COMPANHIA BRASILEIRA DE TRENS URBANOS	Cidade: Recife
+Dominio:  obscriancaeadolescente.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  gestaopublica.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  ipp.gov.br	Nome: Instituto Philippe Pinel	Cidade: Rio de Janeiro
+Dominio:  consumidor.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  conpet.gov.br	Nome: PETROLEO BRASILEIRO S/A - PETROBRAS	Cidade: Cubatão
+Dominio:  dnocspb.gov.br	Nome: Segundo Distrito de Engenharia Rural	Cidade: João Pessoa
+Dominio:  investecaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  simecpr.gov.br	Nome: Ministério da Educação	Cidade: Brasília
+Dominio:  megasena.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  fiscopa2014.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  separeolixo.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  conarq.gov.br	Nome: Arquivo Nacional	Cidade: Rio de Janeiro
+Dominio:  trinka.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  juntoscontracorrupcao.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  dcea.gov.br	Nome: Departamento de Controle do Espaço Aéreo	Cidade: Rio de Janeiro
+Dominio:  suframa.gov.br	Nome: SUPERINTENDÊNCIA DA ZONA FRANCA DE MANAUS	Cidade: Manaus
+Dominio:  amazonasenergia.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  coletasolidaria.gov.br	Nome: DTI/SE/MDS E COMBATE A FOME	Cidade: Brasília
+Dominio:  procel.gov.br	Nome: CENTRAIS ELETRICAS BRASILEIRAS SA	Cidade: Rio de Janeiro
+Dominio:  itaipu.gov.br	Nome: ITAIPU BINACIONAL	Cidade: Foz do Iguaçu
+Dominio:  antt.gov.br	Nome: Agência Nacional de Transportes Terrestres	Cidade: Brasília
+Dominio:  trt24.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 24A REGIAO	Cidade: Campo Grande
+Dominio:  mercadopublico.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  clicksaudavel.gov.br	Nome: Agencia Nacional de Vigilancia Sanitaria	Cidade: Brasília
+Dominio:  bn.gov.br	Nome: FUNDACAO BIBLIOTECA NACIONAL	Cidade: Rio de Janeiro
+Dominio:  btig.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  bancodeoportunidades.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  paranaeleitoral.gov.br	Nome: Tribunal Regional Eleitoral do Parana	Cidade: Curitiba
+Dominio:  cauba.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  eixos.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  invexbrasil.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  sisp.gov.br	Nome: Ministerio do Planejamento Orçamento e Gestão	Cidade: Brasília
+Dominio:  reluz.gov.br	Nome: CENTRAIS ELETRICAS BRASILEIRAS SA	Cidade: Rio de Janeiro
+Dominio:  tjdf.gov.br	Nome: TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL	Cidade: Brasília
+Dominio:  cmb.gov.br	Nome: CASA DA MOEDA DO BRASIL CMB	Cidade: Rio de Janeiro
+Dominio:  crecise.gov.br	Nome: CONSELHO REGIONAL CORRETORES DE IMOVEIS 16 REGIAO	Cidade: Aracaju
+Dominio:  desenvolvimento.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  errec.gov.br	Nome: Rede Ferroviaria federal S/A	Cidade: recife
+Dominio:  brasilmaior.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  brazilsenvironment.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  sjrs.gov.br	Nome: Justica Federal de Primeiro Grau no RS	Cidade: Porto Alegre
+Dominio:  emdefesadademocracia.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  vls.gov.br	Nome: Agência Espacial Brasileira	Cidade: Brasília
+Dominio:  cgu.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  trt14.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO-14a.REGIÃO	Cidade: Porto Velho
+Dominio:  crbio-4.gov.br	Nome: Conselho Regional de Biologia - 4 região	Cidade: Belo Horizonte
+Dominio:  fonoaudiologia-1.gov.br	Nome: CONSELHO REGIONAL DE FONOAUDIOLOGIA - 1A REGIAO	Cidade: Rio de Janeiro
+Dominio:  pernambuco.gov.br	Nome: AGENCIA ESTADUAL DE TECNOLOGIA DA INFORMACAO - ATI	Cidade: Recife
+Dominio:  serac4.gov.br	Nome: MAER QUARTO SERVIÇO REGIONAL DE AVIAÇÃO CIVIL	Cidade: São Paulo
+Dominio:  cnfcp.gov.br	Nome: Centro Nacional de Folclore e Cultura Popular	Cidade: Rio de Janeiro
+Dominio:  sudene.gov.br	Nome: SUPERINTENDENCIA DO DESENVOLVIMENTO DO NORDESTE -	Cidade: Recife
+Dominio:  dfa-ba.gov.br	Nome: Ministério da Agricultura e do Abastecimento	Cidade: Salvador
+Dominio:  investcaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  baciadoprata.gov.br	Nome: ANEEL - Agência Nacional de Energia Elétrica	Cidade: Brasília
+Dominio:  portaldasaguas.gov.br	Nome: Agência Nacional de Águas	Cidade: Brasília
+Dominio:  brasilre.gov.br	Nome: IRB - BRASIL RESSEGUROS SA	Cidade: Rio de Janeiro
+Dominio:  transportes.gov.br	Nome: MINISTERIO DOS TRANSPORTES	Cidade: Brasília
+Dominio:  caumg.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  hcl.gov.br	Nome: Instituto Nacional de Cardiologia de Laranjeiras	Cidade: Rio de Janeiro
+Dominio:  trt10.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 10A. REGIAO	Cidade: Brasília
+Dominio:  crq9.gov.br	Nome: CONSELHO REGIONAL DE QUÍMICA DA 9A REGIÃO	Cidade: Curitiba
+Dominio:  tjrn.gov.br	Nome: TRIBUNAL DE JUSTIÇA DO ESTADO DO RN	Cidade: Natal
+Dominio:  congresso.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  creci-pe.gov.br	Nome: CONSELHO REGIONAL DE CORRETORES DE IMOVEIS 7 REGIA	Cidade: Recife
+Dominio:  mdic.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  sitedoconsumidor.gov.br	Nome: INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECN	Cidade: Rio de Janeiro
+Dominio:  brasilemcidades.gov.br	Nome: Ministério das Cidades	Cidade: Brasília
+Dominio:  brasildigital.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  acre.gov.br	Nome: SECRETARIA DE ESTADO DA GESTAO ADMINISTRATIVA - SG	Cidade: Rio Branco
+Dominio:  infoconsumo.gov.br	Nome: INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECN	Cidade: Rio de Janeiro
+Dominio:  investidoresinstitucionais.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  quiosqueredegoverno.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  redegeochronos.gov.br	Nome: COMPANHIA DE PESQUISA DE RECURSOS MINERAIS	Cidade: Rio de Janeiro
+Dominio:  nbr.gov.br	Nome: EMPRESA BRASIL DE COMUNICACAO S.A. - EBC	Cidade: Brasília
+Dominio:  computadorparaprofessores.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  cop15brasil.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  cartelafederal.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  infraero.gov.br	Nome: INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA	Cidade: Brasília
+Dominio:  pracasdopac.gov.br	Nome: Ministério da Educação	Cidade: Brasília
+Dominio:  tre-ma.gov.br	Nome: Tribunal Regional Eleitoral do Maranhão	Cidade: São Luís
+Dominio:  sipam.gov.br	Nome: Centro Gestor e Op. Sist. de Proteção da Amazonia	Cidade: Brasília
+Dominio:  siscomex.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  agronet.gov.br	Nome: Escola Agrotécnica Federal de São João Evangelista	Cidade: São João Evangelista
+Dominio:  computadoresparainclusao.gov.br	Nome: Ministerio do Planejamento Orçamento e Gestão	Cidade: Brasília
+Dominio:  cemaden.gov.br	Nome: INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS	Cidade: São José dos Campos
+Dominio:  ctnbio.gov.br	Nome: Ministério da Ciência, Tecnologia e Inovação	Cidade: Brasília
+Dominio:  federalcap.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  abgf.gov.br	Nome: Agência Brasileira Gestora de F G e G SA	Cidade: Brasília
+Dominio:  emquestao.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  dprf.gov.br	Nome: Departamento de Polícia Rodoviária Federal	Cidade: Brasília
+Dominio:  esportiva.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  prt8.gov.br	Nome: Procuradoria Regional do Trabalho da 8a. Região	Cidade: Belém
+Dominio:  crecipr.gov.br	Nome: CRECI-PR ORGANIZACAO DE CORRETORES DE IMOV=	Cidade: Curitiba
+Dominio:  federalcard.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  bdjur.gov.br	Nome: SUPERIOR TRIBUNAL DE JUSTICA	Cidade: Brasília
+Dominio:  sri.gov.br	Nome: SECRETARIA DE RELACOES INSTITUCIONAIS DA PRESIDENC	Cidade: Brasília
+Dominio:  historiasdobrasil.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  cnir.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  infrastructurebrazil.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  infosoc.gov.br	Nome: IBICT - MCTI	Cidade: Brasília
+Dominio:  voluntariado.gov.br	Nome: ME - Ministerio do Esporte	Cidade: Brasília
+Dominio:  fundaj.gov.br	Nome: FUNDACAO JOAQUIM NABUCO	Cidade: Recife
+Dominio:  caixainveste.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  ctir.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  crq12.gov.br	Nome: Conselho Regional de Química da 12a Região	Cidade: Goiânia
+Dominio:  mb.gov.br	Nome: DIR COMUNICACOES E TECNOLOGIA DA INFORMACAO DA MB	Cidade: Rio de Janeiro
+Dominio:  pi.gov.br	Nome: Agência de Tecnologia da Informação do Piauí ATI	Cidade: Teresina
+Dominio:  scnet.gov.br	Nome: Centro de Informatica e Automacao do Estado de SC	Cidade: Florianópolis
+Dominio:  soumaismedico.gov.br	Nome: EMPRESA BRASILEIRA DE SERV HOSPITALARES - EBSERH	Cidade: Brasília
+Dominio:  senado.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  decea.gov.br	Nome: Departamento de Controle do Espaço Aéreo	Cidade: Rio de Janeiro
+Dominio:  eafc-pa.gov.br	Nome: Escola Agrotécnica Federal de Castanhal	Cidade: castanhal
+Dominio:  clique100.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  museudebiologiamelloleitao.gov.br	Nome: MUSEU DE BIOLOGIA PROFESSOR MELLO LEITAO	Cidade: Santa Teresa
+Dominio:  caixainvest.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  trt13.gov.br	Nome: Tribunal regional do Trabalho 13 Regiao	Cidade: João Pessoa
+Dominio:  inmetro.gov.br	Nome: INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECN	Cidade: Rio de Janeiro
+Dominio:  cartaobndes.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  eufiscalizo.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  apostasurpresa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  ipsm.gov.br	Nome: INSTITUTO DE PREVIDENCIA DOS SERVIDORES MILITARES	Cidade: Belo Horizonte
+Dominio:  icpbrasil.gov.br	Nome: Instituto Nacional de Tecnologia Informação - ITI	Cidade: Brasília
+Dominio:  crediamigo.gov.br	Nome: BANCO DO NORDESTE DO BRASIL S/A	Cidade: Fortaleza
+Dominio:  desenvolvimentorural.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  capes.gov.br	Nome: FUNDACAO CAPES	Cidade: Brasília
+Dominio:  inpe.gov.br	Nome: Instituto Nacional de Pesquisas Espaciais	Cidade: São José dos Campos
+Dominio:  caues.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  cortesmercosur.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  simulaminhacasaminhavida.gov.br	Nome: Ministério das Cidades	Cidade: Brasília
+Dominio:  bdep.gov.br	Nome: Agência Nacional do Petróleo, Gás Natural e Bioco.	Cidade: Rio de Janeiro
+Dominio:  rsbr.gov.br	Nome: OBSERVATORIO NACIONAL	Cidade: Rio de Janeiro
+Dominio:  hrps.gov.br	Nome: Hospital Raphael de Paula Souza	Cidade: Rio de Janeiro
+Dominio:  goias.gov.br	Nome: Secretaria de Gestão e Planejamento de Goiás	Cidade: Goiânia
+Dominio:  etfc.gov.br	Nome: ESCOLA TÉCNICA FEDERAL DE CANOAS	Cidade: Canoas
+Dominio:  monumenta.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  bcc.gov.br	Nome: Ministerio da Cultura	Cidade: São Paulo
+Dominio:  cprm.gov.br	Nome: COMPANHIA DE PESQUISA DE RECURSOS MINERAIS	Cidade: Rio de Janeiro
+Dominio:  go.gov.br	Nome: Secretaria de Gestão e Planejamento de Goiás	Cidade: Goiânia
+Dominio:  dnpm-pe.gov.br	Nome: 4 Distrito DNPM - PE	Cidade: Recife
+Dominio:  braziltradenet.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  crfa1.gov.br	Nome: CONSELHO REGIONAL DE FONOAUDIOLOGIA - 1A REGIAO	Cidade: Rio de Janeiro
+Dominio:  comunidadenegra.gov.br	Nome: Casa Civil	Cidade: São Paulo
+Dominio:  crefono1.gov.br	Nome: CONSELHO REGIONAL DE FONOAUDIOLOGIA - 1A REGIAO	Cidade: Rio de Janeiro
+Dominio:  pensesimples.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  portaldajustica.gov.br	Nome: SUPERIOR TRIBUNAL DE JUSTICA	Cidade: Brasília
+Dominio:  tribunaisdotrabalho.gov.br	Nome: TRIBUNAL SUPERIOR DO TRABALHO	Cidade: Brasília
+Dominio:  portalsiscomex.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  portaldaigualdade.gov.br	Nome: SECRETARIA ESPECIAL DE POLITICAS DE PROMOCAO DA IG	Cidade: Brasília
+Dominio:  eafars.gov.br	Nome: Escola Agrotécnica Federal de Alegrete	Cidade: Alegrete
+Dominio:  caminhaofederal.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  museulasarsegall.gov.br	Nome: Instituto Brasileiro de Museus - IBRAM	Cidade: Brasília
+Dominio:  minc.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  rededopoderjudiciario.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  viajamais.gov.br	Nome: Ministério do Turismo	Cidade: Brasília
+Dominio:  cfbio.gov.br	Nome: Conselho Federal de Biologia	Cidade: Brasília
+Dominio:  rpp.gov.br	Nome: Fundação de Amparo a Pesquisa do Estado do Piauí	Cidade: Teresina
+Dominio:  eafcatu.gov.br	Nome: Escola Agrotécnica Federal de Catu	Cidade: Catu
+Dominio:  gdfaz.gov.br	Nome: Escola de Administração Fazendária	Cidade: Brasília
+Dominio:  ac.gov.br	Nome: SECRETARIA DE ESTADO DA GESTAO ADMINISTRATIVA - SG	Cidade: Rio Branco
+Dominio:  brazilianexporters.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  jfsp.gov.br	Nome: Justiça Federal de São Paulo	Cidade: São Paulo
+Dominio:  camara.gov.br	Nome: Camara dos Deputados	Cidade: Brasília
+Dominio:  jef-pr.gov.br	Nome: Justica Federal de Primeiro Grau no RS	Cidade: Porto Alegre
+Dominio:  eafigt.gov.br	Nome: ESCOLA AGROTECNICA FEDERAL DE IGUATU-C	Cidade: iguatu
+Dominio:  cemave.gov.br	Nome: INSTITUTO CHICO MENDES DE CONS. DA BIODIVERSIDADE	Cidade: Brasília
+Dominio:  jfpb.gov.br	Nome: Justica Federal de Primeira Instancia	Cidade: João Pessoa
+Dominio:  seminariodefencil.gov.br	Nome: MINISTERIO DA INTEGRACAO NACIONAL	Cidade: Brasília
+Dominio:  dtceasj.gov.br	Nome: Comando da Aeronautica - SRPV-SP	Cidade: São Paulo
+Dominio:  ac-jus.gov.br	Nome: CONSELHO DA JUSTICA FEDERAL	Cidade: Brasília
+Dominio:  rap.gov.br	Nome: MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO	Cidade: Rio de Janeiro
+Dominio:  fnsms.gov.br	Nome: FUNDAÇÃO NACIONAL DE SAUDE	Cidade: Campo Grande
+Dominio:  tre-ap.gov.br	Nome: Tribunal Regional Eleitoral do Amapá	Cidade: Macapá
+Dominio:  cp2.gov.br	Nome: Colégio Pedro II	Cidade: Rio de Janeiro
+Dominio:  es.gov.br	Nome: Inst. de Tec. da Informação e Comunicação do ES.	Cidade: Vitória
+Dominio:  xn--notcias-9ya.gov.br	Nome: 	Cidade: Brasília
+Dominio:  jfpe.gov.br	Nome: Justica Federal de 1a Instancia	Cidade: Recife
+Dominio:  e.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  aeroshopping.gov.br	Nome: INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA	Cidade: Brasília
+Dominio:  funasa.gov.br	Nome: FUNDAÇÃO NACIONAL DE SAÚDE	Cidade: Brasília
+Dominio:  projetobrasilmunicipios.gov.br	Nome: Ministerio do Planejamento Orçamento e Gestão	Cidade: Brasília
+Dominio:  confiancanobrasil.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  caixadasorte.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  portaldatransparencia.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  brasilglobalnet.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  tre-rs.gov.br	Nome: TRIBUNAL REGIONAL ELEITORAL DO RIO GRANDE DO SUL	Cidade: Porto Alegre
+Dominio:  mpes.gov.br	Nome: Ministério Público do Estado do Espírito Santo	Cidade: Vitória
+Dominio:  creciro.gov.br	Nome: CONSELHO REGIONAL DE CORRETORES DE IMOVEIS 24 REG	Cidade: Porto Velho
+Dominio:  tjpe.gov.br	Nome: TRIBUNAL DE JUSTICA DO ESTADO DE PERNAMBUCO	Cidade: Recife
+Dominio:  venturecapital.gov.br	Nome: FINANCIADORA DE ESTUDOS E PROJETOS - FINEP	Cidade: Rio de Janeiro
+Dominio:  certidãodenascimento.gov.brxn--certidodenascimento-0vb.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: 
+Dominio:  trt23.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO - 23 REGIAO	Cidade: Cuiabá
+Dominio:  trt12.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO 12 REGIAO	Cidade: Florianópolis
+Dominio:  migrantes.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  acessoinformacao.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  frp.gov.br	Nome: FUNDACAO ROQUETTE PINTO	Cidade: Rio de Janeiro
+Dominio:  redesocial.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  trt-02.gov.br	Nome: Tribunal Regional do Trabalho da 2a Regiao	Cidade: São Paulo
+Dominio:  fonoaudiologia-rj.gov.br	Nome: CONSELHO REGIONAL DE FONOAUDIOLOGIA - 1A REGIAO	Cidade: Rio de Janeiro
+Dominio:  exercito.gov.br	Nome: MD/EB/Departamento de Ciência e Tecnologia	Cidade: Brasília
+Dominio:  trt01.gov.br	Nome: Tribunal Regional do Trabalho da 1a Região	Cidade: Rio de Janeiro
+Dominio:  jf.gov.br	Nome: CONSELHO DA JUSTICA FEDERAL	Cidade: Brasília
+Dominio:  aeroportodesalvador.gov.br	Nome: INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA	Cidade: Brasília
+Dominio:  linuxseguro.gov.br	Nome: Agencia Brasileira de Inteligencia	Cidade: Brasília
+Dominio:  crbio01.gov.br	Nome: Conselho Regional de Biologia	Cidade: São Paulo
+Dominio:  trt21.gov.br	Nome: Tribunal Regional do Trabalho da 21ª Região	Cidade: Natal
+Dominio:  varadafazenda.gov.br	Nome: SUPERIOR TRIBUNAL DE JUSTICA	Cidade: Brasília
+Dominio:  snis.gov.br	Nome: Ministério das Cidades	Cidade: Brasília
+Dominio:  redegoverno.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  ibram.gov.br	Nome: Instituto Brasileiro de Museus - IBRAM	Cidade: Brasília
+Dominio:  caumt.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  cop15brazil.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  dner.gov.br	Nome: Depto Nacional de Estradas de Rodagem - DNER	Cidade: Brasilia
+Dominio:  eafsl.gov.br	Nome: Escola Agrotécnica Federal de São Luiz	Cidade: São Luís
+Dominio:  casaruibarbosa.gov.br	Nome: Fundacao Casa de Rui Barbosa	Cidade: Rio de Janeiro
+Dominio:  etfto.gov.br	Nome: Escola Técnica Federal de Palmas - TO	Cidade: Palmas
+Dominio:  soumaismedicos.gov.br	Nome: EMPRESA BRASILEIRA DE SERV HOSPITALARES - EBSERH	Cidade: Brasília
+Dominio:  ppsa.gov.br	Nome: Empresa Brasileira de Administração de Petroleo de	Cidade: Rio de Janeiro
+Dominio:  aprendendoaexportar.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  postal.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  lojacaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  crbio04.gov.br	Nome: Conselho Regional de Biologia - 4 região	Cidade: Belo Horizonte
+Dominio:  bc.gov.br	Nome: Banco Central do Brasil	Cidade: Brasília
+Dominio:  ipea.gov.br	Nome: IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA	Cidade: Brasília
+Dominio:  correios.gov.br	Nome: Empresa Brasileira de Correios e Telégrafos	Cidade: Brasília
+Dominio:  cbtu.gov.br	Nome: Companhia Brasileira de Trens Urbanos	Cidade: Rio de Janeiro
+Dominio:  eusoumaismedicos.gov.br	Nome: EMPRESA BRASILEIRA DE SERV HOSPITALARES - EBSERH	Cidade: Brasília
+Dominio:  crecidf.gov.br	Nome: CONSELHO REGIONAL DE CORRETORES DE IMOVEIS CRECI	Cidade: Brasília
+Dominio:  brasilvoluntario.gov.br	Nome: Ministério do Esporte	Cidade: Brasília
+Dominio:  transparencianacopa.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  aeroportodebrasilia.gov.br	Nome: INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA	Cidade: Brasília
+Dominio:  codevasf.gov.br	Nome: COMPANHIA DE DESENVOLVIMENTO DO VALE DO SAO FRANCI	Cidade: Brasília
+Dominio:  capitalderisco.gov.br	Nome: FINANCIADORA DE ESTUDOS E PROJETOS - FINEP	Cidade: Rio de Janeiro
+Dominio:  cnj.gov.br	Nome: Conselho Nacional de Justiça	Cidade: Brasília
+Dominio:  eafsb.gov.br	Nome: Escola Agrotecnica Federal de Senhor do Bonfim	Cidade: Senhor do Bonfim
+Dominio:  inclusaodigital.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  ana.gov.br	Nome: Agência Nacional de Águas	Cidade: Brasília
+Dominio:  energiabv.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  dou.gov.br	Nome: Imprensa Nacional/Presidência da República	Cidade: Brasília
+Dominio:  gsi.gov.br	Nome: GABINETE DE SEGURANCA INSTITUCIONAL DA PRESIDENCIA	Cidade: Brasília
+Dominio:  caupe.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  sudam.gov.br	Nome: Superintedência de Denvolvimento da Amazônia	Cidade: Belém
+Dominio:  justicaeleitoral.gov.br	Nome: Tribunal Superior Eleitoral	Cidade: Brasília
+Dominio:  jfal.gov.br	Nome: Justica Federal de Primeira Instância	Cidade: Maceió
+Dominio:  carrocampeao.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  gra.gov.br	Nome: SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  brasilcentral.gov.br	Nome: Sec. de Estado de Plan. e Orçamento do DF	Cidade: Brasília
+Dominio:  tse.gov.br	Nome: Tribunal Superior Eleitoral	Cidade: Brasília
+Dominio:  belomonte.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  portalpadrao.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  hpiedade.gov.br	Nome: Hospital da Piedade	Cidade: Rio de Janeiro
+Dominio:  tre-ac.gov.br	Nome: Tribunal Regional Eleitoral do Acre	Cidade: Rio Branco
+Dominio:  cancer.gov.br	Nome: Instituto Nacional de Câncer	Cidade: Rio de Janeiro
+Dominio:  csjt.gov.br	Nome: TRIBUNAL SUPERIOR DO TRABALHO	Cidade: Brasília
+Dominio:  esic.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  eafvsa.gov.br	Nome: Instituto Federal de Pernambuco Campus Vitória	Cidade: Vitória de Santo Antão
+Dominio:  ctis.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  ppcaam.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  ministeriopublicodf.gov.br	Nome: Ministério Público do DF e Territórios	Cidade: Brasília
+Dominio:  trt15.gov.br	Nome: Tribunal Regional do Trabalho da 15ª Região	Cidade: Campinas
+Dominio:  infojus.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  defesa.gov.br	Nome: Ministerio da Defesa	Cidade: Brasília
+Dominio:  mestradoprofissional.gov.br	Nome: IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA	Cidade: Brasília
+Dominio:  encomex.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  tesourodireto.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  investidor.gov.br	Nome: CVM - COMISSAO DE VALORES MOBILIARIOS	Cidade: Rio de Janeiro
+Dominio:  ahitar.gov.br	Nome: AHITAR - ADMINISTRACAO DAS HIDROVIAS DO TOCANTINS	Cidade: Goiania
+Dominio:  e-pagamentos.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  ap.gov.br	Nome: PRODAP - C. de Gestão da Tecnologia da Informação	Cidade: Macapá
+Dominio:  causc.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  crefito2.gov.br	Nome: Conselho Regional de Fisioterapia e Terapia Ocupac	Cidade: Rio de Janeiro
+Dominio:  ceagesp.gov.br	Nome: Companhia de Entrepostos e Armazéns Gerais de SP	Cidade: São Paulo
+Dominio:  corenam.gov.br	Nome: CONSELHO REGIONAL DE ENFERMAGEM DO AMAZONAS	Cidade: Manaus
+Dominio:  amazonfund-bndes.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  imprensanacional.gov.br	Nome: Imprensa Nacional/Presidência da República	Cidade: Brasília
+Dominio:  vidaedinheiro.gov.br	Nome: CVM - COMISSAO DE VALORES MOBILIARIOS	Cidade: Rio de Janeiro
+Dominio:  viversemlimite.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  governoeletronico.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  mps.gov.br	Nome: Ministerio da Previdencia Social	Cidade: Brasília
+Dominio:  rapidinha.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  altatv.gov.br	Nome: Centro de Tecnologia da Informação Renato Archer	Cidade: Campinas
+Dominio:  portaldoempreendedor.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  apo.gov.br	Nome: Autoridade Pública Olimpica	Cidade: Rio de Janeiro
+Dominio:  cade.gov.br	Nome: Conselho Administrativo de Defesa Econômica	Cidade: Brasília
+Dominio:  creci-rs.gov.br	Nome: CONSELHO REGIONAL DE CORRETORES DE IMOVEIS 3A. REG	Cidade: Porto Alegre
+Dominio:  ahinor.gov.br	Nome: ADMINISTRAÇÃO DAS HIDROVIAS DO NORDESTE - AHINOR	Cidade: São Luís
+Dominio:  teleceara.gov.br	Nome: Tele Norte Leste Participações S.A.	Cidade: Rio de Janeiro
+Dominio:  cdp-ahitar.gov.br	Nome: AHITAR - ADMINISTRACAO DAS HIDROVIAS DO TOCANTINS	Cidade: Goiania
+Dominio:  dados.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  rfb.gov.br	Nome: MINISTERIO DA FAZENDA	Cidade: Brasília
+Dominio:  se.gov.br	Nome: EMPRESA SERGIPANA DE TECNOLOGIA DA INFORMAÇÃO	Cidade: Aracaju
+Dominio:  tre-rj.gov.br	Nome: Tribunal Regional Eleitoral do Rio de Janeiro	Cidade: Rio de Janeiro
+Dominio:  tjmg.gov.br	Nome: TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS	Cidade: Belo Horizonte
+Dominio:  quina.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  rb.gov.br	Nome: Fundacao Casa de Rui Barbosa	Cidade: Rio de Janeiro
+Dominio:  maisambiente.gov.br	Nome: INSTITUTO BRASILEIRO DO MEIO AMBIENTE	Cidade: Brasilia
+Dominio:  emprel.gov.br	Nome: EMPREL - EMPRESA MUNICIPAL DE INFORMATICA	Cidade: Recife
+Dominio:  seap.gov.br	Nome: Ministério da Pesca e Aquicultura	Cidade: Brasília
+Dominio:  lexml.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  projovem.gov.br	Nome: Secretaria Nacional da Juventude	Cidade: Brasília
+Dominio:  casamilitar.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  cremesp.gov.br	Nome: CONSELHO REGIONAL DE MEDICINA - SP	Cidade: São Paulo
+Dominio:  crmrj.gov.br	Nome: Conselho Regional de Medicina - CREMERJ	Cidade: Rio de Janeiro
+Dominio:  vlibras.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  tre-pb.gov.br	Nome: Tribunal Regional Eleitoral da Paraíba	Cidade: João Pessoa
+Dominio:  pronasci.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  profae.gov.br	Nome: Secretaria de Gestão de Investimentos em Saúde	Cidade: Brasília
+Dominio:  crbio8.gov.br	Nome: CONSELHO REGIONAL DE BIOLOGIA 8 REGIAO	Cidade: Salvador
+Dominio:  justicadotrabalho.gov.br	Nome: TRIBUNAL SUPERIOR DO TRABALHO	Cidade: Brasília
+Dominio:  rs.gov.br	Nome: PROCERGS - Cia de Processamento de Dados do RGS	Cidade: Porto Alegre
+Dominio:  marinha.gov.br	Nome: DIR COMUNICACOES E TECNOLOGIA DA INFORMACAO DA MB	Cidade: Rio de Janeiro
+Dominio:  institutodamataatlantica.gov.br	Nome: MUSEU DE BIOLOGIA PROFESSOR MELLO LEITAO	Cidade: Santa Teresa
+Dominio:  bid2002brasil.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  tre-am.gov.br	Nome: Tribunal Regional Eleitoral do Amazonas	Cidade: Manaus
+Dominio:  mtecbo2000.gov.br	Nome: MINISTERIO DO TRABALHO E EMPREGO	Cidade: Brasília
+Dominio:  fundacentro.gov.br	Nome: FUNDACENTRO - FUND.JORGE D.F. SEG. E MED. DO TRAB.	Cidade: São Paulo
+Dominio:  niteroi-artes.gov.br	Nome: Fundação de Arte de Niterói	Cidade: Niterói
+Dominio:  pimentalonga.gov.br	Nome: Embrapa - Acre	Cidade: Rio Branco
+Dominio:  participe.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  dnit.gov.br	Nome: DNIT-DEPARTAMENTO NACIONAL DE INFRAEST DE TRANSPOR	Cidade: BRASILIA
+Dominio:  renapi.gov.br	Nome: Instituto Federal de Brasília	Cidade: Brasília
+Dominio:  br.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  esamur.gov.br	Nome: Agência. San. Básico do Mun. Resende SANEAR	Cidade: Resende
+Dominio:  siga.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  finame.gov.br	Nome: Agência Especial de Financiamento Industrial	Cidade: Rio de Janeiro
+Dominio:  pac.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  infopen.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  ibge.gov.br	Nome: FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE	Cidade: Rio de Janeiro
+Dominio:  e-parana.gov.br	Nome: CIA. DE TECNOL. DA INFOR. E COMUNICAÇÃO DO PARANÁ	Cidade: Curitiba
+Dominio:  brazilenvironment-mobile.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  mtur.gov.br	Nome: Ministério do Turismo	Cidade: Brasília
+Dominio:  caurr.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  copa2014.gov.br	Nome: ME - Ministerio do Esporte	Cidade: Brasília
+Dominio:  mme.gov.br	Nome: MINISTERIO DE MINAS E ENERGIA	Cidade: Brasília
+Dominio:  consegi.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  pracas.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  educacao.gov.br	Nome: Ministério da Educação	Cidade: Brasília
+Dominio:  e-stj.gov.br	Nome: SUPERIOR TRIBUNAL DE JUSTICA	Cidade: Brasília
+Dominio:  xn--oramentofederal-fmb.gov.br	Nome: 	Cidade: Brasília
+Dominio:  crtr18.gov.br	Nome: CONSELHO REG DOS TECN EM RADIOLOGIA 18 REGIAO	Cidade: Porto Velho
+Dominio:  redefloresta.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  conab.gov.br	Nome: COMPANHIA NACIONAL DE ABASTECIMENTO	Cidade: Brasília
+Dominio:  coracaoazul.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  ilbsenado.gov.br	Nome: Secretaria Especial de Editoração e Publicações	Cidade: Brasília
+Dominio:  df.gov.br	Nome: Sec. de Estado de Plan. e Orçamento do DF	Cidade: Brasília
+Dominio:  casemg.gov.br	Nome: Cia. de Armazéns e Silos do Estado de Minas Gerais	Cidade: Belo Horizonte
+Dominio:  caurj.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  linea.gov.br	Nome: Laboratório Nacional de Computação Científica	Cidade: Petrópolis
+Dominio:  sispac.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  cenp.gov.br	Nome: Centro Nacional de Primatas	Cidade: Ananindeua
+Dominio:  eafb.gov.br	Nome: ESCOLA AGROTECNICA FEDERAL DE BARREIROS-PE	Cidade: Barreiros
+Dominio:  abc.gov.br	Nome: Ministério das Relações Exteriores	Cidade: Brasili
+Dominio:  pncda.gov.br	Nome: Ministério das Cidades	Cidade: Brasília
+Dominio:  rn.gov.br	Nome: Governo do Estado do Rio Grande do Norte	Cidade: Natal
+Dominio:  cbtu-natal.gov.br	Nome: Companhia Brasileira de Trens Urbanos-Gerencia Nat	Cidade: Natal
+Dominio:  caixapostal.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  diesporte.gov.br	Nome: ME - Ministerio do Esporte	Cidade: Brasília
+Dominio:  creci-al.gov.br	Nome: Conselho Regional de Corretores de Imoveis - AL	Cidade: Maceió
+Dominio:  ahimoc.gov.br	Nome: Admin. das Hidrovias da Amazonia Ocidental	Cidade: Manaus
+Dominio:  secretaria-geral.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  processoeletroniconacional.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  mtb.gov.br	Nome: MINISTERIO DO TRABALHO E EMPREGO	Cidade: Brasília
+Dominio:  p2r2.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  caged.gov.br	Nome: MINISTERIO DO TRABALHO E EMPREGO	Cidade: Brasília
+Dominio:  loteriascaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  crbio-03.gov.br	Nome: Conselho Regional de Biologia - 3a. Região	Cidade: Porto Alegre
+Dominio:  notícias.gov.brxn--notcias-9ya.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: 
+Dominio:  eafsgc.gov.br	Nome: ESCOLA AGROTEC FED DE SAO GABRIEL DA CACHOEIRA	Cidade: Manaus
+Dominio:  fiscalizacaorio2016.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  trt20.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 20A. REGIAO	Cidade: Aracaju
+Dominio:  crbio07.gov.br	Nome: conselho regional de biologia da setima região	Cidade: Curitiba
+Dominio:  microepequenaempresa.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  mp.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  caixaresolve.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  olacefs.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  focco-pb.gov.br	Nome: Procuradoria da República na Paraíba	Cidade: João Pessoa
+Dominio:  forumsipec.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  comprasnet.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  portaldaexportacao.gov.br	Nome: Ministério do Desenvolvimento	Cidade: Brasília
+Dominio:  car.gov.br	Nome: INSTITUTO BRASILEIRO DO MEIO AMBIENTE	Cidade: Brasilia
+Dominio:  planejamento.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  funai.gov.br	Nome: Fundação Nacional do Indio	Cidade: Brasília
+Dominio:  trabalho.gov.br	Nome: MINISTERIO DO TRABALHO E EMPREGO	Cidade: Brasília
+Dominio:  segurancaquimica.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  edemocracia.gov.br	Nome: Camara dos Deputados	Cidade: Brasília
+Dominio:  stm.gov.br	Nome: SUPERIOR TRIBUNAL MILITAR	Cidade: Brasília
+Dominio:  federal.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  bancodonordeste.gov.br	Nome: BANCO DO NORDESTE DO BRASIL S/A	Cidade: Fortaleza
+Dominio:  eletrobras.gov.br	Nome: CENTRAIS ELETRICAS BRASILEIRAS SA	Cidade: Rio de Janeiro
+Dominio:  crbm2.gov.br	Nome: Conselho Regional de Biomedicina em PE (2ª Regiao)	Cidade: Recife
+Dominio:  patrimoniodetodos.gov.br	Nome: Secretaria do Patromônio da União	Cidade: Brasília
+Dominio:  esocial.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  portalcoren-rs.gov.br	Nome: Conselho Regional de Enfermagem - RS	Cidade: Porto Alegre
+Dominio:  dtceast.gov.br	Nome: Comando da Aeronautica - SRPV-SP	Cidade: São Paulo
+Dominio:  ciasc.gov.br	Nome: Centro de Informatica e Automacao do Estado de SC	Cidade: Florianópolis
+Dominio:  fns.gov.br	Nome: FUNDAÇÃO NACIONAL DE SAÚDE	Cidade: Brasília
+Dominio:  jmpi2015.gov.br	Nome: ME - Ministerio do Esporte	Cidade: Brasília
+Dominio:  embrapa.gov.br	Nome: Empresa Brasileira de Pesquisa Agropecuaria	Cidade: Boa Vista
+Dominio:  interlegis.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  officebankingsocial.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  redebrasildigital.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  museudainconfidencia.gov.br	Nome: IPHAN - MUSEU DA INCONFIDÊNCIA	Cidade: Ouro Preto
+Dominio:  crecito.gov.br	Nome: CONSELHO REGIONAL DE CORRETORES DE IMOVEIS 25 REG	Cidade: Palmas
+Dominio:  cti.gov.br	Nome: Centro de Tecnologia da Informação Renato Archer	Cidade: Campinas
+Dominio:  trt16.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 16A. REGIAO	Cidade: São Luís
+Dominio:  combateafome.gov.br	Nome: DTI/SE/MDS E COMBATE A FOME	Cidade: Brasília
+Dominio:  federativo.gov.br	Nome: IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA	Cidade: Brasília
+Dominio:  eafudi.gov.br	Nome: Escola Agrotécnica Federal de Uberlândia	Cidade: Uberlândia
+Dominio:  tribunaiscplp.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  inmet.gov.br	Nome: INSTITUTO NACIONAL DE METEOROLOGIA	Cidade: Brasília
+Dominio:  ccpe.gov.br	Nome: MINISTERIO DE MINAS E ENERGIA	Cidade: Brasília
+Dominio:  dtceaaf.gov.br	Nome: Comando da Aeronautica - SRPV-SP	Cidade: São Paulo
+Dominio:  agespacial.gov.br	Nome: Agência Espacial Brasileira	Cidade: Brasília
+Dominio:  ms.gov.br	Nome: Governo do Estado de Mato Grosso do Sul	Cidade: Campo Grande
+Dominio:  cofen.gov.br	Nome: CONSELHO FEDERAL DE ENFERMAGEM	Cidade: Brasília
+Dominio:  crefitosp.gov.br	Nome: CONS REG DE FISIOTERAPIA E TERAP OCUP TRES REG	Cidade: São Paulo
+Dominio:  prodeb.gov.br	Nome: Cia. de Processamento de Dados do Estado da Bahia	Cidade: Salvador
+Dominio:  fundacentrorj.gov.br	Nome: Fundacao J. D. F. de Seg. e Medicina do Trabalho	Cidade: Rio de Janeiro
+Dominio:  trf5.gov.br	Nome: Tribunal Regional Federal	Cidade: Recife
+Dominio:  planalto.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  mre.gov.br	Nome: MINISTERIO DAS RELACOES EXTERIORES	Cidade: Brasília
+Dominio:  vicepresidenciadarepublica.gov.br	Nome: VICE PRESIDENCIA DA REPUBLICA	Cidade: Brasilia
+Dominio:  cnenpc.gov.br	Nome: COMISSÃO NACIONAL DE ENERGIA NUCLEAR	Cidade: Poços de Caldas
+Dominio:  proinfa.gov.br	Nome: CENTRAIS ELETRICAS BRASILEIRAS SA	Cidade: Rio de Janeiro
+Dominio:  noticias.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  sigplan.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  aids.gov.br	Nome: Fundo Nacional de Saúde	Cidade: Brasília
+Dominio:  amazul.gov.br	Nome: Amazônia Azul Tecnologias de Defesa S.A. - Amazul	Cidade: São Paulo
+Dominio:  programaarpa.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  brazil-rounds.gov.br	Nome: Agência Nacional do Petróleo, Gás Natural e Bioco.	Cidade: Rio de Janeiro
+Dominio:  senadora.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  proagua.gov.br	Nome: SECRETARIA DE RECURSOS HIDRICOS E AMBIENTE URBANO	Cidade: Brasília
+Dominio:  sacoeumsaco.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  saudesuplementar.gov.br	Nome: Agencia Nacional de Saude Suplementar	Cidade: Rio de Janeiro
+Dominio:  cref4-sp.gov.br	Nome: Conselho Regional de Educação Física do Est.de SP.	Cidade: São Paulo
+Dominio:  expofeiras.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  tesouro.gov.br	Nome: Secretaria do Tesouro Nacional	Cidade: Brasília
+Dominio:  desenvolvimentosocial.gov.br	Nome: DTI/SE/MDS E COMBATE A FOME	Cidade: Brasília
+Dominio:  creci-sp.gov.br	Nome: CONSELHO REGIONAL DE CORRETORES DE IMOVEIS SP	Cidade: São Paulo
+Dominio:  nordestenegocios.gov.br	Nome: BANCO DO NORDESTE DO BRASIL S/A	Cidade: Fortaleza
+Dominio:  correio.gov.br	Nome: Empresa Brasileira de Correios e Telégrafos	Cidade: Brasília
+Dominio:  humanizaredes.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  jfpr.gov.br	Nome: Justiça Federal de Primeiro Grau no Parana	Cidade: Curitiba
+Dominio:  ambiente.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  esporte.gov.br	Nome: ME - Ministerio do Esporte	Cidade: Brasília
+Dominio:  sic.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  todosjuntoscontracorrupcao.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  eafmachado.gov.br	Nome: Escola Agrotécnica Federal de Machado	Cidade: Machado
+Dominio:  construcard.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  ahrana.gov.br	Nome: ADIMINISTRAÇÃO DA HIDROVIA DO PARANÁ-AHRANA	Cidade: São Paulo
+Dominio:  museus.gov.br	Nome: Instituto Brasileiro de Museus - IBRAM	Cidade: Brasília
+Dominio:  netgoverno.gov.br	Nome: CIA. DE TECNOL. DA INFOR. E COMUNICAÇÃO DO PARANÁ	Cidade: Curitiba
+Dominio:  gcth-sida.gov.br	Nome: Ministério da Saúde	Cidade: Brasília
+Dominio:  creci-rj.gov.br	Nome: Conselho Regional dos Corretores de Imoveis 1 Reg.	Cidade: Rio de Janeiro
+Dominio:  cadastrorural.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  cernai.gov.br	Nome: Departamento de Controle do Espaço Aéreo	Cidade: Rio de Janeiro
+Dominio:  trt-ma.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 16A. REGIAO	Cidade: São Luís
+Dominio:  projovemurbano.gov.br	Nome: Secretaria Nacional da Juventude	Cidade: Brasília
+Dominio:  mpm.gov.br	Nome: MINISTERIO PUBLICO MILITAR	Cidade: Brasília
+Dominio:  cbtumetrorec.gov.br	Nome: COMPANHIA BRASILEIRA DE TRENS URBANOS	Cidade: Recife
+Dominio:  ien.gov.br	Nome: Instituto de Engenharia Nuclear	Cidade: Rio de Janeiro
+Dominio:  incra-pe.gov.br	Nome: Superint. Estadual de Pernambuco - Incra	Cidade: Recife
+Dominio:  redeagentes.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  caubr.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  certidaodenascimento.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  stfnet.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  ouvidoriadoservidor.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  causp.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  tre-go.gov.br	Nome: Tribunal Regional Eleitoral do Goias	Cidade: Goiania
+Dominio:  dnpm.gov.br	Nome: Departamento Nacional de Producao Mineral	Cidade: Brasília
+Dominio:  fhdf.gov.br	Nome: Secretaria de Saúde do Distrito Federal	Cidade: Brasília
+Dominio:  trt7.gov.br	Nome: Tribunal Regional do Trabalho da 7A. Regiao	Cidade: Fortaleza
+Dominio:  cmrj.gov.br	Nome: CAMARA MUNICIPAL DO RIO DE JANEIRO	Cidade: Rio de Janeiro
+Dominio:  icea.gov.br	Nome: Departamento de Controle do Espaço Aéreo	Cidade: Rio de Janeiro
+Dominio:  comex.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  iti.gov.br	Nome: Instituto Nacional de Tecnologia Informação - ITI	Cidade: Brasília
+Dominio:  caudf.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  sipia.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  trt.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 3A REGIAO	Cidade: Belo Horizonte
+Dominio:  catir.gov.br	Nome: Ministerio do Planejamento Orçamento e Gestão	Cidade: Brasília
+Dominio:  dtceasp.gov.br	Nome: Comando da Aeronautica - SRPV-SP	Cidade: São Paulo
+Dominio:  portaldoconsumidor.gov.br	Nome: INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECN	Cidade: Rio de Janeiro
+Dominio:  environment.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  trt-sp.gov.br	Nome: Tribunal Regional do Trabalho da 2a Regiao	Cidade: São Paulo
+Dominio:  rndh.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  conasp.gov.br	Nome: Secretaria Nacional de Segurança Pública	Cidade: Brasília
+Dominio:  crefito-sp.gov.br	Nome: CONS REG DE FISIOTERAPIA E TERAP OCUP TRES REG	Cidade: São Paulo
+Dominio:  funpresp-exe.gov.br	Nome: FUNDAÇÃO PREVIDÊNCIA COMPLEMENTAR SERVIDOR PUBLICO	Cidade: Brasília
+Dominio:  tre-al.gov.br	Nome: Tribunal Regional Eleitoral de Alagoas	Cidade: Maceio
+Dominio:  hasp.gov.br	Nome: Hospital da Aeronautica de Sao Paulo	Cidade: São Paulo
+Dominio:  jfrn.gov.br	Nome: Justiça Federal do Rio Grande do Norte	Cidade: Natal
+Dominio:  observatoriodegenero.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  eafsi.gov.br	Nome: Escola Agrotécnica Federal de Santa Inês - Bahia	Cidade: Santa Inês
+Dominio:  juventude.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  servir.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  esmpu.gov.br	Nome: ESCOLA SUPERIOR DO MINISTÉRIO PÚBLICO DA UNIÃO	Cidade: Brasília
+Dominio:  cprm-ma.gov.br	Nome: Companhia de Pesquisa de Recursos Minerais CPRM	Cidade: Manaus
+Dominio:  caisan.gov.br	Nome: DTI/SE/MDS E COMBATE A FOME	Cidade: Brasília
+Dominio:  entreguesuaarma.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  siorg.gov.br	Nome: Ministerio do Planejamento Orçamento e Gestão	Cidade: Brasília
+Dominio:  trt-pe.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 6A. REGIAO	Cidade: Recife
+Dominio:  turismoacessivel.gov.br	Nome: Ministério do Turismo	Cidade: Brasília
+Dominio:  vitrinedoexportador.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  trincadasorte.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  eproc-sc.gov.br	Nome: Justica Federal de Primeiro Grau no RS	Cidade: Porto Alegre
+Dominio:  capoeira.gov.br	Nome: INSTITUTO DO PATRIMONIO HISTORICO E ARTISTICO NACI	Cidade: Salvador
+Dominio:  inb.gov.br	Nome: Industrias Nucleares do Brasil S/A	Cidade: Resende
+Dominio:  crtr19.gov.br	Nome: CONSELHO REGIONAL DE TECNICOS EM RADIOLOGIA 19	Cidade: Manaus
+Dominio:  jfse.gov.br	Nome: Justica Federal - Secao Judiciaria do Estado de SE	Cidade: Aracaju
+Dominio:  prap.gov.br	Nome: Procuradoria da Republica no Estado do Amapa	Cidade: Macapa
+Dominio:  dinheiroaqui.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  participo.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  eafuberaba.gov.br	Nome: CEFET CENTRO FED EDUCAÇÃO TECNOLOGICA DE UBERABA	Cidade: Uberaba
+Dominio:  mcti.gov.br	Nome: Ministério da Ciência, Tecnologia e Inovação	Cidade: Brasília
+Dominio:  creci-pb.gov.br	Nome: Conselho Regional de Corretores de Imóveis 21ª Reg	Cidade: João Pessoa
+Dominio:  pf.gov.br	Nome: DEPARTAMENTO DE POLICIA FEDERAL	Cidade: BRASILIA
+Dominio:  e-jud.gov.br	Nome: SUPERIOR TRIBUNAL DE JUSTICA	Cidade: Brasília
+Dominio:  dtceasc.gov.br	Nome: Comando da Aeronautica - SRPV-SP	Cidade: São Paulo
+Dominio:  pgr.gov.br	Nome: MINISTERIO PUBLICO FEDERAL - PROCURADORIA GERAL DA	Cidade: Brasília
+Dominio:  comprasagriculturafamiliar.gov.br	Nome: DTI/SE/MDS E COMBATE A FOME	Cidade: Brasília
+Dominio:  incrarn.gov.br	Nome: Instituto Nacional de Colonizacao e Ref. Agraria	Cidade: Natal
+Dominio:  bancocentral.gov.br	Nome: Banco Central do Brasil	Cidade: Brasília
+Dominio:  aiaf2014.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  integracaosaofrancisco.gov.br	Nome: MINISTERIO DA INTEGRACAO NACIONAL	Cidade: Brasília
+Dominio:  matopiba.gov.br	Nome: Ministerio da Agricultura Pecuaria e Abastecimento	Cidade: Brasília
+Dominio:  crbio7.gov.br	Nome: conselho regional de biologia da setima região	Cidade: Curitiba
+Dominio:  dinheirovivo.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  softwarepublico.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  inmetro-es.gov.br	Nome: Inst. Nac. Metrol., Normal. e Qual. Ind. Repr. ES	Cidade: Vitória
+Dominio:  snirh.gov.br	Nome: Agência Nacional de Águas	Cidade: Brasília
+Dominio:  crbio-rs.gov.br	Nome: Conselho Regional de Biologia - 3a. Região	Cidade: Porto Alegre
+Dominio:  geipot.gov.br	Nome: EMPRESA BRASILEIRA DE PLANEJAMENTO DE	Cidade: Brasília
+Dominio:  brazilexport.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  crearo.gov.br	Nome: Conselho Regional de Engenharia e Agronomia de RO	Cidade: Porto Velho
+Dominio:  c-brazil.gov.br	Nome: SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  e-post.gov.br	Nome: Empresa Brasileira de Correios e Telégrafos	Cidade: Brasília
+Dominio:  pbqp-h.gov.br	Nome: Ministério das Cidades	Cidade: Brasília
+Dominio:  instantanea.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  arquivonacional.gov.br	Nome: Arquivo Nacional	Cidade: Rio de Janeiro
+Dominio:  meioambientedobrasil.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  portalexporta.gov.br	Nome: Ministério do Desenvolvimento	Cidade: Brasília
+Dominio:  inmetrogo.gov.br	Nome: Superintendência Regional do Inmetro SUR-01/GO	Cidade: Goiânia
+Dominio:  crq-pr.gov.br	Nome: CONSELHO REGIONAL DE QUÍMICA DA 9A REGIÃO	Cidade: Curitiba
+Dominio:  eafajt.gov.br	Nome: Escola Agrotécnica Federal Antônio José Teixeira	Cidade: Guanambi
+Dominio:  ahsul.gov.br	Nome: COMPANHIA DOCAS DO MARANHAO - CODOMAR	Cidade: Porto Alegre
+Dominio:  seade.gov.br	Nome: FUNDACAO SEADE SISTEMA ESTADUAL DE ANALISE DE DADO	Cidade: São Paulo
+Dominio:  imbel.gov.br	Nome: INDÚSTRIA DE MATERIAL BÉLICO DO BRASIL - IMBEL	Cidade: Piquete
+Dominio:  int.gov.br	Nome: Instituto Nacional de Tecnologia	Cidade: Rio de Janeiro
+Dominio:  nex.gov.br	Nome: Ministério das Relações Exteriores	Cidade: Brasili
+Dominio:  trt2.gov.br	Nome: Tribunal Regional do Trabalho da 2a Regiao	Cidade: São Paulo
+Dominio:  rni.gov.br	Nome: REDE NORTERIOGRANDESE DE INFORMATICA - RNI	Cidade: Natal
+Dominio:  orcamento.gov.br	Nome: MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO-MP	Cidade: Brasília
+Dominio:  computadorparatodos.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  sptrt.gov.br	Nome: Tribunal Regional do Trabalho da 2a Regiao	Cidade: São Paulo
+Dominio:  prt4.gov.br	Nome: Procuradoria Regional do Trabalho - 4º Regiao	Cidade: Porto Alegre
+Dominio:  lai.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  mls.gov.br	Nome: IPHAN/Museu Lasar Segall	Cidade: São Paulo
+Dominio:  crm-rj.gov.br	Nome: Conselho Regional de Medicina - CREMERJ	Cidade: Rio de Janeiro
+Dominio:  forumpermanente.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  justiça.gov.brxn--justia-0ua.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: 
+Dominio:  srpv-sp.gov.br	Nome: Comando da Aeronautica - SRPV-SP	Cidade: São Paulo
+Dominio:  censo2000.gov.br	Nome: FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE	Cidade: Rio de Janeiro
+Dominio:  amazoniafundo-bndes.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  stf.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  comexbrazil.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  entespublicos.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  decine.gov.br	Nome: FUNDAÇÃO NACIONAL DE ARTES	Cidade: Rio de Janeiro
+Dominio:  trf1.gov.br	Nome: Tribunal Regional Federal da 1a Regiao	Cidade: Brasília
+Dominio:  portalcofen.gov.br	Nome: CONSELHO FEDERAL DE ENFERMAGEM	Cidade: Brasília
+Dominio:  casadamoeda.gov.br	Nome: CASA DA MOEDA DO BRASIL CMB	Cidade: Rio de Janeiro
+Dominio:  mj.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  hemobras.gov.br	Nome: Empresa Brasileira de Hemoderivados e Biotecnologi	Cidade: Recife
+Dominio:  e-jus.gov.br	Nome: SUPERIOR TRIBUNAL DE JUSTICA	Cidade: Brasília
+Dominio:  creci-sc.gov.br	Nome: CONSELHO REGIONAL DE CORRETORES DE IMOVEIS -=	Cidade: Florianópolis
+Dominio:  conitec.gov.br	Nome: MINISTERIO DA SAUDE	Cidade: Brasília
+Dominio:  raspadinhafederal.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  seminariobrasildigital.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  smpe.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  crbio-02.gov.br	Nome: Conselho Regional Biologia 2ª Reg RJ/ES	Cidade: Rio de Janeiro
+Dominio:  trt19.gov.br	Nome: TRT da 19a Regiao	Cidade: Maceió
+Dominio:  dadosabertos.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  caixaqui.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  cft.gov.br	Nome: Conselho de Teologos do Brasil - Coteb	Cidade: Rio de Janeiro
+Dominio:  assistenciasocial.gov.br	Nome: DTI/SE/MDS E COMBATE A FOME	Cidade: Brasília
+Dominio:  edufinanceiranaescola.gov.br	Nome: CVM - COMISSAO DE VALORES MOBILIARIOS	Cidade: Rio de Janeiro
+Dominio:  brasilsaudavelesustentavel.gov.br	Nome: DTI/SE/MDS E COMBATE A FOME	Cidade: Brasília
+Dominio:  desenvolvimentoagrario.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  crtrrj.gov.br	Nome: CONSELHO REGIONAL DE TÉCNICOS EM RADIOLOGIA 4ª R	Cidade: Rio de Janeiro
+Dominio:  cauac.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  fundacentro-es.gov.br	Nome: Fund. Jorge Duprat Figueiredo de Seg. Med Trabalho	Cidade: Vitoria
+Dominio:  fazenda.gov.br	Nome: MINISTERIO DA FAZENDA	Cidade: Brasília
+Dominio:  agritempo.gov.br	Nome: EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA	Cidade: Campinas
+Dominio:  icmbio.gov.br	Nome: INSTITUTO CHICO MENDES DE CONS. DA BIODIVERSIDADE	Cidade: Brasília
+Dominio:  eafi.gov.br	Nome: ESCOLA AGROTECNICA FEDERAL DE INCONFIDENTES	Cidade: Inconfidentes
+Dominio:  dtceagl.gov.br	Nome: Comando da Aeronautica - SRPV-SP	Cidade: São Paulo
+Dominio:  memoriabndes.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  softwarelivre.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  viibra.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  eafsombrio.gov.br	Nome: Instituto Federal Catarinense Campus Santa Rosa	Cidade: Santa Rosa do Sul
+Dominio:  portalfederativo.gov.br	Nome: IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA	Cidade: Brasília
+Dominio:  inpa.gov.br	Nome: INSTITUTO NACIONAL DE PESQUISAS DA AMAZONIA	Cidade: Manaus
+Dominio:  crtr14.gov.br	Nome: CONSELHO REGIONAL DE TÉCNICO EM RADIOLOGIA 14ª REG	Cidade: Belém
+Dominio:  premioconservacaoenergia.gov.br	Nome: CENTRAIS ELETRICAS BRASILEIRAS SA	Cidade: Rio de Janeiro
+Dominio:  eafce.gov.br	Nome: Escola Agrotécnica Federal de Ceres	Cidade: Ceres
+Dominio:  investinbrazil.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  bancodaterra.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  inca.gov.br	Nome: Instituto Nacional de Câncer	Cidade: Rio de Janeiro
+Dominio:  regulacao.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  correios-ce.gov.br	Nome: EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS	Cidade: Fortaleza
+Dominio:  nuclep.gov.br	Nome: NUCLEBRÁS EQUIPAMENTOS PESADOS S.A.	Cidade: ITAGUAI
+Dominio:  tre-df.gov.br	Nome: Tribunal Regional Eleitoral do Distrito Federal	Cidade: BRASÍLIA
+Dominio:  caixamaisqueumbanco.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  bcb.gov.br	Nome: Banco Central do Brasil	Cidade: Brasília
+Dominio:  brasilmaisprodutivo.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  documenta.gov.br	Nome: FUNDACAO BIBLIOTECA NACIONAL	Cidade: Rio de Janeiro
+Dominio:  codern.gov.br	Nome: COMPANHIA DAS DOCAS DO RIO GRANDE DO NORTE	Cidade: Natal
+Dominio:  eafs.gov.br	Nome: ESCOLA AGROTECNICA FEDERAL DE SATUBA - AL	Cidade: Satuba
+Dominio:  dtpdf.gov.br	Nome: DATAPREV DF	Cidade: Brasília
+Dominio:  empresasimples.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  jfsc.gov.br	Nome: Justica Federal de Primeiro Grau em Santa Catarina	Cidade: Florianópolis
+Dominio:  tre-mg.gov.br	Nome: TRIBUNAL REGIONAL ELEITORAL DE MINAS GERAIS	Cidade: BELO HORIZONTE
+Dominio:  nuclebras.gov.br	Nome: Nuclebras Equipamentos Pesados S.A.	Cidade: Itaguaí
+Dominio:  cnis.gov.br	Nome: EMP. DE TEC. E INFORMACOES DA PREVIDENCIA SOCIAL	Cidade: Rio de Janeiro
+Dominio:  versionamento.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  convergenciademidias.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  creci-pa.gov.br	Nome: Conselho Regional de Corretores de Imóveis	Cidade: Belém
+Dominio:  trt02.gov.br	Nome: Tribunal Regional do Trabalho da 2a Regiao	Cidade: São Paulo
+Dominio:  eafsc.gov.br	Nome: Escola Agrotécnica Federal de São Cristóvão - SE	Cidade: São Cristóvão
+Dominio:  hgb.gov.br	Nome: Hospital Geral de Bonsucesso	Cidade: Rio de Janeiro
+Dominio:  dner-ce.gov.br	Nome: DNER - 03. DISTRITO RODOVIAVIO FEDERAL	Cidade: Fortaleza
+Dominio:  coren-pe.gov.br	Nome: Conselho Regional de Enfermagem de Pernambuco	Cidade: Recife
+Dominio:  eproc-rs.gov.br	Nome: Justica Federal de Primeiro Grau no RS	Cidade: Porto Alegre
+Dominio:  eproc.gov.br	Nome: Justica Federal de Primeiro Grau no RS	Cidade: Porto Alegre
+Dominio:  loterias.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  amazonfund.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  trt05.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 5A. REGIAO	Cidade: Salvador
+Dominio:  cetem.gov.br	Nome: CENTRO DE TECNOLOGIA MINERAL	Cidade: Rio de Janeiro
+Dominio:  e-sic.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  crbio-sc.gov.br	Nome: Conselho Regional de Biologia - 3a. Região	Cidade: Porto Alegre
+Dominio:  e-car.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  dpf-ce.gov.br	Nome: SUPER. REGIONAL DA POLICIA FEDERAL NO CEARÁ	Cidade: Fortaleza
+Dominio:  cbtujp.gov.br	Nome: Companhia Brasileira de Trens Urbanos	Cidade: João Pessoa
+Dominio:  eproc-pr.gov.br	Nome: Justica Federal de Primeiro Grau no RS	Cidade: Porto Alegre
+Dominio:  prt6.gov.br	Nome: Procuradoria Regional do Trabalho - 6a Regiao	Cidade: Recife
+Dominio:  biodiesel.gov.br	Nome: IBICT - MCTI	Cidade: Brasília
+Dominio:  todoscontracorrupcao.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  pbh.gov.br	Nome: Emp. Informat. Informaçao Mun. BH/SA	Cidade: Belo Horizonte
+Dominio:  eafcol.gov.br	Nome: Escola Agrotécnica Federal de Colatina	Cidade: Colatina
+Dominio:  convenios.gov.br	Nome: Ministerio do Planejamento Orçamento e Gestão	Cidade: Brasília
+Dominio:  orçamentofederal.gov.brxn--oramentofederal-fmb.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: 
+Dominio:  caugo.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  sigabrasil.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  mtecbo.gov.br	Nome: MINISTERIO DO TRABALHO E EMPREGO	Cidade: Brasília
+Dominio:  tre-mt.gov.br	Nome: Tribunal Regional Eleitoral de Mato Grosso	Cidade: Cuiabá
+Dominio:  snisb.gov.br	Nome: Agência Nacional de Águas	Cidade: Brasília
+Dominio:  adene.gov.br	Nome: Agência de Desenvolvimento do Nordeste	Cidade: Recife
+Dominio:  prove.gov.br	Nome: EMATER -DF	Cidade: Brasília
+Dominio:  defesadoconsumidor.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  duplasena.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  info.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  portaldacopa.gov.br	Nome: ME - Ministerio do Esporte	Cidade: Brasília
+Dominio:  ciscea.gov.br	Nome: COMISSAO DE IMPLANTACAO DO SISTEMA DE CONTROLE DO	Cidade: RIO DE JANEIRO
+Dominio:  ministeriodomeioambiente.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  contaspublicas.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  processoeletronico.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  sivnet.gov.br	Nome: INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA	Cidade: Brasília
+Dominio:  insa.gov.br	Nome: Instituto Nacional do Semi-Árido-INSA	Cidade: Campina Grande
+Dominio:  cquali.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  spm.gov.br	Nome: Secretaria Especial de Politícas para as Mulheres	Cidade: BRASILIA
+Dominio:  odmbrasil.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  idbrasil.gov.br	Nome: Ministério das Comunicações	Cidade: Brasília
+Dominio:  crefito16.gov.br	Nome: Conselho Regional de Fisioterapia e Terapia Ocupac	Cidade: São Luís
+Dominio:  traficodepessoas.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  crbio02.gov.br	Nome: Conselho Regional Biologia 2ª Reg RJ/ES	Cidade: Rio de Janeiro
+Dominio:  crbio3.gov.br	Nome: Conselho Regional de Biologia - 3a. Região	Cidade: Porto Alegre
+Dominio:  assistênciasocial.gov.brxn--assistnciasocial-xqb.gov.br	Nome: DATAPREV DF	Cidade: 
+Dominio:  brasil-rounds.gov.br	Nome: Agência Nacional do Petróleo, Gás Natural e Bioco.	Cidade: Rio de Janeiro
+Dominio:  policiafederal.gov.br	Nome: DEPARTAMENTO DE POLICIA FEDERAL	Cidade: BRASILIA
+Dominio:  convivio.gov.br	Nome: Ministerio do Desenvolvimento Agrario	Cidade: Brasília
+Dominio:  portalplanalto.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  observatoriodaindustria.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  confiancabrasil.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  rbmlq.gov.br	Nome: INMETRO INSTITUTO NAC DE METROL NORM E QUAL INDUST	Cidade: Porto Alegre
+Dominio:  desafios.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  chicomendes.gov.br	Nome: INSTITUTO CHICO MENDES DE CONS. DA BIODIVERSIDADE	Cidade: Brasília
+Dominio:  querovercultura.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  tvjustica.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  senad.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  censo.gov.br	Nome: FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE	Cidade: Rio de Janeiro
+Dominio:  controladoria.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  crecisp.gov.br	Nome: CONSELHO REGIONAL DE CORRETORES DE IMOVEIS SP	Cidade: São Paulo
+Dominio:  camaradosdeputados.gov.br	Nome: Camara dos Deputados	Cidade: Brasília
+Dominio:  comiteamazonia.gov.br	Nome: Superintedência de Denvolvimento da Amazônia	Cidade: Belém
+Dominio:  lotofacil.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  nae.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  eafc.gov.br	Nome: Instituto Federal de Mato Grosso - Cáceres	Cidade: Cáceres
+Dominio:  renaqua.gov.br	Nome: Ministério da Pesca e Aquicultura	Cidade: Brasília
+Dominio:  trt22.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 22A. REGIAO	Cidade: Teresina
+Dominio:  fns-sc.gov.br	Nome: FUNDACAO NACIONAL DE SAUDE - COORDENAÇÃO REGIONAL	Cidade: Florianopolis
+Dominio:  consultaprotocolo.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  pa.gov.br	Nome: PRODEPA - Processamento de Dados do Pará	Cidade: Belém
+Dominio:  retp.gov.br	Nome: MINISTERIO DO MEIO AMBIENTE	Cidade: Brasília
+Dominio:  caixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  ticontrole.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  xn--assistnciasocial-xqb.gov.br	Nome: 	Cidade: Brasília
+Dominio:  cauto.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  trinca.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  anapost.gov.br	Nome: Empresa Brasileira de Correios e Telégrafos	Cidade: Brasília
+Dominio:  tjap.gov.br	Nome: TRIBUNAL DE JUSTICA DO ESTADO DO AMAPA	Cidade: Macapá
+Dominio:  srpvsp.gov.br	Nome: Comando da Aeronautica - SRPV-SP	Cidade: São Paulo
+Dominio:  exportabrasil.gov.br	Nome: MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI	Cidade: Brasília
+Dominio:  coaf.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  ceplacpa.gov.br	Nome: COMISSÃO EXECUTIVA DO PLANTIO DA LAVOURA CACAUEIRA	Cidade: BELEM
+Dominio:  abin.gov.br	Nome: Agencia Brasileira de Inteligencia	Cidade: Brasília
+Dominio:  sgov.gov.br	Nome: SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  fundacentro-pe.gov.br	Nome: FUNDACENTRO - FUNDACAO JORGE DUPRAT FIGUEIREDO DE	Cidade: Recife
+Dominio:  energiabrasil.gov.br	Nome: MINISTERIO DE MINAS E ENERGIA	Cidade: Brasília
+Dominio:  quiosque.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  fiscalizacopa2014.gov.br	Nome: Tribunal de Contas da União	Cidade: Brasília
+Dominio:  servicos.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  caurn.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  ebndes.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  educacion.gov.br	Nome: Ministério da Educação	Cidade: Brasília
+Dominio:  copatransparente.gov.br	Nome: SENADO FEDERAL	Cidade: Brasília
+Dominio:  e-pagamentoscaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  abcnaidadecerta.gov.br	Nome: Ministério da Educação	Cidade: Brasília
+Dominio:  xn--guiadeservios-sgb.gov.br	Nome: 	Cidade: Brasília
+Dominio:  tre-rr.gov.br	Nome: Tribunal Regional Eleitoral de Roraima	Cidade: Boa Vista
+Dominio:  tradeandinvestment.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  mpdft.gov.br	Nome: Ministério Público do DF e Territórios	Cidade: Brasília
+Dominio:  trtms.gov.br	Nome: TRIBUNAL REGIONAL DO TRABALHO DA 24A REGIAO	Cidade: Campo Grande
+Dominio:  museuvictormeirelles.gov.br	Nome: Instituto Brasileiro de Museus - IBRAM	Cidade: Brasília
+Dominio:  rio20.gov.br	Nome: MINISTERIO DAS RELACOES EXTERIORES	Cidade: Brasília
+Dominio:  furnas.gov.br	Nome: Furnas Centrais Elétricas S.A.	Cidade: Rio de Janeiro
+Dominio:  fatoseboatos.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  tradepromotion.gov.br	Nome: Min. Relações Exteriores Depto Promoção Comercial	Cidade: Brasília
+Dominio:  seppir.gov.br	Nome: SECRETARIA ESPECIAL DE POLITICAS DE PROMOCAO DA IG	Cidade: Brasília
+Dominio:  coren-mt.gov.br	Nome: CONSELHO REGIONAL DE ENFERMAGEM DE MATO GROSSO	Cidade: Cuiabá
+Dominio:  cultura.gov.br	Nome: Ministério da Cultura	Cidade: Brasília
+Dominio:  brasil2016.gov.br	Nome: ME - Ministerio do Esporte	Cidade: Brasília
+Dominio:  crbiopr.gov.br	Nome: conselho regional de biologia da setima região	Cidade: Curitiba
+Dominio:  ebserh.gov.br	Nome: EMPRESA BRASILEIRA DE SERV HOSPITALARES - EBSERH	Cidade: Brasília
+Dominio:  aerofacil.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  mmirjdh.gov.br	Nome: Min das Mulheres, Igualdade Racial, Juv. e Dir Hum	Cidade: Brasília
+Dominio:  shoppingcaixa.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  wikilegis.gov.br	Nome: Camara dos Deputados	Cidade: Brasília
+Dominio:  defesacivil.gov.br	Nome: MINISTERIO DA INTEGRACAO NACIONAL	Cidade: Brasília
+Dominio:  dj.gov.br	Nome: SUPREMO TRIBUNAL FEDERAL	Cidade: Brasília
+Dominio:  education.gov.br	Nome: Ministério da Educação	Cidade: Brasília
+Dominio:  dac.gov.br	Nome: DEPARTAMENTO DE AVIACAO CIVIL - DAC	Cidade: Brasília
+Dominio:  infoseg.gov.br	Nome: Secretaria Nacional de Segurança Pública	Cidade: Brasília
+Dominio:  gdf.gov.br	Nome: Sec. de Estado de Plan. e Orçamento do DF	Cidade: Brasília
+Dominio:  dpf.gov.br	Nome: DEPARTAMENTO DE POLICIA FEDERAL	Cidade: BRASILIA
+Dominio:  disque100.gov.br	Nome: Secretaria de Direitos Humanos	Cidade: Brasília
+Dominio:  igam.gov.br	Nome: Instituto Mineiro de Gestão das Águas	Cidade: Belo Horizonte
+Dominio:  secom.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  crmvmg.gov.br	Nome: Cons. Reg. de Medicina Veterinaria do Est. de MG	Cidade: Belo Horizonte
+Dominio:  sinesp.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  funag.gov.br	Nome: Fundação Alexandre de Gusmão	Cidade: Brasília
+Dominio:  splp.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  eleicoes.gov.br	Nome: Tribunal Superior Eleitoral	Cidade: Brasília
+Dominio:  contracorrupcao.gov.br	Nome: CONTROLADORIA-GERAL DA UNIÃO	Cidade: Brasília
+Dominio:  codesa.gov.br	Nome: COMPANHIA DOCAS DO ESPIRITO SANTO	Cidade: Vitoria
+Dominio:  crefono8.gov.br	Nome: Conselho Regional de Fonoaudiologia 8a Regiao	Cidade: Fortaleza
+Dominio:  bcdam.gov.br	Nome: COMPANHIA DE PESQUISA DE RECURSOS MINERAIS	Cidade: Rio de Janeiro
+Dominio:  acjus.gov.br	Nome: CONSELHO DA JUSTICA FEDERAL	Cidade: Brasília
+Dominio:  solucoestipublica.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  confecom.gov.br	Nome: Secretaria de Comunicação Social	Cidade: Brasília
+Dominio:  trevodaloteria.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  defensoriapublica.gov.br	Nome: MINISTERIO DA JUSTICA	Cidade: Brasília
+Dominio:  simples.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  inde.gov.br	Nome: FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE	Cidade: Rio de Janeiro
+Dominio:  cauce.gov.br	Nome: Conselho de Arquitetura e Urbanismo do Brasil	Cidade: Brasília
+Dominio:  dte.gov.br	Nome: Agencia Brasileira de Inteligencia	Cidade: Brasília
+Dominio:  sei.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  celepar.gov.br	Nome: CIA. DE TECNOL. DA INFOR. E COMUNICAÇÃO DO PARANÁ	Cidade: Curitiba
+Dominio:  crea-ro.gov.br	Nome: Conselho Regional de Engenharia e Agronomia de RO	Cidade: Porto Velho
+Dominio:  crqxx.gov.br	Nome: CONSELHO REGIONAL DE QUIMICA 20 REGIAO	Cidade: Campo Grande
+Dominio:  pen.gov.br	Nome: Ministerio do Planejamento, Orcamento e Gestao	Cidade: Brasília
+Dominio:  dinf.gov.br	Nome: Agencia Brasileira de Inteligencia	Cidade: Brasília
+Dominio:  mct.gov.br	Nome: Ministério da Ciência, Tecnologia e Inovação	Cidade: Brasília
+Dominio:  scdl.gov.br	Nome: Seg. Com. Bras. Demarc. de Limites	Cidade: Rio de Janeiro
+Dominio:  crbio08.gov.br	Nome: CONSELHO REGIONAL DE BIOLOGIA 8 REGIAO	Cidade: Salvador
+Dominio:  cfa.gov.br	Nome: CFA - CONSELHO FEDERAL DE ADMINISTRACAO	Cidade: Brasília
+Dominio:  maismedico.gov.br	Nome: EMPRESA BRASILEIRA DE SERV HOSPITALARES - EBSERH	Cidade: Brasília
+Dominio:  fns-es.gov.br	Nome: Fundação Nacional de Saúde	Cidade: VitoriaE
+Dominio:  prt3.gov.br	Nome: PROCURADORIA REGIONAL DO TRABALHO 3a REGIAO	Cidade: Belo Horizonte
+Dominio:  casabrasil.gov.br	Nome: Ministério da Ciência, Tecnologia e Inovação	Cidade: Brasília
+Dominio:  itamaraty.gov.br	Nome: MINISTERIO DAS RELACOES EXTERIORES	Cidade: Brasília
+Dominio:  boavistaenergia.gov.br	Nome: Centrais Eletricas do Norte do Brasil	Cidade: Brasilia
+Dominio:  tst.gov.br	Nome: TRIBUNAL SUPERIOR DO TRABALHO	Cidade: Brasília
+Dominio:  prplanalto.gov.br	Nome: PRESIDENCIA DA REPUBLICA	Cidade: Brasília
+Dominio:  gespublica.gov.br	Nome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO	Cidade: Brasília
+Dominio:  rr.gov.br	Nome: Governo do Estado de Roraima	Cidade: Boa Vista
+Dominio:  coren-df.gov.br	Nome: CONSELHO REGIONAL DE ENFERMAGEM DO DF	Cidade: Brasília
+Dominio:  dinheiroinstantaneo.gov.br	Nome: CAIXA ECONOMICA FEDERAL	Cidade: Brasília
+Dominio:  epamigcaldas.gov.br	Nome: Empresa de Pesquisa Agrop. de Minas Gerais	Cidade: caldas
+Dominio:  centrodememoriabndes.gov.br	Nome: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI	Cidade: Rio de Janeiro
+Dominio:  pmss.gov.br	Nome: Ministério das Cidades	Cidade: Brasília

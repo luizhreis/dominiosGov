@@ -1,0 +1,33 @@
+
+
+
+domain:      jfpe.gov.br
+owner:       Justica Federal de 1a Instancia
+responsible: Mapril Fernandes Maia
+country:     BR
+owner-c:     MAF1760
+admin-c:     MAF1760
+tech-c:      MAF1760
+billing-c:   MAF1760
+nserver:     ns1.jfpe.gov.br 177.12.229.2 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.jfpe.gov.br 177.12.229.3 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.jfpe.gov.br 189.115.162.162 
+nsstat:      20160630 CREFUSED
+nslastaa:    20140909
+nserver:     ns4.jfpe.gov.br 189.115.162.163 
+nsstat:      20160630 CREFUSED
+nslastaa:    20140909
+created:     19991207 #227076
+changed:     20140829
+status:      published
+
+nic-hdl-br:  MAF1760
+person:      Mapril Fernandes
+created:     20050111
+changed:     20090708
+
+

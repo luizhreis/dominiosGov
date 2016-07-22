@@ -1,0 +1,30 @@
+
+
+
+domain:      trt14.gov.br
+owner:       TRIBUNAL REGIONAL DO TRABALHO-14a.REGIÃO
+responsible: Secretaria de Informática
+country:     BR
+owner-c:     TRT4
+admin-c:     TRT4
+tech-c:      TRT4
+billing-c:   TRT4
+nserver:     ns1.trt14.gov.br 187.4.114.228 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.trt14.gov.br 187.4.114.229 
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    38506 RSA/SHA-1 7B850CD3A95D8F8C011CE462294B683FB69BFA2A
+dsstatus:    20160701 EXPSIG
+dslastok:    20151231
+created:     19991014 #207068
+changed:     20141122
+status:      published
+
+nic-hdl-br:  TRT4
+person:      Tribunal Regional do Trabalho-14a.Região
+created:     19991001
+changed:     20120203
+
+

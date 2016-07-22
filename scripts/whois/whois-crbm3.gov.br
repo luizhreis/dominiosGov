@@ -1,0 +1,36 @@
+
+
+
+domain:      crbm3.gov.br
+owner:       Conselho Regional de Biomedicina
+responsible: Rony Marques de Castilho
+country:     BR
+owner-c:     ROMCA209
+admin-c:     ROMCA209
+tech-c:      FCCFE11
+billing-c:   ROMCA209
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20150515 #14147040
+changed:     20150515
+status:      published
+
+nic-hdl-br:  FCCFE11
+person:      Francisco Coelho Citó Feitosa
+created:     20120102
+changed:     20150422
+
+nic-hdl-br:  ROMCA209
+person:      RONY MARQUES DE CASTILHO
+created:     20120305
+changed:     20150507
+
+

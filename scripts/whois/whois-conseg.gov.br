@@ -1,0 +1,27 @@
+
+
+
+domain:      conseg.gov.br
+owner:       Ministério da Justiça
+responsible: Alberto Liebling Kopittke
+country:     BR
+owner-c:     MAPAI12
+admin-c:     MAPAI12
+tech-c:      MAPAI12
+billing-c:   MAPAI12
+nserver:     ns.infoseg.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20111005
+nserver:     sdfdns01.dprf.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20110430
+created:     20080901 #4814165
+changed:     20090109
+status:      published
+
+nic-hdl-br:  MAPAI12
+person:      Marcelo de Paiva
+created:     20080827
+changed:     20080901
+
+

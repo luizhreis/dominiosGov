@@ -1,0 +1,30 @@
+
+
+
+domain:      imbel.gov.br
+owner:       INDÚSTRIA DE MATERIAL BÉLICO DO BRASIL - IMBEL
+responsible: Regiane Marton
+country:     BR
+owner-c:     IMB57
+admin-c:     IMB57
+tech-c:      IMB57
+billing-c:   IMB57
+nserver:     dns3.imbel.gov.br 177.15.64.232 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns4.imbel.gov.br 187.6.22.233 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.telebras.net.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20000223 #263716
+changed:     20160106
+status:      published
+
+nic-hdl-br:  IMB57
+person:      INDÚSTRIA DE MATERIAL BÉLICO DO BRASIL
+created:     20040918
+changed:     20131028
+
+

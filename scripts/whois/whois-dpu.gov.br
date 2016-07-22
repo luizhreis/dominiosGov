@@ -1,0 +1,27 @@
+
+
+
+domain:      dpu.gov.br
+owner:       Defensoria Pública-Geral da União
+responsible: Haman Tabosa de Moraes Cordova
+country:     BR
+owner-c:     ERF65
+admin-c:     ERF65
+tech-c:      ERF65
+billing-c:   ERF65
+nserver:     faramir.dpu.gov.br 200.214.186.92 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     boromir.dpu.gov.br 200.214.186.93 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20071005 #3957938
+changed:     20120802
+status:      published
+
+nic-hdl-br:  ERF65
+person:      Elton Ricardo Marinho Figueira
+created:     20010126
+changed:     20091006
+
+

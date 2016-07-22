@@ -1,0 +1,42 @@
+
+
+
+domain:      br.gov.br
+owner:       SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO
+responsible: Alexandre dos Santos Ferreira
+country:     BR
+owner-c:     ADSFE47
+admin-c:     ADSFE47
+tech-c:      MRV103
+billing-c:   ADSFE47
+nserver:     antares.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+saci:        yes
+created:     20131118 #12262544
+changed:     20131118
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+

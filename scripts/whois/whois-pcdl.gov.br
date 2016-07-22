@@ -1,0 +1,27 @@
+
+
+
+domain:      pcdl.gov.br
+owner:       Primeira Comissao Brasileira Demarcadora de Limite
+responsible: Paulo Carlos Pereira do Amaral
+country:     BR
+owner-c:     RSP142
+admin-c:     RSP142
+tech-c:      RSP142
+billing-c:   RSP142
+nserver:     server001.pcdl.gov.br 200.242.203.10 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20090814
+nserver:     ns.embratel.net.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    20070510
+created:     20020903 #951810
+changed:     20020903
+status:      published
+
+nic-hdl-br:  RSP142
+person:      REDINALDO SIQUEIRA PANTOJA
+created:     20020816
+changed:     20020816
+
+

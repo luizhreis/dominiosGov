@@ -1,0 +1,33 @@
+
+
+
+domain:      voluntariado.gov.br
+owner:       ME - Ministerio do Esporte
+responsible: Jose Dartalian Gomes Pinheiro
+country:     BR
+owner-c:     JDGPI
+admin-c:     JAA364
+tech-c:      JAA364
+billing-c:   JAA364
+nserver:     dns1.voluntariado.gov.br 200.198.193.115 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.voluntariado.gov.br 200.198.193.116 
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20131024 #12162272
+changed:     20131024
+status:      published
+
+nic-hdl-br:  JAA364
+person:      Jorge Antônio Lacerda de Andrade
+created:     20030908
+changed:     20160222
+
+nic-hdl-br:  JDGPI
+person:      José Dartalian Gomes Pinheiro
+created:     20160222
+changed:     20160222
+
+

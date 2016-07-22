@@ -1,0 +1,32 @@
+
+
+
+domain:      trf2.gov.br
+owner:       TRIBUNAL REGIONAL FEDERAL DA 2A. REGIAO
+responsible: Carlos Eduardo Guimarães Martellet
+country:     BR
+owner-c:     CEM39
+admin-c:     CEM39
+tech-c:      MAVIN3
+billing-c:   CEM39
+nserver:     ns1.trf2.gov.br 177.223.208.153 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.trf2.gov.br 200.49.50.154 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19971002 #61185
+changed:     20151030
+status:      published
+
+nic-hdl-br:  CEM39
+person:      Carlos Eduardo Guimarães Martellet
+created:     19980910
+changed:     19981005
+
+nic-hdl-br:  MAVIN3
+person:      Marcus Vinícius
+created:     20060912
+changed:     20141104
+
+

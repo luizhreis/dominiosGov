@@ -1,0 +1,33 @@
+
+
+
+domain:      creci-sc.gov.br
+owner:       CONSELHO REGIONAL DE CORRETORES DE IMOVEIS -=
+responsible: CONSELHO REGIONAL DE CORRETORES DE IMOVE
+country:     BR
+owner-c:     AGS33
+admin-c:     AGS33
+tech-c:      AGS33
+billing-c:   AGS33
+nserver:     ns-141.awsdns-17.com  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns-968.awsdns-57.net  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns-1064.awsdns-05.org  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns-1839.awsdns-37.co.uk  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20080514 #4455993
+changed:     20141101
+status:      published
+
+nic-hdl-br:  AGS33
+person:      Álvaro Godinho de Souza
+created:     19990709
+changed:     20140523
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      cbtumetrorec.gov.br
+owner:       COMPANHIA BRASILEIRA DE TRENS URBANOS
+responsible: Carlos Alberto Ribeiro
+country:     BR
+owner-c:     FCV93
+admin-c:     FCV93
+tech-c:      FCV93
+billing-c:   CAR107
+nserver:     dns1.l7consult.com.br  
+nsstat:      20160630 CNAME
+nslastaa:    20160301
+nserver:     dns2.l7consult.com.br  
+nsstat:      20160630 CNAME
+nslastaa:    20160301
+created:     20080410 #4350194
+changed:     20111229
+status:      published
+
+nic-hdl-br:  CAR107
+person:      Carlos Alberto Ribeiro
+created:     19991005
+changed:     20140910
+
+nic-hdl-br:  FCV93
+person:      FábioAdriano de Carvalho Vieira
+created:     20051011
+changed:     20150515
+
+

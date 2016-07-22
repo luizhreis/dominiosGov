@@ -1,0 +1,35 @@
+
+
+
+domain:      cprm.gov.br
+owner:       COMPANHIA DE PESQUISA DE RECURSOS MINERAIS
+responsible: Laura Estela Madeira Carvalho
+country:     BR
+owner-c:     RFCSI22
+admin-c:     CPRMI
+tech-c:      RFCSI22
+billing-c:   CPRMI
+nserver:     dns1.cprm.gov.br 200.20.109.8 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns2.cprm.gov.br 200.20.109.12 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns3.cprm.gov.br 189.9.170.6 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19960216 #5443
+changed:     20151125
+status:      published
+
+nic-hdl-br:  CPRMI
+person:      Cia Pesquisa de Recursos Minerais
+created:     20140424
+changed:     20140424
+
+nic-hdl-br:  RFCSI22
+person:      Regina Fatima da Conceição Siebra
+created:     20150805
+changed:     20150805
+
+

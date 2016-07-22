@@ -1,0 +1,32 @@
+
+
+
+domain:      lapa-pe.gov.br
+owner:       Ministério da Agricultura - DFA - Lapa - Recife
+responsible: Diana Sione
+country:     BR
+owner-c:     DFA22
+admin-c:     DFA22
+tech-c:      EDS231
+billing-c:   DFA22
+nserver:     fantasma.iteci.com.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20050516
+nserver:     batman.iteci.com.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20050516
+created:     20010327 #532987
+changed:     20010327
+status:      published
+
+nic-hdl-br:  DFA22
+person:      Delegacia Federal de Agricultura
+created:     20010109
+changed:     20010109
+
+nic-hdl-br:  EDS231
+person:      Ednaldo Dias da Silva
+created:     20001114
+changed:     20011015
+
+

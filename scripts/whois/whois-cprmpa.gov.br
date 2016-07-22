@@ -1,0 +1,32 @@
+
+
+
+domain:      cprmpa.gov.br
+owner:       Companhia de Pesquisas de Recursos Minerais CPRM
+responsible: Gladis Antonio Presotto
+country:     BR
+owner-c:     GAP12
+admin-c:     GAP12
+tech-c:      ALH3
+billing-c:   GAP12
+nserver:     poa.procempa.com.br  
+nsstat:      20160701 UH
+nslastaa:    20030531
+nserver:     proibm3.procempa.com.br  
+nsstat:      20160701 UH
+nslastaa:    20030531
+created:     19980718 #104099
+changed:     19991117
+status:      published
+
+nic-hdl-br:  ALH3
+person:      Alexandre Horch
+created:     19980108
+changed:     20030205
+
+nic-hdl-br:  GAP12
+person:      Cladis Antonio Presotto
+created:     19980623
+changed:     19980713
+
+

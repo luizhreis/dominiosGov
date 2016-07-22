@@ -1,0 +1,32 @@
+
+
+
+domain:      eafsombrio.gov.br
+owner:       Instituto Federal Catarinense Campus Santa Rosa
+responsible: Antonio Carlos Krause
+country:     BR
+owner-c:     ANCSO351
+admin-c:     ANCSO351
+tech-c:      ANCSO351
+billing-c:   ALP344
+nserver:     ns2.zoneedit.com  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns4.zoneedit.com  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20001108 #455139
+changed:     20160511
+status:      published
+
+nic-hdl-br:  ALP344
+person:      Adoniltom Luiz Pizatto
+created:     20010613
+changed:     20010613
+
+nic-hdl-br:  ANCSO351
+person:      Anderson Conti Soprana
+created:     20150313
+changed:     20160511
+
+

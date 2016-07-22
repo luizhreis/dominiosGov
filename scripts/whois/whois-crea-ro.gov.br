@@ -1,0 +1,27 @@
+
+
+
+domain:      crea-ro.gov.br
+owner:       Conselho Regional de Engenharia e Agronomia de RO
+responsible: George Marcio Tico Silva
+country:     BR
+owner-c:     CRR81
+admin-c:     CRR81
+tech-c:      CRR81
+billing-c:   CRR81
+nserver:     ns1.crea-ro.gov.br 200.252.72.101 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20110416
+nserver:     ns2.crea-ro.gov.br 200.252.72.102 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20110416
+created:     20091002 #6002407
+changed:     20091002
+status:      published
+
+nic-hdl-br:  CRR81
+person:      Conselho Reg. de Eng. Arq e Agr de RO
+created:     20000830
+changed:     20120822
+
+

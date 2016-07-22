@@ -1,0 +1,28 @@
+
+
+
+domain:      brasilexport.gov.br
+owner:       Min. Relações Exteriores Depto Promoção Comercial
+responsible: Carlos Henrique Moscardo
+country:     BR
+owner-c:     CTDPR5
+admin-c:     CTDPR5
+tech-c:      CTDPR5
+billing-c:   CTDPR5
+nserver:     dns.brasilexport.gov.br 201.73.190.41 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns1.brasilexport.gov.br 201.73.87.162 
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20130912 #11946792
+changed:     20140710
+status:      published
+
+nic-hdl-br:  CTDPR5
+person:      CTIC DPR
+created:     20140710
+changed:     20160524
+
+

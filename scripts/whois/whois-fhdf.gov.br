@@ -1,0 +1,30 @@
+
+
+
+domain:      fhdf.gov.br
+owner:       Secretaria de Saúde do Distrito Federal
+responsible: Jose Ruy de Carvalho Demes
+country:     BR
+owner-c:     CAT64
+admin-c:     CAT64
+tech-c:      CAT64
+billing-c:   CAT64
+nserver:     gambit.fhdf.gov.br 200.193.236.41 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns02-bsa.brasiltelecom.net.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns01-cta.brasiltelecom.net.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     before 19950101
+changed:     20080219
+status:      published
+
+nic-hdl-br:  CAT64
+person:      Christophe de Almeida Teles
+created:     20000223
+changed:     20160222
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      peticaoeletronica.gov.br
+owner:       Justica Federal de Primeiro Grau no RS
+responsible: André Zamprogna Marcon
+country:     BR
+owner-c:     ALSIL482
+admin-c:     ALSIL482
+tech-c:      ALSIL482
+billing-c:   ANZMA3
+nserver:     ns1.jfrs.jus.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.jfrs.jus.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20030102 #1044451
+changed:     20130924
+status:      published
+
+nic-hdl-br:  ALSIL482
+person:      Alexandre da Silveira Ilha
+created:     20120423
+changed:     20120423
+
+nic-hdl-br:  ANZMA3
+person:      André Zamprogna Marcon
+created:     20110823
+changed:     20151214
+
+

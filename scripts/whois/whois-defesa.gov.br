@@ -1,0 +1,27 @@
+
+
+
+domain:      defesa.gov.br
+owner:       Ministerio da Defesa
+responsible: Divisão de Tecnologia da Informação
+country:     BR
+owner-c:     EDA12
+admin-c:     EDA12
+tech-c:      EDA12
+billing-c:   EDA12
+nserver:     ns1.defesa.gov.br 200.198.193.130 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.defesa.gov.br 200.198.193.153 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19990622 #171030
+changed:     20141218
+status:      published
+
+nic-hdl-br:  EDA12
+person:      Ministério da Defesa do Brasil
+created:     19980313
+changed:     20160304
+
+

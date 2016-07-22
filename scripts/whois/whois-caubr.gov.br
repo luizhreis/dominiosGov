@@ -1,0 +1,44 @@
+
+
+
+domain:      caubr.gov.br
+owner:       Conselho de Arquitetura e Urbanismo do Brasil
+responsible: HAROLDO PINHEIRO VILLAR DE QUEIROZ
+country:     BR
+owner-c:     MICLO17
+admin-c:     MICLO17
+tech-c:      SCITI
+billing-c:   SCFIN
+nserver:     ns-186.awsdns-23.com  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns-1417.awsdns-49.org  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns-857.awsdns-43.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns-1639.awsdns-12.co.uk  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20120706 #10045983
+changed:     20150429
+status:      published
+
+nic-hdl-br:  MICLO17
+person:      Mirna C.Lobo
+created:     20120328
+changed:     20140605
+
+nic-hdl-br:  SCFIN
+person:      Scytl Financeiro
+created:     20140710
+changed:     20140710
+
+nic-hdl-br:  SCITI
+person:      Scytl Infraestrutura de TI
+created:     20140710
+changed:     20150303
+
+

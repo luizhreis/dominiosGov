@@ -1,0 +1,27 @@
+
+
+
+domain:      pame.gov.br
+owner:       Parque de Material de Eletrônica da Aeronáutica
+responsible: Cel.-Eng Paim
+country:     BR
+owner-c:     AOP26
+admin-c:     AOP26
+tech-c:      AOP26
+billing-c:   AOP26
+nserver:     dns1.decea.gov.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20160623
+nserver:     dns2.decea.gov.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20141108
+created:     20041214 #1924674
+changed:     20150323
+status:      published
+
+nic-hdl-br:  AOP26
+person:      Alex de Oliveira Pereira
+created:     20010318
+changed:     20120113
+
+

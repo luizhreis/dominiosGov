@@ -1,0 +1,32 @@
+
+
+
+domain:      dnocspb.gov.br
+owner:       Segundo Distrito de Engenharia Rural
+responsible: Julio Neto da Silva
+country:     BR
+owner-c:     BLC4
+admin-c:     BLC4
+tech-c:      BLC4
+billing-c:   FDD5
+nserver:     brasilis.zaitek.com.br  
+nsstat:      20160629 UH
+nslastaa:    20070714
+nserver:     host.openline.com.br  
+nsstat:      20160629 UH
+nslastaa:    20070714
+created:     19990614 #165937
+changed:     20160311
+status:      published
+
+nic-hdl-br:  BLC4
+person:      Bruno Lopes Fernandes Cabral
+created:     19980224
+changed:     20000228
+
+nic-hdl-br:  FDD5
+person:      Francisco das Chagas Medeiros Damasceno
+created:     19990709
+changed:     20030528
+
+

@@ -1,0 +1,30 @@
+
+
+
+domain:      int.gov.br
+owner:       Instituto Nacional de Tecnologia
+responsible: Domingos Manfredi Naveiro
+country:     BR
+owner-c:     ETL205
+admin-c:     ETL205
+tech-c:      ETL205
+billing-c:   ETL205
+nserver:     ns.int.gov.br 200.20.196.2 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns.coe.ufrj.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     guanabara.rederio.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19981111 #123432
+changed:     20121205
+status:      published
+
+nic-hdl-br:  ETL205
+person:      Érico Travassos Lemos
+created:     20050509
+changed:     20050509
+
+

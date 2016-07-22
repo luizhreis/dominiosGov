@@ -1,0 +1,33 @@
+
+
+
+domain:      iec.gov.br
+owner:       FNS - Instituto Evandro Chagas
+responsible: Elisabeth Conceição de Oliveira Santos
+country:     BR
+owner-c:     CRC395
+admin-c:     CAKAH
+tech-c:      CAKAH
+billing-c:   CAKAH
+nserver:     ns.iec.gov.br 200.139.9.23 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     server1.pop-pa.rnp.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20131014 #12108828
+changed:     20131204
+status:      published
+
+nic-hdl-br:  CAKAH
+person:      Cassia Kahwage
+created:     20130920
+changed:     20140522
+
+nic-hdl-br:  CRC395
+person:      Carolina Rodrigues da Costa
+created:     20030807
+changed:     20041221
+
+

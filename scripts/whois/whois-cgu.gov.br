@@ -1,0 +1,37 @@
+
+
+
+domain:      cgu.gov.br
+owner:       CONTROLADORIA-GERAL DA UNIÃO
+responsible: ANTONIO MAROYSIO DOS SANTOS
+country:     BR
+owner-c:     AMDSC29
+admin-c:     AMDSC29
+tech-c:      VDMLI12
+billing-c:   GUMSO21
+nserver:     ns1.cgu.gov.br 200.198.213.217 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.cgu.gov.br 189.16.231.224 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20020524 #857794
+changed:     20160415
+status:      published
+
+nic-hdl-br:  AMDSC29
+person:      ANTONIO MAROYSIO DOS SANTOS CARNEIRO
+created:     20160108
+changed:     20160108
+
+nic-hdl-br:  GUMSO21
+person:      Gustavo Moura de Sousa
+created:     20110812
+changed:     20151209
+
+nic-hdl-br:  VDMLI12
+person:      VICTOR DIEGO MEDEIROS LINO
+created:     20121205
+changed:     20160520
+
+

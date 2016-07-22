@@ -1,0 +1,33 @@
+
+
+
+domain:      creciba.gov.br
+owner:       CRECI 9º Regiao/Ba
+responsible: CRECI 9º Regiao
+country:     BR
+owner-c:     AASJU65
+admin-c:     AASJU65
+tech-c:      IBJ7
+billing-c:   AASJU65
+nserver:     dns.site5.com  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     dns2.site5.com  
+nsstat:      20160627 AA
+nslastaa:    20160627
+saci:        yes
+created:     20140311 #12666007
+changed:     20160405
+status:      published
+
+nic-hdl-br:  AASJU65
+person:      Agnaldo Afonseca Silva Junior
+created:     20120719
+changed:     20120719
+
+nic-hdl-br:  IBJ7
+person:      Ignácio de Barros Barreto Júnior
+created:     20000229
+changed:     20100108
+
+

@@ -1,0 +1,34 @@
+
+
+
+domain:      sus.gov.br
+owner:       Ministério da Saúde
+responsible: Dep. de Informática do SUS - DATASUS
+country:     BR
+owner-c:     DIS5
+admin-c:     DIS5
+tech-c:      DIS5
+billing-c:   DIS5
+nserver:     mambucaba.datasus.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     piratininga.datasus.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     trty89.saude.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     trty88.saude.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20110822 #8672213
+changed:     20160606
+status:      published
+
+nic-hdl-br:  DIS5
+person:      DATASUS-Depto de Informática do SUS-MS
+created:     19980202
+changed:     20100521
+
+

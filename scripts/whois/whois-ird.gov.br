@@ -1,0 +1,27 @@
+
+
+
+domain:      ird.gov.br
+owner:       INSTITUTO DE RADIOPROTECAO E DOSIMETRIA
+responsible: Marcos Cesar Ferreira Moreira
+country:     BR
+owner-c:     MCM5
+admin-c:     MCM5
+tech-c:      MCM5
+billing-c:   MCM5
+nserver:     nsa.ird.gov.br 200.20.227.66 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     nsb.ird.gov.br 200.20.227.80 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19951215 #4852
+changed:     20140226
+status:      published
+
+nic-hdl-br:  MCM5
+person:      Marcos Cesar Ferreira Moreira
+created:     19971230
+changed:     20000221
+
+

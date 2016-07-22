@@ -1,0 +1,32 @@
+
+
+
+domain:      eafrs.gov.br
+owner:       Escola Agrotécnica Federal de Rio do Sul
+responsible: Claudio Adalberto Koller
+country:     BR
+owner-c:     CCB202
+admin-c:     CCB202
+tech-c:      RSOLI
+billing-c:   CCB202
+nserver:     ns1.ifc-riodosul.edu.br  
+nsstat:      20160630 CNAME
+nslastaa:    20111013
+nserver:     ns2.ifc-riodosul.edu.br  
+nsstat:      20160630 CNAME
+nslastaa:    20111013
+created:     20020529 #866902
+changed:     20111013
+status:      published
+
+nic-hdl-br:  CCB202
+person:      Clovis Cristiano Brignoli
+created:     20041203
+changed:     20041203
+
+nic-hdl-br:  RSOLI
+person:      Rio do Sul On Line
+created:     20070227
+changed:     20160418
+
+

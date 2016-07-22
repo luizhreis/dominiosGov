@@ -1,0 +1,28 @@
+
+
+
+domain:      clicksaudavel.gov.br
+owner:       Agencia Nacional de Vigilancia Sanitaria
+responsible: Igor Ticchetti Kishi
+country:     BR
+owner-c:     SCO6
+admin-c:     SCO6
+tech-c:      SCO6
+billing-c:   SCO6
+nserver:     anvssdf7.anvisa.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     anvssdf777.anvisa.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20150128 #13764271
+changed:     20151119
+status:      published
+
+nic-hdl-br:  SCO6
+person:      Stanley ou Vladmir
+created:     20000503
+changed:     20151119
+
+

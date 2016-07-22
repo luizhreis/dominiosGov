@@ -1,0 +1,27 @@
+
+
+
+domain:      reste.gov.br
+owner:       Companhia de Pesquisa de Recursos Minerais
+responsible: Regis Fernandes Silva
+country:     BR
+owner-c:     RFS9
+admin-c:     RFS9
+tech-c:      RFS9
+billing-c:   RFS9
+nserver:     webserver.reste.gov.br 200.137.170.1 
+nsstat:      20160630 CREFUSED
+nslastaa:    20030903
+nserver:     server1.pop-pi.rnp.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20011104
+created:     19980210 #85216
+changed:     19980210
+status:      published
+
+nic-hdl-br:  RFS9
+person:      Regis Fernandes Silva
+created:     19980202
+changed:     19980202
+
+

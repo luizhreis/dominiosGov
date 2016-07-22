@@ -1,0 +1,27 @@
+
+
+
+domain:      rj.gov.br
+owner:       PRODERJ-Centro de Tecnologia da Informação do RJ
+responsible: Sergio Chiapetta
+country:     BR
+owner-c:     SCL773
+admin-c:     SCL773
+tech-c:      SCL773
+billing-c:   SCL773
+nserver:     xexeu.proderj.rj.gov.br 187.76.237.28 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     uipia.proderj.rj.gov.br 187.12.203.5 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19960129 #5200
+changed:     20160113
+status:      published
+
+nic-hdl-br:  SCL773
+person:      Sérgio Chiapetta Leal
+created:     20031104
+changed:     20151105
+
+

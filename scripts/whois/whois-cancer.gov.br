@@ -1,0 +1,32 @@
+
+
+
+domain:      cancer.gov.br
+owner:       Instituto Nacional de Câncer
+responsible: Roberto Luiz Silva dos Santos
+country:     BR
+owner-c:     RLSDS12
+admin-c:     RLSDS12
+tech-c:      CALPI31
+billing-c:   RLSDS12
+nserver:     ns.inca.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.inca.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20050322 #2040942
+changed:     20160524
+status:      published
+
+nic-hdl-br:  CALPI31
+person:      Cid Ajay Lima Pires
+created:     20160223
+changed:     20160223
+
+nic-hdl-br:  RLSDS12
+person:      Roberto Luiz Silva dos Santos
+created:     20160520
+changed:     20160520
+
+

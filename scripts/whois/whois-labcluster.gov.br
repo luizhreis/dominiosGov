@@ -1,0 +1,28 @@
+
+
+
+domain:      labcluster.gov.br
+owner:       Ministerio do Planejamento, Orcamento e Gestao
+responsible: Eduardo Cesar Soares Gomes
+country:     BR
+owner-c:     CGSTM2
+admin-c:     CGSTM2
+tech-c:      CGSTM2
+billing-c:   CGSTM2
+nserver:     ns1.labcluster.gov.br 200.198.213.68 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20150713
+nserver:     ns2.labcluster.gov.br 200.198.213.69 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20150713
+saci:        yes
+created:     20121026 #10664867
+changed:     20140122
+status:      published
+
+nic-hdl-br:  CGSTM2
+person:      COORDENAÇÃO GERAL DE SERVIÇOS DE TI - MP
+created:     20140122
+changed:     20150924
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      trt-pe.gov.br
+owner:       TRIBUNAL REGIONAL DO TRABALHO DA 6A. REGIAO
+responsible: Depto de Informatica
+country:     BR
+owner-c:     JAS64
+admin-c:     JAS64
+tech-c:      JAS64
+billing-c:   JAS64
+nserver:     dns1.trt6.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.trt6.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19971114 #69522
+changed:     20130105
+status:      published
+
+nic-hdl-br:  JAS64
+person:      Joao Adriano Pinheiro de Sousa
+created:     19980805
+changed:     20090611
+
+

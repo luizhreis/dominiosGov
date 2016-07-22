@@ -1,0 +1,32 @@
+
+
+
+domain:      incra-pe.gov.br
+owner:       Superint. Estadual de Pernambuco - Incra
+responsible: Sr. Horacio
+country:     BR
+owner-c:     SRH7
+admin-c:     SRH7
+tech-c:      IEL2
+billing-c:   SRH7
+nserver:     dns1.elogica.com.br  
+nsstat:      20160629 UH
+nslastaa:    20010722
+nserver:     dns2.elogica.com.br  
+nsstat:      20160629 UH
+nslastaa:    20010505
+created:     19981125 #123516
+changed:     20000818
+status:      published
+
+nic-hdl-br:  IEL2
+person:      Jefferson Maglio
+created:     19971219
+changed:     20010824
+
+nic-hdl-br:  SRH7
+person:      Sr. Horacio
+created:     19981026
+changed:     19981026
+
+

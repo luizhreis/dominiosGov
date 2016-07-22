@@ -1,0 +1,27 @@
+
+
+
+domain:      iphan.gov.br
+owner:       Instituto do Patrimônio Histórico e Artístico Nac.
+responsible: Carlos Augusto Pessoa Machado
+country:     BR
+owner-c:     CII5
+admin-c:     CII5
+tech-c:      CII5
+billing-c:   CII5
+nserver:     ns1.iphan.gov.br 187.72.202.67 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.iphan.gov.br 187.72.202.68 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19970226 #31478
+changed:     20150616
+status:      published
+
+nic-hdl-br:  CII5
+person:      Gerência de Informática do IPHAN
+created:     19990805
+changed:     20131219
+
+

@@ -1,0 +1,33 @@
+
+
+
+domain:      crq9.gov.br
+owner:       CONSELHO REGIONAL DE QUÍMICA DA 9A REGIÃO
+responsible: DILERMANDO BRITO FILHO
+country:     BR
+owner-c:     DIBFI7
+admin-c:     DIBFI7
+tech-c:      JJJ70
+billing-c:   DIBFI7
+nserver:     ns1.wdshosting.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.wdshosting.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20160513 #15485657
+changed:     20160513
+status:      published
+
+nic-hdl-br:  DIBFI7
+person:      Dilermando Brito Filho
+created:     20120314
+changed:     20120314
+
+nic-hdl-br:  JJJ70
+person:      Jugleni Jacó Krinski Jr
+created:     20030406
+changed:     20160302
+
+

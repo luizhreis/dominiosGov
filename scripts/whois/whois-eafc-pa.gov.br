@@ -1,0 +1,32 @@
+
+
+
+domain:      eafc-pa.gov.br
+owner:       Escola Agrotécnica Federal de Castanhal
+responsible: Geovane Nobre Lamarão
+country:     BR
+owner-c:     GNL49
+admin-c:     LAP5
+tech-c:      GNL49
+billing-c:   GNL49
+nserver:     ns1.eafc-pa.gov.br 200.129.129.130 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20100926
+nserver:     ns2.eafc-pa.gov.br 200.129.129.1 
+nsstat:      20160630 CREFUSED
+nslastaa:    20100926
+created:     19980922 #115409
+changed:     20070522
+status:      published
+
+nic-hdl-br:  GNL49
+person:      Geovane Nobre Lamarao
+created:     20040106
+changed:     20040106
+
+nic-hdl-br:  LAP5
+person:      lucimar Antonio Pulqueira
+created:     19980120
+changed:     20040219
+
+

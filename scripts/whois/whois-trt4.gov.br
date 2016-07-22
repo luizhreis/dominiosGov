@@ -1,0 +1,27 @@
+
+
+
+domain:      trt4.gov.br
+owner:       Tribunal Regional do Trabalho da 4 Regiao
+responsible: Paulo Mendes Ribeiro Junior
+country:     BR
+owner-c:     TRP3
+admin-c:     TRP3
+tech-c:      TRP3
+billing-c:   TRP3
+nserver:     dnssec1.trt4.gov.br 186.251.62.1 
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     dnssec2.trt4.gov.br 186.251.62.2 
+nsstat:      20160626 AA
+nslastaa:    20160626
+created:     19970515 #39445
+changed:     20140322
+status:      published
+
+nic-hdl-br:  TRP3
+person:      TRIBUNAL REG. DO TRABALHO-4.A REGIAO POA
+created:     19990602
+changed:     20140430
+
+

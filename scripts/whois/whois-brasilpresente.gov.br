@@ -1,0 +1,40 @@
+
+
+
+domain:      brasilpresente.gov.br
+owner:       Secretaria de Comunicação Social
+responsible: SECOM - SCI - DEINE
+country:     BR
+owner-c:     MAMPA145
+admin-c:     MAMPA145
+tech-c:      DCL372
+billing-c:   MAR79
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20091027 #6132322
+changed:     20140922
+status:      published
+
+nic-hdl-br:  DCL372
+person:      Digital Consultoria e Publicidade Ltda
+created:     20030207
+changed:     20120905
+
+nic-hdl-br:  MAMPA145
+person:      Marcia Maria Pachaly
+created:     20130821
+changed:     20130821
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+

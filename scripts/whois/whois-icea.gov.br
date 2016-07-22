@@ -1,0 +1,32 @@
+
+
+
+domain:      icea.gov.br
+owner:       Departamento de Controle do Espaço Aéreo
+responsible: Seção de Rede Local
+country:     BR
+owner-c:     ADRED14
+admin-c:     ADRED14
+tech-c:      FAVLI17
+billing-c:   ADRED14
+nserver:     ns-3.icea.gov.br 200.133.245.4 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-2.icea.gov.br 177.223.218.153 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20031217 #1463809
+changed:     20160301
+status:      published
+
+nic-hdl-br:  ADRED14
+person:      Administracao de Rede
+created:     20140124
+changed:     20160301
+
+nic-hdl-br:  FAVLI17
+person:      Fabio Veríssimo de Lima
+created:     20110912
+changed:     20160301
+
+

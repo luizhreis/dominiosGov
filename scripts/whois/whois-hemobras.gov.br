@@ -1,0 +1,27 @@
+
+
+
+domain:      hemobras.gov.br
+owner:       Empresa Brasileira de Hemoderivados e Biotecnologi
+responsible: Romulo Maciel Filho
+country:     BR
+owner-c:     CLLJU18
+admin-c:     CLLJU18
+tech-c:      CLLJU18
+billing-c:   CLLJU18
+nserver:     dnsex1.hemobras.gov.br 177.52.19.220 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dnsex2.hemobras.gov.br 177.52.19.221 
+nsstat:      20160701 NOT SYNC ZONE
+nslastaa:    20160701
+created:     20060927 #3062780
+changed:     20160331
+status:      published
+
+nic-hdl-br:  CLLJU18
+person:      Claudio Lopes Junior
+created:     20121002
+changed:     20121002
+
+

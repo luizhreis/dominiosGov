@@ -1,0 +1,30 @@
+
+
+
+domain:      petrobras.gov.br
+owner:       PETROLEO BRASILEIRO S/A - PETROBRAS
+responsible: EDUARDO FELBERG
+country:     BR
+owner-c:     EDFEL11
+admin-c:     EDFEL11
+tech-c:      EDFEL11
+billing-c:   EDFEL11
+nserver:     nicolino.petrobras.com.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     medusa.petrobras.com.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     harpia.petrobras.com.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+created:     before 19950101
+changed:     20121205
+status:      published
+
+nic-hdl-br:  EDFEL11
+person:      Eduardo Felberg
+created:     20081223
+changed:     20140530
+
+

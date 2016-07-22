@@ -1,0 +1,27 @@
+
+
+
+domain:      fns.gov.br
+owner:       FUNDAÇÃO NACIONAL DE SAÚDE
+responsible: REDE FUNASA
+country:     BR
+owner-c:     MVO3
+admin-c:     MVO3
+tech-c:      MVO3
+billing-c:   MVO3
+nserver:     ns.embratel.net.br  
+nsstat:      20160701 UDN
+nslastaa:    20001112
+nserver:     correio.fns.gov.br 200.252.231.240 
+nsstat:      20160701 CREFUSED
+nslastaa:    20001112
+created:     19960819 #14283
+changed:     19990719
+status:      published
+
+nic-hdl-br:  MVO3
+person:      MARIOSAN MACIEL
+created:     19980908
+changed:     20060712
+
+

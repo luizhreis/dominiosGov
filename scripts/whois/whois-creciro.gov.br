@@ -1,0 +1,33 @@
+
+
+
+domain:      creciro.gov.br
+owner:       CONSELHO REGIONAL DE CORRETORES DE IMOVEIS 24 REG
+responsible: KLEITON LOPES
+country:     BR
+owner-c:     HEMAR208
+admin-c:     HEMAR208
+tech-c:      ANSOA74
+billing-c:   HEMAR208
+nserver:     ns1.umbrellatec.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.umbrellatec.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20150224 #13884579
+changed:     20160511
+status:      published
+
+nic-hdl-br:  ANSOA74
+person:      Anderson Soares
+created:     20120327
+changed:     20130521
+
+nic-hdl-br:  HEMAR208
+person:      HELIO MARKS
+created:     20141024
+changed:     20160510
+
+

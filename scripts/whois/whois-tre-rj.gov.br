@@ -1,0 +1,32 @@
+
+
+
+domain:      tre-rj.gov.br
+owner:       Tribunal Regional Eleitoral do Rio de Janeiro
+responsible: ANDRE LUIS CORREA DE ARAÚJO
+country:     BR
+owner-c:     ALA187
+admin-c:     TRR14
+tech-c:      TRR14
+billing-c:   ALA187
+nserver:     sauron.tse.jus.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     saruman.tse.jus.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19980811 #108617
+changed:     20131026
+status:      published
+
+nic-hdl-br:  ALA187
+person:      ANDRE LUIS CORREA DE ARAUJO
+created:     20000428
+changed:     20041105
+
+nic-hdl-br:  TRR14
+person:      Tribunal Regional Eleitoral - RJ
+created:     20010809
+changed:     20131026
+
+

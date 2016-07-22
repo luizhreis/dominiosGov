@@ -1,0 +1,37 @@
+
+
+
+domain:      senasp.gov.br
+owner:       Secretaria Nacional de Segurança Pública
+responsible: André Fagundes Mendes
+country:     BR
+owner-c:     ANFME67
+admin-c:     AQSNE
+tech-c:      CCO83
+billing-c:   ANFME67
+nserver:     weber.mj.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     weil.mj.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20100513 #6855036
+changed:     20151028
+status:      published
+
+nic-hdl-br:  ANFME67
+person:      André Fagundes Mendes
+created:     20131112
+changed:     20150612
+
+nic-hdl-br:  AQSNE
+person:      ARMANDO QUADROS DA SILVA NETO
+created:     20070308
+changed:     20151028
+
+nic-hdl-br:  CCO83
+person:      CLEITON CARDOSO DE OLIVEIRA
+created:     20050221
+changed:     20081119
+
+

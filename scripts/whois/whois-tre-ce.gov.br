@@ -1,0 +1,37 @@
+
+
+
+domain:      tre-ce.gov.br
+owner:       Tribunal Regional Eleitoral do Ceará
+responsible: Antonio Nogueira de Oliveira Filho
+country:     BR
+owner-c:     CAM189
+admin-c:     HPF17
+tech-c:      SACRO39
+billing-c:   HPF17
+nserver:     sauron.tse.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     saruman.tse.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19980730 #106325
+changed:     20150203
+status:      published
+
+nic-hdl-br:  CAM189
+person:      Carlos Antonio Sampaio de Melo
+created:     20000211
+changed:     20141021
+
+nic-hdl-br:  HPF17
+person:      Hugo Pereira Filho
+created:     20000519
+changed:     20000519
+
+nic-hdl-br:  SACRO39
+person:      SANDRA ANDREA CASSIANO RODRIGUES
+created:     20141216
+changed:     20141216
+
+

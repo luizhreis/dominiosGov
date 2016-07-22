@@ -1,0 +1,27 @@
+
+
+
+domain:      trt20.gov.br
+owner:       TRIBUNAL REGIONAL DO TRABALHO DA 20A. REGIAO
+responsible: Marcos Xavier Barretto
+country:     BR
+owner-c:     AWF2
+admin-c:     AWF2
+tech-c:      AWF2
+billing-c:   AWF2
+nserver:     solar.trt20.gov.br 189.42.255.66 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20120719
+nserver:     intra.trt20.gov.br 189.42.255.65 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20120719
+created:     19971206 #73545
+changed:     20070913
+status:      published
+
+nic-hdl-br:  AWF2
+person:      Adolfo Wolf Filho
+created:     19980407
+changed:     20080908
+
+

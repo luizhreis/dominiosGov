@@ -1,0 +1,49 @@
+
+
+
+domain:      mtb.gov.br
+owner:       MINISTERIO DO TRABALHO E EMPREGO
+responsible: Equipe de Redes MTE
+country:     BR
+owner-c:     COINF90
+admin-c:     CLMEN28
+tech-c:      MALHE11
+billing-c:   MALHE11
+nserver:     ns1.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns4.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    1534 RSA/SHA-1 40F75FB3B08B89A1FCB53FA30591E2FBD66DF933
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+dsrecord:    1534 RSA/SHA-1 3E668B2A203B551E48C441209E29EB40DF9258EBEAA10CEFAA37EEAD220EE4C4
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     19960108 #5021
+changed:     20160205
+status:      published
+
+nic-hdl-br:  CLMEN28
+person:      Claudio Menezes
+created:     20091214
+changed:     20091216
+
+nic-hdl-br:  COINF90
+person:      Coordenação de Infraestrutura
+created:     20141029
+changed:     20141029
+
+nic-hdl-br:  MALHE11
+person:      Marcelo Luiz Heiden
+created:     20101125
+changed:     20140128
+
+

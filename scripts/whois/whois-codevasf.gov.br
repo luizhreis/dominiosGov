@@ -1,0 +1,38 @@
+
+
+
+domain:      codevasf.gov.br
+owner:       COMPANHIA DE DESENVOLVIMENTO DO VALE DO SAO FRANCI
+responsible: Ricardo Guimarães Mueller Rocktaeschel
+country:     BR
+owner-c:     OJS
+admin-c:     OJS
+tech-c:      ALGMO16
+billing-c:   OJS
+nserver:     srv237.codevasf.gov.br 177.135.252.197 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     srv05.codevasf.gov.br 200.198.242.140 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     srv00.codevasf.gov.br 200.198.242.131 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     srv00gvt.codevasf.gov.br 177.135.252.195 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     before 19950101
+changed:     20160322
+status:      published
+
+nic-hdl-br:  ALGMO16
+person:      ANDRÉ LUÍS G. MOREIRA
+created:     20100526
+changed:     20141107
+
+nic-hdl-br:  OJS
+person:      Ricardo Guimarães Mueller Rocktaeschel
+created:     19980202
+changed:     20080711
+
+

@@ -1,0 +1,30 @@
+
+
+
+domain:      chesf.gov.br
+owner:       COMPANHIA HIDROELETRICA DO SAO FRANCISCO
+responsible: Germano Vieira Borba
+country:     BR
+owner-c:     FAMVA16
+admin-c:     FAMVA16
+tech-c:      FAMVA16
+billing-c:   FAMVA16
+nserver:     xingo.chesf.gov.br 190.15.108.134 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns1.alootelecom.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.alootelecom.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960417 #6832
+changed:     20150527
+status:      published
+
+nic-hdl-br:  FAMVA16
+person:      Francisco de Assis Mesquita Valadares
+created:     20121212
+changed:     20121212
+
+

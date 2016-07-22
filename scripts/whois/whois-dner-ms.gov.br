@@ -1,0 +1,27 @@
+
+
+
+domain:      dner-ms.gov.br
+owner:       DNER - DEPTº NAC. DE ESTRADAS E RODAGENS
+responsible: João Speridião
+country:     BR
+owner-c:     TEE7
+admin-c:     TEE7
+tech-c:      TEE7
+billing-c:   TEE7
+nserver:     dns-web.terra.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20040917
+nserver:     ns.terraempresas.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20040911
+created:     19990525 #162874
+changed:     20060201
+status:      published
+
+nic-hdl-br:  TEE7
+person:      Terra Empresas
+created:     20000713
+changed:     20160621
+
+

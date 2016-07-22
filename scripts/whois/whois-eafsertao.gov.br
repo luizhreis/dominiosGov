@@ -1,0 +1,27 @@
+
+
+
+domain:      eafsertao.gov.br
+owner:       Escola Agrotécnica Federal de Sertão
+responsible: Viviane Silva Ramos
+country:     BR
+owner-c:     PNS41
+admin-c:     PNS41
+tech-c:      PNS41
+billing-c:   PNS41
+nserver:     dns1.ifrs.edu.br  
+nsstat:      20160629 UDN
+nslastaa:    20150113
+nserver:     dns.tche.br  
+nsstat:      20160629 UDN
+nslastaa:    20150119
+created:     20010822 #617601
+changed:     20090831
+status:      published
+
+nic-hdl-br:  PNS41
+person:      Patrícia N. da Silva
+created:     20051107
+changed:     20051107
+
+

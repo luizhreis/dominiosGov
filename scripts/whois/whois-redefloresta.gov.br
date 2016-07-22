@@ -1,0 +1,32 @@
+
+
+
+domain:      redefloresta.gov.br
+owner:       Centrais Eletricas do Norte do Brasil
+responsible: Gerencia de Servicos de Rede Corporativa
+country:     BR
+owner-c:     GSC187
+admin-c:     CEB23
+tech-c:      GSC187
+billing-c:   CEB23
+nserver:     ftp2.eln.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20080508
+nserver:     www.pt2rod.qsl.br  
+nsstat:      20160701 UH
+nslastaa:    20070311
+created:     20040305 #1546935
+changed:     20100512
+status:      published
+
+nic-hdl-br:  CEB23
+person:      Centrais Eletricas do Norte do Brasil
+created:     19980312
+changed:     20050914
+
+nic-hdl-br:  GSC187
+person:      Gerência de Serviço de Rede Corporativa
+created:     20050830
+changed:     20070529
+
+

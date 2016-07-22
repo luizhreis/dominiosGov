@@ -1,0 +1,32 @@
+
+
+
+domain:      ilbsenado.gov.br
+owner:       Secretaria Especial de Editoração e Publicações
+responsible: Claudionor Moura Nunes
+country:     BR
+owner-c:     SMM32
+admin-c:     SMM32
+tech-c:      HIS5
+billing-c:   SMM32
+nserver:     ns1.hostnet.com.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20040305
+nserver:     ns2.hostnet.com.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20040305
+created:     20000411 #308334
+changed:     20021015
+status:      published
+
+nic-hdl-br:  HIS5
+person:      Hostmaster HostNet Networks
+created:     19981214
+changed:     20140807
+
+nic-hdl-br:  SMM32
+person:      Sônia Maria de Souza Mendes
+created:     20000228
+changed:     20141226
+
+

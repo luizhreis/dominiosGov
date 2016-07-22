@@ -1,0 +1,38 @@
+
+
+
+domain:      logisticabrasil.gov.br
+owner:       Empresa de Planejamento e Logística S.A - EPL
+responsible: Bernardo Figueiredo
+country:     BR
+owner-c:     EMPLO7
+admin-c:     EMPLO7
+tech-c:      MAFEL176
+billing-c:   DSC84
+nserver:     ns1.epl.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.epl.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20130508 #11353074
+changed:     20140402
+status:      published
+
+nic-hdl-br:  DSC84
+person:      Diogo Santana Corazolla
+created:     20020819
+changed:     20100731
+
+nic-hdl-br:  EMPLO7
+person:      Empresa de Planejamento e Logistica
+created:     20130423
+changed:     20140428
+
+nic-hdl-br:  MAFEL176
+person:      Mauro Felipe
+created:     20130415
+changed:     20130415
+
+

@@ -1,0 +1,38 @@
+
+
+
+domain:      agrolivre.gov.br
+owner:       EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA
+responsible: Silvia Maria Fonseca Silveira Massruhá
+country:     BR
+owner-c:     SMFSM2
+admin-c:     SMFSM2
+tech-c:      CFP8
+billing-c:   SMFSM2
+nserver:     sol.cnptia.embrapa.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     rigel.cnptia.embrapa.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ipe.cnpm.embrapa.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     inga.cnpm.embrapa.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20040203 #1480690
+changed:     20150729
+status:      published
+
+nic-hdl-br:  CFP8
+person:      Carlos Fernando Assis Paniago
+created:     19990617
+changed:     20160212
+
+nic-hdl-br:  SMFSM2
+person:      Silvia Maria Fonseca Silveira Massruhá
+created:     20150729
+changed:     20160211
+
+

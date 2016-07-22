@@ -1,0 +1,27 @@
+
+
+
+domain:      prt3.gov.br
+owner:       PROCURADORIA REGIONAL DO TRABALHO 3a REGIAO
+responsible: RODRIGO MORATO RODRIGUES
+country:     BR
+owner-c:     JEM99
+admin-c:     JEM99
+tech-c:      JEM99
+billing-c:   JEM99
+nserver:     gateway.prt3.gov.br 200.140.135.103 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20090903
+nserver:     mitra.mpt.gov.br  
+nsstat:      20160629 UH
+nslastaa:    20071022
+created:     19980701 #103590
+changed:     20060530
+status:      published
+
+nic-hdl-br:  JEM99
+person:      João Ezequiel Rocha Motta
+created:     20010214
+changed:     20060526
+
+

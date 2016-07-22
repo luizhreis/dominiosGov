@@ -1,0 +1,27 @@
+
+
+
+domain:      ibge2.gov.br
+owner:       IBGE - Instituto Brasileiro de Geografia
+responsible: Marcio Imamura
+country:     BR
+owner-c:     LLS
+admin-c:     LLS
+tech-c:      LLS
+billing-c:   LLS
+nserver:     dns-01.plk.com.br  
+nsstat:      20160630 UH
+nslastaa:    20051129
+nserver:     dns-02.plk.com.br  
+nsstat:      20160630 UH
+nslastaa:    20051129
+created:     19990806 #184965
+changed:     20040913
+status:      published
+
+nic-hdl-br:  LLS
+person:      Prolink Consultoria e Sistemas Ltda
+created:     19971222
+changed:     20140210
+
+

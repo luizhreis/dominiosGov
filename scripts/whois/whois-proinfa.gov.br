@@ -1,0 +1,35 @@
+
+
+
+domain:      proinfa.gov.br
+owner:       CENTRAIS ELETRICAS BRASILEIRAS SA
+responsible: Paulo Roberto Mandarino
+country:     BR
+owner-c:     JMMSA2
+admin-c:     JMMSA2
+tech-c:      VABSI7
+billing-c:   JMMSA2
+nserver:     dns1.eletrobras.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.eletrobras.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-rj-2.mundivox.com  
+nsstat:      20160701 QREFUSED
+nslastaa:    20130421
+created:     20020418 #784297
+changed:     20130415
+status:      published
+
+nic-hdl-br:  JMMSA2
+person:      Jane Maria Melo Santos
+created:     20090316
+changed:     20090316
+
+nic-hdl-br:  VABSI7
+person:      Vanessa Barbosa e Silva
+created:     20071004
+changed:     20071004
+
+

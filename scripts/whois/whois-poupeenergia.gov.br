@@ -1,0 +1,27 @@
+
+
+
+domain:      poupeenergia.gov.br
+owner:       MINISTERIO DE MINAS E ENERGIA
+responsible: Sergio Luiz Barbosa
+country:     BR
+owner-c:     HCB42
+admin-c:     HCB42
+tech-c:      HCB42
+billing-c:   HCB42
+nserver:     urano.mme.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20030406
+nserver:     ns.telebrasilia.net.br  
+nsstat:      20160701 UH
+nslastaa:    20030406
+created:     20010509 #563081
+changed:     20090214
+status:      published
+
+nic-hdl-br:  HCB42
+person:      Hiram Costa Botelho
+created:     20030911
+changed:     20070307
+
+

@@ -1,0 +1,37 @@
+
+
+
+domain:      fiscopa2014.gov.br
+owner:       Tribunal de Contas da União
+responsible: Alfram Roberto Rodrigues de Albuquerque
+country:     BR
+owner-c:     ARRAL9
+admin-c:     ARRAL9
+tech-c:      RETMI
+billing-c:   ACSQU
+nserver:     falcao.tcu.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     gaviao.tcu.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20100504 #6777556
+changed:     20100504
+status:      published
+
+nic-hdl-br:  ACSQU
+person:      Antonio Carlos Soares Quintino
+created:     20060703
+changed:     20150109
+
+nic-hdl-br:  ARRAL9
+person:      Alfram Roberto Rodrigues de Albuquerque
+created:     20090213
+changed:     20150225
+
+nic-hdl-br:  RETMI
+person:      Regina Tsujiguchi Mikami
+created:     20090206
+changed:     20091216
+
+

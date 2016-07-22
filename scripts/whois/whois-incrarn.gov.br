@@ -1,0 +1,27 @@
+
+
+
+domain:      incrarn.gov.br
+owner:       Instituto Nacional de Colonizacao e Ref. Agraria
+responsible: Joao Gregorio
+country:     BR
+owner-c:     JCK36
+admin-c:     JCK36
+tech-c:      JCK36
+billing-c:   JCK36
+nserver:     mtag.com.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    19990622
+nserver:     atcom.com.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    19990726
+created:     19980617 #99023
+changed:     20030904
+status:      published
+
+nic-hdl-br:  JCK36
+person:      Jean Carlos Kresco
+created:     20030829
+changed:     20060112
+
+

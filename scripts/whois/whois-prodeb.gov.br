@@ -1,0 +1,30 @@
+
+
+
+domain:      prodeb.gov.br
+owner:       Cia. de Processamento de Dados do Estado da Bahia
+responsible: Luiz Eduardo de Oliveira Siqueira
+country:     BR
+owner-c:     LEOSI20
+admin-c:     LEOSI20
+tech-c:      LEOSI20
+billing-c:   LEOSI20
+nserver:     ns2.pop-ba.rnp.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     cpu0020.prodeb.gov.br 200.187.60.85 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     cpu0034.ba.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     before 19950101
+changed:     20140801
+status:      published
+
+nic-hdl-br:  LEOSI20
+person:      Luiz Eduardo de Oliveira Siqueira
+created:     20090514
+changed:     20140528
+
+

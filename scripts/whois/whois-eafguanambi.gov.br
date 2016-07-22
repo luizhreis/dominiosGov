@@ -1,0 +1,41 @@
+
+
+
+domain:      eafguanambi.gov.br
+owner:       Escola Agrotécnica Federal Antônio José Teixeira
+responsible: Ariomar Rodrigues dos Santos
+country:     BR
+owner-c:     ALDTE2
+admin-c:     ALDTE2
+tech-c:      LXH
+billing-c:   ALDTE2
+nserver:     ns.locasite.com.br  
+nsstat:      20160630 UH
+nslastaa:    20060303
+nserver:     ns1.locasite.com.br  
+nsstat:      20160630 UH
+nslastaa:    20060303
+nserver:     ns2.locasite.com.br  
+nsstat:      20160630 UH
+nslastaa:    20060303
+nserver:     ns3.locasite.com.br  
+nsstat:      20160630 UH
+nslastaa:    20060303
+nserver:     ns4.locasite.com.br  
+nsstat:      20160630 UH
+nslastaa:    20060303
+created:     20050707 #2222962
+changed:     20090928
+status:      published
+
+nic-hdl-br:  ALDTE2
+person:      Alana Donato Teixeira
+created:     20090925
+changed:     20090925
+
+nic-hdl-br:  LXH
+person:      Locasite Xtreme Hosting
+created:     20040131
+changed:     20151004
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      eletrofurnas.gov.br
+owner:       Furnas Centrais Elétricas S.A.
+responsible: Clayton Mendonça de Oliveira
+country:     BR
+owner-c:     JCF516
+admin-c:     RSC
+tech-c:      RSC
+billing-c:   RSC
+nserver:     apit2.furnas.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20130607
+nserver:     guanabara.rederio.br  
+nsstat:      20160630 FAIL
+nslastaa:    20130622
+created:     20000630 #366449
+changed:     20020812
+status:      published
+
+nic-hdl-br:  JCF516
+person:      José Carlos da S. Faria
+created:     20031201
+changed:     20091222
+
+nic-hdl-br:  RSC
+person:      Renato Santos Norbert Costa
+created:     19971218
+changed:     20131113
+
+

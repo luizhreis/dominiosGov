@@ -1,0 +1,46 @@
+
+
+
+domain:      mtecbo2000.gov.br
+owner:       MINISTERIO DO TRABALHO E EMPREGO
+responsible: Equipe de Redes MTE
+country:     BR
+owner-c:     COINF90
+admin-c:     CLMEN28
+tech-c:      MALHE11
+billing-c:   MALHE11
+nserver:     ametista.mte.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20160205
+nserver:     zirconio.mte.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20160205
+nserver:     apofilita.mte.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20160205
+dsrecord:    29638 RSA/SHA-1 96EB932F77EB0E291F99DD79CE887358F60E5B77
+dsstatus:    20160701 PLAIN DNS ERROR
+dslastok:    20141217
+dsrecord:    29638 RSA/SHA-1 DE824FBD37FBE0FBD7A8413F747043A50DAD1CCCE6DA9C42FF6D0D02E1CAA199
+dsstatus:    20160701 PLAIN DNS ERROR
+dslastok:    20141217
+created:     20010627 #586428
+changed:     20101215
+status:      published
+
+nic-hdl-br:  CLMEN28
+person:      Claudio Menezes
+created:     20091214
+changed:     20091216
+
+nic-hdl-br:  COINF90
+person:      Coordenação de Infraestrutura
+created:     20141029
+changed:     20141029
+
+nic-hdl-br:  MALHE11
+person:      Marcelo Luiz Heiden
+created:     20101125
+changed:     20140128
+
+

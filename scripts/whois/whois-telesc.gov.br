@@ -1,0 +1,27 @@
+
+
+
+domain:      telesc.gov.br
+owner:       Oi S.A.
+responsible: CONTATO ADMINISTRATIVO OI
+country:     BR
+owner-c:     COAOI
+admin-c:     COAOI
+tech-c:      COAOI
+billing-c:   COAOI
+nserver:     edd001.bsa.cydc.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     edd002.cta.cydc.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     before 19950101
+changed:     20150803
+status:      published
+
+nic-hdl-br:  COAOI
+person:      Contato Administrativo Oi
+created:     20150723
+changed:     20150810
+
+

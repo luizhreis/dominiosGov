@@ -1,0 +1,33 @@
+
+
+
+domain:      convergenciademidias.gov.br
+owner:       Secretaria de Comunicação Social
+responsible: SECOM - SCI - DEINE
+country:     BR
+owner-c:     MAMPA145
+admin-c:     MAMPA145
+tech-c:      MAR79
+billing-c:   MAR79
+nserver:     alpha.planalto.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+saci:        yes
+created:     20101029 #7498154
+changed:     20140922
+status:      published
+
+nic-hdl-br:  MAMPA145
+person:      Marcia Maria Pachaly
+created:     20130821
+changed:     20130821
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+

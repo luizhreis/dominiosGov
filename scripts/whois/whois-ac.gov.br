@@ -1,0 +1,30 @@
+
+
+
+domain:      ac.gov.br
+owner:       SECRETARIA DE ESTADO DA GESTAO ADMINISTRATIVA - SG
+responsible: Alan Queiroz da Silva
+country:     BR
+owner-c:     ALQSI
+admin-c:     ALQSI
+tech-c:      ALQSI
+billing-c:   ALQSI
+nserver:     ns1.ac.gov.br 189.125.64.4 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.ac.gov.br 189.125.64.5 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns3.ac.gov.br 201.72.97.147 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19981021 #122623
+changed:     20160628
+status:      published
+
+nic-hdl-br:  ALQSI
+person:      ALAN QUEIROZ DA SILVA
+created:     20071122
+changed:     20071122
+
+

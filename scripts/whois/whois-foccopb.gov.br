@@ -1,0 +1,27 @@
+
+
+
+domain:      foccopb.gov.br
+owner:       Procuradoria da República na Paraíba
+responsible: Tiago de França Costa Gomes
+country:     BR
+owner-c:     PRCIN2
+admin-c:     PRCIN2
+tech-c:      PRCIN2
+billing-c:   PRCIN2
+nserver:     capella.mpf.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     vega.mpf.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20090326 #5342334
+changed:     20100707
+status:      published
+
+nic-hdl-br:  PRCIN2
+person:      PRPB - Coordenadoria de Informática
+created:     20090216
+changed:     20090216
+
+

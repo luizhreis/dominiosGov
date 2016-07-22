@@ -1,0 +1,28 @@
+
+
+
+domain:      eusoumaismedicos.gov.br
+owner:       EMPRESA BRASILEIRA DE SERV HOSPITALARES - EBSERH
+responsible: Jose Rubens Rebelato
+country:     BR
+owner-c:     DOEBS
+admin-c:     DOEBS
+tech-c:      DOEBS
+billing-c:   DOEBS
+nserver:     ns1.ebserh.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.ebserh.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20130924 #11933032
+changed:     20140528
+status:      published
+
+nic-hdl-br:  DOEBS
+person:      Domínios EBSERH
+created:     20140528
+changed:     20140528
+
+

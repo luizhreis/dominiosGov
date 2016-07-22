@@ -1,0 +1,27 @@
+
+
+
+domain:      ien.gov.br
+owner:       Instituto de Engenharia Nuclear
+responsible: Marcel Waintraub
+country:     BR
+owner-c:     MAWAI8
+admin-c:     MAWAI8
+tech-c:      MAWAI8
+billing-c:   MAWAI8
+nserver:     ien.gov.br 200.20.226.66 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     guanabara.rederio.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20001122 #454275
+changed:     20100119
+status:      published
+
+nic-hdl-br:  MAWAI8
+person:      Marcel Waintraub
+created:     20100119
+changed:     20100119
+
+

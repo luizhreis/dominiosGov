@@ -1,0 +1,32 @@
+
+
+
+domain:      eafsrbonfim.gov.br
+owner:       Escola Agrotecnica Federal de Senhor do Bonfim
+responsible: Orlivaldo Kléber Lima Rios
+country:     BR
+owner-c:     KLR27
+admin-c:     ACC37
+tech-c:      KLR27
+billing-c:   KLR27
+nserver:     ns1.eafsrbonfim.gov.br 200.172.83.133 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20090125
+nserver:     ns2.eafsrbonfim.gov.br 200.172.83.134 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20090125
+created:     19990624 #167497
+changed:     20071012
+status:      published
+
+nic-hdl-br:  ACC37
+person:      Antonio Carlos Soares Cardoso
+created:     19980525
+changed:     20150804
+
+nic-hdl-br:  KLR27
+person:      Kléber Rios
+created:     20050224
+changed:     20080813
+
+

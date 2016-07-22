@@ -1,0 +1,37 @@
+
+
+
+domain:      sae.gov.br
+owner:       PRESIDENCIA DA REPUBLICA
+responsible: Secretaria de Administração
+country:     BR
+owner-c:     MAR79
+admin-c:     GDS174
+tech-c:      DSARA3
+billing-c:   GDS174
+nserver:     alpha.planalto.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     19971009 #62181
+changed:     20090518
+status:      published
+
+nic-hdl-br:  DSARA3
+person:      Divisao de Suporte a Redes da ABIN
+created:     20090518
+changed:     20130206
+
+nic-hdl-br:  GDS174
+person:      Geraldo Dantas da Silva
+created:     20060202
+changed:     20080923
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+

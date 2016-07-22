@@ -1,0 +1,27 @@
+
+
+
+domain:      pa.gov.br
+owner:       PRODEPA - Processamento de Dados do Pará
+responsible: PRODEPA - Rodrigo Ferreira dos Santos
+country:     BR
+owner-c:     DIT76
+admin-c:     DIT76
+tech-c:      DIT76
+billing-c:   DIT76
+nserver:     ns1.pa.gov.br 177.74.1.2 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.pa.gov.br 177.74.1.3 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19970602
+changed:     20140618
+status:      published
+
+nic-hdl-br:  DIT76
+person:      Diretoria de Tecnologia
+created:     20060406
+changed:     20150213
+
+

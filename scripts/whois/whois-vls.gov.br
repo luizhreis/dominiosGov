@@ -1,0 +1,32 @@
+
+
+
+domain:      vls.gov.br
+owner:       Agência Espacial Brasileira
+responsible: José Raimundo Braga Coelho
+country:     BR
+owner-c:     VIL10
+admin-c:     VIL10
+tech-c:      VIL10
+billing-c:   GMB5
+nserver:     cbers.vls.gov.br 200.130.146.253 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20140522
+nserver:     server1.pop-df.rnp.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19990917 #199885
+changed:     20140506
+status:      published
+
+nic-hdl-br:  GMB5
+person:      Gessé Martins Borges
+created:     19980525
+changed:     19980525
+
+nic-hdl-br:  VIL10
+person:      Virgínia Luz
+created:     19980312
+changed:     20160513
+
+

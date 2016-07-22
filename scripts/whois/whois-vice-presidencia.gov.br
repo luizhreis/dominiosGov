@@ -1,0 +1,32 @@
+
+
+
+domain:      vice-presidencia.gov.br
+owner:       VICE PRESIDENCIA DA REPUBLICA
+responsible: Renata Miranda Passos
+country:     BR
+owner-c:     RMP45
+admin-c:     RMP45
+tech-c:      MAR79
+billing-c:   RMP45
+nserver:     alpha.planalto.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20000410 #303852
+changed:     20070710
+status:      published
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+nic-hdl-br:  RMP45
+person:      Renata Miranda Passos
+created:     19991022
+changed:     20000922
+
+

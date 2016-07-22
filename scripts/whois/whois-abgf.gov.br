@@ -1,0 +1,34 @@
+
+
+
+domain:      abgf.gov.br
+owner:       Agência Brasileira Gestora de F G e G SA
+responsible: Jose Hilário da Silva Rego
+country:     BR
+owner-c:     ABGFS
+admin-c:     ABGFS
+tech-c:      ABGFS
+billing-c:   ABGFS
+nserver:     dns01.abgf.gov.br 201.16.163.201 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns02.abgf.gov.br 201.16.163.202 
+nsstat:      20160701 NOT SYNC ZONE
+nslastaa:    20160701
+nserver:     dns03.abgf.gov.br 187.32.141.43 
+nsstat:      20160701 NOT SYNC ZONE
+nslastaa:    20160701
+nserver:     dns04.abgf.gov.br 187.32.141.44 
+nsstat:      20160701 NOT SYNC ZONE
+nslastaa:    20160701
+saci:        yes
+created:     20131226 #12374398
+changed:     20150817
+status:      published
+
+nic-hdl-br:  ABGFS
+person:      Agência Brasileira Gestora de Fundos SA
+created:     20131205
+changed:     20150616
+
+

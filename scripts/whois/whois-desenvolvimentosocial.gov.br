@@ -1,0 +1,27 @@
+
+
+
+domain:      desenvolvimentosocial.gov.br
+owner:       DTI/SE/MDS E COMBATE A FOME
+responsible: Eduardo Hallison Rodrigo Amaral Martins
+country:     BR
+owner-c:     MACSO438
+admin-c:     MACSO438
+tech-c:      MACSO438
+billing-c:   MACSO438
+nserver:     ns-serpro01.mds.gov.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20131014
+nserver:     ns-serpro02.mds.gov.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20131014
+created:     20040323 #1580366
+changed:     20140613
+status:      published
+
+nic-hdl-br:  MACSO438
+person:      MANOEL CHAGAS SOBRINHO
+created:     20140602
+changed:     20150331
+
+

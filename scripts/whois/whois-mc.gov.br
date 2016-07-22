@@ -1,0 +1,33 @@
+
+
+
+domain:      mc.gov.br
+owner:       Ministério das Comunicações
+responsible: Vanildo Pereira Figueiredo
+country:     BR
+owner-c:     VPF2
+admin-c:     VPF2
+tech-c:      VPF2
+billing-c:   VPF2
+nserver:     mcdns.mc.gov.br 200.198.212.11 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     antares.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     mcdns3.mc.gov.br 177.15.130.2 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960312 #5863
+changed:     20150325
+status:      published
+
+nic-hdl-br:  VPF2
+person:      Vanildo Pereira de Figueiredo
+created:     19980521
+changed:     20130404
+
+

@@ -1,0 +1,51 @@
+
+
+
+domain:      coletasolidaria.gov.br
+owner:       DTI/SE/MDS E COMBATE A FOME
+responsible: Eduardo Hallison Rodrigo Amaral Martins
+country:     BR
+owner-c:     MACSO438
+admin-c:     ADSFE47
+tech-c:      MRV103
+billing-c:   WEQLI
+nserver:     antares.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20071213 #4117825
+changed:     20110502
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  MACSO438
+person:      MANOEL CHAGAS SOBRINHO
+created:     20140602
+changed:     20150331
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+nic-hdl-br:  WEQLI
+person:      WELDSON QUEIROZ DE LIMA
+created:     20100218
+changed:     20160204
+
+

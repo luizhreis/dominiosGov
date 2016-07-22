@@ -1,0 +1,27 @@
+
+
+
+domain:      cprmba.gov.br
+owner:       Companhia de Pesquisa de Recursos Minerais
+responsible: José Carlos Vieira Gonçalves
+country:     BR
+owner-c:     JSS69
+admin-c:     JSS69
+tech-c:      JSS69
+billing-c:   JSS69
+nserver:     urano.tecnoativa.com.br  
+nsstat:      20160701 UH
+nslastaa:    20060420
+nserver:     diamante.cprmba.gov.br 200.254.26.130 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20030705
+created:     20010309 #523307
+changed:     20020622
+status:      published
+
+nic-hdl-br:  JSS69
+person:      José da silva Amaral Santos
+created:     20010213
+changed:     20021021
+
+

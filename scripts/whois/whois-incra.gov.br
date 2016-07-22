@@ -1,0 +1,40 @@
+
+
+
+domain:      incra.gov.br
+owner:       INCRA/INSTITUTO NACIONAL DE COLON E REF. AGRARIA
+responsible: Chefe do Centro de Informática e Documen
+country:     BR
+owner-c:     CII3
+admin-c:     JER7
+tech-c:      JER
+billing-c:   JER
+nserver:     incra-master.incra.gov.br 200.252.80.2 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     incra-ns.incra.gov.br 200.252.80.6 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns.embratel.net.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19960712 #11611
+changed:     20040921
+status:      published
+
+nic-hdl-br:  CII3
+person:      Centro de Informática do Incra
+created:     19980917
+changed:     20111207
+
+nic-hdl-br:  JER
+person:      Centro de Informática - PI
+created:     19980107
+changed:     20051206
+
+nic-hdl-br:  JER7
+person:      Centro de Informática do INCRA - SEDE
+created:     19980305
+changed:     20120306
+
+

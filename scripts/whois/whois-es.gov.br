@@ -1,0 +1,32 @@
+
+
+
+domain:      es.gov.br
+owner:       Inst. de Tec. da Informação e Comunicação do ES.
+responsible: MARIA SYLVIA MARQUES ABAURRE
+country:     BR
+owner-c:     FAM765
+admin-c:     FAM765
+tech-c:      DEFMA30
+billing-c:   FAM765
+nserver:     ns1.es.gov.br 201.62.33.8 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.es.gov.br 201.62.33.9 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19961101
+changed:     20140718
+status:      published
+
+nic-hdl-br:  DEFMA30
+person:      Denis Fontes Martins
+created:     20121016
+changed:     20121016
+
+nic-hdl-br:  FAM765
+person:      Fabio Modenese
+created:     20040614
+changed:     20130321
+
+

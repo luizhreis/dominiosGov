@@ -1,0 +1,43 @@
+
+
+
+domain:      jfal.gov.br
+owner:       Justica Federal de Primeira Instância
+responsible: Fabiano Andrade Costa
+country:     BR
+owner-c:     JFA66
+admin-c:     FAC335
+tech-c:      JAFNE10
+billing-c:   FAC335
+nserver:     dns1.jfal.jus.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     dns2.jfal.jus.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+dsrecord:    28627 RSA/SHA-256 38E91F655AC65C3DF52E0C0EC219171F87C3678E
+dsstatus:    20160627 DSOK
+dslastok:    20160627
+dsrecord:    28627 RSA/SHA-256 8E1894DDB16D2DAEB2EB20ADF33C60BA2AA73EDC9457BDF079EDD3662C583EEC
+dsstatus:    20160627 DSOK
+dslastok:    20160627
+created:     20000317 #286462
+changed:     20160602
+status:      published
+
+nic-hdl-br:  FAC335
+person:      Fabiano Andrade Costa
+created:     20010905
+changed:     20160215
+
+nic-hdl-br:  JAFNE10
+person:      José Alencar Feitosa Neto
+created:     20080826
+changed:     20081119
+
+nic-hdl-br:  JFA66
+person:      Justiça Federal de Alagoas
+created:     20010905
+changed:     20141029
+
+

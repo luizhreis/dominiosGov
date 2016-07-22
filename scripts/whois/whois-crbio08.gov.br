@@ -1,0 +1,33 @@
+
+
+
+domain:      crbio08.gov.br
+owner:       CONSELHO REGIONAL DE BIOLOGIA 8 REGIAO
+responsible: CESAR ROBERTO GOES CARQUEIJA
+country:     BR
+owner-c:     CRGCA45
+admin-c:     CRGCA45
+tech-c:      MPA195
+billing-c:   CRGCA45
+nserver:     ns488.hostgator.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns489.hostgator.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20160128 #15135681
+changed:     20160128
+status:      published
+
+nic-hdl-br:  CRGCA45
+person:      CESAR ROBERTO GOES CARQUEIJA
+created:     20150401
+changed:     20150401
+
+nic-hdl-br:  MPA195
+person:      Marcelo Porto de Andrade
+created:     20051026
+changed:     20160322
+
+

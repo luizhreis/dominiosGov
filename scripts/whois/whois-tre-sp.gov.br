@@ -1,0 +1,37 @@
+
+
+
+domain:      tre-sp.gov.br
+owner:       Tribunal Regional Eleitoral de São Paulo
+responsible: Daniel Forlivesi
+country:     BR
+owner-c:     MRH14
+admin-c:     PSA20
+tech-c:      PSA20
+billing-c:   PAA79
+nserver:     sauron.tse.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     saruman.tse.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19980807 #108320
+changed:     20150923
+status:      published
+
+nic-hdl-br:  MRH14
+person:      Maurício Ramos Tsan Hu
+created:     20000128
+changed:     20020815
+
+nic-hdl-br:  PAA79
+person:      Paola Adriana Araujo da Costa Aires
+created:     20000605
+changed:     20000605
+
+nic-hdl-br:  PSA20
+person:      Paulo Sergio F. Abreu
+created:     20000209
+changed:     20000502
+
+

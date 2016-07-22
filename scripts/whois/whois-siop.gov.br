@@ -1,0 +1,44 @@
+
+
+
+domain:      siop.gov.br
+owner:       MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO-MP
+responsible: Gerson BAtista Pereira
+country:     BR
+owner-c:     GEBPE18
+admin-c:     GEBPE18
+tech-c:      AUCCA15
+billing-c:   ACCFO13
+nserver:     antares.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20120627 #10078525
+changed:     20120627
+status:      published
+
+nic-hdl-br:  ACCFO13
+person:      Augusto Cesar de Carvalho Fonseca
+created:     20120619
+changed:     20120619
+
+nic-hdl-br:  AUCCA15
+person:      Augusto Cesar Cantanhede
+created:     20120620
+changed:     20120620
+
+nic-hdl-br:  GEBPE18
+person:      Gerson Batista Pereira
+created:     20120618
+changed:     20120618
+
+

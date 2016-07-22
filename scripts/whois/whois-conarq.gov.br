@@ -1,0 +1,28 @@
+
+
+
+domain:      conarq.gov.br
+owner:       Arquivo Nacional
+responsible: Ivan Fernandes Neves
+country:     BR
+owner-c:     KERPO
+admin-c:     KERPO
+tech-c:      KERPO
+billing-c:   KERPO
+nserver:     procyon.arquivonacional.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     naus.arquivonacional.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20110906 #8724458
+changed:     20150521
+status:      published
+
+nic-hdl-br:  KERPO
+person:      Kenya Ribeiro Ponciano
+created:     20060706
+changed:     20160701
+
+

@@ -1,0 +1,30 @@
+
+
+
+domain:      florestal.gov.br
+owner:       MINISTERIO DO MEIO AMBIENTE
+responsible: Coord Geral de Tec. da Informação e Info
+country:     BR
+owner-c:     MMR
+admin-c:     MMR
+tech-c:      MMR
+billing-c:   MMR
+nserver:     ns1.florestal.gov.br 189.85.84.2 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.florestal.gov.br 189.85.84.4 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.florestal.gov.br 189.85.80.24 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20070723 #3751211
+changed:     20130424
+status:      published
+
+nic-hdl-br:  MMR
+person:      Ministério do Meio Ambiente
+created:     19980109
+changed:     20151014
+
+

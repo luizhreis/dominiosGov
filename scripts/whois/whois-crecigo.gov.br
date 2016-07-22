@@ -1,0 +1,33 @@
+
+
+
+domain:      crecigo.gov.br
+owner:       CONSELHO REG. DE CORRETORES DE IMOVEIS 5ªREGIAO/GO
+responsible: Sr. ANDERSON
+country:     BR
+owner-c:     ANSOA74
+admin-c:     ANSOA74
+tech-c:      APCJU9
+billing-c:   APCJU9
+nserver:     ns1.crecigo.gov.br 177.159.152.244 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns1.umbrellatec.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20110301 #7968449
+changed:     20121213
+status:      published
+
+nic-hdl-br:  ANSOA74
+person:      Anderson Soares
+created:     20120327
+changed:     20130521
+
+nic-hdl-br:  APCJU9
+person:      Antônio Pires de Castro Júnior
+created:     20091222
+changed:     20100407
+
+

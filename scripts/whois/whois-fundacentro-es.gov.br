@@ -1,0 +1,32 @@
+
+
+
+domain:      fundacentro-es.gov.br
+owner:       Fund. Jorge Duprat Figueiredo de Seg. Med Trabalho
+responsible: Eurico Sales Prata
+country:     BR
+owner-c:     FJT46
+admin-c:     FJT46
+tech-c:      TEE11
+billing-c:   FJT46
+nserver:     ns2.terraempresas.com.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20090426
+nserver:     ns3.terraempresas.com.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20090426
+created:     19980226 #86056
+changed:     20051031
+status:      published
+
+nic-hdl-br:  FJT46
+person:      Fund Jorge Duprat Fig de Seg e Med Trab
+created:     20051021
+changed:     20051021
+
+nic-hdl-br:  TEE11
+person:      Terra Empresas
+created:     20010904
+changed:     20140722
+
+

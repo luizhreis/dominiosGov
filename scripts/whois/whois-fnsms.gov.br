@@ -1,0 +1,33 @@
+
+
+
+domain:      fnsms.gov.br
+owner:       FUNDAÇÃO NACIONAL DE SAUDE
+responsible: MIRTA MIRANDA PEREIRA
+country:     BR
+owner-c:     WSDLT4
+admin-c:     WSDLT4
+tech-c:      WSDLT4
+billing-c:   WSDLT4
+nserver:     ns1.datatop.com.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20130629
+nserver:     ns2.datatop.com.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20130629
+nserver:     ns3.datatop.com.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20130629
+nserver:     ns4.datatop.com.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20130629
+created:     19990719 #177754
+changed:     20151105
+status:      published
+
+nic-hdl-br:  WSDLT4
+person:      WTW Soluções Digitais Ltda
+created:     20140508
+changed:     20140610
+
+

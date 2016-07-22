@@ -1,0 +1,27 @@
+
+
+
+domain:      infosoc.gov.br
+owner:       IBICT - MCTI
+responsible: Cecília Leite Oliveira
+country:     BR
+owner-c:     LEL7
+admin-c:     LEL7
+tech-c:      LEL7
+billing-c:   LEL7
+nserver:     ns1.ibict.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.ibict.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20000720 #388869
+changed:     20140805
+status:      published
+
+nic-hdl-br:  LEL7
+person:      Leonardo Lazarte
+created:     19980131
+changed:     20140306
+
+

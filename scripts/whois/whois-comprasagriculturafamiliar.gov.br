@@ -1,0 +1,28 @@
+
+
+
+domain:      comprasagriculturafamiliar.gov.br
+owner:       DTI/SE/MDS E COMBATE A FOME
+responsible: Eduardo Hallison Rodrigo Amaral Martins
+country:     BR
+owner-c:     MACSO438
+admin-c:     MACSO438
+tech-c:      MACSO438
+billing-c:   MACSO438
+nserver:     ns-serpro01.mds.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-serpro02.mds.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20160205 #15166912
+changed:     20160205
+status:      published
+
+nic-hdl-br:  MACSO438
+person:      MANOEL CHAGAS SOBRINHO
+created:     20140602
+changed:     20150331
+
+

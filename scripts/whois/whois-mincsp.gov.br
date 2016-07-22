@@ -1,0 +1,27 @@
+
+
+
+domain:      mincsp.gov.br
+owner:       Ministério da Cultura
+responsible: CGTI SPOA SE MinC
+country:     BR
+owner-c:     MICUL2
+admin-c:     MICUL2
+tech-c:      MICUL2
+billing-c:   MICUL2
+nserver:     ns1.mincsp.gov.br 200.198.204.65 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20080601
+nserver:     antares.serpro.gov.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    20080715
+created:     20020621 #896763
+changed:     20130321
+status:      published
+
+nic-hdl-br:  MICUL2
+person:      Ministério da Cultura
+created:     20130321
+changed:     20150917
+
+

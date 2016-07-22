@@ -1,0 +1,37 @@
+
+
+
+domain:      pbh.gov.br
+owner:       Emp. Informat. Informaçao Mun. BH/SA
+responsible: Haldley Campolina Vidal
+country:     BR
+owner-c:     HACVI7
+admin-c:     BAC52
+tech-c:      BAC52
+billing-c:   MFSMO10
+nserver:     ns1.pbh.gov.br 201.54.208.2 2801:a0::10
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.pbh.gov.br 201.54.209.2 2801:a0::11
+nsstat:      20160701 TIMEOUT
+nslastaa:    20160625
+created:     19950921 #4116
+changed:     20150602
+status:      published
+
+nic-hdl-br:  BAC52
+person:      Bernardo Amaral Carneiro
+created:     20010918
+changed:     20010918
+
+nic-hdl-br:  HACVI7
+person:      HALDLEY CAMPOLINA VIDAL
+created:     20130528
+changed:     20130528
+
+nic-hdl-br:  MFSMO10
+person:      Marghareth Ferreira da Silva Morais
+created:     20121126
+changed:     20141008
+
+

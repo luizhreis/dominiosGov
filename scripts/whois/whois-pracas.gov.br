@@ -1,0 +1,28 @@
+
+
+
+domain:      pracas.gov.br
+owner:       Ministério da Cultura
+responsible: CGTI SPOA SE MinC
+country:     BR
+owner-c:     MICUL2
+admin-c:     MICUL2
+tech-c:      MICUL2
+billing-c:   MICUL2
+nserver:     ns1.cultura.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.cultura.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+saci:        yes
+created:     20110523 #8268448
+changed:     20130321
+status:      published
+
+nic-hdl-br:  MICUL2
+person:      Ministério da Cultura
+created:     20130321
+changed:     20150917
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      pernambuco.gov.br
+owner:       AGENCIA ESTADUAL DE TECNOLOGIA DA INFORMACAO - ATI
+responsible: AGENCIA ESTADUAL DE TECNOLOGIA DA INFORM
+country:     BR
+owner-c:     AETIN
+admin-c:     EFP21
+tech-c:      EFP21
+billing-c:   EFP21
+nserver:     ns1.pernambuco.gov.br 200.238.99.253 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20160620
+nserver:     ns2.pernambuco.gov.br 200.238.99.254 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19990305 #145277
+changed:     20080519
+status:      published
+
+nic-hdl-br:  AETIN
+person:      AGENCIA ESTADUAL DE TECNOLOGIA DA INFORM
+created:     20091216
+changed:     20140227
+
+nic-hdl-br:  EFP21
+person:      Empresa de Fomento da Informatica PE
+created:     20000822
+changed:     20061110
+
+

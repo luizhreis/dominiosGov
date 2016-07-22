@@ -1,0 +1,27 @@
+
+
+
+domain:      bancodeoportunidades.gov.br
+owner:       Ministerio do Planejamento, Orcamento e Gestao
+responsible: Eduardo Cesar Soares Gomes
+country:     BR
+owner-c:     CGSTM2
+admin-c:     CGSTM2
+tech-c:      CGSTM2
+billing-c:   CGSTM2
+nserver:     servweb.planejamento.gov.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20040811
+nserver:     dns.planejamento.gov.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20040419
+created:     19990910 #196982
+changed:     20140122
+status:      published
+
+nic-hdl-br:  CGSTM2
+person:      COORDENAÇÃO GERAL DE SERVIÇOS DE TI - MP
+created:     20140122
+changed:     20150924
+
+

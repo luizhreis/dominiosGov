@@ -1,0 +1,32 @@
+
+
+
+domain:      crecimg.gov.br
+owner:       Conselho Regional de Corretores de Imoveis
+responsible: Liliane Vasconcelos
+country:     BR
+owner-c:     MAA815
+admin-c:     MAA815
+tech-c:      EMJ90
+billing-c:   MAA815
+nserver:     ns1.dominios.uol.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.dominios.uol.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20100324 #6668616
+changed:     20110315
+status:      published
+
+nic-hdl-br:  EMJ90
+person:      Esteliano Mendes de Araújo Junior
+created:     20030825
+changed:     20110315
+
+nic-hdl-br:  MAA815
+person:      Marcio Ari de Melo Almeida
+created:     20011009
+changed:     20090928
+
+

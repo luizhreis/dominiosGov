@@ -1,0 +1,32 @@
+
+
+
+domain:      agronet-pe.gov.br
+owner:       ESCOLA AGROTECNICA FEDERAL DE BELO JARDIM
+responsible: João Almeida
+country:     BR
+owner-c:     JATNA7
+admin-c:     JAS506
+tech-c:      JATNA7
+billing-c:   JATNA7
+nserver:     carcara.agronet-pe.gov.br 200.133.7.163 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     asabranca.agronet-pe.gov.br 200.133.7.164 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20020411 #786648
+changed:     20110711
+status:      published
+
+nic-hdl-br:  JAS506
+person:      Joao Almeida e Silva
+created:     20011009
+changed:     20060419
+
+nic-hdl-br:  JATNA7
+person:      Jailson Tenório do nascimento
+created:     20090220
+changed:     20100319
+
+

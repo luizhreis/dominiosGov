@@ -1,0 +1,39 @@
+
+
+
+domain:      mec.gov.br
+owner:       Ministério da Educação
+responsible: Diretoria de Tecnologia da Informação
+country:     BR
+owner-c:     MIEDU6
+admin-c:     MIEDU6
+tech-c:      MIEDU6
+billing-c:   MIEDU6
+nserver:     dns1.mec.gov.br 200.130.2.197 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     server1.pop-df.rnp.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     use2.akam.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     aus1.akam.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     usc4.akam.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns2.mec.gov.br 200.130.3.138 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19951214 #4823
+changed:     20140123
+status:      published
+
+nic-hdl-br:  MIEDU6
+person:      Ministério da Educação
+created:     20120126
+changed:     20140910
+
+

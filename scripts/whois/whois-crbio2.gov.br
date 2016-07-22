@@ -1,0 +1,34 @@
+
+
+
+domain:      crbio2.gov.br
+owner:       Conselho Regional Biologia 2ª Reg RJ/ES
+responsible: Vicente Moreira Conti
+country:     BR
+owner-c:     DRS76
+admin-c:     DRS76
+tech-c:      DRS76
+billing-c:   DRS76
+nserver:     dns1.kinghost.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns2.kinghost.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns3.kinghost.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns4.kinghost.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20150116 #13717675
+changed:     20150116
+status:      published
+
+nic-hdl-br:  DRS76
+person:      Daniel Ribeiro dos Santos
+created:     20020111
+changed:     20040511
+
+

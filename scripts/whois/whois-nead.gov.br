@@ -1,0 +1,35 @@
+
+
+
+domain:      nead.gov.br
+owner:       INCRA/INSTITUTO NACIONAL DE COLON E REF. AGRARIA
+responsible: Chefe do Centro de Informática e Documen
+country:     BR
+owner-c:     CII3
+admin-c:     CII3
+tech-c:      ROFAL36
+billing-c:   ROFAL36
+nserver:     dns1.mda.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20150617
+nserver:     dns2.mda.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20150617
+nserver:     dns3.mda.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20110723
+created:     19990407 #146549
+changed:     20110803
+status:      published
+
+nic-hdl-br:  CII3
+person:      Centro de Informática do Incra
+created:     19980917
+changed:     20111207
+
+nic-hdl-br:  ROFAL36
+person:      Roseane Falcao
+created:     20090619
+changed:     20090619
+
+

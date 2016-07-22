@@ -1,0 +1,27 @@
+
+
+
+domain:      itamaraty.gov.br
+owner:       MINISTERIO DAS RELACOES EXTERIORES
+responsible: Nestor José Forster Junior
+country:     BR
+owner-c:     SAT7
+admin-c:     SAT7
+tech-c:      SAT7
+billing-c:   SAT7
+nserver:     ns01.itamaraty.gov.br 177.43.73.112 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns02.itamaraty.gov.br 201.36.109.112 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19990212 #141521
+changed:     20140909
+status:      published
+
+nic-hdl-br:  SAT7
+person:      Antonio Vieira
+created:     19981016
+changed:     20150521
+
+

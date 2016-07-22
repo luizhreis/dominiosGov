@@ -1,0 +1,33 @@
+
+
+
+domain:      crq12.gov.br
+owner:       Conselho Regional de Química da 12a Região
+responsible: Wilson Botter Júnior
+country:     BR
+owner-c:     LUOCO10
+admin-c:     LUOCO10
+tech-c:      RBF69
+billing-c:   LUOCO10
+nserver:     ns1.logics.com.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.logics.com.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+saci:        yes
+created:     20141024 #13405959
+changed:     20160217
+status:      published
+
+nic-hdl-br:  LUOCO10
+person:      Luciano Oliveira Costa
+created:     20100611
+changed:     20130923
+
+nic-hdl-br:  RBF69
+person:      Reinaldo Borges de Freitas
+created:     20010807
+changed:     20140522
+
+

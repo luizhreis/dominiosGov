@@ -1,0 +1,28 @@
+
+
+
+domain:      sudeco.gov.br
+owner:       SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO CENTRO-OEST
+responsible: André Bravo Fraga
+country:     BR
+owner-c:     LRSAL9
+admin-c:     LRSAL9
+tech-c:      LRSAL9
+billing-c:   LRSAL9
+nserver:     ns1.sudeco.gov.br 200.198.214.7 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.sudeco.gov.br 200.198.214.8 
+nsstat:      20160627 AA
+nslastaa:    20160627
+saci:        yes
+created:     20110729 #8570053
+changed:     20160104
+status:      published
+
+nic-hdl-br:  LRSAL9
+person:      Leila Raquel Santana Almeida
+created:     20150608
+changed:     20150608
+
+

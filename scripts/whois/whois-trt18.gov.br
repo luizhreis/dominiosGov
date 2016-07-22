@@ -1,0 +1,27 @@
+
+
+
+domain:      trt18.gov.br
+owner:       Tribunal Regional do Trabalho da 18ª Região
+responsible: Humberto Magalhães Ayres
+country:     BR
+owner-c:     HMA3
+admin-c:     HMA3
+tech-c:      HMA3
+billing-c:   HMA3
+nserver:     ns3.trt18.gov.br 177.43.93.204 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns4.trt18.gov.br 177.43.93.205 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19980513 #95194
+changed:     20111208
+status:      published
+
+nic-hdl-br:  HMA3
+person:      HUMBERTO MAGALHÃES AYRES
+created:     19980427
+changed:     20140417
+
+

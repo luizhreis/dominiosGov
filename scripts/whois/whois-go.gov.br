@@ -1,0 +1,36 @@
+
+
+
+domain:      go.gov.br
+owner:       Secretaria de Gestão e Planejamento de Goiás
+responsible: Bruno Lopes Lisita
+country:     BR
+owner-c:     AGP35
+admin-c:     AGP35
+tech-c:      AGP35
+billing-c:   AGP35
+nserver:     ns1.go.gov.br 187.5.111.85 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.go.gov.br 201.48.19.20 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.go.gov.br 187.5.111.48 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns4.go.gov.br 201.48.19.26 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns5.go.gov.br 200.233.156.138 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19960618
+changed:     20150804
+status:      published
+
+nic-hdl-br:  AGP35
+person:      Agência Goiana de Adm. Neg. Públicos
+created:     20000426
+changed:     20140917
+
+

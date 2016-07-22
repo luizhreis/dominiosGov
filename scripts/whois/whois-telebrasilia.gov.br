@@ -1,0 +1,35 @@
+
+
+
+domain:      telebrasilia.gov.br
+owner:       TELEBRASILIA S.A. (576)
+responsible: Glauber Figueiredo da Silva
+country:     BR
+owner-c:     GFS8
+admin-c:     GFS8
+tech-c:      BPS14
+billing-c:   GFS8
+nserver:     gaviao.telebrasilia.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns01-cta.brasiltelecom.net.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns02-bsa.brasiltelecom.net.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     before 19950101
+changed:     20090722
+status:      published
+
+nic-hdl-br:  BPS14
+person:      BrasilTelecom S.A.
+created:     20001114
+changed:     20030526
+
+nic-hdl-br:  GFS8
+person:      Glauber Figueiredo da Silva
+created:     19980709
+changed:     20110610
+
+

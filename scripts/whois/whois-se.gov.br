@@ -1,0 +1,32 @@
+
+
+
+domain:      se.gov.br
+owner:       EMPRESA SERGIPANA DE TECNOLOGIA DA INFORMAÇÃO
+responsible: Ezio Prata Faro
+country:     BR
+owner-c:     RMT44
+admin-c:     AMNOL2
+tech-c:      RMT44
+billing-c:   AMNOL2
+nserver:     pontadosmangues.se.gov.br 187.17.0.5 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     terracaida.se.gov.br 187.17.0.10 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19970818 #52525
+changed:     20140218
+status:      published
+
+nic-hdl-br:  AMNOL2
+person:      ANTÔNIO MANOEL N. DE OLIVEIRA
+created:     20071030
+changed:     20081006
+
+nic-hdl-br:  RMT44
+person:      Ricardo Machado Torres
+created:     20010507
+changed:     20080402
+
+

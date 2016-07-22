@@ -1,0 +1,51 @@
+
+
+
+domain:      dnit.gov.br
+owner:       DNIT-DEPARTAMENTO NACIONAL DE INFRAEST DE TRANSPOR
+responsible: Alexandre Silveira de Oliveira
+country:     BR
+owner-c:     AFC320
+admin-c:     MHA22
+tech-c:      ZAL8
+billing-c:   VSJ47
+nserver:     antares.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20020410 #761929
+changed:     20100121
+status:      published
+
+nic-hdl-br:  AFC320
+person:      Antonio Fernando Corso
+created:     20050317
+changed:     20050323
+
+nic-hdl-br:  MHA22
+person:      Mário Higino Taveira de Almeida
+created:     20010820
+changed:     20120112
+
+nic-hdl-br:  VSJ47
+person:      Vilson da Silva Santos Junior
+created:     20050317
+changed:     20050317
+
+nic-hdl-br:  ZAL8
+person:      zuleika aparecida silva lisboa
+created:     19990520
+changed:     20080912
+
+

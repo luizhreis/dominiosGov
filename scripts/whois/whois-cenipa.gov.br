@@ -1,0 +1,35 @@
+
+
+
+domain:      cenipa.gov.br
+owner:       CENTRO DE INV E PREV DE ACIDENTES AERONÁUTICOS
+responsible: CEL AV ANTÔNIO CARLOS PRADO RODRIGUES
+country:     BR
+owner-c:     RAA543
+admin-c:     RAA543
+tech-c:      SVSJU
+billing-c:   SVSJU
+nserver:     ns1.digitalocean.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.digitalocean.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.digitalocean.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20060906 #2998740
+changed:     20160406
+status:      published
+
+nic-hdl-br:  RAA543
+person:      Roberto de Almeida Alves
+created:     20050630
+changed:     20121025
+
+nic-hdl-br:  SVSJU
+person:      SIDNEI VELLOSO DA SILVA JUNIOR
+created:     20060621
+changed:     20150223
+
+

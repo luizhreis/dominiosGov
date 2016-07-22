@@ -1,0 +1,32 @@
+
+
+
+domain:      crbio01.gov.br
+owner:       Conselho Regional de Biologia
+responsible: ELIÉZER JOSÉ MARQUES
+country:     BR
+owner-c:     OLY
+admin-c:     OLY
+tech-c:      EML280
+billing-c:   OLY
+nserver:     ns1.agregarhosting.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.agregarhosting.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20090122 #5161309
+changed:     20150217
+status:      published
+
+nic-hdl-br:  EML280
+person:      Edilson Miranda De Lima
+created:     20040219
+changed:     20140826
+
+nic-hdl-br:  OLY
+person:      OLGA YANO
+created:     19991124
+changed:     20140827
+
+

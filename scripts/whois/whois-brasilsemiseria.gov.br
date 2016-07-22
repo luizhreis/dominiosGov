@@ -1,0 +1,33 @@
+
+
+
+domain:      brasilsemiseria.gov.br
+owner:       SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO
+responsible: Alexandre dos Santos Ferreira
+country:     BR
+owner-c:     ADSFE47
+admin-c:     ADSFE47
+tech-c:      EDMED27
+billing-c:   ADSFE47
+nserver:     ns1.brasilsemiseria.gov.br 189.9.45.21 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.brasilsemiseria.gov.br 189.9.45.24 
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20110526 #8329623
+changed:     20131014
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  EDMED27
+person:      EDUARDO MEDEIROS
+created:     20110516
+changed:     20110516
+
+

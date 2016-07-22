@@ -1,0 +1,33 @@
+
+
+
+domain:      rap.gov.br
+owner:       MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO
+responsible: Diretoria de Tecnologia da Informação
+country:     BR
+owner-c:     MPRJA
+admin-c:     SCL773
+tech-c:      MPRJA
+billing-c:   MPRJA
+nserver:     ns1.rap.gov.br 200.216.75.12 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.rap.gov.br 200.216.75.13 
+nsstat:      20160629 AA
+nslastaa:    20160629
+saci:        yes
+created:     20121128 #10744654
+changed:     20140217
+status:      published
+
+nic-hdl-br:  MPRJA
+person:      Ministério Público do Rio de Janeiro
+created:     20121114
+changed:     20140227
+
+nic-hdl-br:  SCL773
+person:      Sérgio Chiapetta Leal
+created:     20031104
+changed:     20151105
+
+

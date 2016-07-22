@@ -1,0 +1,27 @@
+
+
+
+domain:      trt19.gov.br
+owner:       TRT da 19a Regiao
+responsible: Joao Luiz A. Lima
+country:     BR
+owner-c:     JLL22
+admin-c:     JLL22
+tech-c:      JLL22
+billing-c:   JLL22
+nserver:     t04-02.trt19.gov.br 200.241.145.129 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20120207
+nserver:     ns.embratel.net.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20080227
+created:     19990630 #169924
+changed:     20080227
+status:      published
+
+nic-hdl-br:  JLL22
+person:      Joao Luiz A. Lima
+created:     19990617
+changed:     20121219
+
+

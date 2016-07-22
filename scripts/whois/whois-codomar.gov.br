@@ -1,0 +1,33 @@
+
+
+
+domain:      codomar.gov.br
+owner:       Codomar - Companhia Docas do Maranhao
+responsible: Roberto Ewerton Viana
+country:     BR
+owner-c:     RZJ
+admin-c:     RZJ
+tech-c:      ROEVI6
+billing-c:   ROEVI6
+nserver:     ns1.topsegnet.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.topsegnet.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+saci:        yes
+created:     20120403 #9708122
+changed:     20151214
+status:      published
+
+nic-hdl-br:  ROEVI6
+person:      ROBERTO EWERTON VIANA
+created:     20111122
+changed:     20120228
+
+nic-hdl-br:  RZJ
+person:      Ruben Zevallos Lascano Jr.
+created:     19971221
+changed:     20121216
+
+

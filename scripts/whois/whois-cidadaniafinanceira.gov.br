@@ -1,0 +1,28 @@
+
+
+
+domain:      cidadaniafinanceira.gov.br
+owner:       Banco Central do Brasil
+responsible: Deise Springer de Freitas
+country:     BR
+owner-c:     SETIN16
+admin-c:     SETIN16
+tech-c:      SETIN16
+billing-c:   SETIN16
+nserver:     ns.bcb.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.bcb.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20150331 #13971449
+changed:     20150617
+status:      published
+
+nic-hdl-br:  SETIN16
+person:      Segurança em Tecnologia da Informação
+created:     20150617
+changed:     20150617
+
+

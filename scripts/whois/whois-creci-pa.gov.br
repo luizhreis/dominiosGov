@@ -1,0 +1,32 @@
+
+
+
+domain:      creci-pa.gov.br
+owner:       Conselho Regional de Corretores de Imóveis
+responsible: Jaci Colares
+country:     BR
+owner-c:     CRCIP
+admin-c:     CRCIP
+tech-c:      IBTLT3
+billing-c:   IBTLT3
+nserver:     ns1.servidorlx1.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.servidorlx1.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20020826 #946320
+changed:     20121004
+status:      published
+
+nic-hdl-br:  CRCIP
+person:      Conselho Reg de Corretores de Imoveis PA
+created:     20101010
+changed:     20101010
+
+nic-hdl-br:  IBTLT3
+person:      i2Br Tecnologia LTDA
+created:     20100508
+changed:     20160202
+
+

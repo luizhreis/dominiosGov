@@ -1,0 +1,37 @@
+
+
+
+domain:      tre-ba.gov.br
+owner:       Tribunal Regional Eleitoral da Bahia
+responsible: Gelson Vieira Coutinho
+country:     BR
+owner-c:     JEB31
+admin-c:     DCC
+tech-c:      DCC
+billing-c:   WOS3
+nserver:     sauron.tse.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     saruman.tse.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19980724 #106344
+changed:     20150108
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  JEB31
+person:      Justica Eleitoral Bahia
+created:     20000310
+changed:     20150324
+
+nic-hdl-br:  WOS3
+person:      Wander Oliveira Sobral
+created:     19980202
+changed:     19980202
+
+

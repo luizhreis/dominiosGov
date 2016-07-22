@@ -1,0 +1,28 @@
+
+
+
+domain:      viajamais.gov.br
+owner:       Ministério do Turismo
+responsible: Sumaid Andrade de Albuquerque
+country:     BR
+owner-c:     SUAAL3
+admin-c:     SUAAL3
+tech-c:      SUAAL3
+billing-c:   SUAAL3
+nserver:     ns1.viajamais.gov.br 189.9.52.52 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.viajamais.gov.br 189.9.52.53 
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20130729 #11775765
+changed:     20140920
+status:      published
+
+nic-hdl-br:  SUAAL3
+person:      Sumaid Andrade de Albuquerque
+created:     20071206
+changed:     20140527
+
+

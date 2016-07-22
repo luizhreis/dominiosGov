@@ -1,0 +1,27 @@
+
+
+
+domain:      selic.gov.br
+owner:       Banco Central do Brasil
+responsible: Marcus Antonio Sucupira
+country:     BR
+owner-c:     RIS125
+admin-c:     RIS125
+tech-c:      RIS125
+billing-c:   RIS125
+nserver:     ns1.selic.gov.br 216.40.204.154 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20140525
+nserver:     ns2.selic.gov.br 216.40.204.155 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20140525
+created:     20100728 #7082360
+changed:     20110329
+status:      published
+
+nic-hdl-br:  RIS125
+person:      Richard Sachsse
+created:     20000801
+changed:     20100608
+
+

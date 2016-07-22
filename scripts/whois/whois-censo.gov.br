@@ -1,0 +1,30 @@
+
+
+
+domain:      censo.gov.br
+owner:       FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE
+responsible: Jose Luiz Thomaselli Nogueira
+country:     BR
+owner-c:     ECO
+admin-c:     ECO
+tech-c:      ECO
+billing-c:   ECO
+nserver:     ns1.ibge.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.ibge.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.ibge.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20000726 #386034
+changed:     20110730
+status:      published
+
+nic-hdl-br:  ECO
+person:      José Luiz Thomaselli Nogueira
+created:     19980121
+changed:     20160413
+
+

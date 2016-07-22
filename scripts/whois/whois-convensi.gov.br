@@ -1,0 +1,31 @@
+
+
+
+domain:      convensi.gov.br
+owner:       CONSELHO FEDERAL DE CORRETORES DE IMÓVEIS
+responsible: CARLOS ERNESTO
+country:     BR
+owner-c:     CFI6
+admin-c:     CFI6
+tech-c:      CFI6
+billing-c:   CFI6
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20140505 #12844980
+changed:     20140506
+status:      published
+
+nic-hdl-br:  CFI6
+person:      Conselho Federal de Corretores de Imovei
+created:     20010411
+changed:     20140417
+
+

@@ -1,0 +1,39 @@
+
+
+
+domain:      crbio03.gov.br
+owner:       Conselho Regional de Biologia - 3a. Região
+responsible: Clarice Luz
+country:     BR
+owner-c:     CLLUZ2
+admin-c:     CLLUZ2
+tech-c:      CLLUZ2
+billing-c:   CLLUZ2
+nserver:     dns1.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns3.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns4.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns5.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns6.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20090128 #5209812
+changed:     20160401
+status:      published
+
+nic-hdl-br:  CLLUZ2
+person:      clarice luz
+created:     20080724
+changed:     20080724
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      cbtu-natal.gov.br
+owner:       Companhia Brasileira de Trens Urbanos-Gerencia Nat
+responsible: Dulce Helena C C de Albuq
+country:     BR
+owner-c:     STF
+admin-c:     STF
+tech-c:      STF
+billing-c:   DHA3
+nserver:     server.natalnet.com.br  
+nsstat:      20160629 UH
+nslastaa:    19990120
+nserver:     server1.natalnet.com.br  
+nsstat:      20160629 UH
+nslastaa:    19990120
+created:     19980828 #112905
+changed:     20010706
+status:      published
+
+nic-hdl-br:  DHA3
+person:      Dulce Helena C C Albuquerque
+created:     19980710
+changed:     19980710
+
+nic-hdl-br:  STF
+person:      Sergio Trevisan Filho
+created:     19971218
+changed:     19971218
+
+

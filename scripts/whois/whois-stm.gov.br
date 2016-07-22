@@ -1,0 +1,49 @@
+
+
+
+domain:      stm.gov.br
+owner:       SUPERIOR TRIBUNAL MILITAR
+responsible: Ubiratã Muniz da Silva
+country:     BR
+owner-c:     UBM11
+admin-c:     EGO
+tech-c:      UBM11
+billing-c:   DPM2
+nserver:     ns1.stm.gov.br 201.35.34.176 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.stm.gov.br 201.35.34.177 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.stm.gov.br 177.75.1.176 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns4.stm.gov.br 177.75.1.177 
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    53233 RSA/SHA-1 335EC10672926307F0AFB7A30FA17F7966F1DEBC
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+dsrecord:    53233 RSA/SHA-1 898C656EF356E847BFB1DA31228AE0C78B1C8ADDA48B27162FD073EEDE2F42B4
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     19970106 #27285
+changed:     20120924
+status:      published
+
+nic-hdl-br:  DPM2
+person:      Diretoria de Patrimonio e Material-STM
+created:     19980108
+changed:     19980108
+
+nic-hdl-br:  EGO
+person:      Elizeu Gomes de Oliveira
+created:     19980108
+changed:     20120130
+
+nic-hdl-br:  UBM11
+person:      Ubiratã Muniz
+created:     20030804
+changed:     20120622
+
+

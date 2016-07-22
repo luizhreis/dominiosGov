@@ -1,0 +1,31 @@
+
+
+
+domain:      crtr18.gov.br
+owner:       CONSELHO REG DOS TECN EM RADIOLOGIA 18 REGIAO
+responsible: ADRIANO CELIO DIAS
+country:     BR
+owner-c:     ADCDI9
+admin-c:     ADCDI9
+tech-c:      ADCDI9
+billing-c:   ADCDI9
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20120329 #9658942
+changed:     20120329
+status:      published
+
+nic-hdl-br:  ADCDI9
+person:      ADRIANO CÉLIO DIAS
+created:     20120316
+changed:     20120322
+
+

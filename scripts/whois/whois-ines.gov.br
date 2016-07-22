@@ -1,0 +1,32 @@
+
+
+
+domain:      ines.gov.br
+owner:       Instituto Nacional de Educacao de Surdos
+responsible: MARCELO FERREIRA DE V. CAVALCANTI
+country:     BR
+owner-c:     MFVCA8
+admin-c:     MFVCA8
+tech-c:      LCCRI6
+billing-c:   MFVCA8
+nserver:     ns3.ines.gov.br 200.20.23.10 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns4.ines.gov.br 200.20.23.11 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20070131 #3327564
+changed:     20150326
+status:      published
+
+nic-hdl-br:  LCCRI6
+person:      luis carlos carvalho riera
+created:     20150326
+changed:     20150328
+
+nic-hdl-br:  MFVCA8
+person:      Marcelo Ferreira de V. Cavalcanti
+created:     20150326
+changed:     20150326
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      crearo.gov.br
+owner:       Conselho Regional de Engenharia e Agronomia de RO
+responsible: George Marcio Tico Silva
+country:     BR
+owner-c:     CRR81
+admin-c:     CRR81
+tech-c:      CRR81
+billing-c:   CRR81
+nserver:     ns1.crearo.gov.br 200.252.72.101 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20110420
+nserver:     ns2.crearo.gov.br 200.252.72.102 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20110420
+created:     20090914 #5954372
+changed:     20090914
+status:      published
+
+nic-hdl-br:  CRR81
+person:      Conselho Reg. de Eng. Arq e Agr de RO
+created:     20000830
+changed:     20120822
+
+

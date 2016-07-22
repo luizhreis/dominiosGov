@@ -1,0 +1,27 @@
+
+
+
+domain:      brasilcultura.gov.br
+owner:       MINISTERIO DAS RELACOES EXTERIORES
+responsible: Nestor José Forster Junior
+country:     BR
+owner-c:     SAT7
+admin-c:     SAT7
+tech-c:      SAT7
+billing-c:   SAT7
+nserver:     ns01.itamaraty.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns02.itamaraty.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20011003 #652566
+changed:     20110906
+status:      published
+
+nic-hdl-br:  SAT7
+person:      Antonio Vieira
+created:     19981016
+changed:     20150521
+
+

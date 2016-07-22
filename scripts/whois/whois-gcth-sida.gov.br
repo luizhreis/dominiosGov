@@ -1,0 +1,27 @@
+
+
+
+domain:      gcth-sida.gov.br
+owner:       Ministério da Saúde
+responsible: Cleber Ricardo Pinheiro Cotrim
+country:     BR
+owner-c:     RGC5
+admin-c:     RGC5
+tech-c:      RGC5
+billing-c:   RGC5
+nserver:     s-proxy01.aids.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20101209
+nserver:     trty88.saude.gov.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20101230
+created:     19990331 #149799
+changed:     20021113
+status:      published
+
+nic-hdl-br:  RGC5
+person:      Ana Flávia de Oliveira Alves
+created:     19980108
+changed:     20160329
+
+

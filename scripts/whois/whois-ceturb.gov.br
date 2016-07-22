@@ -1,0 +1,32 @@
+
+
+
+domain:      ceturb.gov.br
+owner:       Comp de Transp Urb da Grande Vitória
+responsible: Denise de Moura Cadete Gazzinelli Cruz
+country:     BR
+owner-c:     WAFFH
+admin-c:     WAFFH
+tech-c:      EIL95
+billing-c:   WAFFH
+nserver:     site2.ebr.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     site2sec.ebr.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20000529 #346479
+changed:     20080827
+status:      published
+
+nic-hdl-br:  EIL95
+person:      EBR Informática Ltda
+created:     20001122
+changed:     20160413
+
+nic-hdl-br:  WAFFH
+person:      Waldemar Fonseca Fº
+created:     20080710
+changed:     20080710
+
+

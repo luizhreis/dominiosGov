@@ -1,0 +1,27 @@
+
+
+
+domain:      eafs.gov.br
+owner:       ESCOLA AGROTECNICA FEDERAL DE SATUBA - AL
+responsible: Francisco alves da silva júnior
+country:     BR
+owner-c:     EAS46
+admin-c:     EAS46
+tech-c:      EAS46
+billing-c:   EAS46
+nserver:     ns1.eafs.gov.br 200.133.128.6 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.eafs.gov.br 200.133.128.7 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20080703
+created:     19991207 #226362
+changed:     20080626
+status:      published
+
+nic-hdl-br:  EAS46
+person:      Escola Agrotecnica Federal de Satuba-AL
+created:     19991129
+changed:     20070216
+
+

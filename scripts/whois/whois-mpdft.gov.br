@@ -1,0 +1,33 @@
+
+
+
+domain:      mpdft.gov.br
+owner:       Ministério Público do DF e Territórios
+responsible: Departamento de Tecnologia da Informação
+country:     BR
+owner-c:     DTMPD
+admin-c:     DTMPD
+tech-c:      DTMPD
+billing-c:   DTMPD
+nserver:     dns01.mpdft.gov.br 200.142.5.5 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns02.mpdft.gov.br 200.142.5.6 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns03.mpdft.gov.br 189.125.19.85 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns04.mpdft.gov.br 189.125.19.86 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19960521 #8005
+changed:     20151222
+status:      published
+
+nic-hdl-br:  DTMPD
+person:      DTI MPDFT
+created:     20100607
+changed:     20150415
+
+

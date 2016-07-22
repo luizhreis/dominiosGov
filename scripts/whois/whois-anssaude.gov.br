@@ -1,0 +1,27 @@
+
+
+
+domain:      anssaude.gov.br
+owner:       Agencia Nacional de Saude Suplementar
+responsible: Marcelo Uzêda
+country:     BR
+owner-c:     JWD3
+admin-c:     JWD3
+tech-c:      JWD3
+billing-c:   JWD3
+nserver:     dns.ans.gov.br  
+nsstat:      20160701 UDN
+nslastaa:    20131106
+nserver:     ns.embratel.net.br  
+nsstat:      20160701 UDN
+nslastaa:    20080721
+created:     20010402 #540691
+changed:     20040713
+status:      published
+
+nic-hdl-br:  JWD3
+person:      Marco Venicio Alves de Oliveira
+created:     20000627
+changed:     20130806
+
+

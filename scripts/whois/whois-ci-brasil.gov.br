@@ -1,0 +1,32 @@
+
+
+
+domain:      ci-brasil.gov.br
+owner:       Centro de Tecnologia da Informação Renato Archer
+responsible: Antonio Montes Filho
+country:     BR
+owner-c:     ANM153
+admin-c:     PACBE47
+tech-c:      PACBE47
+billing-c:   PACBE47
+nserver:     montanha.cti.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     atria.cenpra.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20071205 #4101340
+changed:     20150108
+status:      published
+
+nic-hdl-br:  ANM153
+person:      Antonio Montes
+created:     20000211
+changed:     20150108
+
+nic-hdl-br:  PACBE47
+person:      Paulo Cesar Berardi
+created:     20141203
+changed:     20141203
+
+

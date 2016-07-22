@@ -1,0 +1,37 @@
+
+
+
+domain:      brmcc.gov.br
+owner:       Departamento de Controle do Espaço Aéreo
+responsible: Seção de Rede Local
+country:     BR
+owner-c:     ADRED14
+admin-c:     CLL352
+tech-c:      JSC125
+billing-c:   JSC125
+nserver:     dns1.decea.gov.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20160622
+nserver:     dns2.decea.gov.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20141112
+created:     20050708 #2215475
+changed:     20050708
+status:      published
+
+nic-hdl-br:  ADRED14
+person:      Administracao de Rede
+created:     20140124
+changed:     20160301
+
+nic-hdl-br:  CLL352
+person:      Carlos Lucio Correa de Barros Lampert
+created:     20040526
+changed:     20050622
+
+nic-hdl-br:  JSC125
+person:      João Soares da Cunha
+created:     20040531
+changed:     20050629
+
+

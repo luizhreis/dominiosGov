@@ -1,0 +1,44 @@
+
+
+
+domain:      arquitetura.gov.br
+owner:       Conselho de Arquitetura e Urbanismo do Brasil
+responsible: HAROLDO PINHEIRO VILLAR DE QUEIROZ
+country:     BR
+owner-c:     MICLO17
+admin-c:     MICLO17
+tech-c:      SCITI
+billing-c:   SCFIN
+nserver:     ns-889.awsdns-47.net  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-1685.awsdns-18.co.uk  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-1134.awsdns-13.org  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-410.awsdns-51.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20150728 #14444330
+changed:     20150728
+status:      published
+
+nic-hdl-br:  MICLO17
+person:      Mirna C.Lobo
+created:     20120328
+changed:     20140605
+
+nic-hdl-br:  SCFIN
+person:      Scytl Financeiro
+created:     20140710
+changed:     20140710
+
+nic-hdl-br:  SCITI
+person:      Scytl Infraestrutura de TI
+created:     20140710
+changed:     20150303
+
+

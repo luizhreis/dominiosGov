@@ -1,0 +1,31 @@
+
+
+
+domain:      separeolixo.gov.br
+owner:       MINISTERIO DO MEIO AMBIENTE
+responsible: Coord Geral de Tec. da Informação e Info
+country:     BR
+owner-c:     MMR
+admin-c:     MMR
+tech-c:      MMR
+billing-c:   MMR
+nserver:     ns1.separeolixo.gov.br 200.198.242.66 2804:150:11:d602::5
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.separeolixo.gov.br 200.198.242.69 2804:150:11:d602::6
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    10686 RSA/SHA-1 F1C62ED40BDE40175F2F76BFB5BB8CECCF83D384
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+saci:        yes
+created:     20110726 #8572182
+changed:     20160411
+status:      published
+
+nic-hdl-br:  MMR
+person:      Ministério do Meio Ambiente
+created:     19980109
+changed:     20151014
+
+

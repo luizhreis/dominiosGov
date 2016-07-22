@@ -1,0 +1,27 @@
+
+
+
+domain:      trf5.gov.br
+owner:       Tribunal Regional Federal
+responsible: José Augusto Lins de Araújo Neto
+country:     BR
+owner-c:     TRF
+admin-c:     TRF
+tech-c:      TRF
+billing-c:   TRF
+nserver:     kant2.trf5.gov.br 189.39.123.165 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     kant.trf5.gov.br 189.39.123.166 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19980116 #81744
+changed:     20131210
+status:      published
+
+nic-hdl-br:  TRF
+person:      Tribunal Regional Federal
+created:     19980107
+changed:     20160407
+
+

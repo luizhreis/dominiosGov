@@ -1,0 +1,27 @@
+
+
+
+domain:      servicoflorestal.gov.br
+owner:       MINISTERIO DO MEIO AMBIENTE
+responsible: Coord Geral de Tec. da Informação e Info
+country:     BR
+owner-c:     MMR
+admin-c:     MMR
+tech-c:      MMR
+billing-c:   MMR
+nserver:     ns1.servicoflorestal.gov.br 189.85.84.2 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.servicoflorestal.gov.br 189.85.84.4 
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20061016 #3069138
+changed:     20130215
+status:      published
+
+nic-hdl-br:  MMR
+person:      Ministério do Meio Ambiente
+created:     19980109
+changed:     20151014
+
+

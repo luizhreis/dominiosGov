@@ -1,0 +1,27 @@
+
+
+
+domain:      hgb.gov.br
+owner:       Hospital Geral de Bonsucesso
+responsible: Victor Grabois
+country:     BR
+owner-c:     AJF32
+admin-c:     AJF32
+tech-c:      AJF32
+billing-c:   AJF32
+nserver:     dns.hgb.gov.br 200.20.201.200 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20000826
+nserver:     dns2.hgb.gov.br 200.20.201.201 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20000826
+created:     19990525 #157067
+changed:     20010306
+status:      published
+
+nic-hdl-br:  AJF32
+person:      Antonio José Ferreira
+created:     20000103
+changed:     20000103
+
+

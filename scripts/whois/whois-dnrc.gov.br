@@ -1,0 +1,30 @@
+
+
+
+domain:      dnrc.gov.br
+owner:       DEPARTAMENTO NACIONAL DE REGISTRO DO COMERCIO
+responsible: Jorge Nadler
+country:     BR
+owner-c:     MDC167
+admin-c:     MDC167
+tech-c:      MDC167
+billing-c:   MDC167
+nserver:     dns1.mdic.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.mdic.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns3.mdic.gov.br  
+nsstat:      20160701 FAIL
+nslastaa:    20160618
+created:     19970918 #58455
+changed:     20130510
+status:      published
+
+nic-hdl-br:  MDC167
+person:      Ministério do Desenv. Indústria Comércio
+created:     20040901
+changed:     20160627
+
+

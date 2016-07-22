@@ -1,0 +1,32 @@
+
+
+
+domain:      trt22.gov.br
+owner:       TRIBUNAL REGIONAL DO TRABALHO DA 22A. REGIAO
+responsible: Jose de Anchieta Araujo Marques
+country:     BR
+owner-c:     GBM19
+admin-c:     TRR3
+tech-c:      GBM19
+billing-c:   GBM19
+nserver:     ds1.trt22.gov.br 200.151.25.131 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ds2.trt22.gov.br 200.151.25.132 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19970625 #44732
+changed:     20140927
+status:      published
+
+nic-hdl-br:  GBM19
+person:      Giovanni Bastos Mazza
+created:     20000531
+changed:     20080114
+
+nic-hdl-br:  TRR3
+person:      TRIBUNAL REGIONAL DO TRABALHO 22ª REGIÃO
+created:     19980226
+changed:     20131210
+
+

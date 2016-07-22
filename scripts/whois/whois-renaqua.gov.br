@@ -1,0 +1,33 @@
+
+
+
+domain:      renaqua.gov.br
+owner:       Ministério da Pesca e Aquicultura
+responsible: Ministro Marcelo Bezerra Crivella
+country:     BR
+owner-c:     RESCA114
+admin-c:     RESCA114
+tech-c:      FELPE18
+billing-c:   RESCA114
+nserver:     gerencia.rede.ufmg.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     indicus.vet.ufmg.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20140917 #13294206
+changed:     20140917
+status:      published
+
+nic-hdl-br:  FELPE18
+person:      Felipe Luiz Pereira
+created:     20100915
+changed:     20140428
+
+nic-hdl-br:  RESCA114
+person:      Renato Silva de Castro
+created:     20121217
+changed:     20140825
+
+

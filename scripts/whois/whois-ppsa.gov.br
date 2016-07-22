@@ -1,0 +1,31 @@
+
+
+
+domain:      ppsa.gov.br
+owner:       Empresa Brasileira de Administração de Petroleo de
+responsible: Antonio Carlos Ramos de Barros Mello
+country:     BR
+owner-c:     ANOOL10
+admin-c:     ANOOL10
+tech-c:      ANOOL10
+billing-c:   ANOOL10
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20140311 #12625848
+changed:     20140311
+status:      published
+
+nic-hdl-br:  ANOOL10
+person:      André Onofre de Oliveira
+created:     20140204
+changed:     20140204
+
+

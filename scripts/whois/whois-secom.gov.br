@@ -1,0 +1,37 @@
+
+
+
+domain:      secom.gov.br
+owner:       Secretaria de Comunicação Social
+responsible: SECOM - SCI - DEINE
+country:     BR
+owner-c:     MAMPA145
+admin-c:     MAMPA145
+tech-c:      MRV103
+billing-c:   MAR79
+nserver:     alpha.planalto.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20090929 #6041433
+changed:     20160511
+status:      published
+
+nic-hdl-br:  MAMPA145
+person:      Marcia Maria Pachaly
+created:     20130821
+changed:     20130821
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+

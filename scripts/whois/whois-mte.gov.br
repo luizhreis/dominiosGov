@@ -1,0 +1,39 @@
+
+
+
+domain:      mte.gov.br
+owner:       MINISTERIO DO TRABALHO E EMPREGO
+responsible: Equipe de Redes MTE
+country:     BR
+owner-c:     COINF90
+admin-c:     COINF90
+tech-c:      COINF90
+billing-c:   COINF90
+nserver:     ns1.mte.gov.br 177.43.84.10 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.mte.gov.br 200.198.216.107 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.mte.gov.br 200.198.216.108 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns4.mte.gov.br 177.43.84.12 
+nsstat:      20160629 AA
+nslastaa:    20160629
+dsrecord:    12511 RSA/SHA-1 35D14603FECD515384318F25849821D6B617EA53
+dsstatus:    20160629 DSOK
+dslastok:    20160629
+dsrecord:    12511 RSA/SHA-1 AD2CA00A68B5528FF1D233C2099263B3F0B5A98C1F850E7C46F65F930AFCDB6C
+dsstatus:    20160629 DSOK
+dslastok:    20160629
+created:     19990211 #141353
+changed:     20160205
+status:      published
+
+nic-hdl-br:  COINF90
+person:      Coordenação de Infraestrutura
+created:     20141029
+changed:     20141029
+
+

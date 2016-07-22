@@ -1,0 +1,33 @@
+
+
+
+domain:      portaldacopa.gov.br
+owner:       ME - Ministerio do Esporte
+responsible: Jose Dartalian Gomes Pinheiro
+country:     BR
+owner-c:     JDGPI
+admin-c:     JAA364
+tech-c:      JAA364
+billing-c:   JAA364
+nserver:     easydns1.dualtec.com.br  
+nsstat:      20160630 UDN
+nslastaa:    20140607
+nserver:     easydns2.dualtec.com.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20160627
+saci:        yes
+created:     20111109 #9097409
+changed:     20140703
+status:      published
+
+nic-hdl-br:  JAA364
+person:      Jorge Antônio Lacerda de Andrade
+created:     20030908
+changed:     20160222
+
+nic-hdl-br:  JDGPI
+person:      José Dartalian Gomes Pinheiro
+created:     20160222
+changed:     20160222
+
+

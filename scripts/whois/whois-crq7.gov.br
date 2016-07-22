@@ -1,0 +1,28 @@
+
+
+
+domain:      crq7.gov.br
+owner:       Conselho Regional de Quimica Vii Região
+responsible: Jorge de S. Nunes
+country:     BR
+owner-c:     CRQ27
+admin-c:     CRQ27
+tech-c:      CRQ27
+billing-c:   CRQ27
+nserver:     ns2.terraempresas.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.terraempresas.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20110218 #7940861
+changed:     20110218
+status:      published
+
+nic-hdl-br:  CRQ27
+person:      Conselho Regional de Quimica
+created:     20051020
+changed:     20101116
+
+

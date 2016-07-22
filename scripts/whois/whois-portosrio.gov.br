@@ -1,0 +1,32 @@
+
+
+
+domain:      portosrio.gov.br
+owner:       Companhia Docas do Rio de Janeiro
+responsible: Eduardo Moreira da Silva
+country:     BR
+owner-c:     LIM21
+admin-c:     LIM21
+tech-c:      GUT90
+billing-c:   GUT90
+nserver:     docas004.portosrio.gov.br 200.172.0.20 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     intserver.portosrio.gov.br 200.172.0.19 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19980227 #87552
+changed:     20140815
+status:      published
+
+nic-hdl-br:  GUT90
+person:      Gustavo Tinoco
+created:     20051231
+changed:     20150617
+
+nic-hdl-br:  LIM21
+person:      Lino Moreira
+created:     19991214
+changed:     20140815
+
+

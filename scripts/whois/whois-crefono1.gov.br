@@ -1,0 +1,27 @@
+
+
+
+domain:      crefono1.gov.br
+owner:       CONSELHO REGIONAL DE FONOAUDIOLOGIA - 1A REGIAO
+responsible: Márcio Moreira Braga
+country:     BR
+owner-c:     IAJ2
+admin-c:     IAJ2
+tech-c:      IAJ2
+billing-c:   IAJ2
+nserver:     dns1.infolink.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns2.infolink.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20100903 #7275234
+changed:     20150925
+status:      published
+
+nic-hdl-br:  IAJ2
+person:      Márcio Moreira Braga
+created:     19971221
+changed:     20110511
+
+

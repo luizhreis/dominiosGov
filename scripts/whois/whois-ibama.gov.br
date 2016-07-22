@@ -1,0 +1,32 @@
+
+
+
+domain:      ibama.gov.br
+owner:       INSTITUTO BRASILEIRO DO MEIO AMBIENTE
+responsible: Jose Ximenes de Mesquita
+country:     BR
+owner-c:     JXM
+admin-c:     AJA4
+tech-c:      AJA4
+billing-c:   JXM
+nserver:     ns.embratel.net.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.embratel.net.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     before 19950101
+changed:     20060331
+status:      published
+
+nic-hdl-br:  AJA4
+person:      Andries Jan Algera
+created:     19980127
+changed:     20060203
+
+nic-hdl-br:  JXM
+person:      José Ximenes de Mesquita
+created:     19980129
+changed:     20110902
+
+

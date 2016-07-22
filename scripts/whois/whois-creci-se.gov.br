@@ -1,0 +1,34 @@
+
+
+
+domain:      creci-se.gov.br
+owner:       CONSELHO REGIONAL CORRETORES DE IMOVEIS 16 REGIAO
+responsible: Sérgio Waldemar Freire Sobral
+country:     BR
+owner-c:     CORCO18
+admin-c:     CORCO18
+tech-c:      CORCO18
+billing-c:   CORCO18
+nserver:     ns1.afraid.org  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.afraid.org  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.afraid.org  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns4.afraid.org  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20151104 #14866141
+changed:     20151126
+status:      published
+
+nic-hdl-br:  CORCO18
+person:      Conselho Regional de Corretores 16ª
+created:     20151022
+changed:     20151022
+
+

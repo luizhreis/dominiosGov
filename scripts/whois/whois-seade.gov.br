@@ -1,0 +1,38 @@
+
+
+
+domain:      seade.gov.br
+owner:       FUNDACAO SEADE SISTEMA ESTADUAL DE ANALISE DE DADO
+responsible: SÉRGIO RICARDO RABELO.
+country:     BR
+owner-c:     SRR29
+admin-c:     SRR29
+tech-c:      SRR29
+billing-c:   IRO
+nserver:     radiation-gw.seade.gov.br 201.55.54.206 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns02.seade.gov.br 201.55.54.136 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns03.seade.gov.br 201.55.54.36 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     radiation.seade.gov.br 201.55.54.39 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     before 19950101
+changed:     20150209
+status:      published
+
+nic-hdl-br:  IRO
+person:      Ide Romani de Camargo Ortiz
+created:     19980109
+changed:     19980109
+
+nic-hdl-br:  SRR29
+person:      Sergio Ricardo Rabelo
+created:     20000915
+changed:     20130424
+
+

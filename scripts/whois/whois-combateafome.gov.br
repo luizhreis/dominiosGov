@@ -1,0 +1,28 @@
+
+
+
+domain:      combateafome.gov.br
+owner:       DTI/SE/MDS E COMBATE A FOME
+responsible: Eduardo Hallison Rodrigo Amaral Martins
+country:     BR
+owner-c:     MACSO438
+admin-c:     MACSO438
+tech-c:      MACSO438
+billing-c:   MACSO438
+nserver:     dns1.combateafome.gov.br 189.9.45.21 
+nsstat:      20160701 QREFUSED
+nslastaa:    20130403
+nserver:     dns2.combateafome.gov.br 189.9.45.24 
+nsstat:      20160701 QREFUSED
+nslastaa:    20130205
+saci:        yes
+created:     20120928 #10499645
+changed:     20140613
+status:      published
+
+nic-hdl-br:  MACSO438
+person:      MANOEL CHAGAS SOBRINHO
+created:     20140602
+changed:     20150331
+
+

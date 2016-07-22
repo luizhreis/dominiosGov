@@ -1,0 +1,36 @@
+
+
+
+domain:      sepm.gov.br
+owner:       Secretaria Especial de Politícas para as Mulheres
+responsible: Coordenação de Informática
+country:     BR
+owner-c:     MAR79
+admin-c:     MAR79
+tech-c:      MAR79
+billing-c:   MAR79
+nserver:     antares.serpro.gov.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20130318
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20130318
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20130318
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20130318
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20130318
+created:     20100113 #6426170
+changed:     20140922
+status:      published
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+

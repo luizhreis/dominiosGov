@@ -1,0 +1,36 @@
+
+
+
+domain:      transportes.gov.br
+owner:       MINISTERIO DOS TRANSPORTES
+responsible: Nubian Mendonça Amorim
+country:     BR
+owner-c:     SECDA3
+admin-c:     SECDA3
+tech-c:      SECDA3
+billing-c:   SECDA3
+nserver:     ns1.transportes.gov.br 200.198.212.166 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.transportes.gov.br 200.198.212.167 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     antares.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+dsrecord:    28981 RSA/SHA-1 DE5385EC311618F38C7C57F1D155B362F4E82CE9
+dsstatus:    20160629 DSOK
+dslastok:    20160629
+created:     19961205 #23865
+changed:     20140730
+status:      published
+
+nic-hdl-br:  SECDA3
+person:      Serviço de Comunicação de Dados
+created:     20110722
+changed:     20160331
+
+

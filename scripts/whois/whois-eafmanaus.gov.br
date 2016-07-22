@@ -1,0 +1,32 @@
+
+
+
+domain:      eafmanaus.gov.br
+owner:       ESCOLA AGROTECNICA FEDERAL DE MANAUS
+responsible: JORGE PERREIRA NUNES
+country:     BR
+owner-c:     SCS223
+admin-c:     SCS223
+tech-c:      AIP6
+billing-c:   SCS223
+nserver:     baco.argo.com.br  
+nsstat:      20160630 UDN
+nslastaa:    20100210
+nserver:     zeus.argo.com.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20100210
+created:     20030521 #1192881
+changed:     20090127
+status:      published
+
+nic-hdl-br:  AIP6
+person:      Argo Internet Provider
+created:     19980119
+changed:     20110317
+
+nic-hdl-br:  SCS223
+person:      Silvio Cezar Simões Sampaio
+created:     20030424
+changed:     20030424
+
+

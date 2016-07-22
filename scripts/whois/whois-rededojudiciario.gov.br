@@ -1,0 +1,42 @@
+
+
+
+domain:      rededojudiciario.gov.br
+owner:       SUPREMO TRIBUNAL FEDERAL
+responsible: Erick Dantas Rotole
+country:     BR
+owner-c:     EDR194
+admin-c:     SETIN14
+tech-c:      SGSRE3
+billing-c:   GASTI6
+nserver:     dns1.rededojudiciario.gov.br 201.41.100.168 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20080506
+nserver:     dns2.rededojudiciario.gov.br 201.41.100.145 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20080506
+created:     19990317 #147659
+changed:     20141008
+status:      published
+
+nic-hdl-br:  EDR194
+person:      Erick Dantas Rotole
+created:     20020322
+changed:     20110217
+
+nic-hdl-br:  GASTI6
+person:      Gabinete do Secretário de TI
+created:     20141008
+changed:     20141008
+
+nic-hdl-br:  SETIN14
+person:      Secretaria de Tecnologia da Informação
+created:     20140925
+changed:     20140925
+
+nic-hdl-br:  SGSRE3
+person:      Seção de Gerência e Segurança de Redes
+created:     20140925
+changed:     20141009
+
+

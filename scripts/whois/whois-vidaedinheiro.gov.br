@@ -1,0 +1,27 @@
+
+
+
+domain:      vidaedinheiro.gov.br
+owner:       CVM - COMISSAO DE VALORES MOBILIARIOS
+responsible: Vinícius Gagno Lima
+country:     BR
+owner-c:     CVGTE
+admin-c:     CVGTE
+tech-c:      CVGTE
+billing-c:   CVGTE
+nserver:     ns1.vcaremail.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.vcaremail.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20080801 #4719790
+changed:     20140417
+status:      published
+
+nic-hdl-br:  CVGTE
+person:      CVM - Gerência de Tecnologia
+created:     20131206
+changed:     20140417
+
+

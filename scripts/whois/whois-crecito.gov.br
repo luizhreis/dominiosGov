@@ -1,0 +1,38 @@
+
+
+
+domain:      crecito.gov.br
+owner:       CONSELHO REGIONAL DE CORRETORES DE IMOVEIS 25 REG
+responsible: MARIA REGO DE NEGREIRO SANTOS
+country:     BR
+owner-c:     MRNSA6
+admin-c:     MRNSA6
+tech-c:      VLROS3
+billing-c:   PSASO8
+nserver:     ns1.bh-51.webhostbox.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.bh-51.webhostbox.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20160316 #15262151
+changed:     20160316
+status:      published
+
+nic-hdl-br:  MRNSA6
+person:      Maria Rêgo de Negreiro Santos
+created:     20160120
+changed:     20160120
+
+nic-hdl-br:  PSASO8
+person:      Pollyanna Santana Amorim Silva Oliveira
+created:     20160202
+changed:     20160202
+
+nic-hdl-br:  VLROS3
+person:      Vladimir Rosa
+created:     20110930
+changed:     20150604
+
+

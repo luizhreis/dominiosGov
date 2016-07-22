@@ -1,0 +1,33 @@
+
+
+
+domain:      agricultura.gov.br
+owner:       MINISTERIO DA AGRICULTURA E DO ABASTECIMENTO
+responsible: Ministra Katia Abreu
+country:     BR
+owner-c:     MAS3725
+admin-c:     MAS3725
+tech-c:      MAS3725
+billing-c:   MAS3725
+nserver:     masrv1051.agricultura.gov.br 201.57.198.130 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     masrv1052.agricultura.gov.br 201.57.198.131 
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    20275 RSA/SHA-256 AA5A6713F6A659D58ED745905321BFAF8AC1D159
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+dsrecord:    20275 RSA/SHA-256 C7FC4F8BA29F9FCEF8E98C0D00016A02ACD10564A90D6B78F62B6DC43E9404E3
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     19970415 #36630
+changed:     20130611
+status:      published
+
+nic-hdl-br:  MAS3725
+person:      Marco Antonio Bittencourt Sucupira
+created:     20050512
+changed:     20080319
+
+

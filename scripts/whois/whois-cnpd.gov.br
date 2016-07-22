@@ -1,0 +1,35 @@
+
+
+
+domain:      cnpd.gov.br
+owner:       IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA
+responsible: MOISÉS HENRIQUE CASTRO DA SILVA
+country:     BR
+owner-c:     MHS92
+admin-c:     PSP4
+tech-c:      MHS92
+billing-c:   PSP4
+nserver:     ns1.ipea.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.ipea.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    58822 RSA/SHA-256 1C3252F17F658A9766066FD4E087810D3E90AB22
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     20010508 #548050
+changed:     20160404
+status:      published
+
+nic-hdl-br:  MHS92
+person:      Moises Henrique Castro da Silva
+created:     20011220
+changed:     20121121
+
+nic-hdl-br:  PSP4
+person:      José Eduardo M. S. Brandão
+created:     19980306
+changed:     20080519
+
+

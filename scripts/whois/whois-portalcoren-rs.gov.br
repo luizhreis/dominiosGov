@@ -1,0 +1,27 @@
+
+
+
+domain:      portalcoren-rs.gov.br
+owner:       Conselho Regional de Enfermagem - RS
+responsible: Daniel Menezes de Souza
+country:     BR
+owner-c:     CRE12
+admin-c:     CRE12
+tech-c:      CRE12
+billing-c:   CRE12
+nserver:     ns1.portalcoren-rs.gov.br 187.54.138.234 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.portalcoren-rs.gov.br 200.203.88.82 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20160128
+created:     20010802 #607190
+changed:     20150128
+status:      published
+
+nic-hdl-br:  CRE12
+person:      Conselho Regional de Enfermagem
+created:     20000427
+changed:     20110512
+
+

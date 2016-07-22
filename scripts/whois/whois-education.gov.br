@@ -1,0 +1,35 @@
+
+
+
+domain:      education.gov.br
+owner:       Ministério da Educação
+responsible: Coordenação de Serviços Gerais
+country:     BR
+owner-c:     WASEV
+admin-c:     MIEDU6
+tech-c:      MIEDU6
+billing-c:   MIEDU6
+nserver:     dns1.mec.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     use2.akam.net  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.mec.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20000419 #308387
+changed:     20140123
+status:      published
+
+nic-hdl-br:  MIEDU6
+person:      Ministério da Educação
+created:     20120126
+changed:     20140910
+
+nic-hdl-br:  WASEV
+person:      Wanderley Severino
+created:     20120124
+changed:     20120727
+
+

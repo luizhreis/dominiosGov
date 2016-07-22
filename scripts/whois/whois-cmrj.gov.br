@@ -1,0 +1,37 @@
+
+
+
+domain:      cmrj.gov.br
+owner:       CAMARA MUNICIPAL DO RIO DE JANEIRO
+responsible: Monica Zopelari Roseti
+country:     BR
+owner-c:     ECS26
+admin-c:     ECS26
+tech-c:      RAC30
+billing-c:   CAP46
+nserver:     guanabara.rederio.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20140324
+nserver:     rio.rederio.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20140324
+created:     19951215 #4853
+changed:     20000426
+status:      published
+
+nic-hdl-br:  CAP46
+person:      Cristiane Alves Pereira
+created:     19980902
+changed:     19980902
+
+nic-hdl-br:  ECS26
+person:      Evaldo Carneiro de Mello Sobrinho
+created:     19980909
+changed:     19980909
+
+nic-hdl-br:  RAC30
+person:      Roberto Amaral Calvet
+created:     19980902
+changed:     19990928
+
+

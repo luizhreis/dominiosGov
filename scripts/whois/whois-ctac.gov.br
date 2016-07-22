@@ -1,0 +1,32 @@
+
+
+
+domain:      ctac.gov.br
+owner:       FUNDAÇÃO NACIONAL DE ARTES
+responsible: SÉRGIO MAMBERTI
+country:     BR
+owner-c:     ROHSI8
+admin-c:     FCD97
+tech-c:      ROHSI8
+billing-c:   ROHSI8
+nserver:     zeus.ctac.gov.br 200.143.203.65 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     poseidon.ctac.gov.br 200.143.203.66 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19970902 #55302
+changed:     20100119
+status:      published
+
+nic-hdl-br:  FCD97
+person:      Fabio Chaves Dias
+created:     20060112
+changed:     20060112
+
+nic-hdl-br:  ROHSI8
+person:      Romulo H. Silva
+created:     20071211
+changed:     20080901
+
+

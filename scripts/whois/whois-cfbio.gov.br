@@ -1,0 +1,32 @@
+
+
+
+domain:      cfbio.gov.br
+owner:       Conselho Federal de Biologia
+responsible: Wlademir João Tadei
+country:     BR
+owner-c:     CFBCF
+admin-c:     CFBCF
+tech-c:      EAA236
+billing-c:   CFBCF
+nserver:     ns1.conectaativa.com.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.conectaativa.com.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20090807 #5859295
+changed:     20150507
+status:      published
+
+nic-hdl-br:  CFBCF
+person:      Conselho Federal de Biologia - CFBio
+created:     20121213
+changed:     20121213
+
+nic-hdl-br:  EAA236
+person:      Edilberto de Andrade Alves
+created:     20050812
+changed:     20120503
+
+

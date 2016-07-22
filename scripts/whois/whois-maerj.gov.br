@@ -1,0 +1,32 @@
+
+
+
+domain:      maerj.gov.br
+owner:       Departamento de Controle do Espaço Aéreo - SDTI
+responsible: Brig. Eng. Rogerio Ribeiro Machado
+country:     BR
+owner-c:     MVF120
+admin-c:     LFB6
+tech-c:      MVF120
+billing-c:   MVF120
+nserver:     ns.maerj.gov.br 200.255.49.66 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20070409
+nserver:     alfa.aer.mil.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20110507
+created:     19970314 #33239
+changed:     20050319
+status:      published
+
+nic-hdl-br:  LFB6
+person:      Giovanni Constantino Provenza
+created:     19980209
+changed:     20031125
+
+nic-hdl-br:  MVF120
+person:      Marcelo Valverde Fernandes
+created:     20021226
+changed:     20021226
+
+

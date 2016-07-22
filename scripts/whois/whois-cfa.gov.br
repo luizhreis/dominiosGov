@@ -1,0 +1,27 @@
+
+
+
+domain:      cfa.gov.br
+owner:       CFA - CONSELHO FEDERAL DE ADMINISTRACAO
+responsible: Sebastião Luiz de Mello
+country:     BR
+owner-c:     JCAFE7
+admin-c:     JCAFE7
+tech-c:      JCAFE7
+billing-c:   JCAFE7
+nserver:     jera.cfa.org.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     algiz.cfa.org.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20090318 #5312797
+changed:     20150114
+status:      published
+
+nic-hdl-br:  JCAFE7
+person:      José C de A Ferreira
+created:     20090201
+changed:     20100527
+
+

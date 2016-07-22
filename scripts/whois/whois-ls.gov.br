@@ -1,0 +1,38 @@
+
+
+
+domain:      ls.gov.br
+owner:       Agencia Brasileira de Inteligencia
+responsible: GERALDO DANTAS DA SILVA
+country:     BR
+owner-c:     GDS174
+admin-c:     GDS174
+tech-c:      DSARA3
+billing-c:   DSARA3
+nserver:     dns2.ls.gov.br 200.198.220.24 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     antares.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    39514 RSA/SHA-1 3E2AF0030986FF935D9E8A92A8E798DA4748BED1
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     20040429 #1611341
+changed:     20141118
+status:      published
+
+nic-hdl-br:  DSARA3
+person:      Divisao de Suporte a Redes da ABIN
+created:     20090518
+changed:     20130206
+
+nic-hdl-br:  GDS174
+person:      Geraldo Dantas da Silva
+created:     20060202
+changed:     20080923
+
+

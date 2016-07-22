@@ -1,0 +1,30 @@
+
+
+
+domain:      pf.gov.br
+owner:       DEPARTAMENTO DE POLICIA FEDERAL
+responsible: Coordenação de Tecnologia da Informação
+country:     BR
+owner-c:     CTI44
+admin-c:     CTI44
+tech-c:      CTI44
+billing-c:   CTI44
+nserver:     ns1.pf.gov.br 200.169.41.14 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.pf.gov.br 200.169.41.15 
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    52483 RSA/SHA-1 57F8D85826C2C333F52D70042A449F12ADE0FE6F
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     20090122 #5189629
+changed:     20160129
+status:      published
+
+nic-hdl-br:  CTI44
+person:      Coordenação de Tecnologia da Informação
+created:     20050304
+changed:     20080716
+
+

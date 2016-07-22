@@ -1,0 +1,37 @@
+
+
+
+domain:      tre-pe.gov.br
+owner:       Tribunal Regional Eleitoral do Pernambuco
+responsible: Wellington Fernandes Sant
+country:     BR
+owner-c:     TRP13
+admin-c:     DCC
+tech-c:      DCC
+billing-c:   WFS21
+nserver:     sauron.tse.jus.br  
+nsstat:      20160625 AA
+nslastaa:    20160625
+nserver:     saruman.tse.jus.br  
+nsstat:      20160625 AA
+nslastaa:    20160625
+created:     19980810 #108167
+changed:     20150108
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  TRP13
+person:      Tribunal Regional Eleitoral Pernambuco
+created:     20000309
+changed:     20051117
+
+nic-hdl-br:  WFS21
+person:      Wellington Fernandes Santos
+created:     20000605
+changed:     20000605
+
+

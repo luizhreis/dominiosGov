@@ -1,0 +1,30 @@
+
+
+
+domain:      crbio-4.gov.br
+owner:       Conselho Regional de Biologia - 4 região
+responsible: Gladstone Corrêa de Araújo
+country:     BR
+owner-c:     GLCAR63
+admin-c:     GLCAR63
+tech-c:      GLCAR63
+billing-c:   GLCAR63
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20081127 #5076795
+changed:     20141209
+status:      published
+
+nic-hdl-br:  GLCAR63
+person:      Gladstone Corrêa de Araújo
+created:     20141209
+changed:     20141209
+
+

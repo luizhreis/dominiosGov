@@ -1,0 +1,37 @@
+
+
+
+domain:      crediamigo.gov.br
+owner:       BANCO DO NORDESTE DO BRASIL S/A
+responsible: Celia Maria Rufino de Sousa
+country:     BR
+owner-c:     CMRSO14
+admin-c:     CLL14
+tech-c:      FFN
+billing-c:   CLL14
+nserver:     d001dns01.bnb.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     d001dns03.bnb.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20010518 #566336
+changed:     20130401
+status:      published
+
+nic-hdl-br:  CLL14
+person:      Claudio Luiz Freire Lima
+created:     19980318
+changed:     20090708
+
+nic-hdl-br:  CMRSO14
+person:      Celia Maria Rufino de Sousa
+created:     20160317
+changed:     20160411
+
+nic-hdl-br:  FFN
+person:      Francisco Ferreira Maia Lopes NETO
+created:     19980108
+changed:     20120625
+
+

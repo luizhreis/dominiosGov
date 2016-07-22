@@ -1,0 +1,32 @@
+
+
+
+domain:      sudam.gov.br
+owner:       Superintedência de Denvolvimento da Amazônia
+responsible: Djalma Bezerra Mallo
+country:     BR
+owner-c:     GGS6
+admin-c:     GGS6
+tech-c:      GGS6
+billing-c:   GGS4
+nserver:     ns1.sudam.gov.br 201.56.146.10 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.sudam.gov.br 201.56.146.9 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19970813 #51749
+changed:     20130413
+status:      published
+
+nic-hdl-br:  GGS4
+person:      Gilberto Gomes da Silveira
+created:     19980304
+changed:     20110330
+
+nic-hdl-br:  GGS6
+person:      Gilberto Gomes da Silveira
+created:     19980319
+changed:     20110330
+
+

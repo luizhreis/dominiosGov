@@ -1,0 +1,27 @@
+
+
+
+domain:      bdjur.gov.br
+owner:       SUPERIOR TRIBUNAL DE JUSTICA
+responsible: Danilo Ribeiro Confessor
+country:     BR
+owner-c:     DARCO34
+admin-c:     DARCO34
+tech-c:      DARCO34
+billing-c:   DARCO34
+nserver:     ns1.bdjur.gov.br 200.24.10.52 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20160207
+nserver:     ns2.bdjur.gov.br 189.125.176.215 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20151106
+created:     20041013 #1845312
+changed:     20160211
+status:      published
+
+nic-hdl-br:  DARCO34
+person:      Danilo Ribeiro Confessor
+created:     20100909
+changed:     20160420
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      portodesantos.gov.br
+owner:       COMPANHIA DOCAS DO EST DE SAO PAULO - CODESP
+responsible: Denis de Barros Antunes
+country:     BR
+owner-c:     RRS248
+admin-c:     RRS248
+tech-c:      BRP31
+billing-c:   RRS248
+nserver:     ns1.bcmg.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.bcmg.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20090325 #5391399
+changed:     20090325
+status:      published
+
+nic-hdl-br:  BRP31
+person:      Basilio Rodriguez Perez
+created:     20001030
+changed:     20031002
+
+nic-hdl-br:  RRS248
+person:      Romualdo Rodrigues Simoes
+created:     20021002
+changed:     20150104
+
+

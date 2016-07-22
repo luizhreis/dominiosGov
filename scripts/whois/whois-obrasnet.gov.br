@@ -1,0 +1,38 @@
+
+
+
+domain:      obrasnet.gov.br
+owner:       SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO
+responsible: Alexandre dos Santos Ferreira
+country:     BR
+owner-c:     ADSFE47
+admin-c:     ADSFE47
+tech-c:      RMJ35
+billing-c:   RMJ35
+nserver:     polar.caixa.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     lyra.caixa.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     orion.caixa.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     mira.caixa.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20020503 #810227
+changed:     20150716
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  RMJ35
+person:      Gerência de Internet da CAIXA
+created:     20000101
+changed:     20140729
+
+

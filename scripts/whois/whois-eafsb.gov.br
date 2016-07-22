@@ -1,0 +1,27 @@
+
+
+
+domain:      eafsb.gov.br
+owner:       Escola Agrotecnica Federal de Senhor do Bonfim
+responsible: Orlivaldo Kléber Lima Rios
+country:     BR
+owner-c:     KLR27
+admin-c:     KLR27
+tech-c:      KLR27
+billing-c:   KLR27
+nserver:     srv1.ifbaiano.edu.br  
+nsstat:      20160701 UH
+nslastaa:    20100304
+nserver:     secundario.ifbaiano.edu.br  
+nsstat:      20160701 UH
+nslastaa:    20100304
+created:     20060810 #2981571
+changed:     20091216
+status:      published
+
+nic-hdl-br:  KLR27
+person:      Kléber Rios
+created:     20050224
+changed:     20080813
+
+

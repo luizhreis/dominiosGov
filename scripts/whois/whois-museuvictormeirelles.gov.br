@@ -1,0 +1,27 @@
+
+
+
+domain:      museuvictormeirelles.gov.br
+owner:       Instituto Brasileiro de Museus - IBRAM
+responsible: Coordenador de TI
+country:     BR
+owner-c:     INBMU
+admin-c:     INBMU
+tech-c:      INBMU
+billing-c:   INBMU
+nserver:     ns1.ibram.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.ibram.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20100819 #7123957
+changed:     20120903
+status:      published
+
+nic-hdl-br:  INBMU
+person:      Instituto Brasileiro de Museus
+created:     20120903
+changed:     20150630
+
+

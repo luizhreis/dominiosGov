@@ -1,0 +1,27 @@
+
+
+
+domain:      cefetbg.gov.br
+owner:       Centro Federal de Educação Tecno Bento G
+responsible: Marcelo Coelho Garcia
+country:     BR
+owner-c:     ADRIF4
+admin-c:     ADRIF4
+tech-c:      ADRIF4
+billing-c:   ADRIF4
+nserver:     nsa.cefetbg.gov.br 200.17.95.7 2804:0:2490::7
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns.tche.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20021211 #1038981
+changed:     20160316
+status:      published
+
+nic-hdl-br:  ADRIF4
+person:      Administrador da Rede do IFRS
+created:     20150114
+changed:     20160314
+
+

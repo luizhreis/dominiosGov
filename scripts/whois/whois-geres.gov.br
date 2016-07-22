@@ -1,0 +1,32 @@
+
+
+
+domain:      geres.gov.br
+owner:       Grupo Executivo P Recup Econ do Est Esp Santo
+responsible: Clovis Abreu Vieira
+country:     BR
+owner-c:     CAV393
+admin-c:     CAV393
+tech-c:      TEE7
+billing-c:   CAV393
+nserver:     dns-web.terra.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20150217
+nserver:     ns.terraempresas.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20150217
+created:     20000824 #404029
+changed:     20060304
+status:      published
+
+nic-hdl-br:  CAV393
+person:      Clóvis Abreu Vieira
+created:     20060302
+changed:     20060302
+
+nic-hdl-br:  TEE7
+person:      Terra Empresas
+created:     20000713
+changed:     20160621
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      eafst.gov.br
+owner:       Escola Agrotécnica de Santa Teresa
+responsible: Luiz Marcari Junior
+country:     BR
+owner-c:     LESMO7
+admin-c:     LESMO7
+tech-c:      LESMO7
+billing-c:   LESMO7
+nserver:     servermail.eafst.gov.br 200.137.73.2 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20120808
+nserver:     dns2.eafst.gov.br 200.137.73.3 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20120808
+created:     20030526 #1205521
+changed:     20120419
+status:      published
+
+nic-hdl-br:  LESMO7
+person:      Leonardo S. Moraes
+created:     20080211
+changed:     20080211
+
+

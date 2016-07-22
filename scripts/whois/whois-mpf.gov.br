@@ -1,0 +1,32 @@
+
+
+
+domain:      mpf.gov.br
+owner:       MINISTERIO PUBLICO FEDERAL - PROCURADORIA GERAL DA
+responsible: Dr. Emival Ferreira Freitas
+country:     BR
+owner-c:     GFA2
+admin-c:     GFA2
+tech-c:      MACSO55
+billing-c:   GFA2
+nserver:     capella.mpf.gov.br 200.142.0.23 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     vega.mpf.gov.br 200.142.0.24 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     before 19950101
+changed:     20120906
+status:      published
+
+nic-hdl-br:  GFA2
+person:      Gustavo Fonseca Goncalves de Almeida
+created:     19980129
+changed:     20160224
+
+nic-hdl-br:  MACSO55
+person:      Mauro Cesar Sobrinho
+created:     20081127
+changed:     20160224
+
+

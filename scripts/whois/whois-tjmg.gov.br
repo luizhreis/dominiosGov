@@ -1,0 +1,35 @@
+
+
+
+domain:      tjmg.gov.br
+owner:       TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS
+responsible: Gerência de Tecnologia
+country:     BR
+owner-c:     TJMGE
+admin-c:     TJMGE
+tech-c:      GTT19
+billing-c:   GTT19
+nserver:     sunsrv-3.tjmg.gov.br 168.205.156.3 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     sunsrv-4.tjmg.gov.br 168.205.156.4 
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    42586 RSA/SHA-1 9BC9C12B3EEB373CACF4A360C9C532AC50C5115C
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     19971204 #72924
+changed:     20160617
+status:      published
+
+nic-hdl-br:  GTT19
+person:      Gerência de Tecnologia - TJMG
+created:     20051014
+changed:     20051014
+
+nic-hdl-br:  TJMGE
+person:      Tribunal de Justiça - MG - GETEC
+created:     20080215
+changed:     20080215
+
+

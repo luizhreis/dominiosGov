@@ -1,0 +1,32 @@
+
+
+
+domain:      trt11.gov.br
+owner:       Tribunal Regional do Trabalho - 11ª Região
+responsible: Jean Ricardo de Oliveira Rebouças
+country:     BR
+owner-c:     JRORE
+admin-c:     AMO26
+tech-c:      JRORE
+billing-c:   AMO26
+nserver:     dns1.internext.com.br  
+nsstat:      20160701 UDN
+nslastaa:    20080906
+nserver:     dns2.internext.com.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20080906
+created:     19971211 #74971
+changed:     20110413
+status:      published
+
+nic-hdl-br:  AMO26
+person:      Anfremon Monteiro de Oliveira
+created:     19991202
+changed:     20150221
+
+nic-hdl-br:  JRORE
+person:      JEAN RICARDO DE OLIVEIRA REBOUÇAS
+created:     20090507
+changed:     20160129
+
+

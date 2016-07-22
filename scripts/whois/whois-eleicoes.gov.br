@@ -1,0 +1,32 @@
+
+
+
+domain:      eleicoes.gov.br
+owner:       Tribunal Superior Eleitoral
+responsible: Daniel Carlos Lima Corrêa
+country:     BR
+owner-c:     DCC
+admin-c:     DCC
+tech-c:      DCC
+billing-c:   WOS3
+nserver:     sauron.tse.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     saruman.tse.jus.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20010802 #615171
+changed:     20131002
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  WOS3
+person:      Wander Oliveira Sobral
+created:     19980202
+changed:     19980202
+
+

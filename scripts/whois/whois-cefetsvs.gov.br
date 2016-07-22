@@ -1,0 +1,33 @@
+
+
+
+domain:      cefetsvs.gov.br
+owner:       INSTITUTO FEDERAL FARROUPILHA
+responsible: CARLOS ALBERTO PINTO DA ROSA
+country:     BR
+owner-c:     PRD12
+admin-c:     PRD12
+tech-c:      PRD12
+billing-c:   PRD12
+nserver:     snv1.cefetsvs.gov.br 200.132.16.11 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20140707
+nserver:     snv2.cefetsvs.gov.br 200.132.16.12 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20140707
+nserver:     dns.pop-rs.rnp.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    20140303
+nserver:     pampa.tche.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    20140611
+created:     20021211 #1033880
+changed:     20091127
+status:      published
+
+nic-hdl-br:  PRD12
+person:      Paulo Roberto Deon
+created:     19990818
+changed:     20090106
+
+

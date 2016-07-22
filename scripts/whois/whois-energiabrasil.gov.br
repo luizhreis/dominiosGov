@@ -1,0 +1,30 @@
+
+
+
+domain:      energiabrasil.gov.br
+owner:       MINISTERIO DE MINAS E ENERGIA
+responsible: Sergio Luiz Barbosa
+country:     BR
+owner-c:     HCB42
+admin-c:     HCB42
+tech-c:      HCB42
+billing-c:   HCB42
+nserver:     urano.energiabrasil.gov.br 200.198.223.21 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20050424
+nserver:     antares.serpro.gov.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20070630
+nserver:     terra.energiabrasil.gov.br 200.198.223.12 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20040814
+created:     20010601 #573428
+changed:     20090214
+status:      published
+
+nic-hdl-br:  HCB42
+person:      Hiram Costa Botelho
+created:     20030911
+changed:     20070307
+
+

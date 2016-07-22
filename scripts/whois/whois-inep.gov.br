@@ -1,0 +1,27 @@
+
+
+
+domain:      inep.gov.br
+owner:       INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIO
+responsible: Francisco Edilson de Carvalho Silva
+country:     BR
+owner-c:     INP
+admin-c:     INP
+tech-c:      INP
+billing-c:   INP
+nserver:     inep200.inep.gov.br 200.130.24.200 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     server1.pop-df.rnp.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19950607
+changed:     20110830
+status:      published
+
+nic-hdl-br:  INP
+person:      Instituto Nacional de Estudos e Pesquisa
+created:     19971230
+changed:     20110830
+
+

@@ -1,0 +1,33 @@
+
+
+
+domain:      citenel.gov.br
+owner:       ANEEL - Agência Nacional de Energia Elétrica
+responsible: Herbert Lima Monteiro
+country:     BR
+owner-c:     COSIN16
+admin-c:     COSIN16
+tech-c:      LED34
+billing-c:   COSIN16
+nserver:     eletron.citenel.gov.br 200.198.220.133 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     proton.citenel.gov.br 200.198.220.132 
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20110408 #8140543
+changed:     20141022
+status:      published
+
+nic-hdl-br:  COSIN16
+person:      Coordenação de Segurança da Informação
+created:     20110920
+changed:     20120511
+
+nic-hdl-br:  LED34
+person:      Leonardo Dantas
+created:     20000314
+changed:     20140422
+
+

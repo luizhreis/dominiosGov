@@ -1,0 +1,32 @@
+
+
+
+domain:      cbh.gov.br
+owner:       Agência Nacional de Águas
+responsible: Allan Nagem Soares
+country:     BR
+owner-c:     ANS308
+admin-c:     ROTFI
+tech-c:      ROTFI
+billing-c:   ROTFI
+nserver:     ns1.ana.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.ana.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20080226 #4258477
+changed:     20080226
+status:      published
+
+nic-hdl-br:  ANS308
+person:      Allan Nagem Soares
+created:     20010917
+changed:     20140127
+
+nic-hdl-br:  ROTFI
+person:      Roque T Filho
+created:     20071217
+changed:     20151208
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      jfpr.gov.br
+owner:       Justiça Federal de Primeiro Grau no Parana
+responsible: Núcleo de Tecnologia da Informação
+country:     BR
+owner-c:     JFI3
+admin-c:     JFI3
+tech-c:      JFI3
+billing-c:   JFI3
+nserver:     ns1.jfpr.gov.br 187.32.103.134 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.jfpr.gov.br 187.32.103.135 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19990717 #173238
+changed:     20130608
+status:      published
+
+nic-hdl-br:  JFI3
+person:      Justiça Federal de Primeira Instância
+created:     20000620
+changed:     20151221
+
+

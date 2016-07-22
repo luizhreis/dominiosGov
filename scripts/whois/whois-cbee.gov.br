@@ -1,0 +1,27 @@
+
+
+
+domain:      cbee.gov.br
+owner:       Centrais Eletricas do Norte do Brasil
+responsible: Gerencia de Servicos de Rede Corporativa
+country:     BR
+owner-c:     GSC187
+admin-c:     GSC187
+tech-c:      GSC187
+billing-c:   GSC187
+nserver:     ftp2.eln.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20080426
+nserver:     as.eln.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20080430
+created:     20020124 #714185
+changed:     20060222
+status:      published
+
+nic-hdl-br:  GSC187
+person:      Gerência de Serviço de Rede Corporativa
+created:     20050830
+changed:     20070529
+
+

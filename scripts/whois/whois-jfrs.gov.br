@@ -1,0 +1,38 @@
+
+
+
+domain:      jfrs.gov.br
+owner:       Justica Federal de Primeiro Grau no RS
+responsible: André Zamprogna Marcon
+country:     BR
+owner-c:     ALSIL482
+admin-c:     ALSIL482
+tech-c:      ALSIL482
+billing-c:   ANZMA3
+nserver:     ns1.jfrs.gov.br 187.58.135.141 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.jfrs.gov.br 187.58.135.142 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.jfrs.gov.br 177.220.208.17 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns4.jfrs.gov.br 177.220.208.18 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19991214 #224620
+changed:     20150916
+status:      published
+
+nic-hdl-br:  ALSIL482
+person:      Alexandre da Silveira Ilha
+created:     20120423
+changed:     20120423
+
+nic-hdl-br:  ANZMA3
+person:      André Zamprogna Marcon
+created:     20110823
+changed:     20151214
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      seminariodefencil.gov.br
+owner:       MINISTERIO DA INTEGRACAO NACIONAL
+responsible: Flavio Ferreira dos Santos
+country:     BR
+owner-c:     ADSFE47
+admin-c:     FFDSA72
+tech-c:      FFDSA72
+billing-c:   FFDSA72
+nserver:     ns1.tiki.com.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20140123
+nserver:     ns2.tiki.com.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20140123
+created:     20090910 #5979422
+changed:     20160504
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  FFDSA72
+person:      Flavio Ferreira dos Santos
+created:     20110628
+changed:     20110628
+
+

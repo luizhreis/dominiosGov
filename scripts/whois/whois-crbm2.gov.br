@@ -1,0 +1,33 @@
+
+
+
+domain:      crbm2.gov.br
+owner:       Conselho Regional de Biomedicina em PE (2ª Regiao)
+responsible: CRBM - PE
+country:     BR
+owner-c:     CRP114
+admin-c:     CRP114
+tech-c:      GFLFE2
+billing-c:   CRP114
+nserver:     dns1.kinghost.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns2.kinghost.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20140813 #13170994
+changed:     20140813
+status:      published
+
+nic-hdl-br:  CRP114
+person:      Conselho Regional de Biomedicina em PE
+created:     20010222
+changed:     20140731
+
+nic-hdl-br:  GFLFE2
+person:      GUSTAVO FERREIRA DE LIRA FERRAZ
+created:     20090617
+changed:     20090617
+
+

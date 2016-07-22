@@ -1,0 +1,32 @@
+
+
+
+domain:      eafsl.gov.br
+owner:       Escola Agrotécnica Federal de São Luiz
+responsible: Vespasiano de Abreu da Hora
+country:     BR
+owner-c:     CAF859
+admin-c:     WETPA2
+tech-c:      WETPA2
+billing-c:   CAF859
+nserver:     ipe-amarelo.eafsl.gov.br 200.137.144.2 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20100511
+nserver:     astrapeia.eafsl.gov.br 200.137.144.3 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20100511
+created:     20080429 #4398238
+changed:     20150107
+status:      published
+
+nic-hdl-br:  CAF859
+person:      Claudio Antonio Costa Fernandes
+created:     20051029
+changed:     20151118
+
+nic-hdl-br:  WETPA2
+person:      Wenderson Teixeira Paulo
+created:     20140730
+changed:     20140730
+
+

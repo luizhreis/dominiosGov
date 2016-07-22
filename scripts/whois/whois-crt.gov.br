@@ -1,0 +1,27 @@
+
+
+
+domain:      crt.gov.br
+owner:       COMPANHIA RIOGRANDENSE DE TELECOMUNICACOES
+responsible: Daniele Schmidt Lucas
+country:     BR
+owner-c:     DSL124
+admin-c:     DSL124
+tech-c:      DSL124
+billing-c:   DSL124
+nserver:     atena.crt.net.br  
+nsstat:      20160701 UH
+nslastaa:    20080922
+nserver:     dionisio.crt.net.br  
+nsstat:      20160701 UH
+nslastaa:    20110622
+created:     19960506 #7505
+changed:     20090722
+status:      published
+
+nic-hdl-br:  DSL124
+person:      Daniele Schmidt Lucas
+created:     20020326
+changed:     20030818
+
+

@@ -1,0 +1,30 @@
+
+
+
+domain:      deputado.gov.br
+owner:       Camara dos Deputados
+responsible: Guilherme Brügger Damato
+country:     BR
+owner-c:     SSG50
+admin-c:     SSG50
+tech-c:      SSG50
+billing-c:   SSG50
+nserver:     hypatia.camara.leg.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     melissa.camara.leg.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+dsrecord:    51910 RSA/SHA-256 420D4DBCA6BC8A22D4D3355DDD9C0977C200FC79
+dsstatus:    20160629 DSOK
+dslastok:    20160629
+created:     20070704 #3725132
+changed:     20150612
+status:      published
+
+nic-hdl-br:  SSG50
+person:      S S G
+created:     20040402
+changed:     20140422
+
+

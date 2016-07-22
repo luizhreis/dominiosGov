@@ -1,0 +1,36 @@
+
+
+
+domain:      crefono8.gov.br
+owner:       Conselho Regional de Fonoaudiologia 8a Regiao
+responsible: Hyrana Frota Cavalcante
+country:     BR
+owner-c:     CRFAR6
+admin-c:     CRFAR6
+tech-c:      MAMMO35
+billing-c:   MAMMO35
+nserver:     dns1.argohost.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns2.argohost.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns3.argohost.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20111026 #8918873
+changed:     20111028
+status:      published
+
+nic-hdl-br:  CRFAR6
+person:      Conselho Regional de Fonoaudiologia 8a R
+created:     20090331
+changed:     20111006
+
+nic-hdl-br:  MAMMO35
+person:      Marcelo M. Morbeck
+created:     20080331
+changed:     20090901
+
+

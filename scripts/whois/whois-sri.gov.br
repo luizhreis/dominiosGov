@@ -1,0 +1,41 @@
+
+
+
+domain:      sri.gov.br
+owner:       SECRETARIA DE RELACOES INSTITUCIONAIS DA PRESIDENC
+responsible: Fernando Ramos Silva
+country:     BR
+owner-c:     FERSI56
+admin-c:     FERSI56
+tech-c:      MRV103
+billing-c:   FERSI56
+nserver:     antares.serpro.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+created:     20100510 #6836616
+changed:     20140922
+status:      published
+
+nic-hdl-br:  FERSI56
+person:      Fernando Ramos Silva
+created:     20100819
+changed:     20100819
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+

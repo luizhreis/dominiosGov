@@ -1,0 +1,33 @@
+
+
+
+domain:      corenam.gov.br
+owner:       CONSELHO REGIONAL DE ENFERMAGEM DO AMAZONAS
+responsible: PAULO JORGE PINHEIRO DE LIMA
+country:     BR
+owner-c:     CREAM4
+admin-c:     CREAM4
+tech-c:      GHV12
+billing-c:   CREAM4
+nserver:     dell.ns.cloudflare.com  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     george.ns.cloudflare.com  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20150316 #13948456
+changed:     20160614
+status:      published
+
+nic-hdl-br:  CREAM4
+person:      CONSELHO REGIONAL DE ENFERMAGEM - AM
+created:     20150209
+changed:     20150209
+
+nic-hdl-br:  GHV12
+person:      Gedalias Hugo de Oliveira Valentim
+created:     20031116
+changed:     20141126
+
+

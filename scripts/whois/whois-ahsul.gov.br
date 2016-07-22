@@ -1,0 +1,31 @@
+
+
+
+domain:      ahsul.gov.br
+owner:       COMPANHIA DOCAS DO MARANHAO - CODOMAR
+responsible: luiz fay de azambuja
+country:     BR
+owner-c:     AFN64
+admin-c:     AFN64
+tech-c:      AFN64
+billing-c:   AFN64
+nserver:     dns1.kinghost.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns2.kinghost.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns3.kinghost.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+saci:        yes
+created:     20140227 #12568279
+changed:     20150824
+status:      published
+
+nic-hdl-br:  AFN64
+person:      Artur Reinheimer - webmarvel.comunicação
+created:     20010426
+changed:     20141101
+
+

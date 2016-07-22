@@ -1,0 +1,28 @@
+
+
+
+domain:      cfmv.gov.br
+owner:       CONSELHO FEDERAL DE MEDICINA VETERINARIA
+responsible: Benedito Fortes de Arruda
+country:     BR
+owner-c:     CFV
+admin-c:     CFV
+tech-c:      CFV
+billing-c:   CFV
+nserver:     ns1.alog.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.alog.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20101229 #7629594
+changed:     20101229
+status:      published
+
+nic-hdl-br:  CFV
+person:      Conselho Federal de Medicina Veterinária
+created:     19980202
+changed:     20160524
+
+

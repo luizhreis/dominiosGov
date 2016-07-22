@@ -1,0 +1,27 @@
+
+
+
+domain:      computadoresparainclusao.gov.br
+owner:       Ministerio do Planejamento Orçamento e Gestão
+responsible: Eduardo Cesar Soares Gomes
+country:     BR
+owner-c:     CGSTM2
+admin-c:     CGSTM2
+tech-c:      CGSTM2
+billing-c:   CGSTM2
+nserver:     ns1.sid.mc.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20140706
+nserver:     ns2.sid.mc.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20140706
+created:     20080418 #4395624
+changed:     20140122
+status:      published
+
+nic-hdl-br:  CGSTM2
+person:      COORDENAÇÃO GERAL DE SERVIÇOS DE TI - MP
+created:     20140122
+changed:     20150924
+
+

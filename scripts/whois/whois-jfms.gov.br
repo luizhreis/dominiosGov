@@ -1,0 +1,32 @@
+
+
+
+domain:      jfms.gov.br
+owner:       Justiça Federal de 1ª Instância
+responsible: Eduardo Rocha Cabral
+country:     BR
+owner-c:     ERC121
+admin-c:     ERC121
+tech-c:      EDL196
+billing-c:   ERC121
+nserver:     dns-1.jfms.gov.br 177.43.200.102 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns-2.jfms.gov.br 177.43.200.103 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20020716 #899650
+changed:     20120517
+status:      published
+
+nic-hdl-br:  EDL196
+person:      Eduardo Luccas
+created:     20020227
+changed:     20120110
+
+nic-hdl-br:  ERC121
+person:      Eduardo Rocha Cabral
+created:     20020422
+changed:     20110124
+
+

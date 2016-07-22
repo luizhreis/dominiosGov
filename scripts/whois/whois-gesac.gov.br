@@ -1,0 +1,27 @@
+
+
+
+domain:      gesac.gov.br
+owner:       Ministério das Comunicações
+responsible: Vanildo Pereira Figueiredo
+country:     BR
+owner-c:     VPF2
+admin-c:     VPF2
+tech-c:      VPF2
+billing-c:   VPF2
+nserver:     ns1.sid.mc.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20140704
+nserver:     ns2.sid.mc.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20140704
+created:     20031119 #1414720
+changed:     20150325
+status:      published
+
+nic-hdl-br:  VPF2
+person:      Vanildo Pereira de Figueiredo
+created:     19980521
+changed:     20130404
+
+

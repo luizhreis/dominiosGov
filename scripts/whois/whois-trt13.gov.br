@@ -1,0 +1,27 @@
+
+
+
+domain:      trt13.gov.br
+owner:       Tribunal regional do Trabalho 13 Regiao
+responsible: Luiza Lúcia Farias
+country:     BR
+owner-c:     TRTAR
+admin-c:     TRTAR
+tech-c:      TRTAR
+billing-c:   TRTAR
+nserver:     ns1.trt13.gov.br 200.253.113.18 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20130708
+nserver:     ns2.trt13.gov.br 200.253.113.17 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20130708
+created:     19980116 #82541
+changed:     20130514
+status:      published
+
+nic-hdl-br:  TRTAR
+person:      TRIBUNAL REGIONAL DO TRABALHO 13a REGIAO
+created:     20080218
+changed:     20120605
+
+

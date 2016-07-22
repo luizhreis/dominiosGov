@@ -1,0 +1,27 @@
+
+
+
+domain:      alemg.gov.br
+owner:       ASSEMBLEIA LEGISLATIVA DE MINAS GERAIS
+responsible: Marcus Vinicius de Melo Rocha
+country:     BR
+owner-c:     MVR2
+admin-c:     MVR2
+tech-c:      MVR2
+billing-c:   MVR2
+nserver:     hermes.alemg.gov.br 177.86.143.129 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     hades.alemg.gov.br 177.86.143.130 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19981211 #132644
+changed:     20140904
+status:      published
+
+nic-hdl-br:  MVR2
+person:      Marcus Vinícius de Melo Rocha
+created:     19971218
+changed:     20130913
+
+

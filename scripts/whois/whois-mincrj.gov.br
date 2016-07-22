@@ -1,0 +1,27 @@
+
+
+
+domain:      mincrj.gov.br
+owner:       Ministério da Cultura
+responsible: CGTI SPOA SE MinC
+country:     BR
+owner-c:     MICUL2
+admin-c:     MICUL2
+tech-c:      MICUL2
+billing-c:   MICUL2
+nserver:     prioris.mincrj.gov.br 200.20.160.7 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20060808
+nserver:     guanabara.rederio.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20060829
+created:     19980806 #109080
+changed:     20130321
+status:      published
+
+nic-hdl-br:  MICUL2
+person:      Ministério da Cultura
+created:     20130321
+changed:     20150917
+
+

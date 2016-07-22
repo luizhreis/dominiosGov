@@ -1,0 +1,32 @@
+
+
+
+domain:      comiteamazonia.gov.br
+owner:       Superintedência de Denvolvimento da Amazônia
+responsible: Djalma Bezerra Mallo
+country:     BR
+owner-c:     GGS6
+admin-c:     GGS6
+tech-c:      GGS6
+billing-c:   ECS34
+nserver:     tapereba.genamaz.org.br  
+nsstat:      20160701 UH
+nslastaa:    20040113
+nserver:     coruja.ada.gov.br  
+nsstat:      20160701 ERR
+nslastaa:    20030827
+created:     20001024 #440868
+changed:     20021119
+status:      published
+
+nic-hdl-br:  ECS34
+person:      Evandro Carlos Rabêlo dos Santos
+created:     19990106
+changed:     19990106
+
+nic-hdl-br:  GGS6
+person:      Gilberto Gomes da Silveira
+created:     19980319
+changed:     20110330
+
+

@@ -1,0 +1,30 @@
+
+
+
+domain:      eafcol.gov.br
+owner:       Escola Agrotécnica Federal de Colatina
+responsible: José Ricardo Ferrari
+country:     BR
+owner-c:     JORFE42
+admin-c:     JORFE42
+tech-c:      JORFE42
+billing-c:   JORFE42
+nserver:     ns1.afraid.org  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.afraid.org  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.afraid.org  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20040317 #1572501
+changed:     20160219
+status:      published
+
+nic-hdl-br:  JORFE42
+person:      JOSE RICARDO FERRARI
+created:     20100722
+changed:     20100722
+
+

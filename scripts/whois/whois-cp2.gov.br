@@ -1,0 +1,27 @@
+
+
+
+domain:      cp2.gov.br
+owner:       Colégio Pedro II
+responsible: Joel Chagas Filho
+country:     BR
+owner-c:     MAAVA111
+admin-c:     MAAVA111
+tech-c:      MAAVA111
+billing-c:   MAAVA111
+nserver:     ns1.amt.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.amt.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20090710 #5737217
+changed:     20130308
+status:      published
+
+nic-hdl-br:  MAAVA111
+person:      Márcio Alessandro do Val
+created:     20120828
+changed:     20120828
+
+

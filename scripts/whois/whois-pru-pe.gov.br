@@ -1,0 +1,27 @@
+
+
+
+domain:      pru-pe.gov.br
+owner:       Advocacia Geral da União
+responsible: José Roberto Machado Farias
+country:     BR
+owner-c:     VNOFI2
+admin-c:     VNOFI2
+tech-c:      VNOFI2
+billing-c:   VNOFI2
+nserver:     ns1.pru-pe.gov.br 201.16.229.211 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20091109
+nserver:     ns2.pru-pe.gov.br 201.16.229.212 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20091109
+created:     20080519 #4464504
+changed:     20080519
+status:      published
+
+nic-hdl-br:  VNOFI2
+person:      Valdomiro N de Oliveira Filho
+created:     20080502
+changed:     20100614
+
+

@@ -1,0 +1,30 @@
+
+
+
+domain:      in.gov.br
+owner:       Imprensa Nacional/Presidência da República
+responsible: Gerência de Seg. da Inf. e Com. - GESIC
+country:     BR
+owner-c:     IMNAC
+admin-c:     IMNAC
+tech-c:      IMNAC
+billing-c:   IMNAC
+nserver:     sharon.in.gov.br 200.198.216.4 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     luiza.in.gov.br 187.72.169.5 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20150806
+nserver:     ketlen.in.gov.br 189.9.36.34 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20160305
+created:     19961120 #22790
+changed:     20150625
+status:      published
+
+nic-hdl-br:  IMNAC
+person:      IMPRENSA NACIONAL
+created:     20071126
+changed:     20160411
+
+

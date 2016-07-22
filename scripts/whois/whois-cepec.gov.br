@@ -1,0 +1,27 @@
+
+
+
+domain:      cepec.gov.br
+owner:       CEPLAC / CEPEC / NUCAD
+responsible: Uilson Lopes
+country:     BR
+owner-c:     RMS497
+admin-c:     RMS497
+tech-c:      RMS497
+billing-c:   RMS497
+nserver:     dns1.cepec.gov.br 200.229.81.114 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.cepec.gov.br 200.229.81.115 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19990524 #160998
+changed:     20160401
+status:      published
+
+nic-hdl-br:  RMS497
+person:      Raimundo Marques da Silva
+created:     20030617
+changed:     20160225
+
+

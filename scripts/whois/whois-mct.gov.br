@@ -1,0 +1,43 @@
+
+
+
+domain:      mct.gov.br
+owner:       Ministério da Ciência, Tecnologia e Inovação
+responsible: Jorge Antônio de Carvalho
+country:     BR
+owner-c:     REDOM95
+admin-c:     ADNMC
+tech-c:      PEMSC5
+billing-c:   ADNMC
+nserver:     planck.mct.gov.br 200.130.9.1 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20160628
+nserver:     pinguelli.mct.gov.br 200.130.9.60 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns.pop-mg.rnp.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20160428
+nserver:     server1.pop-df.rnp.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     before 19950101
+changed:     20160122
+status:      published
+
+nic-hdl-br:  ADNMC
+person:      Administrativo Nic MCTI
+created:     20121123
+changed:     20150603
+
+nic-hdl-br:  PEMSC5
+person:      Pedro Martins Schmitt
+created:     20130802
+changed:     20130802
+
+nic-hdl-br:  REDOM95
+person:      Registro de Dominios
+created:     20160125
+changed:     20160125
+
+

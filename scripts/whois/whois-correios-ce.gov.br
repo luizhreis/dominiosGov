@@ -1,0 +1,27 @@
+
+
+
+domain:      correios-ce.gov.br
+owner:       EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS
+responsible: Erick de Morais Martins
+country:     BR
+owner-c:     PPRNC
+admin-c:     PPRNC
+tech-c:      PPRNC
+billing-c:   PPRNC
+nserver:     ect-ce.correios-ce.gov.br 200.17.38.1 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20010323
+nserver:     ns.pop-ce.rnp.br  
+nsstat:      20160630 UH
+nslastaa:    20080814
+created:     19960207 #5293
+changed:     20131211
+status:      published
+
+nic-hdl-br:  PPRNC
+person:      Ponto de Presenca da RNP no Ceara
+created:     20131125
+changed:     20150511
+
+

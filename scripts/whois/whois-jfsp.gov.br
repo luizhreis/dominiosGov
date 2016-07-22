@@ -1,0 +1,32 @@
+
+
+
+domain:      jfsp.gov.br
+owner:       Justiça Federal de São Paulo
+responsible: Marcos Antonio de Aguiar
+country:     BR
+owner-c:     MAA53
+admin-c:     MAA53
+tech-c:      EDL196
+billing-c:   MAA53
+nserver:     dns-1.jfsp.gov.br 177.43.200.102 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns-2.jfsp.gov.br 177.43.200.103 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20010316 #526406
+changed:     20120517
+status:      published
+
+nic-hdl-br:  EDL196
+person:      Eduardo Luccas
+created:     20020227
+changed:     20120110
+
+nic-hdl-br:  MAA53
+person:      MARCOS ANTONIO DE AGUIAR
+created:     19980225
+changed:     20030519
+
+

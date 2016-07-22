@@ -1,0 +1,27 @@
+
+
+
+domain:      ancine.gov.br
+owner:       Agencia Nacional do Cinema
+responsible: Manoel Rangel
+country:     BR
+owner-c:     ANGTI
+admin-c:     ANGTI
+tech-c:      ANGTI
+billing-c:   ANGTI
+nserver:     dns1.ancine.gov.br 200.20.103.69 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns2.ancine.gov.br 200.20.103.70 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20020227 #739426
+changed:     20150528
+status:      published
+
+nic-hdl-br:  ANGTI
+person:      Ancine GTI
+created:     20100721
+changed:     20150528
+
+

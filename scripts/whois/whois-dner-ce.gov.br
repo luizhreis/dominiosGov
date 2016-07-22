@@ -1,0 +1,32 @@
+
+
+
+domain:      dner-ce.gov.br
+owner:       DNER - 03. DISTRITO RODOVIAVIO FEDERAL
+responsible: Ericio da Veiga Mota
+country:     BR
+owner-c:     TAR2
+admin-c:     TAR2
+tech-c:      ERC2
+billing-c:   ERC2
+nserver:     ns01.cashparking.com  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns02.cashparking.com  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19971112 #68934
+changed:     20150312
+status:      published
+
+nic-hdl-br:  ERC2
+person:      Emanuel Rocha Costa
+created:     19971222
+changed:     20140416
+
+nic-hdl-br:  TAR2
+person:      Tarcisio Rolim
+created:     19980504
+changed:     19980504
+
+

@@ -1,0 +1,43 @@
+
+
+
+domain:      rn.gov.br
+owner:       Governo do Estado do Rio Grande do Norte
+responsible: Teobaldo Adelino Dantas de Medeiros
+country:     BR
+owner-c:     SET35
+admin-c:     SRG89
+tech-c:      JCA6
+billing-c:   JCA6
+nserver:     ns1.rn.gov.br 200.141.128.20 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.rn.gov.br 200.141.128.16 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     centraldot.set.rn.gov.br 200.141.128.78 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.rn.gov.br 186.209.98.2 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19961015 #18916
+changed:     20120213
+status:      published
+
+nic-hdl-br:  JCA6
+person:      Júlio César de Araújo
+created:     19980114
+changed:     20120807
+
+nic-hdl-br:  SET35
+person:      Secretaria de Estado da Tributação
+created:     20000810
+changed:     20070509
+
+nic-hdl-br:  SRG89
+person:      Sergio Ramiro Rivero Guardia
+created:     20030409
+changed:     20030409
+
+

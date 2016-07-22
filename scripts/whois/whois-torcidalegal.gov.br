@@ -1,0 +1,33 @@
+
+
+
+domain:      torcidalegal.gov.br
+owner:       ME - Ministerio do Esporte
+responsible: Jose Dartalian Gomes Pinheiro
+country:     BR
+owner-c:     JDGPI
+admin-c:     JAA364
+tech-c:      JAA364
+billing-c:   JAA364
+nserver:     dns1.torcidalegal.gov.br 200.198.193.115 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.torcidalegal.gov.br 200.198.193.116 
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20110526 #8254264
+changed:     20110526
+status:      published
+
+nic-hdl-br:  JAA364
+person:      Jorge Antônio Lacerda de Andrade
+created:     20030908
+changed:     20160222
+
+nic-hdl-br:  JDGPI
+person:      José Dartalian Gomes Pinheiro
+created:     20160222
+changed:     20160222
+
+

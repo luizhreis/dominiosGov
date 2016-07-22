@@ -1,0 +1,33 @@
+
+
+
+domain:      ahimoc.gov.br
+owner:       Admin. das Hidrovias da Amazonia Ocidental
+responsible: Roberval Teixeira Ruiz
+country:     BR
+owner-c:     ADA238
+admin-c:     ADA238
+tech-c:      AIP6
+billing-c:   ADA238
+nserver:     hs5.argo.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20150919
+nserver:     hs0.argo.com.br  
+nsstat:      20160701 UDN
+nslastaa:    20150919
+saci:        yes
+created:     20120118 #9338399
+changed:     20120320
+status:      published
+
+nic-hdl-br:  ADA238
+person:      ADMINISTRACAO DAS HIDROVIAS DA AMAZONIA
+created:     20030929
+changed:     20090722
+
+nic-hdl-br:  AIP6
+person:      Argo Internet Provider
+created:     19980119
+changed:     20110317
+
+

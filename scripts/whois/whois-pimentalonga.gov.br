@@ -1,0 +1,32 @@
+
+
+
+domain:      pimentalonga.gov.br
+owner:       Embrapa - Acre
+responsible: Judson Ferreira Valentim
+country:     BR
+owner-c:     REVTE3
+admin-c:     LCS36
+tech-c:      LCS36
+billing-c:   LCS36
+nserver:     ns1.zazterra.com.br  
+nsstat:      20160701 UH
+nslastaa:    20010806
+nserver:     ns2.zazterra.com.br  
+nsstat:      20160701 UH
+nslastaa:    20010806
+created:     20001025 #449661
+changed:     20001127
+status:      published
+
+nic-hdl-br:  LCS36
+person:      Alexandre F. Luvizuto
+created:     19980730
+changed:     20070405
+
+nic-hdl-br:  REVTE3
+person:      Rede Virtual de Tecnologia
+created:     20121002
+changed:     20121219
+
+

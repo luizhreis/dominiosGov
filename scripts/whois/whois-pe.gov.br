@@ -1,0 +1,32 @@
+
+
+
+domain:      pe.gov.br
+owner:       AGENCIA ESTADUAL DE TECNOLOGIA DA INFORMACAO - ATI
+responsible: AGENCIA ESTADUAL DE TECNOLOGIA DA INFORM
+country:     BR
+owner-c:     AETIN
+admin-c:     EFP21
+tech-c:      EFP21
+billing-c:   EFP21
+nserver:     ns1.pe.gov.br 200.238.99.253 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.pe.gov.br 200.238.99.254 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960710 #11446
+changed:     20070208
+status:      published
+
+nic-hdl-br:  AETIN
+person:      AGENCIA ESTADUAL DE TECNOLOGIA DA INFORM
+created:     20091216
+changed:     20140227
+
+nic-hdl-br:  EFP21
+person:      Empresa de Fomento da Informatica PE
+created:     20000822
+changed:     20061110
+
+

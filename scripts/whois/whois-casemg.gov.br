@@ -1,0 +1,39 @@
+
+
+
+domain:      casemg.gov.br
+owner:       Cia. de Armazéns e Silos do Estado de Minas Gerais
+responsible: Janes Mara Rocha
+country:     BR
+owner-c:     GEFAM
+admin-c:     GEFAM
+tech-c:      DNA4
+billing-c:   GEFAM
+nserver:     dns1.emc.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns2.emc.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns3.emc.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns4.emc.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20130717 #11729523
+changed:     20151127
+status:      published
+
+nic-hdl-br:  DNA4
+person:      DNS Admin
+created:     20000410
+changed:     20160104
+
+nic-hdl-br:  GEFAM
+person:      Geovani Fonseca Amaral
+created:     20071106
+changed:     20140710
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      dfa-ba.gov.br
+owner:       Ministério da Agricultura e do Abastecimento
+responsible: Dr. Delegado Marcos Cidre
+country:     BR
+owner-c:     PAU
+admin-c:     PAU
+tech-c:      PAU
+billing-c:   PAU
+nserver:     gamblers.cdl.com.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20090712
+nserver:     ns2.cdl.com.br  
+nsstat:      20160630 CNAME
+nslastaa:    20081026
+created:     19980925 #118491
+changed:     19980925
+status:      published
+
+nic-hdl-br:  PAU
+person:      Paulo Ungar
+created:     19971218
+changed:     20070716
+
+

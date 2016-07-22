@@ -1,0 +1,32 @@
+
+
+
+domain:      embratur.gov.br
+owner:       Ministério do Turismo
+responsible: Sumaid Andrade de Albuquerque
+country:     BR
+owner-c:     SUAAL3
+admin-c:     LUCBA85
+tech-c:      LUCBA85
+billing-c:   LUCBA85
+nserver:     ns1.embratur.gov.br 177.15.136.35 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.embratur.gov.br 200.198.202.4 
+nsstat:      20160701 NOT SYNC ZONE
+nslastaa:    20160701
+created:     19950626
+changed:     20160415
+status:      published
+
+nic-hdl-br:  LUCBA85
+person:      Luiz Carlos Batista
+created:     20101229
+changed:     20140417
+
+nic-hdl-br:  SUAAL3
+person:      Sumaid Andrade de Albuquerque
+created:     20071206
+changed:     20140527
+
+

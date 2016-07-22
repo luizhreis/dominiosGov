@@ -1,0 +1,44 @@
+
+
+
+domain:      cauma.gov.br
+owner:       Conselho de Arquitetura e Urbanismo do Brasil
+responsible: HAROLDO PINHEIRO VILLAR DE QUEIROZ
+country:     BR
+owner-c:     MICLO17
+admin-c:     MICLO17
+tech-c:      SCITI
+billing-c:   SCFIN
+nserver:     ns-1822.awsdns-35.co.uk  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-1441.awsdns-52.org  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-685.awsdns-21.net  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-103.awsdns-12.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20120706 #10046002
+changed:     20150429
+status:      published
+
+nic-hdl-br:  MICLO17
+person:      Mirna C.Lobo
+created:     20120328
+changed:     20140605
+
+nic-hdl-br:  SCFIN
+person:      Scytl Financeiro
+created:     20140710
+changed:     20140710
+
+nic-hdl-br:  SCITI
+person:      Scytl Infraestrutura de TI
+created:     20140710
+changed:     20150303
+
+

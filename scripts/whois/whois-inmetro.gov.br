@@ -1,0 +1,35 @@
+
+
+
+domain:      inmetro.gov.br
+owner:       INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECN
+responsible: Sandra Aparecida Dias
+country:     BR
+owner-c:     SAADI5
+admin-c:     SAADI5
+tech-c:      LFL
+billing-c:   SAADI5
+nserver:     rdnsext01s.inmetro.gov.br 200.20.212.60 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     guanabara.rederio.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     rdnsext02s.inmetro.gov.br 200.20.205.75 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19960416 #6763
+changed:     20151116
+status:      published
+
+nic-hdl-br:  LFL
+person:      Luiz Fernando Lima
+created:     19971218
+changed:     20100326
+
+nic-hdl-br:  SAADI5
+person:      Sandra A. Dias
+created:     20091221
+changed:     20111011
+
+

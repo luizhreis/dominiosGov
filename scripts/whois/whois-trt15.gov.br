@@ -1,0 +1,27 @@
+
+
+
+domain:      trt15.gov.br
+owner:       Tribunal Regional do Trabalho da 15ª Região
+responsible: Diretoria de Informática
+country:     BR
+owner-c:     COITI
+admin-c:     COITI
+tech-c:      COITI
+billing-c:   COITI
+nserver:     ns01.trt15.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns02.trt15.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960715 #11736
+changed:     20150406
+status:      published
+
+nic-hdl-br:  COITI
+person:      Coordenadoria de Infraestrutura de TIC
+created:     20140819
+changed:     20140819
+
+

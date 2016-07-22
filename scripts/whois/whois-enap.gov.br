@@ -1,0 +1,36 @@
+
+
+
+domain:      enap.gov.br
+owner:       Escola Nacional de Administração Pública - ENAP
+responsible: Coordenação-Geral de TI
+country:     BR
+owner-c:     ENAPU
+admin-c:     ENAPU
+tech-c:      ENAPU
+billing-c:   ENAPU
+nserver:     ns1.enap.gov.br 189.9.23.52 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.enap.gov.br 189.9.23.53 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.enap.gov.br 200.130.16.11 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns4.enap.gov.br 200.130.16.12 
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    61927 RSA/SHA-1 9CE4D0069E6193815A16EC5B3CE21B7DD0D2DDAC
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     19970910 #56937
+changed:     20160405
+status:      published
+
+nic-hdl-br:  ENAPU
+person:      Escola Nacional de Administração Pública
+created:     20140429
+changed:     20150311
+
+

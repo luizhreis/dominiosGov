@@ -1,0 +1,38 @@
+
+
+
+domain:      maisambiente.gov.br
+owner:       INSTITUTO BRASILEIRO DO MEIO AMBIENTE
+responsible: Jose Ximenes de Mesquita
+country:     BR
+owner-c:     JXM
+admin-c:     JXM
+tech-c:      AJA4
+billing-c:   NEGRE8
+nserver:     ns.embratel.net.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.embratel.net.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20110928 #8786862
+changed:     20110928
+status:      published
+
+nic-hdl-br:  AJA4
+person:      Andries Jan Algera
+created:     19980127
+changed:     20060203
+
+nic-hdl-br:  JXM
+person:      José Ximenes de Mesquita
+created:     19980129
+changed:     20110902
+
+nic-hdl-br:  NEGRE8
+person:      Nelson Gonçalves Rezende
+created:     20110901
+changed:     20110901
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      documenta.gov.br
+owner:       FUNDACAO BIBLIOTECA NACIONAL
+responsible: Galeno Amorim
+country:     BR
+owner-c:     GGCJU6
+admin-c:     GGCJU6
+tech-c:      LACAJ
+billing-c:   GGCJU6
+nserver:     ns1.documenta.gov.br 200.9.175.53 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.documenta.gov.br 200.9.175.153 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20030703 #1255106
+changed:     20160418
+status:      published
+
+nic-hdl-br:  GGCJU6
+person:      Geraldo Gonçalves Chaves Junior
+created:     20130110
+changed:     20130110
+
+nic-hdl-br:  LACAJ
+person:      Luiz Antonio C. Alves Jr.
+created:     20080507
+changed:     20130110
+
+

@@ -1,0 +1,46 @@
+
+
+
+domain:      serpro.gov.br
+owner:       SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO
+responsible: Alexandre dos Santos Ferreira
+country:     BR
+owner-c:     ADSFE47
+admin-c:     ADSFE47
+tech-c:      MRV103
+billing-c:   WEQLI
+nserver:     antares.serpro.gov.br 161.148.1.8 2804:150:0:204::11
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     trifid.serpro.gov.br 161.148.25.38 2804:150:0:2::17
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     centauro.serpro.gov.br 189.9.128.19 2804:150:c000:204::11
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     canisvenatici.serpro.gov.br 200.198.224.33 2804:150:e000:200::11
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     andromeda.serpro.gov.br 200.198.205.242 2804:150:10:2::2
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     before 19950101
+changed:     20150706
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+nic-hdl-br:  WEQLI
+person:      WELDSON QUEIROZ DE LIMA
+created:     20100218
+changed:     20160204
+
+

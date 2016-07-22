@@ -1,0 +1,40 @@
+
+
+
+domain:      premioconservacaoenergia.gov.br
+owner:       CENTRAIS ELETRICAS BRASILEIRAS SA
+responsible: Paulo Roberto Mandarino
+country:     BR
+owner-c:     JMMSA2
+admin-c:     JMMSA2
+tech-c:      VABSI7
+billing-c:   KAKLE2
+nserver:     dns1.eletrobras.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns2.eletrobras.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns-rj-2.mundivox.com  
+nsstat:      20160629 QREFUSED
+nslastaa:    20130423
+created:     20090324 #5379045
+changed:     20130415
+status:      published
+
+nic-hdl-br:  JMMSA2
+person:      Jane Maria Melo Santos
+created:     20090316
+changed:     20090316
+
+nic-hdl-br:  KAKLE2
+person:      Karla K. Lepetitgaland
+created:     20090318
+changed:     20090318
+
+nic-hdl-br:  VABSI7
+person:      Vanessa Barbosa e Silva
+created:     20071004
+changed:     20071004
+
+

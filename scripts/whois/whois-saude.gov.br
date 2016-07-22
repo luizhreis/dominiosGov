@@ -1,0 +1,38 @@
+
+
+
+domain:      saude.gov.br
+owner:       MINISTERIO DA SAUDE
+responsible: Dep. de Informática do SUS - DATASUS
+country:     BR
+owner-c:     ARC452
+admin-c:     ARC452
+tech-c:      MAVTO30
+billing-c:   ARC452
+nserver:     trty89.saude.gov.br 200.214.130.65 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     trty88.saude.gov.br 200.214.130.67 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     mambucaba.datasus.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     piratininga.datasus.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960804 #13340
+changed:     20160606
+status:      published
+
+nic-hdl-br:  ARC452
+person:      Administração da Rede Coorporativa
+created:     20040616
+changed:     20160408
+
+nic-hdl-br:  MAVTO30
+person:      Magno Vieira Tobias
+created:     20121107
+changed:     20160408
+
+

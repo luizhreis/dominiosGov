@@ -1,0 +1,36 @@
+
+
+
+domain:      infra-estruturabrasil.gov.br
+owner:       Ministerio do Planejamento, Orcamento e Gestao
+responsible: Eduardo Cesar Soares Gomes
+country:     BR
+owner-c:     CGSTM2
+admin-c:     CGSTM2
+tech-c:      CGSTM2
+billing-c:   CGSTM2
+nserver:     antares.serpro.gov.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20101005
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20101005
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20101005
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20101005
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20101005
+created:     20000901 #417422
+changed:     20140122
+status:      published
+
+nic-hdl-br:  CGSTM2
+person:      COORDENAÇÃO GERAL DE SERVIÇOS DE TI - MP
+created:     20140122
+changed:     20150924
+
+

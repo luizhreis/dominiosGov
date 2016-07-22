@@ -1,0 +1,27 @@
+
+
+
+domain:      inmetro-es.gov.br
+owner:       Inst. Nac. Metrol., Normal. e Qual. Ind. Repr. ES
+responsible: Antonio Nascimento Santos Júnior
+country:     BR
+owner-c:     INN12
+admin-c:     INN12
+tech-c:      INN12
+billing-c:   INN12
+nserver:     ns01.inmetro-es.gov.br 200.137.76.2 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20151028
+nserver:     ns.ipem.es.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20151028
+created:     19981118 #123973
+changed:     20070411
+status:      published
+
+nic-hdl-br:  INN12
+person:      INMETRO Agencia no estado do ES
+created:     20010522
+changed:     20030702
+
+

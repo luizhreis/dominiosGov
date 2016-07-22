@@ -1,0 +1,30 @@
+
+
+
+domain:      plenarinho.gov.br
+owner:       Camara dos Deputados
+responsible: Guilherme Brügger Damato
+country:     BR
+owner-c:     SSG50
+admin-c:     SSG50
+tech-c:      SSG50
+billing-c:   SSG50
+nserver:     hypatia.camara.leg.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     melissa.camara.leg.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    57640 RSA/SHA-256 EAC77A96DE2B1E57D902EB7D68A2868C2F88E130
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     20030922 #1342021
+changed:     20150611
+status:      published
+
+nic-hdl-br:  SSG50
+person:      S S G
+created:     20040402
+changed:     20140422
+
+

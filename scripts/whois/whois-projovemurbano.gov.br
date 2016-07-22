@@ -1,0 +1,30 @@
+
+
+
+domain:      projovemurbano.gov.br
+owner:       Secretaria Nacional da Juventude
+responsible: Maria José Vieira Feres
+country:     BR
+owner-c:     CPPAV
+admin-c:     CPPAV
+tech-c:      CPPAV
+billing-c:   CPPAV
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20080814 #4751512
+changed:     20150608
+status:      published
+
+nic-hdl-br:  CPPAV
+person:      Centro de Políticas Públicas e Avaliação
+created:     20080806
+changed:     20080806
+
+

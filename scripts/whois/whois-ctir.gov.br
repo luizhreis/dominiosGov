@@ -1,0 +1,35 @@
+
+
+
+domain:      ctir.gov.br
+owner:       PRESIDENCIA DA REPUBLICA
+responsible: Secretaria de Administração
+country:     BR
+owner-c:     MAR79
+admin-c:     GCTGS
+tech-c:      GCTGS
+billing-c:   GCTGS
+nserver:     luminol.ctir.gov.br 200.160.7.164 2001:12ff:0:7::164
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     boq.cert.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    57367 RSA/SHA-1 CE7A7791A963CFD79E4800D8F6238FB4FE8E9F75
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     20041217 #1940214
+changed:     20130222
+status:      published
+
+nic-hdl-br:  GCTGS
+person:      Grupo de Coordenação de TI do GSIPR
+created:     20100826
+changed:     20110617
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+

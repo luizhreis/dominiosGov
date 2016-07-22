@@ -1,0 +1,32 @@
+
+
+
+domain:      sudene.gov.br
+owner:       SUPERINTENDENCIA DO DESENVOLVIMENTO DO NORDESTE -
+responsible: Josué da Silva Ribeiro
+country:     BR
+owner-c:     EDS21
+admin-c:     EDS21
+tech-c:      MRAGA3
+billing-c:   EDS21
+nserver:     ns1.sudene.gov.br 177.38.32.101 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.sudene.gov.br 177.38.32.110 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     before 19950101
+changed:     20151124
+status:      published
+
+nic-hdl-br:  EDS21
+person:      Eduardo Doria Silva
+created:     19980320
+changed:     20120606
+
+nic-hdl-br:  MRAGA3
+person:      Márcio Ricardo Alves Gadelha de Araújo
+created:     20110928
+changed:     20151124
+
+

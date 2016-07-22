@@ -1,0 +1,32 @@
+
+
+
+domain:      cenad.gov.br
+owner:       MINISTERIO DA INTEGRACAO NACIONAL
+responsible: Flavio Ferreira dos Santos
+country:     BR
+owner-c:     ADSFE47
+admin-c:     ADSFE47
+tech-c:      ADSFE47
+billing-c:   FFDSA72
+nserver:     ns1.cenad.gov.br 200.198.213.82 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.cenad.gov.br 200.198.213.83 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20060328 #2687107
+changed:     20150608
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  FFDSA72
+person:      Flavio Ferreira dos Santos
+created:     20110628
+changed:     20110628
+
+

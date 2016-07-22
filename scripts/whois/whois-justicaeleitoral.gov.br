@@ -1,0 +1,32 @@
+
+
+
+domain:      justicaeleitoral.gov.br
+owner:       Tribunal Superior Eleitoral
+responsible: Daniel Carlos Lima Corrêa
+country:     BR
+owner-c:     DCC
+admin-c:     DCC
+tech-c:      DCC
+billing-c:   WOS3
+nserver:     sauron.tse.jus.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     saruman.tse.jus.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20010801 #614308
+changed:     20150203
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  WOS3
+person:      Wander Oliveira Sobral
+created:     19980202
+changed:     19980202
+
+

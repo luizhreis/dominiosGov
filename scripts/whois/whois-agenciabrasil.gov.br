@@ -1,0 +1,27 @@
+
+
+
+domain:      agenciabrasil.gov.br
+owner:       EMPRESA BRASIL DE COMUNICACAO S.A. - EBC
+responsible: Ricardo Fontes
+country:     BR
+owner-c:     RSM9
+admin-c:     RSM9
+tech-c:      RSM9
+billing-c:   RSM9
+nserver:     ns1.radiobras.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.radiobras.gov.br  
+nsstat:      20160701 NOT SYNC ZONE
+nslastaa:    20160701
+created:     20000717 #369745
+changed:     20090401
+status:      published
+
+nic-hdl-br:  RSM9
+person:      José Wilson Barbosa Souto
+created:     19980310
+changed:     20140417
+
+

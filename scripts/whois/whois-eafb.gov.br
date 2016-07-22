@@ -1,0 +1,32 @@
+
+
+
+domain:      eafb.gov.br
+owner:       ESCOLA AGROTECNICA FEDERAL DE BARREIROS-PE
+responsible: JORGE NASCIMENTO DE CARVALHO
+country:     BR
+owner-c:     MDG45
+admin-c:     MDG45
+tech-c:      JABLJ2
+billing-c:   MDG45
+nserver:     rnp2.eafb.gov.br 200.133.8.4 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20130711
+nserver:     rnp1.eafb.gov.br 200.133.8.3 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20120321
+created:     20011019 #656702
+changed:     20140422
+status:      published
+
+nic-hdl-br:  JABLJ2
+person:      JOSE ABENILDO BEZERRA LIMA JUNIOR
+created:     20140422
+changed:     20140422
+
+nic-hdl-br:  MDG45
+person:      Marconi dos Santos Gois
+created:     20021128
+changed:     20120711
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      comunidadenegra.gov.br
+owner:       Casa Civil
+responsible: Fernanda dos Santos Rodrigues
+country:     BR
+owner-c:     ARC397
+admin-c:     ARC397
+tech-c:      ARC397
+billing-c:   ARC397
+nserver:     dns1e.sp.gov.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20100315
+nserver:     dns2e.sp.gov.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20100315
+created:     20000712 #366436
+changed:     20040825
+status:      published
+
+nic-hdl-br:  ARC397
+person:      Arno Costa
+created:     20031120
+changed:     20031120
+
+

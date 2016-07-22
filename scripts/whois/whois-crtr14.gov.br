@@ -1,0 +1,31 @@
+
+
+
+domain:      crtr14.gov.br
+owner:       CONSELHO REGIONAL DE TÉCNICO EM RADIOLOGIA 14ª REG
+responsible: Valtenis Aguiar Melo
+country:     BR
+owner-c:     VAM424
+admin-c:     VAM424
+tech-c:      VAM424
+billing-c:   VAM424
+nserver:     ns1.dominios.uol.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.dominios.uol.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.dominios.uol.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20150320 #13952375
+changed:     20150320
+status:      published
+
+nic-hdl-br:  VAM424
+person:      VALTENIS AGUIAR MELO
+created:     20060131
+changed:     20131119
+
+

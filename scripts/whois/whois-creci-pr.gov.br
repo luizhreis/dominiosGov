@@ -1,0 +1,27 @@
+
+
+
+domain:      creci-pr.gov.br
+owner:       CRECI-PR ORGANIZACAO DE CORRETORES DE IMOV=
+responsible: Alfredo Garcia Canezin
+country:     BR
+owner-c:     GPD21
+admin-c:     GPD21
+tech-c:      GPD21
+billing-c:   GPD21
+nserver:     master.garlix.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     slave.garlix.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20080429 #4386338
+changed:     20140523
+status:      published
+
+nic-hdl-br:  GPD21
+person:      Garlix Processamento de Dados
+created:     20041019
+changed:     20140915
+
+

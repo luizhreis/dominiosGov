@@ -1,0 +1,37 @@
+
+
+
+domain:      ana.gov.br
+owner:       Agência Nacional de Águas
+responsible: Allan Nagem Soares
+country:     BR
+owner-c:     ANS308
+admin-c:     ROTFI
+tech-c:      ROTFI
+billing-c:   SAA11
+nserver:     ns1.ana.gov.br 177.69.158.130 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.ana.gov.br 177.69.158.131 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20010320 #530908
+changed:     20121019
+status:      published
+
+nic-hdl-br:  ANS308
+person:      Allan Nagem Soares
+created:     20010917
+changed:     20140127
+
+nic-hdl-br:  ROTFI
+person:      Roque T Filho
+created:     20071217
+changed:     20151208
+
+nic-hdl-br:  SAA11
+person:      Sandro Araújo
+created:     19980316
+changed:     20160621
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      ba.gov.br
+owner:       Cia. de Processamento de Dados do Estado da Bahia
+responsible: Luiz Eduardo de Oliveira Siqueira
+country:     BR
+owner-c:     LEOSI20
+admin-c:     LEOSI20
+tech-c:      MRM11
+billing-c:   LEOSI20
+nserver:     cpu0034.ba.gov.br 200.187.60.34 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     cpu0020.prodeb.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19951227 #4932
+changed:     20150910
+status:      published
+
+nic-hdl-br:  LEOSI20
+person:      Luiz Eduardo de Oliveira Siqueira
+created:     20090514
+changed:     20140528
+
+nic-hdl-br:  MRM11
+person:      Mauricio Reis Matos
+created:     19980512
+changed:     20151008
+
+

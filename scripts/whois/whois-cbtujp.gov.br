@@ -1,0 +1,32 @@
+
+
+
+domain:      cbtujp.gov.br
+owner:       Companhia Brasileira de Trens Urbanos
+responsible: Alan Jorge Markus
+country:     BR
+owner-c:     GOD
+admin-c:     GOD
+tech-c:      GOD
+billing-c:   NSL79
+nserver:     ns.netwaybbs.com.br  
+nsstat:      20160629 UH
+nslastaa:    20021003
+nserver:     ns1.netwaybbs.com.br  
+nsstat:      20160629 UH
+nslastaa:    20021003
+created:     20000927 #430223
+changed:     20010618
+status:      published
+
+nic-hdl-br:  GOD
+person:      Netway Serviços de Informática Ltda.
+created:     19990910
+changed:     20120227
+
+nic-hdl-br:  NSL79
+person:      Netway Serviços de Informatica Ltda.
+created:     20010618
+changed:     20020828
+
+

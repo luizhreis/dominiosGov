@@ -1,0 +1,28 @@
+
+
+
+domain:      inovaif.gov.br
+owner:       Instituto Federal de Educação, Ciências e Tecnolog
+responsible: Wilson Conciani
+country:     BR
+owner-c:     INFBR6
+admin-c:     INFBR6
+tech-c:      INFBR6
+billing-c:   INFBR6
+nserver:     cali.inovaif.gov.br 200.130.64.2 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     maracaibo.inovaif.gov.br 200.130.64.3 
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20150424 #13997050
+changed:     20150424
+status:      published
+
+nic-hdl-br:  INFBR6
+person:      Instituto Federal de Brasília
+created:     20111215
+changed:     20150209
+
+

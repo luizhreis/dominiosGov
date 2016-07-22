@@ -1,0 +1,38 @@
+
+
+
+domain:      fnde.gov.br
+owner:       FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO
+responsible: ANTONIO IDILVAN DE LIMA ALENCAR
+country:     BR
+owner-c:     FNDED3
+admin-c:     FNDED3
+tech-c:      FNDED4
+billing-c:   FNDED3
+nserver:     parana01.fnde.gov.br 200.130.5.250 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     parana02.fnde.gov.br 200.130.5.251 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     parana03.fnde.gov.br 200.130.15.116 
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    55561 RSA/SHA-1 62A67D1744FFC535B6A966BB0926EA1B02812B9D
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     19981117 #124561
+changed:     20160224
+status:      published
+
+nic-hdl-br:  FNDED3
+person:      Fundo Nacional de Desenvolvimento da Edu
+created:     20160217
+changed:     20160217
+
+nic-hdl-br:  FNDED4
+person:      Fundo Nacional de Desenvolvimento da Edu
+created:     20160224
+changed:     20160224
+
+

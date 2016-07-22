@@ -1,0 +1,35 @@
+
+
+
+domain:      fundaj.gov.br
+owner:       FUNDACAO JOAQUIM NABUCO
+responsible: Adriana Dourado Martins
+country:     BR
+owner-c:     ADM429
+admin-c:     ADM429
+tech-c:      JSM16
+billing-c:   ADM429
+nserver:     fjncf.fundaj.gov.br 200.17.132.2 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     torre.pop-pe.rnp.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     fjnap.fundaj.gov.br 200.17.132.66 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19950630
+changed:     20150131
+status:      published
+
+nic-hdl-br:  ADM429
+person:      Adriana Dourado Martins
+created:     20040406
+changed:     20140409
+
+nic-hdl-br:  JSM16
+person:      Jan Souto Maior
+created:     19990311
+changed:     20150219
+
+

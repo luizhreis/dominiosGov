@@ -1,0 +1,38 @@
+
+
+
+domain:      funpresp.gov.br
+owner:       FUNDAÇÃO PREVIDÊNCIA COMPLEMENTAR SERVIDOR PUBLICO
+responsible: RICARDO PENA PINHEIRO
+country:     BR
+owner-c:     MAACR88
+admin-c:     ELBCH
+tech-c:      DDT10
+billing-c:   ELBCH
+nserver:     dere-01.dataprev.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dere-02.dataprev.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20130905 #11875493
+changed:     20160411
+status:      published
+
+nic-hdl-br:  DDT10
+person:      DERE.O - DIGR.O - TÉCNICO
+created:     20041119
+changed:     20150817
+
+nic-hdl-br:  ELBCH
+person:      Eber Luis Barbosa Cherulli
+created:     20070801
+changed:     20160328
+
+nic-hdl-br:  MAACR88
+person:      Marco Aurélio Alves da Cruz
+created:     20130528
+changed:     20130528
+
+

@@ -1,0 +1,31 @@
+
+
+
+domain:      p2r2.gov.br
+owner:       MINISTERIO DO MEIO AMBIENTE
+responsible: Coord Geral de Tec. da Informação e Info
+country:     BR
+owner-c:     MMR
+admin-c:     MMR
+tech-c:      MMR
+billing-c:   MMR
+nserver:     ns1.p2r2.gov.br 200.198.242.66 2804:150:11:d602::5
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.p2r2.gov.br 200.198.242.69 2804:150:11:d602::6
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    18048 RSA/SHA-1 55CDFFF9B4FA0D9F461DB6115414F7D4C76C735D
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+saci:        yes
+created:     20101104 #7525532
+changed:     20160411
+status:      published
+
+nic-hdl-br:  MMR
+person:      Ministério do Meio Ambiente
+created:     19980109
+changed:     20151014
+
+

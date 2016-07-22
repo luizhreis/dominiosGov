@@ -1,0 +1,42 @@
+
+
+
+domain:      snirh.gov.br
+owner:       Agência Nacional de Águas
+responsible: Allan Nagem Soares
+country:     BR
+owner-c:     ANS308
+admin-c:     ROTFI
+tech-c:      SNINF
+billing-c:   MCRCO10
+nserver:     ns1.ana.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     ns2.ana.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+created:     19991026 #213127
+changed:     20140128
+status:      published
+
+nic-hdl-br:  ANS308
+person:      Allan Nagem Soares
+created:     20010917
+changed:     20140127
+
+nic-hdl-br:  MCRCO10
+person:      Maurício Cezar R. Cordeiro
+created:     20100915
+changed:     20100915
+
+nic-hdl-br:  ROTFI
+person:      Roque T Filho
+created:     20071217
+changed:     20151208
+
+nic-hdl-br:  SNINF
+person:      snirh infra
+created:     20120903
+changed:     20120903
+
+

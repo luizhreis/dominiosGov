@@ -1,0 +1,27 @@
+
+
+
+domain:      prt4.gov.br
+owner:       Procuradoria Regional do Trabalho - 4º Regiao
+responsible: Elizabeth Leite Vaccaro
+country:     BR
+owner-c:     ALMKO
+admin-c:     ALMKO
+tech-c:      ALMKO
+billing-c:   ALMKO
+nserver:     ns2.terraempresas.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20111120
+nserver:     ns3.terraempresas.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20111120
+created:     20001215 #480574
+changed:     20061124
+status:      published
+
+nic-hdl-br:  ALMKO
+person:      Alexandre Mota Köbe
+created:     20061122
+changed:     20061122
+
+

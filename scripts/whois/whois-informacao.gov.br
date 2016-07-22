@@ -1,0 +1,38 @@
+
+
+
+domain:      informacao.gov.br
+owner:       CONTROLADORIA-GERAL DA UNIÃO
+responsible: ANTONIO MAROYSIO DOS SANTOS
+country:     BR
+owner-c:     AMDSC29
+admin-c:     AMDSC29
+tech-c:      VDMLI12
+billing-c:   GUMSO21
+nserver:     ns1.cgu.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.cgu.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20140408 #12773610
+changed:     20160415
+status:      published
+
+nic-hdl-br:  AMDSC29
+person:      ANTONIO MAROYSIO DOS SANTOS CARNEIRO
+created:     20160108
+changed:     20160108
+
+nic-hdl-br:  GUMSO21
+person:      Gustavo Moura de Sousa
+created:     20110812
+changed:     20151209
+
+nic-hdl-br:  VDMLI12
+person:      VICTOR DIEGO MEDEIROS LINO
+created:     20121205
+changed:     20160520
+
+

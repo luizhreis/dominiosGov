@@ -1,0 +1,27 @@
+
+
+
+domain:      mercadopublico.gov.br
+owner:       Ministerio do Planejamento, Orcamento e Gestao
+responsible: Eduardo Cesar Soares Gomes
+country:     BR
+owner-c:     CGSTM2
+admin-c:     CGSTM2
+tech-c:      CGSTM2
+billing-c:   CGSTM2
+nserver:     ns1.mercadopublico.gov.br 177.15.80.131 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.mercadopublico.gov.br 177.15.80.138 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20150814
+created:     20080415 #4382710
+changed:     20150706
+status:      published
+
+nic-hdl-br:  CGSTM2
+person:      COORDENAÇÃO GERAL DE SERVIÇOS DE TI - MP
+created:     20140122
+changed:     20150924
+
+

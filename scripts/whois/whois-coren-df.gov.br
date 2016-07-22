@@ -1,0 +1,28 @@
+
+
+
+domain:      coren-df.gov.br
+owner:       CONSELHO REGIONAL DE ENFERMAGEM DO DF
+responsible: Gilney Guerra de Medeiros
+country:     BR
+owner-c:     COEDF2
+admin-c:     COEDF2
+tech-c:      COEDF2
+billing-c:   COEDF2
+nserver:     ns1.penso.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.penso.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20110224 #7970211
+changed:     20141023
+status:      published
+
+nic-hdl-br:  COEDF2
+person:      Conselho de Enfermagem do DF
+created:     20131025
+changed:     20131025
+
+

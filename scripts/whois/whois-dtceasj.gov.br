@@ -1,0 +1,30 @@
+
+
+
+domain:      dtceasj.gov.br
+owner:       Comando da Aeronautica - SRPV-SP
+responsible: Coronel Sanches
+country:     BR
+owner-c:     SRS330
+admin-c:     SRS330
+tech-c:      SRS330
+billing-c:   SRS330
+nserver:     ns1.srpvsp.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.srpvsp.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    5257 RSA/SHA-1 BF222D11C630128E51666C9C2DFF3BEFCCF1FDBE
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     20090930 #5995680
+changed:     20151001
+status:      published
+
+nic-hdl-br:  SRS330
+person:      servico regional de protecao ao voo sp
+created:     20040316
+changed:     20160518
+
+

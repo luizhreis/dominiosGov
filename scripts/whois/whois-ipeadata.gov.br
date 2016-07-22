@@ -1,0 +1,30 @@
+
+
+
+domain:      ipeadata.gov.br
+owner:       IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA
+responsible: MOISÉS HENRIQUE CASTRO DA SILVA
+country:     BR
+owner-c:     MHS92
+admin-c:     MHS92
+tech-c:      MHS92
+billing-c:   MHS92
+nserver:     ns1.ipea.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.ipea.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    8821 RSA/SHA-256 BAF8B5D7A53C06A6939547CAA7D0A04E4F646B43
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     20000225 #268063
+changed:     20160420
+status:      published
+
+nic-hdl-br:  MHS92
+person:      Moises Henrique Castro da Silva
+created:     20011220
+changed:     20121121
+
+

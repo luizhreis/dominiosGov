@@ -1,0 +1,32 @@
+
+
+
+domain:      e-jud.gov.br
+owner:       SUPERIOR TRIBUNAL DE JUSTICA
+responsible: Danilo Ribeiro Confessor
+country:     BR
+owner-c:     DARCO34
+admin-c:     DARCO34
+tech-c:      FKPSI2
+billing-c:   DARCO34
+nserver:     ns1.e-jud.gov.br 200.24.10.52 
+nsstat:      20160701 CREFUSED
+nslastaa:    20160207
+nserver:     ns2.e-jud.gov.br 189.125.176.215 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20151108
+created:     20040511 #1607240
+changed:     20151103
+status:      published
+
+nic-hdl-br:  DARCO34
+person:      Danilo Ribeiro Confessor
+created:     20100909
+changed:     20160420
+
+nic-hdl-br:  FKPSI2
+person:      Fernanda Klarmann Porto Silva
+created:     20110131
+changed:     20110131
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      ruralminas.gov.br
+owner:       Fundação Rural Mineira - Ruralminas
+responsible: Vander Policarpo Moreira
+country:     BR
+owner-c:     FTC41
+admin-c:     FTC41
+tech-c:      FTC41
+billing-c:   FTC41
+nserver:     ns.ruralminas.gov.br 200.198.42.146 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20111228
+nserver:     ns1.plusmail.com.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20100831
+created:     19980219 #86393
+changed:     20090219
+status:      published
+
+nic-hdl-br:  FTC41
+person:      Fernanda Teixeira Charbel
+created:     20021212
+changed:     20090216
+
+

@@ -1,0 +1,31 @@
+
+
+
+domain:      prplanalto.gov.br
+owner:       PRESIDENCIA DA REPUBLICA
+responsible: Secretaria de Administração
+country:     BR
+owner-c:     MAR79
+admin-c:     MAR79
+tech-c:      MAR79
+billing-c:   MAR79
+nserver:     alpha.planalto.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     antares.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20131113 #12244593
+changed:     20150410
+status:      published
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+

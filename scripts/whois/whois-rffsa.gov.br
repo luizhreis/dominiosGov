@@ -1,0 +1,32 @@
+
+
+
+domain:      rffsa.gov.br
+owner:       REDE FERROVIARIA FEDERAL S.A.
+responsible: Ricardo Moutinho Pereira da Cunha
+country:     BR
+owner-c:     MHA6
+admin-c:     MHA6
+tech-c:      VIILT26
+billing-c:   MHA6
+nserver:     server1.vialink.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     server2.vialink.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19961211 #24888
+changed:     20150731
+status:      published
+
+nic-hdl-br:  MHA6
+person:      MARCO HENRIQUE DE ARAUJO
+created:     19990520
+changed:     20150720
+
+nic-hdl-br:  VIILT26
+person:      Vialink Informatica Ltda.
+created:     20100916
+changed:     20150618
+
+

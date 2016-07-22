@@ -1,0 +1,33 @@
+
+
+
+domain:      epl.gov.br
+owner:       Empresa de Planejamento e Logística S.A - EPL
+responsible: Bernardo Figueiredo
+country:     BR
+owner-c:     EMPLO7
+admin-c:     EMPLO7
+tech-c:      MAFEL176
+billing-c:   EMPLO7
+nserver:     ns1.epl.gov.br 200.130.56.13 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.epl.gov.br 200.130.56.14 
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20121010 #10453651
+changed:     20141205
+status:      published
+
+nic-hdl-br:  EMPLO7
+person:      Empresa de Planejamento e Logistica
+created:     20130423
+changed:     20140428
+
+nic-hdl-br:  MAFEL176
+person:      Mauro Felipe
+created:     20130415
+changed:     20130415
+
+

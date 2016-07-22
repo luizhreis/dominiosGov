@@ -1,0 +1,27 @@
+
+
+
+domain:      cprm-sp.gov.br
+owner:       Companhia de Pesquisa de Recursos Minerais
+responsible: Sergio Kleinfelder Rodriguez
+country:     BR
+owner-c:     SKR
+admin-c:     SKR
+tech-c:      SKR
+billing-c:   SKR
+nserver:     cprm-sp.cprm-sp.gov.br 200.144.66.2 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20030506
+nserver:     erj.cprm.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20000423
+created:     19980504 #95976
+changed:     19980505
+status:      published
+
+nic-hdl-br:  SKR
+person:      Sergio Kleinfelder Rodriguez
+created:     19980430
+changed:     20030521
+
+

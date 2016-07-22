@@ -1,0 +1,31 @@
+
+
+
+domain:      simecpr.gov.br
+owner:       Ministério da Educação
+responsible: Diretoria de Tecnologia da Informação
+country:     BR
+owner-c:     MIEDU6
+admin-c:     MIEDU6
+tech-c:      MIEDU6
+billing-c:   MIEDU6
+nserver:     dns1.mec.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     server1.pop-df.rnp.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns2.mec.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20110810 #8651955
+changed:     20140123
+status:      published
+
+nic-hdl-br:  MIEDU6
+person:      Ministério da Educação
+created:     20120126
+changed:     20140910
+
+

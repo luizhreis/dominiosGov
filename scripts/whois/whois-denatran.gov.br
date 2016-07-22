@@ -1,0 +1,32 @@
+
+
+
+domain:      denatran.gov.br
+owner:       MINISTERIO DA JUSTICA
+responsible: Eugênio José Guilherme de Aragão
+country:     BR
+owner-c:     MIJUS7
+admin-c:     ALCBA81
+tech-c:      ALCBA81
+billing-c:   ALCBA81
+nserver:     ns1.denatran.gov.br 200.198.212.137 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.denatran.gov.br 200.198.212.138 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20020412 #768317
+changed:     20140924
+status:      published
+
+nic-hdl-br:  ALCBA81
+person:      ALEXANDRE CARDOSO DE BARROS
+created:     20120213
+changed:     20160309
+
+nic-hdl-br:  MIJUS7
+person:      Ministério da Justiça
+created:     20160215
+changed:     20160215
+
+

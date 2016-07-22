@@ -1,0 +1,39 @@
+
+
+
+domain:      senado.gov.br
+owner:       SENADO FEDERAL
+responsible: SIER-Serviço de Infraestrutura de Redes
+country:     BR
+owner-c:     SEIRE4
+admin-c:     SEIRE4
+tech-c:      SEIRE4
+billing-c:   SEIRE4
+nserver:     conchas.senado.gov.br 201.54.48.4 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns01-cta.brasiltelecom.net.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     conchinhas.senado.gov.br 201.54.48.2 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns02-bsa.brasiltelecom.net.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     te-br-spo-tic-dns1.tdatabrasil.net.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     te-br-spo-ib-dns2.tdatabrasil.net.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     before 19950101
+changed:     20160205
+status:      published
+
+nic-hdl-br:  SEIRE4
+person:      Serviço de Infraestrutura de Redes
+created:     20121030
+changed:     20140220
+
+

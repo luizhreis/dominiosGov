@@ -1,0 +1,27 @@
+
+
+
+domain:      cbtu.gov.br
+owner:       Companhia Brasileira de Trens Urbanos
+responsible: Alexander de Freitas Pinnock
+country:     BR
+owner-c:     EDS314
+admin-c:     EDS314
+tech-c:      EDS314
+billing-c:   EDS314
+nserver:     ns1.cbtu.gov.br 200.214.7.132 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.cbtu.gov.br 200.214.7.134 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19980220 #86585
+changed:     20020221
+status:      published
+
+nic-hdl-br:  EDS314
+person:      Eduardo de Souza
+created:     20010921
+changed:     20010921
+
+

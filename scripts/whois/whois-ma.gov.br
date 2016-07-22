@@ -1,0 +1,36 @@
+
+
+
+domain:      ma.gov.br
+owner:       SEPLAN - Governo do Estado do Maranhão
+responsible: SEATI - Sec Adj Tecn Inform e Integração
+country:     BR
+owner-c:     GEISE
+admin-c:     GEISE
+tech-c:      GEISE
+billing-c:   GEISE
+nserver:     coqueiro.ma.gov.br 201.18.153.136 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     tiamaria.ma.gov.br 201.18.153.137 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     calhau.ma.gov.br 201.18.153.30 
+nsstat:      20160629 AA
+nslastaa:    20160629
+dsrecord:    16609 RSA/SHA-256 745212F2C7C6BC251ED9BC01E53A8A633D14F3BD
+dsstatus:    20160629 DSOK
+dslastok:    20160629
+dsrecord:    16609 RSA/SHA-256 3F968D6DAB71104B39104D7D79A7FA334D201D5384131FADEB112377E8327906
+dsstatus:    20160629 DSOK
+dslastok:    20160629
+created:     19970407 #35641
+changed:     20160618
+status:      published
+
+nic-hdl-br:  GEISE
+person:      Gerencia Internet SEATI
+created:     20140917
+changed:     20151217
+
+

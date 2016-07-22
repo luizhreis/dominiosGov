@@ -1,0 +1,37 @@
+
+
+
+domain:      trt10.gov.br
+owner:       TRIBUNAL REGIONAL DO TRABALHO DA 10A. REGIAO
+responsible: Gustavo Rocha
+country:     BR
+owner-c:     FRCPF
+admin-c:     ROP54
+tech-c:      RGA182
+billing-c:   ROP54
+nserver:     argonauta.trt10.gov.br 200.184.169.2 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20100217
+nserver:     dnsbrt.trt10.gov.br 201.34.252.132 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20100217
+created:     19960123 #5134
+changed:     20060829
+status:      published
+
+nic-hdl-br:  FRCPF
+person:      Francisco Rogério C. da Ponte Filho
+created:     20120530
+changed:     20120530
+
+nic-hdl-br:  RGA182
+person:      Ricardo Guimarães de Almeida
+created:     20060523
+changed:     20120529
+
+nic-hdl-br:  ROP54
+person:      Roberto Petruff
+created:     19981209
+changed:     20090901
+
+

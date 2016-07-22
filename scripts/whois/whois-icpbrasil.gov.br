@@ -1,0 +1,41 @@
+
+
+
+domain:      icpbrasil.gov.br
+owner:       Instituto Nacional de Tecnologia Informação - ITI
+responsible: Maurício Augusto Coelho
+country:     BR
+owner-c:     JRGJU4
+admin-c:     JRGJU4
+tech-c:      GCSMA8
+billing-c:   JRGJU4
+nserver:     ns2.icpbrasil.gov.br 200.130.30.2 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns1.icpbrasil.gov.br 189.9.36.82 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns4.icpbrasil.gov.br 150.162.159.2 
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    37657 RSA/SHA-1 013F320E630079734E3BEA060142A0C1232512E6
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+dsrecord:    37657 RSA/SHA-1 83DE8F8D8853362B638FC2F95BAB6973FC6B5FE136F854CBF7B48B14CE7F893D
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     20010723 #608113
+changed:     20150820
+status:      published
+
+nic-hdl-br:  GCSMA8
+person:      Geraldo Clay de Souza Maciel
+created:     20120315
+changed:     20130917
+
+nic-hdl-br:  JRGJU4
+person:      José Rodrigues Gonçalves Júnior
+created:     20090306
+changed:     20160504
+
+

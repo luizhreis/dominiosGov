@@ -1,0 +1,41 @@
+
+
+
+domain:      eafajt.gov.br
+owner:       Escola Agrotécnica Federal Antônio José Teixeira
+responsible: Ariomar Rodrigues dos Santos
+country:     BR
+owner-c:     ALDTE2
+admin-c:     ALDTE2
+tech-c:      LXH
+billing-c:   ALDTE2
+nserver:     ns.locasite.com.br  
+nsstat:      20160701 UH
+nslastaa:    20150126
+nserver:     ns1.locasite.com.br  
+nsstat:      20160701 UH
+nslastaa:    20150126
+nserver:     ns2.locasite.com.br  
+nsstat:      20160701 UH
+nslastaa:    20150126
+nserver:     ns3.locasite.com.br  
+nsstat:      20160701 UH
+nslastaa:    20150126
+nserver:     ns4.locasite.com.br  
+nsstat:      20160701 UH
+nslastaa:    20150126
+created:     20030324 #1136184
+changed:     20090928
+status:      published
+
+nic-hdl-br:  ALDTE2
+person:      Alana Donato Teixeira
+created:     20090925
+changed:     20090925
+
+nic-hdl-br:  LXH
+person:      Locasite Xtreme Hosting
+created:     20040131
+changed:     20151004
+
+

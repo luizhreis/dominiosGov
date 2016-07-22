@@ -1,0 +1,30 @@
+
+
+
+domain:      mdic.gov.br
+owner:       MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI
+responsible: Alessandro Franca Dantas
+country:     BR
+owner-c:     MDC167
+admin-c:     MDC167
+tech-c:      MDC167
+billing-c:   MDC167
+nserver:     dns1.mdic.gov.br 200.198.192.16 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns2.mdic.gov.br 200.199.213.247 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns3.mdic.gov.br 189.125.120.26 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19990315 #146981
+changed:     20130215
+status:      published
+
+nic-hdl-br:  MDC167
+person:      Ministério do Desenv. Indústria Comércio
+created:     20040901
+changed:     20160627
+
+

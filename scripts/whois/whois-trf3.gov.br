@@ -1,0 +1,37 @@
+
+
+
+domain:      trf3.gov.br
+owner:       Tribunal Regional Federal da Terceira Regiao
+responsible: Marcos Aguiar
+country:     BR
+owner-c:     DIARE17
+admin-c:     DIARE17
+tech-c:      EDL196
+billing-c:   MAB119
+nserver:     dns-1.trf3.gov.br 177.43.200.102 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns-2.trf3.gov.br 177.43.200.103 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19980824 #111967
+changed:     20150804
+status:      published
+
+nic-hdl-br:  DIARE17
+person:      Divisão de Administração de Redes
+created:     20150804
+changed:     20150804
+
+nic-hdl-br:  EDL196
+person:      Eduardo Luccas
+created:     20020227
+changed:     20120110
+
+nic-hdl-br:  MAB119
+person:      Marlon Borba
+created:     19980507
+changed:     20130906
+
+

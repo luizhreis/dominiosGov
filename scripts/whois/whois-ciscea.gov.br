@@ -1,0 +1,27 @@
+
+
+
+domain:      ciscea.gov.br
+owner:       COMISSAO DE IMPLANTACAO DO SISTEMA DE CONTROLE DO
+responsible: MARCO AURELIO DE SOUZA CABRAL
+country:     BR
+owner-c:     MAC46
+admin-c:     MAC46
+tech-c:      MAC46
+billing-c:   MAC46
+nserver:     apurina.sivam.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     xavante.sivam.gov.br  
+nsstat:      20160701 NOT SYNC ZONE
+nslastaa:    20160701
+created:     20050317 #2044738
+changed:     20050712
+status:      published
+
+nic-hdl-br:  MAC46
+person:      MARCO AURELIO DE SOUZA CABRAL
+created:     19980127
+changed:     20120528
+
+

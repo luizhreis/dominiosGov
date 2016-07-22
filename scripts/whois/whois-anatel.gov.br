@@ -1,0 +1,37 @@
+
+
+
+domain:      anatel.gov.br
+owner:       AGENCIA NACIONAL DE TELECOMUNICACOES - ANATEL
+responsible: Mairan Thales Macedo
+country:     BR
+owner-c:     MATMA25
+admin-c:     PRM131
+tech-c:      LUDRO13
+billing-c:   MATMA25
+nserver:     anatelns1.anatel.gov.br 187.32.41.67 2801:80:c90:c1da:da0::67
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     anatelns2.anatel.gov.br 187.32.41.68 2801:80:c90:c1da:da0::68
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19970722 #48284
+changed:     20151126
+status:      published
+
+nic-hdl-br:  LUDRO13
+person:      Luzemario Dantas Rocha
+created:     20110420
+changed:     20160513
+
+nic-hdl-br:  MATMA25
+person:      Mairan Thales Macedo
+created:     20080703
+changed:     20150413
+
+nic-hdl-br:  PRM131
+person:      Patrick Rocha Henriques de Moura
+created:     20010207
+changed:     20150420
+
+

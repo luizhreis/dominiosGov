@@ -1,0 +1,32 @@
+
+
+
+domain:      inmet.gov.br
+owner:       INSTITUTO NACIONAL DE METEOROLOGIA
+responsible: Gabriel Andrade Pacheco
+country:     BR
+owner-c:     WGS3
+admin-c:     WGS3
+tech-c:      CAP44
+billing-c:   WGS3
+nserver:     inmet.inmet.gov.br 200.252.242.40 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ditel.inmet.gov.br 200.252.242.52 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19960611
+changed:     20160104
+status:      published
+
+nic-hdl-br:  CAP44
+person:      Carlos Alberto Lima Caribé Pinho
+created:     19980827
+changed:     20141111
+
+nic-hdl-br:  WGS3
+person:      Wilson Giometti Sandoval
+created:     19980303
+changed:     20151007
+
+

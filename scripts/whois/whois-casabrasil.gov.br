@@ -1,0 +1,32 @@
+
+
+
+domain:      casabrasil.gov.br
+owner:       Ministério da Ciência, Tecnologia e Inovação
+responsible: Jorge Antônio de Carvalho
+country:     BR
+owner-c:     REDOM95
+admin-c:     ADNMC
+tech-c:      ADNMC
+billing-c:   ADNMC
+nserver:     planck.mct.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     server1.pop-df.rnp.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20060222 #2629511
+changed:     20130204
+status:      published
+
+nic-hdl-br:  ADNMC
+person:      Administrativo Nic MCTI
+created:     20121123
+changed:     20150603
+
+nic-hdl-br:  REDOM95
+person:      Registro de Dominios
+created:     20160125
+changed:     20160125
+
+

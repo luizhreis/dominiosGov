@@ -1,0 +1,35 @@
+
+
+
+domain:      ce.gov.br
+owner:       EMPRESA DE TECNOLOGIA DA INFORMACAO DO CEARA-ETICE
+responsible: RAIMUNDO OSMAN LIMA
+country:     BR
+owner-c:     RAOLI10
+admin-c:     RAOLI10
+tech-c:      VLS171
+billing-c:   RAOLI10
+nserver:     intsrv007.etice.ce.gov.br 189.90.164.21 2801:80:60:dc:cea4:a:164:21
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     intsrv008.etice.ce.gov.br 189.90.164.31 2801:80:60:dc:cea4:a:164:31
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     futuro.pop-ce.rnp.br  
+nsstat:      20160630 UH
+nslastaa:    20160626
+created:     19960527 #8516
+changed:     20130118
+status:      published
+
+nic-hdl-br:  RAOLI10
+person:      Raimundo Osman Lima
+created:     20070509
+changed:     20140318
+
+nic-hdl-br:  VLS171
+person:      Vera Lucia Carneiro de Sousa
+created:     20041230
+changed:     20130130
+
+

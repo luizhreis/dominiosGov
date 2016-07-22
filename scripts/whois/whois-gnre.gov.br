@@ -1,0 +1,41 @@
+
+
+
+domain:      gnre.gov.br
+owner:       SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO
+responsible: Alexandre dos Santos Ferreira
+country:     BR
+owner-c:     ADSFE47
+admin-c:     ADSFE47
+tech-c:      ADSFE47
+billing-c:   WEQLI
+nserver:     antares.serpro.gov.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20101212
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20101212
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20101212
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20101212
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20101212
+created:     20050404 #2050041
+changed:     20110914
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  WEQLI
+person:      WELDSON QUEIROZ DE LIMA
+created:     20100218
+changed:     20160204
+
+

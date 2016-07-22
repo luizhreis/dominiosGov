@@ -1,0 +1,27 @@
+
+
+
+domain:      eafco.gov.br
+owner:       Escola Agrotécnica Federal de Colorado do Oeste
+responsible: José Ribamar de Oliveira
+country:     BR
+owner-c:     JBN177
+admin-c:     JBN177
+tech-c:      JBN177
+billing-c:   JBN177
+nserver:     ns1.eafco.gov.br 200.131.10.194 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20100729
+nserver:     inseto.eafco.gov.br 200.216.232.163 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20100729
+created:     20001026 #443829
+changed:     20120518
+status:      published
+
+nic-hdl-br:  JBN177
+person:      Jackson Bezerra Nunes
+created:     20051110
+changed:     20051110
+
+

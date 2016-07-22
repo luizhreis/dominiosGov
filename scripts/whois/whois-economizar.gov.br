@@ -1,0 +1,30 @@
+
+
+
+domain:      economizar.gov.br
+owner:       PETROLEO BRASILEIRO S.A. - PETROBRAS
+responsible: EDUARDO FELBERG
+country:     BR
+owner-c:     EDFEL11
+admin-c:     EDFEL11
+tech-c:      EDFEL11
+billing-c:   EDFEL11
+nserver:     nicolino.petrobras.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     harpia.petrobras.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     medusa.petrobras.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20020621 #888871
+changed:     20121205
+status:      published
+
+nic-hdl-br:  EDFEL11
+person:      Eduardo Felberg
+created:     20081223
+changed:     20140530
+
+

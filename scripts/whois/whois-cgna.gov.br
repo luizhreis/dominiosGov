@@ -1,0 +1,40 @@
+
+
+
+domain:      cgna.gov.br
+owner:       Departamento de Controle do Espaço Aéreo
+responsible: Seção de Rede Local
+country:     BR
+owner-c:     ADRED14
+admin-c:     ADRED14
+tech-c:      MPGPA4
+billing-c:   MVF212
+nserver:     cgnasrv15.cgna.gov.br 200.255.49.61 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns1.decea.gov.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20160623
+nserver:     dns2.decea.gov.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20160613
+created:     20011226 #701713
+changed:     20150914
+status:      published
+
+nic-hdl-br:  ADRED14
+person:      Administracao de Rede
+created:     20140124
+changed:     20160301
+
+nic-hdl-br:  MPGPA4
+person:      Marcos Paulo Guedes Pachiel
+created:     20150914
+changed:     20150914
+
+nic-hdl-br:  MVF212
+person:      Marcelo Valverde Fernandes
+created:     20050630
+changed:     20050630
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      dner1drf.gov.br
+owner:       DNER / 1º Distrito Rodoviário Federal
+responsible: Ana Maria Amorim
+country:     BR
+owner-c:     AMA61
+admin-c:     AMA61
+tech-c:      AIP6
+billing-c:   AMA61
+nserver:     baco.argo.com.br  
+nsstat:      20160630 UDN
+nslastaa:    20030524
+nserver:     zeus.argo.com.br  
+nsstat:      20160630 QREFUSED
+nslastaa:    20030524
+created:     20000110 #235023
+changed:     20000110
+status:      published
+
+nic-hdl-br:  AIP6
+person:      Argo Internet Provider
+created:     19980119
+changed:     20110317
+
+nic-hdl-br:  AMA61
+person:      Ana Maria Amorim
+created:     19991221
+changed:     19991221
+
+

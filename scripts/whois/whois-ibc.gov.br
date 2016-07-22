@@ -1,0 +1,27 @@
+
+
+
+domain:      ibc.gov.br
+owner:       Instituto Benjamin Constant
+responsible: Erica Deslandes Magno Oliveira
+country:     BR
+owner-c:     EDO124
+admin-c:     EDO124
+tech-c:      EDO124
+billing-c:   EDO124
+nserver:     namesever1.ibc.gov.br 200.156.28.37 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20160626
+nserver:     ibcserver0c.ibc.gov.br 200.156.28.7 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20040608 #1675115
+changed:     20160619
+status:      published
+
+nic-hdl-br:  EDO124
+person:      Erica Deslandes Magno Oliveira
+created:     20040524
+changed:     20040524
+
+

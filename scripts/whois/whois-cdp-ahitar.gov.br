@@ -1,0 +1,35 @@
+
+
+
+domain:      cdp-ahitar.gov.br
+owner:       AHITAR - ADMINISTRACAO DAS HIDROVIAS DO TOCANTINS
+responsible: Carlos Mota Villela
+country:     BR
+owner-c:     JCP325
+admin-c:     JCP325
+tech-c:      MIL275
+billing-c:   MIL275
+nserver:     dns1.digiweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns2.digiweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns3.digiweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20011018 #653114
+changed:     20110803
+status:      published
+
+nic-hdl-br:  JCP325
+person:      Júlio César da Silva Pereira
+created:     20030521
+changed:     20030906
+
+nic-hdl-br:  MIL275
+person:      MARX TECNOLOGIA E DESIGN
+created:     20001211
+changed:     20140425
+
+

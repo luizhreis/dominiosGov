@@ -1,0 +1,30 @@
+
+
+
+domain:      maranhao.gov.br
+owner:       SEPLAN - Governo do Estado do Maranhão
+responsible: SEATI - Sec Adj Tecn Inform e Integração
+country:     BR
+owner-c:     GEISE
+admin-c:     GEISE
+tech-c:      GEISE
+billing-c:   GEISE
+nserver:     coqueiro.ma.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     tiamaria.ma.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     calhau.ma.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19990419 #155160
+changed:     20140917
+status:      published
+
+nic-hdl-br:  GEISE
+person:      Gerencia Internet SEATI
+created:     20140917
+changed:     20151217
+
+

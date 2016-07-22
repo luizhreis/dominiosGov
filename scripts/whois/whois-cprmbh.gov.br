@@ -1,0 +1,32 @@
+
+
+
+domain:      cprmbh.gov.br
+owner:       Companhia de Pesquisa de Recursos Minerais - CPRM
+responsible: Nelson Baptista de Oliveira Resende Cost
+country:     BR
+owner-c:     NBC10
+admin-c:     NBC10
+tech-c:      CLO79
+billing-c:   NBC10
+nserver:     ns1.cprmbh.gov.br 200.243.50.129 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20080227
+nserver:     ns2.cprmbh.gov.br 200.243.50.131 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20080227
+created:     20001117 #460087
+changed:     20030806
+status:      published
+
+nic-hdl-br:  CLO79
+person:      Claudia de Oliveira
+created:     20030325
+changed:     20030807
+
+nic-hdl-br:  NBC10
+person:      Nelson Baptista de Oliveira Resende Cost
+created:     20001103
+changed:     20030814
+
+

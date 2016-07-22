@@ -1,0 +1,43 @@
+
+
+
+domain:      ipsm.gov.br
+owner:       INSTITUTO DE PREVIDENCIA DOS SERVIDORES MILITARES
+responsible: Cinara Goncalves de Paula
+country:     BR
+owner-c:     CGP3
+admin-c:     CGP3
+tech-c:      DNA4
+billing-c:   SEB10
+nserver:     dns1.emc.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns2.emc.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns3.emc.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns4.emc.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960415 #6707
+changed:     20151127
+status:      published
+
+nic-hdl-br:  CGP3
+person:      Cinara Goncalves de Paula
+created:     19980316
+changed:     20020715
+
+nic-hdl-br:  DNA4
+person:      DNS Admin
+created:     20000410
+changed:     20160104
+
+nic-hdl-br:  SEB10
+person:      Soter do Espirito Santo Baracho
+created:     19980316
+changed:     19980316
+
+

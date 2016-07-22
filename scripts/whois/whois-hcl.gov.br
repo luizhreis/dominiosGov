@@ -1,0 +1,32 @@
+
+
+
+domain:      hcl.gov.br
+owner:       Instituto Nacional de Cardiologia de Laranjeiras
+responsible: Dr. Antônio Carlos Campos de Carvalho
+country:     BR
+owner-c:     ACC1039
+admin-c:     CEH23
+tech-c:      CEH23
+billing-c:   CEH23
+nserver:     cep1.hcl.gov.br 200.20.108.7 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20121029
+nserver:     cep2.hcl.gov.br 200.20.108.8 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20120921
+created:     19980702 #104334
+changed:     20060731
+status:      published
+
+nic-hdl-br:  ACC1039
+person:      Antônio Carlos Campos de Carvalho
+created:     20050908
+changed:     20050908
+
+nic-hdl-br:  CEH23
+person:      Carlos Eduardo Marques Hill
+created:     20010721
+changed:     20160210
+
+

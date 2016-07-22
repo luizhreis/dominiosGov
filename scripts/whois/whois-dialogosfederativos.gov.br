@@ -1,0 +1,34 @@
+
+
+
+domain:      dialogosfederativos.gov.br
+owner:       Subchefia de Assuntos Federativos
+responsible: Olavo Noleto Alves
+country:     BR
+owner-c:     DMLMA6
+admin-c:     DMLMA6
+tech-c:      DMLMA6
+billing-c:   DMLMA6
+nserver:     antares.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+saci:        yes
+created:     20130108 #10896318
+changed:     20130108
+status:      published
+
+nic-hdl-br:  DMLMA6
+person:      Debora Maria Lopes Maia
+created:     20121114
+changed:     20121212
+
+

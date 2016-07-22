@@ -1,0 +1,35 @@
+
+
+
+domain:      mt.gov.br
+owner:       ESTADO DE MATO GROSSO
+responsible: SAFFYK VICUNA DE SOUZA
+country:     BR
+owner-c:     GRC35
+admin-c:     GRC35
+tech-c:      ADM617
+billing-c:   ADM617
+nserver:     arara.mt.gov.br 201.49.161.100 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     joaodebarro.mt.gov.br 201.49.165.165 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns.embratel.net.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19961128
+changed:     20130621
+status:      published
+
+nic-hdl-br:  ADM617
+person:      Administrador DNS - Governo MT
+created:     20051201
+changed:     20051201
+
+nic-hdl-br:  GRC35
+person:      grupo redes cepromat
+created:     20001110
+changed:     20110324
+
+

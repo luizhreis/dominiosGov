@@ -1,0 +1,35 @@
+
+
+
+domain:      jfce.gov.br
+owner:       Justiça Federal no Ceará
+responsible: GUILHERME OTAVIO TAVARES DE LACERDA
+country:     BR
+owner-c:     GOTLA
+admin-c:     GOTLA
+tech-c:      HCS36
+billing-c:   GOTLA
+nserver:     ns1.jfce.gov.br 189.36.205.2 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.jfce.gov.br 189.36.205.3 
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    54934 RSA/SHA-1 D8F6A42A7A858D519724893D24453358AE80B175
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     20000313 #283761
+changed:     20150307
+status:      published
+
+nic-hdl-br:  GOTLA
+person:      Guilherme Otávio Tavares de Lacerda
+created:     20100122
+changed:     20100826
+
+nic-hdl-br:  HCS36
+person:      Hedwio Carvalho e Silva
+created:     20001003
+changed:     20110118
+
+

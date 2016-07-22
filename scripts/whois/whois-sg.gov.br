@@ -1,0 +1,27 @@
+
+
+
+domain:      sg.gov.br
+owner:       SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA
+responsible: Secretaria de Administração
+country:     BR
+owner-c:     MAR79
+admin-c:     MAR79
+tech-c:      MAR79
+billing-c:   MAR79
+nserver:     alpha.planalto.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20100113 #6426184
+changed:     20160502
+status:      published
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+

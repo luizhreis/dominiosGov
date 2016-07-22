@@ -1,0 +1,27 @@
+
+
+
+domain:      dnpmma.gov.br
+owner:       DNPM - Depart. Nacional de Produção Mineral
+responsible: Sebastião Francisco G. Correia
+country:     BR
+owner-c:     AJF89
+admin-c:     AJF89
+tech-c:      AJF89
+billing-c:   AJF89
+nserver:     ns11.dnpmma.gov.br 200.249.153.130 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20040604
+nserver:     www.dnpmma.gov.br 200.249.153.131 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20030806
+created:     20020904 #944603
+changed:     20020904
+status:      published
+
+nic-hdl-br:  AJF89
+person:      Antonio Joaquim Jorge Araujo Ferreira
+created:     20010425
+changed:     20061117
+
+

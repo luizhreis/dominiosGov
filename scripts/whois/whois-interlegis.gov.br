@@ -1,0 +1,32 @@
+
+
+
+domain:      interlegis.gov.br
+owner:       SENADO FEDERAL
+responsible: SIER-Serviço de Infraestrutura de Redes
+country:     BR
+owner-c:     SEIRE4
+admin-c:     SIT80
+tech-c:      SIT80
+billing-c:   SIT80
+nserver:     dns1.interlegis.gov.br 201.54.63.130 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.interlegis.gov.br 201.54.63.12 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19970707 #46196
+changed:     20140916
+status:      published
+
+nic-hdl-br:  SEIRE4
+person:      Serviço de Infraestrutura de Redes
+created:     20121030
+changed:     20140220
+
+nic-hdl-br:  SIT80
+person:      SIT-Servico de Infra-Est. Tecnologica
+created:     20041027
+changed:     20150515
+
+

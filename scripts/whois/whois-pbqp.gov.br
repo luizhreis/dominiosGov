@@ -1,0 +1,37 @@
+
+
+
+domain:      pbqp.gov.br
+owner:       INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECN
+responsible: Sandra Aparecida Dias
+country:     BR
+owner-c:     SAADI5
+admin-c:     SAADI5
+tech-c:      SRB71
+billing-c:   FAA54
+nserver:     ibqp01.ibqppr.org.br  
+nsstat:      20160630 UH
+nslastaa:    20030918
+nserver:     dns2.ibqppr.org.br  
+nsstat:      20160630 UH
+nslastaa:    20020409
+created:     19991109 #215563
+changed:     20091221
+status:      published
+
+nic-hdl-br:  FAA54
+person:      Fabiola Andrade
+created:     19991020
+changed:     19991020
+
+nic-hdl-br:  SAADI5
+person:      Sandra A. Dias
+created:     20091221
+changed:     20111011
+
+nic-hdl-br:  SRB71
+person:      Sergio Ricardo Costa Barros
+created:     20010523
+changed:     20010523
+
+

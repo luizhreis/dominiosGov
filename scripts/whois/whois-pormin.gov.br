@@ -1,0 +1,32 @@
+
+
+
+domain:      pormin.gov.br
+owner:       Departamento Nacional de Producao Mineral
+responsible: Fábio Fernando Borges
+country:     BR
+owner-c:     FAFBO2
+admin-c:     FAFBO2
+tech-c:      MLGSI24
+billing-c:   FAFBO2
+nserver:     ns1.dnpm.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.dnpm.gov.br  
+nsstat:      20160629 UDN
+nslastaa:    20141103
+created:     20080111 #4136215
+changed:     20150204
+status:      published
+
+nic-hdl-br:  FAFBO2
+person:      Fabio Fernando Borges
+created:     20070530
+changed:     20070530
+
+nic-hdl-br:  MLGSI24
+person:      Marcio Leal Gomes da Silva
+created:     20150204
+changed:     20150204
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      eletrosul.gov.br
+owner:       Eletrosul Centrais Elétricas S.A.
+responsible: Luis Gustavo Coelho
+country:     BR
+owner-c:     LGC230
+admin-c:     LGC230
+tech-c:      LGC230
+billing-c:   LGC230
+nserver:     osorio.eletrosul.gov.br 177.10.113.5 
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     ita.eletrosul.gov.br 177.10.112.5 
+nsstat:      20160626 AA
+nslastaa:    20160626
+created:     19960727 #12785
+changed:     20141229
+status:      published
+
+nic-hdl-br:  LGC230
+person:      Luis Gustavo Coelho
+created:     20060309
+changed:     20160427
+
+

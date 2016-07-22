@@ -1,0 +1,28 @@
+
+
+
+domain:      rrc.gov.br
+owner:       Ministério da Ciência, Tecnologia e Inovação
+responsible: André Galembeck
+country:     BR
+owner-c:     CTENE
+admin-c:     CTENE
+tech-c:      CTENE
+billing-c:   CTENE
+nserver:     ns01.cetene.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns02.cetene.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20160625
+saci:        yes
+created:     20151027 #14852395
+changed:     20151027
+status:      published
+
+nic-hdl-br:  CTENE
+person:      Centro de Tecnologias Estratégicas do Ne
+created:     20061214
+changed:     20160518
+
+

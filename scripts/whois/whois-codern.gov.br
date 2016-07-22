@@ -1,0 +1,28 @@
+
+
+
+domain:      codern.gov.br
+owner:       COMPANHIA DAS DOCAS DO RIO GRANDE DO NORTE
+responsible: Pedro Terceiro de Melo
+country:     BR
+owner-c:     REBNU2
+admin-c:     REBNU2
+tech-c:      REBNU2
+billing-c:   REBNU2
+nserver:     dns1.kinghost.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dns2.kinghost.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20111215 #9218722
+changed:     20111215
+status:      published
+
+nic-hdl-br:  REBNU2
+person:      Reginaldo Barboza Nunes
+created:     20071113
+changed:     20130919
+
+

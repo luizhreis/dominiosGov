@@ -1,0 +1,43 @@
+
+
+
+domain:      fat.gov.br
+owner:       MINISTERIO DO TRABALHO E EMPREGO
+responsible: Equipe de Redes MTE
+country:     BR
+owner-c:     COINF90
+admin-c:     CLMEN28
+tech-c:      MALHE11
+billing-c:   MALHE11
+nserver:     ns1.mte.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.mte.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.mte.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns4.mte.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20100317 #6639489
+changed:     20160205
+status:      published
+
+nic-hdl-br:  CLMEN28
+person:      Claudio Menezes
+created:     20091214
+changed:     20091216
+
+nic-hdl-br:  COINF90
+person:      Coordenação de Infraestrutura
+created:     20141029
+changed:     20141029
+
+nic-hdl-br:  MALHE11
+person:      Marcelo Luiz Heiden
+created:     20101125
+changed:     20140128
+
+

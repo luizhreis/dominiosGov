@@ -1,0 +1,32 @@
+
+
+
+domain:      defesaagropecuaria.gov.br
+owner:       Secretaria de Defesa Agropecuaria
+responsible: Julio Cesar Louredo
+country:     BR
+owner-c:     SDA
+admin-c:     SDA
+tech-c:      JCL22
+billing-c:   SDA
+nserver:     masrv53.agricultura.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20080526
+nserver:     masrv51.agricultura.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20000502
+created:     19980706 #104435
+changed:     20000503
+status:      published
+
+nic-hdl-br:  JCL22
+person:      Julio Cesar Louredo
+created:     19980625
+changed:     20000420
+
+nic-hdl-br:  SDA
+person:      Secretaria de Defesa Agropecuaria
+created:     19980626
+changed:     19980626
+
+

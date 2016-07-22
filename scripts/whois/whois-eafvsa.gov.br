@@ -1,0 +1,27 @@
+
+
+
+domain:      eafvsa.gov.br
+owner:       Instituto Federal de Pernambuco Campus Vitória
+responsible: SERGIO PAULO CORREIA D´OLERON BARRETO
+country:     BR
+owner-c:     JASCO48
+admin-c:     JASCO48
+tech-c:      JASCO48
+billing-c:   JASCO48
+nserver:     cangaceiro.eafvsa.gov.br 200.133.6.2 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20101105
+nserver:     lampiao.eafvsa.gov.br 200.133.6.3 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20101105
+created:     20040928 #1817818
+changed:     20110111
+status:      published
+
+nic-hdl-br:  JASCO48
+person:      janiles da silva cortes
+created:     20101220
+changed:     20131223
+
+

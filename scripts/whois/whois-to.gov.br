@@ -1,0 +1,33 @@
+
+
+
+domain:      to.gov.br
+owner:       Governo do Estado do Tocantins
+responsible: Edival Mittelstad
+country:     BR
+owner-c:     DIISE
+admin-c:     DIISE
+tech-c:      DIISE
+billing-c:   DIISE
+nserver:     ns.to.gov.br 177.0.118.20 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.to.gov.br 177.0.118.1 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns3.to.gov.br 131.72.217.20 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns4.to.gov.br 131.72.217.1 
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     19980202 #84697
+changed:     20150817
+status:      published
+
+nic-hdl-br:  DIISE
+person:      Diretoria de Infraestrutura Seplan
+created:     20120402
+changed:     20150210
+
+

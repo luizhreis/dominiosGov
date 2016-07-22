@@ -1,0 +1,27 @@
+
+
+
+domain:      serac4.gov.br
+owner:       MAER QUARTO SERVIÇO REGIONAL DE AVIAÇÃO CIVIL
+responsible: NELSON DE SOUZA PEREIRA
+country:     BR
+owner-c:     DKO11
+admin-c:     DKO11
+tech-c:      DKO11
+billing-c:   DKO11
+nserver:     ns1.bighost.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20091027
+nserver:     ns2.bighost.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20091027
+created:     20050712 #2228294
+changed:     20061130
+status:      published
+
+nic-hdl-br:  DKO11
+person:      Dorival Kioshi Otabe
+created:     20021030
+changed:     20101217
+
+

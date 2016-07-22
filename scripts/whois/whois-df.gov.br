@@ -1,0 +1,30 @@
+
+
+
+domain:      df.gov.br
+owner:       Sec. de Estado de Plan. e Orçamento do DF
+responsible: Suporte Tecnico - SEPLAN
+country:     BR
+owner-c:     STC46
+admin-c:     STC46
+tech-c:      STC46
+billing-c:   STC46
+nserver:     dns1.gdfnet.df.gov.br 131.72.221.200 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.df.gov.br 131.72.221.201 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns3.df.gov.br 189.42.210.85 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19960815 #14006
+changed:     20160616
+status:      published
+
+nic-hdl-br:  STC46
+person:      Suporte Técnico - CODEPLAN
+created:     20020805
+changed:     20151006
+
+

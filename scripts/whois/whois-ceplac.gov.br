@@ -1,0 +1,27 @@
+
+
+
+domain:      ceplac.gov.br
+owner:       COMISSAO EXECUTIVA DO PLANO DA LAVOURA CACAUEIRA
+responsible: Cecília Maria Tavares de Souza Carvalho
+country:     BR
+owner-c:     CMC35
+admin-c:     CMC35
+tech-c:      CMC35
+billing-c:   CMC35
+nserver:     dns1.ceplac.gov.br 200.229.81.114 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns2.ceplac.gov.br 200.229.81.115 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19970927 #60228
+changed:     20160307
+status:      published
+
+nic-hdl-br:  CMC35
+person:      Cecília Maria Tavares de Souza Carvalho
+created:     19990615
+changed:     20160119
+
+

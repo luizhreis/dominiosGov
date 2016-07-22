@@ -1,0 +1,30 @@
+
+
+
+domain:      concar.gov.br
+owner:       FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE
+responsible: Jose Luiz Thomaselli Nogueira
+country:     BR
+owner-c:     ECO
+admin-c:     ECO
+tech-c:      ECO
+billing-c:   ECO
+nserver:     ns1.ibge.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.ibge.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns3.ibge.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20100923 #7353286
+changed:     20110730
+status:      published
+
+nic-hdl-br:  ECO
+person:      José Luiz Thomaselli Nogueira
+created:     19980121
+changed:     20160413
+
+

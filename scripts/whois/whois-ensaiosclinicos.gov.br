@@ -1,0 +1,32 @@
+
+
+
+domain:      ensaiosclinicos.gov.br
+owner:       MINISTERIO DA SAUDE
+responsible: Dep. de Informática do SUS - DATASUS
+country:     BR
+owner-c:     ARC452
+admin-c:     ARC452
+tech-c:      MAVTO30
+billing-c:   ARC452
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20100713 #7050969
+changed:     20121123
+status:      published
+
+nic-hdl-br:  ARC452
+person:      Administração da Rede Coorporativa
+created:     20040616
+changed:     20160408
+
+nic-hdl-br:  MAVTO30
+person:      Magno Vieira Tobias
+created:     20121107
+changed:     20160408
+
+

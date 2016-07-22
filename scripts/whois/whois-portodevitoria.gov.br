@@ -1,0 +1,32 @@
+
+
+
+domain:      portodevitoria.gov.br
+owner:       COMPANHIA DOCAS DO ESPIRITO SANTO
+responsible: Carlos Fernando Barcellos
+country:     BR
+owner-c:     CFB68
+admin-c:     CFB68
+tech-c:      VOSIL2
+billing-c:   CFB68
+nserver:     ns1.portodevitoria.gov.br 189.50.0.104 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.portodevitoria.gov.br 189.50.0.105 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20040419 #1600188
+changed:     20151231
+status:      published
+
+nic-hdl-br:  CFB68
+person:      Carlos Fernando Barcellos
+created:     20020510
+changed:     20151005
+
+nic-hdl-br:  VOSIL2
+person:      Vitória Online Serviços de Internet LTDA
+created:     20091203
+changed:     20140714
+
+

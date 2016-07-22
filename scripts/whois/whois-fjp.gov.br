@@ -1,0 +1,37 @@
+
+
+
+domain:      fjp.gov.br
+owner:       FUNDACAO JOAO PINHEIRO
+responsible: Dr. Geraldo Magela
+country:     BR
+owner-c:     BRB
+admin-c:     RDR60
+tech-c:      PGM14
+billing-c:   RDR60
+nserver:     ns.fjp.gov.br 200.198.50.34 
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     nss1.prodemge.gov.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+created:     19960628 #10659
+changed:     20160603
+status:      published
+
+nic-hdl-br:  BRB
+person:      Boris Roberto Bogutchi
+created:     19980209
+changed:     20020313
+
+nic-hdl-br:  PGM14
+person:      Prodemge Ger. Rede - Dominios MG.GOV.BR
+created:     20000901
+changed:     20130808
+
+nic-hdl-br:  RDR60
+person:      Rodrigo Diniz Rosa
+created:     20030131
+changed:     20050705
+
+

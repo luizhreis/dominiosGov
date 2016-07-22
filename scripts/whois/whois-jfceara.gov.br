@@ -1,0 +1,32 @@
+
+
+
+domain:      jfceara.gov.br
+owner:       JUSTICA FED DE PRIM INST SECAO JUD DO CEARA
+responsible: GUILHERME OTAVIO TAVARES DE LACERDA
+country:     BR
+owner-c:     GOTLA
+admin-c:     GOTLA
+tech-c:      HCS36
+billing-c:   GOTLA
+nserver:     ns1.jfceara.gov.br 201.49.54.2 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20100420
+nserver:     ns2.jfceara.gov.br 200.166.132.11 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20100420
+created:     20030922 #1368198
+changed:     20100410
+status:      published
+
+nic-hdl-br:  GOTLA
+person:      Guilherme Otávio Tavares de Lacerda
+created:     20100122
+changed:     20100826
+
+nic-hdl-br:  HCS36
+person:      Hedwio Carvalho e Silva
+created:     20001003
+changed:     20110118
+
+

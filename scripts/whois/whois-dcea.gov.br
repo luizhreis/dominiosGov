@@ -1,0 +1,32 @@
+
+
+
+domain:      dcea.gov.br
+owner:       Departamento de Controle do Espaço Aéreo
+responsible: Seção de Rede Local
+country:     BR
+owner-c:     ADRED14
+admin-c:     ADRED14
+tech-c:      MVF212
+billing-c:   MVF212
+nserver:     ns1.decea.gov.br  
+nsstat:      20160629 UH
+nslastaa:    20020616
+nserver:     ns2.decea.gov.br  
+nsstat:      20160629 UH
+nslastaa:    20020616
+created:     20011220 #700710
+changed:     20140124
+status:      published
+
+nic-hdl-br:  ADRED14
+person:      Administracao de Rede
+created:     20140124
+changed:     20160301
+
+nic-hdl-br:  MVF212
+person:      Marcelo Valverde Fernandes
+created:     20050630
+changed:     20050630
+
+

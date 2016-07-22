@@ -1,0 +1,27 @@
+
+
+
+domain:      apec.gov.br
+owner:       FUNDAÇÃO NACIONAL DE SAÚDE
+responsible: REDE FUNASA
+country:     BR
+owner-c:     MVO3
+admin-c:     MVO3
+tech-c:      MVO3
+billing-c:   MVO3
+nserver:     sabin1.apec.gov.br 200.187.157.194 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20060323
+nserver:     sabin2.apec.gov.br 200.187.157.199 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20060323
+created:     20020311 #738555
+changed:     20050415
+status:      published
+
+nic-hdl-br:  MVO3
+person:      MARIOSAN MACIEL
+created:     19980908
+changed:     20060712
+
+

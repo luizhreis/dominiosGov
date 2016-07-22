@@ -1,0 +1,38 @@
+
+
+
+domain:      trt7.gov.br
+owner:       Tribunal Regional do Trabalho da 7A. Regiao
+responsible: Fernando Jose Sales Monteiro
+country:     BR
+owner-c:     ROTSI68
+admin-c:     LCMTR
+tech-c:      ROTSI68
+billing-c:   ROTSI68
+nserver:     ns1.trt7.gov.br 186.232.247.68 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.trt7.gov.br 186.232.247.69 
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    15427 RSA/SHA-1 9794DA044B516C12969E6495ABF7386951F38057
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+dsrecord:    15427 RSA/SHA-1 171B3E33ECDA1D0E900B5E406F17261909A6C37FC6500C10E7C2F75EBABC1563
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     19980116 #81487
+changed:     20120224
+status:      published
+
+nic-hdl-br:  LCMTR
+person:      Luiz Carlos Machado TRT
+created:     20071002
+changed:     20080530
+
+nic-hdl-br:  ROTSI68
+person:      Robson Teixeira da Silva
+created:     20110513
+changed:     20140422
+
+

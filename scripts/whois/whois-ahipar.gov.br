@@ -1,0 +1,43 @@
+
+
+
+domain:      ahipar.gov.br
+owner:       AHIPAR ADMINISTRAÇÃO DA HIDROVIA DO PARAGUAI
+responsible: PAULO CÉSAR SILVA
+country:     BR
+owner-c:     FEY10
+admin-c:     PCA147
+tech-c:      TOI16
+billing-c:   PCA147
+nserver:     ns1.datatop.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20160317
+nserver:     ns2.datatop.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20160317
+nserver:     ns3.datatop.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20160317
+nserver:     ns4.datatop.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20160317
+created:     19971125 #71033
+changed:     20100407
+status:      published
+
+nic-hdl-br:  FEY10
+person:      Fermiano Yarzon
+created:     20040506
+changed:     20040506
+
+nic-hdl-br:  PCA147
+person:      Paulo Cesar Albarello
+created:     20040427
+changed:     20160617
+
+nic-hdl-br:  TOI16
+person:      TOP Internet
+created:     20040109
+changed:     20151105
+
+

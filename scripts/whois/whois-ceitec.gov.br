@@ -1,0 +1,28 @@
+
+
+
+domain:      ceitec.gov.br
+owner:       Centro Nacional de Tecnologia Eletronica Avancada
+responsible: Roberto Andrade
+country:     BR
+owner-c:     SSD38
+admin-c:     SSD38
+tech-c:      SSD38
+billing-c:   SSD38
+nserver:     dnssrv01.ceitec-sa.com  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     dnssrv02.ceitec-sa.com  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20131113 #12219808
+changed:     20131113
+status:      published
+
+nic-hdl-br:  SSD38
+person:      Sérgio Souza Dias
+created:     20041007
+changed:     20100305
+
+

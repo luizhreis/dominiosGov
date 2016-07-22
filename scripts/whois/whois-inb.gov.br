@@ -1,0 +1,37 @@
+
+
+
+domain:      inb.gov.br
+owner:       Industrias Nucleares do Brasil S/A
+responsible: Renato Rodrigues Braz Silva
+country:     BR
+owner-c:     RRBSI16
+admin-c:     JCP16
+tech-c:      FAM703
+billing-c:   JCP16
+nserver:     mercurio.inb.gov.br 200.222.87.35 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     urano.inb.gov.br 200.222.87.36 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19980317 #89158
+changed:     20150626
+status:      published
+
+nic-hdl-br:  FAM703
+person:      Fernando Akira Mogami
+created:     20040211
+changed:     20150528
+
+nic-hdl-br:  JCP16
+person:      José Carlos Prado Peres
+created:     19980306
+changed:     20090528
+
+nic-hdl-br:  RRBSI16
+person:      Renato Rodrigues Braz Silva
+created:     20160404
+changed:     20160404
+
+

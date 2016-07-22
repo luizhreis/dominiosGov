@@ -1,0 +1,27 @@
+
+
+
+domain:      eletronorte.gov.br
+owner:       Centrais Eletricas do Norte do Brasil
+responsible: Gerencia de Servicos de Rede Corporativa
+country:     BR
+owner-c:     GSC187
+admin-c:     GSC187
+tech-c:      GSC187
+billing-c:   GSC187
+nserver:     ns3.eletronorte.gov.br 177.135.230.7 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns4.eletronorte.gov.br 177.135.230.2 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20000809 #396358
+changed:     20130102
+status:      published
+
+nic-hdl-br:  GSC187
+person:      Gerência de Serviço de Rede Corporativa
+created:     20050830
+changed:     20070529
+
+

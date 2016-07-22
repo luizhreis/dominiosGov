@@ -1,0 +1,32 @@
+
+
+
+domain:      jfse.gov.br
+owner:       Justica Federal - Secao Judiciaria do Estado de SE
+responsible: Heitor Costa Marques Junior
+country:     BR
+owner-c:     HCMJR
+admin-c:     MMLBA
+tech-c:      MMLBA
+billing-c:   MMLBA
+nserver:     dns1.jfse.jus.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns2.jfse.jus.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19990112 #134712
+changed:     20160620
+status:      published
+
+nic-hdl-br:  HCMJR
+person:      Heitor C. M. Jr.
+created:     20090914
+changed:     20090914
+
+nic-hdl-br:  MMLBA
+person:      MARCIO MATOS LIMA BARRETO
+created:     20081125
+changed:     20081125
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      seap.gov.br
+owner:       Ministério da Pesca e Aquicultura
+responsible: Ministro Marcelo Bezerra Crivella
+country:     BR
+owner-c:     RESCA114
+admin-c:     RESCA114
+tech-c:      RESCA114
+billing-c:   RESCA114
+nserver:     dns1.seap.gov.br 200.198.202.140 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20110727
+nserver:     seapdnsii.seap.gov.br 200.198.202.141 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20100510
+created:     20040301 #1526492
+changed:     20121219
+status:      published
+
+nic-hdl-br:  RESCA114
+person:      Renato Silva de Castro
+created:     20121217
+changed:     20140825
+
+

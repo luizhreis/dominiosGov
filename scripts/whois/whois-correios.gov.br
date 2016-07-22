@@ -1,0 +1,44 @@
+
+
+
+domain:      correios.gov.br
+owner:       Empresa Brasileira de Correios e Telégrafos
+responsible: Marcos Antonio Rezende
+country:     BR
+owner-c:     MAR1601
+admin-c:     MAR1601
+tech-c:      EEA
+billing-c:   MAR1601
+nserver:     dns.correios.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns1.correios.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.correios.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns3.correios.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    48243 RSA/SHA-1 3DBB1D0B1F253BB46E8847E98AA5D3EB872C74B4
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+dsrecord:    48243 RSA/SHA-1 8D632ED883DD8C1437511C9C3EFF5866F7CC9278369A617B237552B1512E3B5A
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     19971016 #63697
+changed:     20160630
+status:      published
+
+nic-hdl-br:  EEA
+person:      Evandro Ernesto Cartaxo de Albuquerque
+created:     19980811
+changed:     20160504
+
+nic-hdl-br:  MAR1601
+person:      Marcos Antonio Rezende
+created:     20050706
+changed:     20100127
+
+

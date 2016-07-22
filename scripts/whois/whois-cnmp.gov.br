@@ -1,0 +1,32 @@
+
+
+
+domain:      cnmp.gov.br
+owner:       CONSELHO NACIONAL DO MINISTERIO PUBLICO
+responsible: Diego Albuquerque
+country:     BR
+owner-c:     DJSAL
+admin-c:     GFA2
+tech-c:      DJSAL
+billing-c:   GFA2
+nserver:     hailey.cnmp.mp.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     sierra.cnmp.mp.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20050714 #2236197
+changed:     20150329
+status:      published
+
+nic-hdl-br:  DJSAL
+person:      Diego José Sousa de Albuquerque
+created:     20060629
+changed:     20111013
+
+nic-hdl-br:  GFA2
+person:      Gustavo Fonseca Goncalves de Almeida
+created:     19980129
+changed:     20160224
+
+

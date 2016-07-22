@@ -1,0 +1,40 @@
+
+
+
+domain:      trt9.gov.br
+owner:       Tribunal Regional do Trabalho da 9ª Região
+responsible: Jaime de Britto
+country:     BR
+owner-c:     JABRI4
+admin-c:     JABRI4
+tech-c:      RAITR3
+billing-c:   ALYAM
+nserver:     ns1.trt9.gov.br 200.0.85.10 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.trt9.gov.br 200.0.85.11 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.trt9.gov.br 200.0.85.254 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19990413 #151987
+changed:     20160506
+status:      published
+
+nic-hdl-br:  ALYAM
+person:      Alexandre Yamauchi
+created:     20070124
+changed:     20130520
+
+nic-hdl-br:  JABRI4
+person:      Jaime de Britto
+created:     20070124
+changed:     20151116
+
+nic-hdl-br:  RAITR3
+person:      Resposta a Incidentes do TRT-9
+created:     20160502
+changed:     20160502
+
+

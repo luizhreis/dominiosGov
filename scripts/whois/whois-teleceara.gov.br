@@ -1,0 +1,32 @@
+
+
+
+domain:      teleceara.gov.br
+owner:       Tele Norte Leste Participações S.A.
+responsible: CONTATO ADMINISTRATIVO OI
+country:     BR
+owner-c:     COAOI
+admin-c:     COAOI
+tech-c:      ART3
+billing-c:   COAOI
+nserver:     venus.telemar.com.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns01.telemar.com.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     before 19950101
+changed:     20150803
+status:      published
+
+nic-hdl-br:  ART3
+person:      Gerencia do Backbone TELEMAR -BRASIL
+created:     19971219
+changed:     20051004
+
+nic-hdl-br:  COAOI
+person:      Contato Administrativo Oi
+created:     20150723
+changed:     20150810
+
+

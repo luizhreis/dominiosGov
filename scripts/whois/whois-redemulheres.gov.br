@@ -1,0 +1,31 @@
+
+
+
+domain:      redemulheres.gov.br
+owner:       MINISTERIO DO MEIO AMBIENTE
+responsible: Coord Geral de Tec. da Informação e Info
+country:     BR
+owner-c:     MMR
+admin-c:     MMR
+tech-c:      MMR
+billing-c:   MMR
+nserver:     ns1.mma.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.mma.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    57378 RSA/SHA-1 31BBB50B68B9B89E484E8934C7B36B65964A7DC7
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+saci:        yes
+created:     20130820 #11876431
+changed:     20160411
+status:      published
+
+nic-hdl-br:  MMR
+person:      Ministério do Meio Ambiente
+created:     19980109
+changed:     20151014
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      dnocs.gov.br
+owner:       DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS
+responsible: Walter Gomes de Sousa
+country:     BR
+owner-c:     MFP90
+admin-c:     MFP90
+tech-c:      AMPNE17
+billing-c:   MFP90
+nserver:     ns1.dnocs.gov.br 201.18.141.2 2804:d4b:0:de85::aaa2
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.dnocs.gov.br 201.18.141.3 2804:d4b:0:de85::aaa3
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19990210 #139185
+changed:     20150904
+status:      published
+
+nic-hdl-br:  AMPNE17
+person:      Alexandre Muzzio de Paiva Neto
+created:     20130528
+changed:     20130528
+
+nic-hdl-br:  MFP90
+person:      Maria de Fatima Ramalho de Paula
+created:     20010914
+changed:     20150210
+
+

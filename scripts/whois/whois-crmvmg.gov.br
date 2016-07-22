@@ -1,0 +1,40 @@
+
+
+
+domain:      crmvmg.gov.br
+owner:       Cons. Reg. de Medicina Veterinaria do Est. de MG
+responsible: Fernando Cruz Laender
+country:     BR
+owner-c:     JOPAM
+admin-c:     JOPAM
+tech-c:      JOPAM
+billing-c:   JOPAM
+nserver:     nsb1.k8.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     nsb2.k8.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     nsb3.k8.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     nsb4.k8.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     nsb5.k8.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     nsb6.k8.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20150109 #13697332
+changed:     20150109
+status:      published
+
+nic-hdl-br:  JOPAM
+person:      Joaquim Paranhos Amancio
+created:     20061106
+changed:     20061106
+
+

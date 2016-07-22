@@ -1,0 +1,32 @@
+
+
+
+domain:      trensurb.gov.br
+owner:       MINISTERIO DOS TRANSPORTES
+responsible: Nubian Mendonça Amorim
+country:     BR
+owner-c:     SECDA3
+admin-c:     SECDA3
+tech-c:      SECDA3
+billing-c:   GLF41
+nserver:     serverdns1.procempa.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     serverdns2.procempa.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20020121 #721838
+changed:     20141127
+status:      published
+
+nic-hdl-br:  GLF41
+person:      Geraldo Luis Felippe
+created:     20011218
+changed:     20040714
+
+nic-hdl-br:  SECDA3
+person:      Serviço de Comunicação de Dados
+created:     20110722
+changed:     20160331
+
+

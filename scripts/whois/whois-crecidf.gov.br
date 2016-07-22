@@ -1,0 +1,33 @@
+
+
+
+domain:      crecidf.gov.br
+owner:       CONSELHO REGIONAL DE CORRETORES DE IMOVEIS CRECI
+responsible: Hermes Rodrigues de Alcântara Filho
+country:     BR
+owner-c:     HRF61
+admin-c:     HRF61
+tech-c:      ROM1194
+billing-c:   ROM1194
+nserver:     ns1.servidorlx1.com.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.servidorlx1.com.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+saci:        yes
+created:     20120112 #9323584
+changed:     20151014
+status:      published
+
+nic-hdl-br:  HRF61
+person:      hermes rodrigues de alcântara filho
+created:     20051121
+changed:     20140306
+
+nic-hdl-br:  ROM1194
+person:      Rodrigo Marques
+created:     20041105
+changed:     20140305
+
+

@@ -1,0 +1,33 @@
+
+
+
+domain:      saofrancisco.gov.br
+owner:       Companhia de Pesquisa de Recursos Minerais - CPRM
+responsible: Nelson Baptista de Oliveira Resende Cost
+country:     BR
+owner-c:     NBC10
+admin-c:     NBC10
+tech-c:      NBC10
+billing-c:   NBC10
+nserver:     dns1.emc.com.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    20160218
+nserver:     dns2.emc.com.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    20160218
+nserver:     dns3.emc.com.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    20160218
+nserver:     dns4.emc.com.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    20160218
+created:     19991013 #204971
+changed:     20160413
+status:      published
+
+nic-hdl-br:  NBC10
+person:      Nelson Baptista de Oliveira Resende Cost
+created:     20001103
+changed:     20030814
+
+

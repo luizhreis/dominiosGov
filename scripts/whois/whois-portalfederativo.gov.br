@@ -1,0 +1,37 @@
+
+
+
+domain:      portalfederativo.gov.br
+owner:       IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA
+responsible: MOISÉS HENRIQUE CASTRO DA SILVA
+country:     BR
+owner-c:     MHS92
+admin-c:     PSP4
+tech-c:      MAR79
+billing-c:   MAR79
+nserver:     alpha.planalto.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20060321 #2696932
+changed:     20121120
+status:      published
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+nic-hdl-br:  MHS92
+person:      Moises Henrique Castro da Silva
+created:     20011220
+changed:     20121121
+
+nic-hdl-br:  PSP4
+person:      José Eduardo M. S. Brandão
+created:     19980306
+changed:     20080519
+
+

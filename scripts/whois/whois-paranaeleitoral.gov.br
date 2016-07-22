@@ -1,0 +1,27 @@
+
+
+
+domain:      paranaeleitoral.gov.br
+owner:       Tribunal Regional Eleitoral do Parana
+responsible: Gilmar José Fernandes de Deus
+country:     BR
+owner-c:     SEDSI27
+admin-c:     SEDSI27
+tech-c:      SEDSI27
+billing-c:   SEDSI27
+nserver:     ns1.onda.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20140503
+nserver:     ns2.onda.com.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20140503
+created:     20020808 #930037
+changed:     20120320
+status:      published
+
+nic-hdl-br:  SEDSI27
+person:      Seção de Desenvolvimento de Sistemas
+created:     20120320
+changed:     20120426
+
+

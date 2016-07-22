@@ -1,0 +1,32 @@
+
+
+
+domain:      cetem.gov.br
+owner:       CENTRO DE TECNOLOGIA MINERAL
+responsible: Jackson de Figueiredo Neto
+country:     BR
+owner-c:     SEGES3
+admin-c:     SEGES3
+tech-c:      SERED
+billing-c:   SEGES3
+nserver:     ns.cetem.gov.br 200.20.105.5 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.cetem.gov.br 200.20.105.6 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     before 19950101
+changed:     20131002
+status:      published
+
+nic-hdl-br:  SEGES3
+person:      SEIN GESTAO
+created:     20100602
+changed:     20100602
+
+nic-hdl-br:  SERED
+person:      SEIN REDES
+created:     20100602
+changed:     20141210
+
+

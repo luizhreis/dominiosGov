@@ -1,0 +1,32 @@
+
+
+
+domain:      tre-ro.gov.br
+owner:       Tribunal Regional Eleitoral de Rondônia
+responsible: Domingos Savio de Souza Ribeiro
+country:     BR
+owner-c:     DCC
+admin-c:     DCC
+tech-c:      DCC
+billing-c:   DSR17
+nserver:     sauron.tse.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     saruman.tse.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19980805 #108620
+changed:     20150108
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  DSR17
+person:      domingos savio de souza ribeiro
+created:     20000309
+changed:     20000309
+
+

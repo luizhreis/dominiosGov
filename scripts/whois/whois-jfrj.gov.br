@@ -1,0 +1,27 @@
+
+
+
+domain:      jfrj.gov.br
+owner:       JUSTICA FEDERAL DE PRIMEIRO GRAU NO RIO DE JANEIR
+responsible: Luis Carlos de Freitas
+country:     BR
+owner-c:     LUCFR32
+admin-c:     LUCFR32
+tech-c:      LUCFR32
+billing-c:   LUCFR32
+nserver:     ns1.jfrj.gov.br 177.223.208.11 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.jfrj.gov.br 177.223.208.12 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19970919 #58721
+changed:     20141124
+status:      published
+
+nic-hdl-br:  LUCFR32
+person:      Luis Carlos de Freitas
+created:     20090714
+changed:     20140525
+
+

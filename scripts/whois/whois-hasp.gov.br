@@ -1,0 +1,27 @@
+
+
+
+domain:      hasp.gov.br
+owner:       Hospital da Aeronautica de Sao Paulo
+responsible: Delmar Demarchi
+country:     BR
+owner-c:     CRS114
+admin-c:     CRS114
+tech-c:      CRS114
+billing-c:   CRS114
+nserver:     ns1.hasp.gov.br 200.234.222.240 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20120717
+nserver:     ns2.hasp.gov.br 200.234.222.243 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20120717
+created:     19980916 #116858
+changed:     20070116
+status:      published
+
+nic-hdl-br:  CRS114
+person:      Cassio Roberto da Silva
+created:     20000208
+changed:     20160512
+
+

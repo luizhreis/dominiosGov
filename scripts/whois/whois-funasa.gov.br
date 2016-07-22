@@ -1,0 +1,27 @@
+
+
+
+domain:      funasa.gov.br
+owner:       FUNDAÇÃO NACIONAL DE SAÚDE
+responsible: REDE FUNASA
+country:     BR
+owner-c:     MVO3
+admin-c:     MVO3
+tech-c:      MVO3
+billing-c:   MVO3
+nserver:     jatene.funasa.gov.br 200.252.231.69 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     zerbini.funasa.gov.br 200.252.231.80 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20000531 #348663
+changed:     20070821
+status:      published
+
+nic-hdl-br:  MVO3
+person:      MARIOSAN MACIEL
+created:     19980908
+changed:     20060712
+
+

@@ -1,0 +1,37 @@
+
+
+
+domain:      am.gov.br
+owner:       PRODAM Processamento de Dados Amazonas S.A
+responsible: Alexandre Augusto Guedes Guimarães
+country:     BR
+owner-c:     ANSNA49
+admin-c:     ANSNA49
+tech-c:      FAAAN28
+billing-c:   JMPFI9
+nserver:     ns1.am.gov.br 177.66.10.132 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.am.gov.br 177.66.10.133 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19961128
+changed:     20151013
+status:      published
+
+nic-hdl-br:  ANSNA49
+person:      Anderson Silva do Nascimento
+created:     20130424
+changed:     20141014
+
+nic-hdl-br:  FAAAN28
+person:      Fábio Alessandro de Araújo Antonaccio
+created:     20130423
+changed:     20140701
+
+nic-hdl-br:  JMPFI9
+person:      José Maria Pinto de Figueiredo
+created:     20130425
+changed:     20130425
+
+

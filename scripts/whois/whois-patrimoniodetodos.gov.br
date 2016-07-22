@@ -1,0 +1,36 @@
+
+
+
+domain:      patrimoniodetodos.gov.br
+owner:       Secretaria do Patromônio da União
+responsible: Gustavo Ferreira Bechelany
+country:     BR
+owner-c:     VRCSI3
+admin-c:     VRCSI3
+tech-c:      VRCSI3
+billing-c:   VRCSI3
+nserver:     antares.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20090930 #5992626
+changed:     20100202
+status:      published
+
+nic-hdl-br:  VRCSI3
+person:      Vitor Reis da Costa da Silva
+created:     20090812
+changed:     20090812
+
+

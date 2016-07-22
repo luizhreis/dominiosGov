@@ -1,0 +1,41 @@
+
+
+
+domain:      portaldoempreendedor.gov.br
+owner:       MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI
+responsible: Alessandro Franca Dantas
+country:     BR
+owner-c:     MDC167
+admin-c:     MDC167
+tech-c:      MRV103
+billing-c:   MDC167
+nserver:     antares.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20090630 #5695847
+changed:     20100205
+status:      published
+
+nic-hdl-br:  MDC167
+person:      Ministério do Desenv. Indústria Comércio
+created:     20040901
+changed:     20160627
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+

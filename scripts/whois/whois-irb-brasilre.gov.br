@@ -1,0 +1,41 @@
+
+
+
+domain:      irb-brasilre.gov.br
+owner:       IRB - BRASIL RESSEGUROS SA
+responsible: Guilherme Rufino Jr
+country:     BR
+owner-c:     GURJR
+admin-c:     AKG6
+tech-c:      AKG6
+billing-c:   AKG6
+nserver:     ns01.irb-brasilre.gov.br 187.115.150.60 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns02.irb-brasilre.gov.br 189.21.137.28 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns04.irb-brasilre.gov.br 189.125.172.126 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns05.irb-brasilre.gov.br 191.251.129.222 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns03.irb-brasilre.gov.br 189.125.142.69 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20090616 #5575493
+changed:     20150818
+status:      published
+
+nic-hdl-br:  AKG6
+person:      Afranio Killins Gehrt
+created:     19980323
+changed:     20080604
+
+nic-hdl-br:  GURJR
+person:      Guilherme Rufino Jr
+created:     20140515
+changed:     20140515
+
+

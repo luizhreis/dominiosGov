@@ -1,0 +1,35 @@
+
+
+
+domain:      eletronuclear.gov.br
+owner:       Eletrobrás Termonuclear SA
+responsible: Charles Jean Rosier
+country:     BR
+owner-c:     EPB6
+admin-c:     EPB6
+tech-c:      EPB6
+billing-c:   CJR3
+nserver:     angra.eletronuclear.gov.br 187.16.117.63 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-rj-1.mundivox.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     nobelio.eletronuclear.gov.br 191.0.79.63 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19980507 #95963
+changed:     20150805
+status:      published
+
+nic-hdl-br:  CJR3
+person:      Charles Jean Rosier
+created:     19980407
+changed:     20050822
+
+nic-hdl-br:  EPB6
+person:      ernani paes de barros
+created:     19990816
+changed:     20140422
+
+

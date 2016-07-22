@@ -1,0 +1,41 @@
+
+
+
+domain:      acraiz.gov.br
+owner:       Instituto Nacional de Tecnologia Informação - ITI
+responsible: Maurício Augusto Coelho
+country:     BR
+owner-c:     JRGJU4
+admin-c:     JRGJU4
+tech-c:      GCSMA8
+billing-c:   JRGJU4
+nserver:     ns2.acraiz.gov.br 200.130.30.2 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns1.acraiz.gov.br 189.9.36.82 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns4.acraiz.gov.br 150.162.159.2 
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    9046 RSA/SHA-1 C3631E4AABBB394AB06BF9F97D45BFBF73AA9596
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+dsrecord:    9046 RSA/SHA-1 427B55302E87B9B9EA9F3202BEC525F9A12814113AC8AABE103AE3662824B132
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     20010725 #609551
+changed:     20150820
+status:      published
+
+nic-hdl-br:  GCSMA8
+person:      Geraldo Clay de Souza Maciel
+created:     20120315
+changed:     20130917
+
+nic-hdl-br:  JRGJU4
+person:      José Rodrigues Gonçalves Júnior
+created:     20090306
+changed:     20160504
+
+

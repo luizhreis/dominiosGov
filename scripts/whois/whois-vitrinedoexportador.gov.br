@@ -1,0 +1,33 @@
+
+
+
+domain:      vitrinedoexportador.gov.br
+owner:       MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI
+responsible: Alessandro Franca Dantas
+country:     BR
+owner-c:     MDC167
+admin-c:     MDC167
+tech-c:      MDC167
+billing-c:   MDC167
+nserver:     dns1.mdic.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns2.mdic.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns3.mdic.gov.br  
+nsstat:      20160630 FAIL
+nslastaa:    20160619
+nserver:     antares.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20040819 #1774074
+changed:     20130215
+status:      published
+
+nic-hdl-br:  MDC167
+person:      Ministério do Desenv. Indústria Comércio
+created:     20040901
+changed:     20160627
+
+

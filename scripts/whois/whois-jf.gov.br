@@ -1,0 +1,42 @@
+
+
+
+domain:      jf.gov.br
+owner:       CONSELHO DA JUSTICA FEDERAL
+responsible: Paulo Martins Inocêncio
+country:     BR
+owner-c:     PMI
+admin-c:     WNAJU
+tech-c:      AJM126
+billing-c:   PMI2
+nserver:     peba.jf.gov.br 201.49.156.2 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     curio.jf.gov.br 201.49.156.3 
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20050107 #1960548
+changed:     20140325
+status:      published
+
+nic-hdl-br:  AJM126
+person:      Adriana Jesus de Morais
+created:     20020723
+changed:     20140401
+
+nic-hdl-br:  PMI
+person:      Paulo Martins Inocencio
+created:     19980108
+changed:     20100826
+
+nic-hdl-br:  PMI2
+person:      Paulo Martins Inocencio
+created:     19980109
+changed:     20100826
+
+nic-hdl-br:  WNAJU
+person:      WILSON NOGUEIRA DE AQUINO JUNIOR
+created:     20140324
+changed:     20141031
+
+

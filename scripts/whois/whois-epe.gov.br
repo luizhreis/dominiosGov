@@ -1,0 +1,27 @@
+
+
+
+domain:      epe.gov.br
+owner:       Empresa de Pesquisa Energética
+responsible: Mauricio Tiomno Tolmasquim
+country:     BR
+owner-c:     EPT33
+admin-c:     EPT33
+tech-c:      EPT33
+billing-c:   EPT33
+nserver:     ns1.epe.gov.br 201.76.165.227 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns-rj-2.mundivox.com  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20050106 #1958251
+changed:     20080918
+status:      published
+
+nic-hdl-br:  EPT33
+person:      Empresa de Pesquisa Energetica - TIC
+created:     20050805
+changed:     20061116
+
+

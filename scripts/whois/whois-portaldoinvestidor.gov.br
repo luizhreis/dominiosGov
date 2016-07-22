@@ -1,0 +1,30 @@
+
+
+
+domain:      portaldoinvestidor.gov.br
+owner:       CVM - COMISSAO DE VALORES MOBILIARIOS
+responsible: Vinícius Gagno Lima
+country:     BR
+owner-c:     CVGTE
+admin-c:     CVGTE
+tech-c:      CVGTE
+billing-c:   CVGTE
+nserver:     marte.impsat.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     venus.impsat.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     hercules.impsat.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20061220 #3236285
+changed:     20140405
+status:      published
+
+nic-hdl-br:  CVGTE
+person:      CVM - Gerência de Tecnologia
+created:     20131206
+changed:     20140417
+
+

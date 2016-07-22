@@ -1,0 +1,28 @@
+
+
+
+domain:      relacoesexteriores.gov.br
+owner:       MINISTERIO DAS RELACOES EXTERIORES
+responsible: Nestor José Forster Junior
+country:     BR
+owner-c:     SAT7
+admin-c:     SAT7
+tech-c:      SAT7
+billing-c:   SAT7
+nserver:     ns01.relacoesexteriores.gov.br 177.43.73.13 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns02.relacoesexteriores.gov.br 201.36.109.13 
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20130502 #11413282
+changed:     20130508
+status:      published
+
+nic-hdl-br:  SAT7
+person:      Antonio Vieira
+created:     19981016
+changed:     20150521
+
+

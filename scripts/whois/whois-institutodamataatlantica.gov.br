@@ -1,0 +1,33 @@
+
+
+
+domain:      institutodamataatlantica.gov.br
+owner:       MUSEU DE BIOLOGIA PROFESSOR MELLO LEITAO
+responsible: HELIO DE QUEIROZ BOUDET FERNANDES
+country:     BR
+owner-c:     HQBFE
+admin-c:     HQBFE
+tech-c:      HDSUP
+billing-c:   HQBFE
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20140908 #13289046
+changed:     20160226
+status:      published
+
+nic-hdl-br:  HDSUP
+person:      HDI Suporte
+created:     20150414
+changed:     20150414
+
+nic-hdl-br:  HQBFE
+person:      Helio de Queiroz Boudet Fernandes
+created:     20110823
+changed:     20140903
+
+

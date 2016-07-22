@@ -1,0 +1,36 @@
+
+
+
+domain:      ppcaam.gov.br
+owner:       Secretaria de Direitos Humanos
+responsible: Marco Antônio Juliatto
+country:     BR
+owner-c:     MAAJU182
+admin-c:     CMP69
+tech-c:      CMP69
+billing-c:   CMP69
+nserver:     ns1.dominios.uol.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.dominios.uol.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.dominios.uol.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20101014 #7326223
+changed:     20101014
+status:      published
+
+nic-hdl-br:  CMP69
+person:      Cleber Mariano Pinto
+created:     20010424
+changed:     20160530
+
+nic-hdl-br:  MAAJU182
+person:      MARCO ANTÔNIO JULIATTO
+created:     20160412
+changed:     20160412
+
+

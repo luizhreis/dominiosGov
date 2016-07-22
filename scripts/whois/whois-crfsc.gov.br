@@ -1,0 +1,28 @@
+
+
+
+domain:      crfsc.gov.br
+owner:       Conselho Regional de Farmácia do Estado de SC
+responsible: José Valdemar Fertig
+country:     BR
+owner-c:     JOF197
+admin-c:     JOF197
+tech-c:      JOF197
+billing-c:   JOF197
+nserver:     ns1.crfsc.gov.br 187.49.226.210 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.crfsc.gov.br 187.49.226.211 
+nsstat:      20160629 AA
+nslastaa:    20160629
+saci:        yes
+created:     20150309 #13922961
+changed:     20151110
+status:      published
+
+nic-hdl-br:  JOF197
+person:      José Fertig
+created:     20020618
+changed:     20150305
+
+

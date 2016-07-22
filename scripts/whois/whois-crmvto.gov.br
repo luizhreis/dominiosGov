@@ -1,0 +1,28 @@
+
+
+
+domain:      crmvto.gov.br
+owner:       Conselho Regional de Medicina Veterinaria TO
+responsible: Conselho Regional de Medicina Veterinari
+country:     BR
+owner-c:     FZM13
+admin-c:     FZM13
+tech-c:      FZM13
+billing-c:   FZM13
+nserver:     nsb1.k8.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     nsb2.k8.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20131011 #12092731
+changed:     20131011
+status:      published
+
+nic-hdl-br:  FZM13
+person:      Fernando Zucuni Martini
+created:     20041215
+changed:     20090801
+
+

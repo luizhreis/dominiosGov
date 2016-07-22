@@ -1,0 +1,28 @@
+
+
+
+domain:      condraf.gov.br
+owner:       Ministerio do Desenvolvimento Agrario
+responsible: Coordenador Geral de Modernizacao e Info
+country:     BR
+owner-c:     ECLNA
+admin-c:     ECLNA
+tech-c:      ECLNA
+billing-c:   ECLNA
+nserver:     ns1.condraf.gov.br 200.198.212.52 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.condraf.gov.br 200.198.212.43 
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20160601 #15654749
+changed:     20160601
+status:      published
+
+nic-hdl-br:  ECLNA
+person:      Eduardo Camargos Lagares do Nascimento
+created:     20101116
+changed:     20140204
+
+

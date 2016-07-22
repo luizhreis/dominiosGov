@@ -1,0 +1,38 @@
+
+
+
+domain:      direitosdacrianca.gov.br
+owner:       Secretaria de Direitos Humanos
+responsible: Marco Antônio Juliatto
+country:     BR
+owner-c:     MAAJU182
+admin-c:     WEL52
+tech-c:      FRASO52
+billing-c:   WEL52
+nserver:     selene.sdh.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     geia.sdh.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20140519 #12854581
+changed:     20140519
+status:      published
+
+nic-hdl-br:  FRASO52
+person:      Francisco Araújo Soares
+created:     20130319
+changed:     20130319
+
+nic-hdl-br:  MAAJU182
+person:      MARCO ANTÔNIO JULIATTO
+created:     20160412
+changed:     20160412
+
+nic-hdl-br:  WEL52
+person:      Wesley Lira
+created:     20030519
+changed:     20130801
+
+

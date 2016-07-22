@@ -1,0 +1,32 @@
+
+
+
+domain:      tre-pb.gov.br
+owner:       Tribunal Regional Eleitoral da Paraíba
+responsible: Mário Luiz Dutra Martins
+country:     BR
+owner-c:     TRP12
+admin-c:     TRP12
+tech-c:      DCC
+billing-c:   TRP12
+nserver:     sauron.tse.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     saruman.tse.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19980415 #91806
+changed:     20140828
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  TRP12
+person:      Glauro Meira
+created:     20000303
+changed:     20110613
+
+

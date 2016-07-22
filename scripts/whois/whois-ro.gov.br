@@ -1,0 +1,30 @@
+
+
+
+domain:      ro.gov.br
+owner:       Secretaria de Estado - SEPLAD - RO
+responsible: George Alessandro Gonçalves Braga
+country:     BR
+owner-c:     FMDSA106
+admin-c:     FMDSA106
+tech-c:      FMDSA106
+billing-c:   FMDSA106
+nserver:     ns1.ro.gov.br 200.103.18.28 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     serverproxy.ro.gov.br 200.103.18.29 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     nsgov.ro.gov.br 200.103.18.30 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19970304
+changed:     20160125
+status:      published
+
+nic-hdl-br:  FMDSA106
+person:      Fred Michel dos Santos Afonso
+created:     20120206
+changed:     20160115
+
+

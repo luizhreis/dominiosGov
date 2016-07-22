@@ -1,0 +1,27 @@
+
+
+
+domain:      scdl.gov.br
+owner:       Seg. Com. Bras. Demarc. de Limites
+responsible: Andre Tadeu da Silva Selon
+country:     BR
+owner-c:     WRMKR
+admin-c:     WRMKR
+tech-c:      WRMKR
+billing-c:   WRMKR
+nserver:     dns1.superdns.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.superdns.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20000615 #353149
+changed:     20100126
+status:      published
+
+nic-hdl-br:  WRMKR
+person:      Wilson Ruy Mozzato Krukoski
+created:     20100118
+changed:     20100118
+
+

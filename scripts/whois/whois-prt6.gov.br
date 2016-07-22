@@ -1,0 +1,27 @@
+
+
+
+domain:      prt6.gov.br
+owner:       Procuradoria Regional do Trabalho - 6a Regiao
+responsible: Cicero Everardo Martins Macedo
+country:     BR
+owner-c:     GGP4
+admin-c:     GGP4
+tech-c:      GGP4
+billing-c:   GGP4
+nserver:     ns1.prt6.gov.br 200.140.135.98 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20100921
+nserver:     ns2.prt6.gov.br 200.140.135.99 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20100921
+created:     19980511 #96814
+changed:     20090211
+status:      published
+
+nic-hdl-br:  GGP4
+person:      Giorgio Gomes Padilha
+created:     19980507
+changed:     20040506
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      fundacentro.gov.br
+owner:       FUNDACENTRO - FUND.JORGE D.F. SEG. E MED. DO TRAB.
+responsible: Maria Amélia Gomes de Souza Reis
+country:     BR
+owner-c:     NOFJU
+admin-c:     NOFJU
+tech-c:      DIANJ18
+billing-c:   NOFJU
+nserver:     serverdns01.fundacentro.gov.br 200.18.52.34 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     server09.fundacentro.gov.br 200.18.52.35 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19970203 #29635
+changed:     20130715
+status:      published
+
+nic-hdl-br:  DIANJ18
+person:      Diego Anjos
+created:     20130711
+changed:     20130711
+
+nic-hdl-br:  NOFJU
+person:      Norsvaldo Ferraz Júnior
+created:     20070815
+changed:     20120530
+
+

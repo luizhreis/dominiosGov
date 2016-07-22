@@ -1,0 +1,27 @@
+
+
+
+domain:      eafcatu.gov.br
+owner:       Escola Agrotécnica Federal de Catu
+responsible: Sebastião Edson Moura
+country:     BR
+owner-c:     ASS387
+admin-c:     ASS387
+tech-c:      ASS387
+billing-c:   ASS387
+nserver:     svr01.eafcatu.gov.br 200.128.98.2 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20140120
+nserver:     svr02.eafcatu.gov.br 200.128.98.3 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20101214
+created:     20040218 #1533568
+changed:     20080916
+status:      published
+
+nic-hdl-br:  ASS387
+person:      Admilson santos de Santana
+created:     20021209
+changed:     20160415
+
+

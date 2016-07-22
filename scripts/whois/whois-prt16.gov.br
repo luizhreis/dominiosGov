@@ -1,0 +1,32 @@
+
+
+
+domain:      prt16.gov.br
+owner:       PROCURADORIA REGIONAL DO TRABALHO DA 16a REGIAO
+responsible: FREDERICO AUGUSTO REIS ALVES
+country:     BR
+owner-c:     FAA16
+admin-c:     FAA16
+tech-c:      SCA36
+billing-c:   SCA36
+nserver:     ns1.prt16.gov.br 200.249.155.2 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20090124
+nserver:     ns2.prt16.gov.br 200.249.155.3 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20090124
+created:     19990121 #135261
+changed:     20050322
+status:      published
+
+nic-hdl-br:  FAA16
+person:      Frederico Augusto Reis Alves
+created:     19980516
+changed:     20120726
+
+nic-hdl-br:  SCA36
+person:      Saulo Costa Arcangeli
+created:     20000727
+changed:     20000727
+
+

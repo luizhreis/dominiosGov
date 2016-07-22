@@ -1,0 +1,27 @@
+
+
+
+domain:      eafc.gov.br
+owner:       Instituto Federal de Mato Grosso - Cáceres
+responsible: Anderson Wesley Alves Bezerra
+country:     BR
+owner-c:     MBL321
+admin-c:     MBL321
+tech-c:      MBL321
+billing-c:   MBL321
+nserver:     www.eafc.gov.br 200.129.242.28 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20110228
+nserver:     ifmtc.eafc.gov.br 200.129.242.29 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20100414
+created:     20060905 #3035355
+changed:     20100414
+status:      published
+
+nic-hdl-br:  MBL321
+person:      Michelle Barbosa de Lima
+created:     20050802
+changed:     20050802
+
+

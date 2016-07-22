@@ -1,0 +1,27 @@
+
+
+
+domain:      ada.gov.br
+owner:       Superintedência do Denvolvimento da Amazônia
+responsible: Djalma Bezerra Mello
+country:     BR
+owner-c:     GGS4
+admin-c:     GGS4
+tech-c:      GGS4
+billing-c:   GGS4
+nserver:     marajo.ada.gov.br 201.56.146.12 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20120302
+nserver:     marajo1.ada.gov.br 201.56.146.6 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20120302
+created:     20020914 #958769
+changed:     20090208
+status:      published
+
+nic-hdl-br:  GGS4
+person:      Gilberto Gomes da Silveira
+created:     19980304
+changed:     20110330
+
+

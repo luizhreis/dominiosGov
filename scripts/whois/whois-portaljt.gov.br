@@ -1,0 +1,27 @@
+
+
+
+domain:      portaljt.gov.br
+owner:       TRIBUNAL SUPERIOR DO TRABALHO
+responsible: Leonardo Lobo Pulcineli
+country:     BR
+owner-c:     SCD13
+admin-c:     SCD13
+tech-c:      SCD13
+billing-c:   SCD13
+nserver:     ns1.portaljt.gov.br 201.49.155.100 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.portaljt.gov.br 201.49.155.101 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20010514 #562730
+changed:     20150304
+status:      published
+
+nic-hdl-br:  SCD13
+person:      Setor de Comunicação de Dados
+created:     20000517
+changed:     20100719
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      dnpm.gov.br
+owner:       Departamento Nacional de Producao Mineral
+responsible: Fábio Fernando Borges
+country:     BR
+owner-c:     FAFBO2
+admin-c:     FAFBO2
+tech-c:      MLGSI24
+billing-c:   FAFBO2
+nserver:     ns1.dnpm.gov.br 200.198.193.227 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.dnpm.gov.br 200.198.193.242 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19970402 #35177
+changed:     20150204
+status:      published
+
+nic-hdl-br:  FAFBO2
+person:      Fabio Fernando Borges
+created:     20070530
+changed:     20070530
+
+nic-hdl-br:  MLGSI24
+person:      Marcio Leal Gomes da Silva
+created:     20150204
+changed:     20150204
+
+

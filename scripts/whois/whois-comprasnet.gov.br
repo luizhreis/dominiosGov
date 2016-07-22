@@ -1,0 +1,46 @@
+
+
+
+domain:      comprasnet.gov.br
+owner:       SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO
+responsible: Alexandre dos Santos Ferreira
+country:     BR
+owner-c:     ADSFE47
+admin-c:     ADSFE47
+tech-c:      MRV103
+billing-c:   WEQLI
+nserver:     antares.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19990326 #149989
+changed:     20110502
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+nic-hdl-br:  WEQLI
+person:      WELDSON QUEIROZ DE LIMA
+created:     20100218
+changed:     20160204
+
+

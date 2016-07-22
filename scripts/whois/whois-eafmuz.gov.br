@@ -1,0 +1,32 @@
+
+
+
+domain:      eafmuz.gov.br
+owner:       Instituto Federal Sul de Minas Gerais
+responsible: Sergio Pedini
+country:     BR
+owner-c:     GMMPE2
+admin-c:     GRF28
+tech-c:      GRF28
+billing-c:   GRF28
+nserver:     ns3.eafmuz.gov.br 200.131.11.18 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20131123
+nserver:     ns10.eafmuz.gov.br 200.131.11.20 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20130417
+created:     20010607 #578355
+changed:     20090124
+status:      published
+
+nic-hdl-br:  GMMPE2
+person:      Gabriel Maduro Marcondes Pereira
+created:     20100804
+changed:     20130808
+
+nic-hdl-br:  GRF28
+person:      Geraldo Russo Filho
+created:     20010122
+changed:     20160117
+
+

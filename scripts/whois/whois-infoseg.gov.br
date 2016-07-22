@@ -1,0 +1,41 @@
+
+
+
+domain:      infoseg.gov.br
+owner:       Secretaria Nacional de Segurança Pública
+responsible: André Fagundes Mendes
+country:     BR
+owner-c:     ANFME67
+admin-c:     ANFME67
+tech-c:      MRV103
+billing-c:   ANFME67
+nserver:     antares.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20030611 #1233804
+changed:     20150702
+status:      published
+
+nic-hdl-br:  ANFME67
+person:      André Fagundes Mendes
+created:     20131112
+changed:     20150612
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+

@@ -1,0 +1,28 @@
+
+
+
+domain:      cnater.gov.br
+owner:       Ministerio do Desenvolvimento Agrario
+responsible: Coordenador Geral de Modernizacao e Info
+country:     BR
+owner-c:     ECLNA
+admin-c:     ECLNA
+tech-c:      ECLNA
+billing-c:   ECLNA
+nserver:     ns1.cnater.gov.br 200.198.212.52 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.cnater.gov.br 200.198.212.43 
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20150915 #14619667
+changed:     20150915
+status:      published
+
+nic-hdl-br:  ECLNA
+person:      Eduardo Camargos Lagares do Nascimento
+created:     20101116
+changed:     20140204
+
+

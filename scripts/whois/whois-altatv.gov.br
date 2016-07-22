@@ -1,0 +1,35 @@
+
+
+
+domain:      altatv.gov.br
+owner:       Centro de Tecnologia da Informação Renato Archer
+responsible: Antonio Montes Filho
+country:     BR
+owner-c:     ANM153
+admin-c:     PACBE47
+tech-c:      PACBE47
+billing-c:   PACBE47
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20100201 #6477007
+changed:     20150108
+status:      published
+
+nic-hdl-br:  ANM153
+person:      Antonio Montes
+created:     20000211
+changed:     20150108
+
+nic-hdl-br:  PACBE47
+person:      Paulo Cesar Berardi
+created:     20141203
+changed:     20141203
+
+

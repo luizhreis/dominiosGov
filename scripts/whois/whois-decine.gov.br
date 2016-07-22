@@ -1,0 +1,32 @@
+
+
+
+domain:      decine.gov.br
+owner:       FUNDAÇÃO NACIONAL DE ARTES
+responsible: SÉRGIO MAMBERTI
+country:     BR
+owner-c:     ROHSI8
+admin-c:     FCD97
+tech-c:      ROHSI8
+billing-c:   ROHSI8
+nserver:     ns.funarte.gov.br  
+nsstat:      20160630 UH
+nslastaa:    20100119
+nserver:     guanabara.rederio.br  
+nsstat:      20160630 FAIL
+nslastaa:    20100301
+created:     19990304 #145017
+changed:     20071212
+status:      published
+
+nic-hdl-br:  FCD97
+person:      Fabio Chaves Dias
+created:     20060112
+changed:     20060112
+
+nic-hdl-br:  ROHSI8
+person:      Romulo H. Silva
+created:     20071211
+changed:     20080901
+
+

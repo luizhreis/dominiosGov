@@ -1,0 +1,34 @@
+
+
+
+domain:      comunicacoes.gov.br
+owner:       Ministério das Comunicações
+responsible: Vanildo Pereira de Figueiredo
+country:     BR
+owner-c:     VPF2
+admin-c:     VPF2
+tech-c:      VPF2
+billing-c:   VPF2
+nserver:     mcdns.mc.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     mcdns3.mc.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     antares.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20120613 #10001332
+changed:     20150325
+status:      published
+
+nic-hdl-br:  VPF2
+person:      Vanildo Pereira de Figueiredo
+created:     19980521
+changed:     20130404
+
+

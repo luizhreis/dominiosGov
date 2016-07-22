@@ -1,0 +1,32 @@
+
+
+
+domain:      coren-mg.gov.br
+owner:       CONSELHO REGIONAL DE ENFERMAGEM DE MINAS GERAIS
+responsible: Marcos Rubio
+country:     BR
+owner-c:     UTCOR
+admin-c:     ROCOL105
+tech-c:      ROCOL105
+billing-c:   ROCOL105
+nserver:     ns1.corenmg.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.corenmg.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20090122 #5169547
+changed:     20130813
+status:      published
+
+nic-hdl-br:  ROCOL105
+person:      Rodrigo Colli
+created:     20100519
+changed:     20140623
+
+nic-hdl-br:  UTCOR
+person:      UTI Coren-MG
+created:     20140623
+changed:     20140623
+
+

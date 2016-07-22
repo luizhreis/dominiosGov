@@ -1,0 +1,40 @@
+
+
+
+domain:      mi.gov.br
+owner:       MINISTERIO DA INTEGRACAO NACIONAL
+responsible: Flavio Ferreira dos Santos
+country:     BR
+owner-c:     ADSFE47
+admin-c:     ADSFE47
+tech-c:      HEMGO28
+billing-c:   FFDSA72
+nserver:     ns1.mi.gov.br 200.198.213.91 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.mi.gov.br 200.198.213.92 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.mi.gov.br 189.9.5.199 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20160626
+created:     19990923 #202195
+changed:     20150624
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  FFDSA72
+person:      Flavio Ferreira dos Santos
+created:     20110628
+changed:     20110628
+
+nic-hdl-br:  HEMGO28
+person:      HELDER MOTA GOMES
+created:     20130925
+changed:     20160104
+
+

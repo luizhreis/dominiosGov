@@ -1,0 +1,32 @@
+
+
+
+domain:      agu.gov.br
+owner:       Advocacia-Geral da União
+responsible: Marconi Goncalves Brasileiro de SantAnna
+country:     BR
+owner-c:     DIDAG7
+admin-c:     DIDAG7
+tech-c:      MCTMA
+billing-c:   DIDAG7
+nserver:     ns1.agu.gov.br 189.125.68.11 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.agu.gov.br 186.231.10.11 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19990121 #135851
+changed:     20140731
+status:      published
+
+nic-hdl-br:  DIDAG7
+person:      Diretor DTI - AGU
+created:     20140321
+changed:     20140818
+
+nic-hdl-br:  MCTMA
+person:      Mônica Costa Tkaczyk Martins
+created:     20080620
+changed:     20080620
+
+

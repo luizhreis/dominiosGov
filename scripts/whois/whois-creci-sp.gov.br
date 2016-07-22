@@ -1,0 +1,27 @@
+
+
+
+domain:      creci-sp.gov.br
+owner:       CONSELHO REGIONAL DE CORRETORES DE IMOVEIS SP
+responsible: José Augusto Viana Neto
+country:     BR
+owner-c:     CSSPA
+admin-c:     CSSPA
+tech-c:      CSSPA
+billing-c:   CSSPA
+nserver:     ns1.penso.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.penso.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20080612 #4543146
+changed:     20150924
+status:      published
+
+nic-hdl-br:  CSSPA
+person:      CRECI SEDE SAO PAULO
+created:     20071204
+changed:     20150923
+
+

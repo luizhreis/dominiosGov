@@ -1,0 +1,35 @@
+
+
+
+domain:      certidaodenascimento.gov.br
+owner:       Secretaria de Direitos Humanos
+responsible: Marco Antônio Juliatto
+country:     BR
+owner-c:     MAAJU182
+admin-c:     WEL52
+tech-c:      WEL52
+billing-c:   WEL52
+nserver:     dere-01.dataprev.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     dere-02.dataprev.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     poodle.dtpdf.gov.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20090820 #5868501
+changed:     20150113
+status:      published
+
+nic-hdl-br:  MAAJU182
+person:      MARCO ANTÔNIO JULIATTO
+created:     20160412
+changed:     20160412
+
+nic-hdl-br:  WEL52
+person:      Wesley Lira
+created:     20030519
+changed:     20130801
+
+

@@ -1,0 +1,38 @@
+
+
+
+domain:      mpa.gov.br
+owner:       Ministério da Pesca e Aquicultura
+responsible: Ministro Marcelo Bezerra Crivella
+country:     BR
+owner-c:     RESCA114
+admin-c:     MAS3725
+tech-c:      MAS3725
+billing-c:   MAS3725
+nserver:     masrv1051.agricultura.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     masrv1052.agricultura.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    16636 RSA/SHA-256 8274DC702BD0DB31285E058435190F27A266C0C8
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+dsrecord:    16636 RSA/SHA-256 BD2A9B21842FE2056B1835CDE947C00411C595DFD390734FC56D1BC9A26F7786
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     20091109 #6243968
+changed:     20151209
+status:      published
+
+nic-hdl-br:  MAS3725
+person:      Marco Antonio Bittencourt Sucupira
+created:     20050512
+changed:     20080319
+
+nic-hdl-br:  RESCA114
+person:      Renato Silva de Castro
+created:     20121217
+changed:     20140825
+
+

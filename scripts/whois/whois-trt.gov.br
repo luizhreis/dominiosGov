@@ -1,0 +1,37 @@
+
+
+
+domain:      trt.gov.br
+owner:       TRIBUNAL REGIONAL DO TRABALHO DA 3A REGIAO
+responsible: Guilherme Augusto de Araujo
+country:     BR
+owner-c:     SEMVE4
+admin-c:     GAPFA4
+tech-c:      JOPVI11
+billing-c:   JOPVI11
+nserver:     ns1.trt.gov.br 192.100.177.148 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.trt.gov.br 192.100.177.149 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960422 #7055
+changed:     20150318
+status:      published
+
+nic-hdl-br:  GAPFA4
+person:      Gilberto Atman Picardi Faria
+created:     20120925
+changed:     20120925
+
+nic-hdl-br:  JOPVI11
+person:      Josiane Pereira Vitor
+created:     20091209
+changed:     20120925
+
+nic-hdl-br:  SEMVE4
+person:      SERGIO MECHELANY VELOSO
+created:     20150313
+changed:     20150313
+
+

@@ -1,0 +1,28 @@
+
+
+
+domain:      querovercultura.gov.br
+owner:       Ministério da Cultura
+responsible: CGTI SPOA SE MinC
+country:     BR
+owner-c:     MICUL2
+admin-c:     MICUL2
+tech-c:      MICUL2
+billing-c:   MICUL2
+nserver:     ns1.querovercultura.gov.br 200.198.204.91 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.querovercultura.gov.br 200.198.204.92 
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20151215 #15015025
+changed:     20151215
+status:      published
+
+nic-hdl-br:  MICUL2
+person:      Ministério da Cultura
+created:     20130321
+changed:     20150917
+
+

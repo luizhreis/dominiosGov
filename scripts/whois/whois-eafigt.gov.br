@@ -1,0 +1,27 @@
+
+
+
+domain:      eafigt.gov.br
+owner:       ESCOLA AGROTECNICA FEDERAL DE IGUATU-C
+responsible: PEDRO NORMANDO FEITOZA
+country:     BR
+owner-c:     EAI15
+admin-c:     EAI15
+tech-c:      EAI15
+billing-c:   EAI15
+nserver:     ns1.insite.com.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20111114
+nserver:     ns3.insite.com.br  
+nsstat:      20160701 FAIL
+nslastaa:    20111018
+created:     20020222 #737396
+changed:     20071228
+status:      published
+
+nic-hdl-br:  EAI15
+person:      ESCOLA AGROTECNICA FEDERAL DE IGUATU-CE
+created:     20020218
+changed:     20110103
+
+

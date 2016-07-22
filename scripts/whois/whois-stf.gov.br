@@ -1,0 +1,42 @@
+
+
+
+domain:      stf.gov.br
+owner:       SUPREMO TRIBUNAL FEDERAL
+responsible: Erick Dantas Rotole
+country:     BR
+owner-c:     EDR194
+admin-c:     SETIN14
+tech-c:      SGSRE3
+billing-c:   GASTI6
+nserver:     dns1.stf.gov.br 201.49.144.168 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns2.stf.gov.br 201.49.144.145 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960416 #6820
+changed:     20141008
+status:      published
+
+nic-hdl-br:  EDR194
+person:      Erick Dantas Rotole
+created:     20020322
+changed:     20110217
+
+nic-hdl-br:  GASTI6
+person:      Gabinete do Secretário de TI
+created:     20141008
+changed:     20141008
+
+nic-hdl-br:  SETIN14
+person:      Secretaria de Tecnologia da Informação
+created:     20140925
+changed:     20140925
+
+nic-hdl-br:  SGSRE3
+person:      Seção de Gerência e Segurança de Redes
+created:     20140925
+changed:     20141009
+
+

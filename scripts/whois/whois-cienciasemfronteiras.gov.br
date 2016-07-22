@@ -1,0 +1,38 @@
+
+
+
+domain:      cienciasemfronteiras.gov.br
+owner:       FUNDACAO CAPES
+responsible: Sergio da Costa Cortes
+country:     BR
+owner-c:     FUCAP4
+admin-c:     FUCAP4
+tech-c:      GUS228
+billing-c:   LUSMA43
+nserver:     dns1.cnpq.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns2.cnpq.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+saci:        yes
+created:     20111201 #9160529
+changed:     20140311
+status:      published
+
+nic-hdl-br:  FUCAP4
+person:      Fundação CAPES
+created:     20121123
+changed:     20140422
+
+nic-hdl-br:  GUS228
+person:      Guido Saenen
+created:     20050603
+changed:     20120308
+
+nic-hdl-br:  LUSMA43
+person:      Luiz S. Maia
+created:     20100325
+changed:     20100325
+
+

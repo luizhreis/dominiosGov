@@ -1,0 +1,27 @@
+
+
+
+domain:      mtbauru.gov.br
+owner:       Ministério do Trabalho e Emprego - MTE
+responsible: Sérgio da Silva Branco
+country:     BR
+owner-c:     RRB72
+admin-c:     RRB72
+tech-c:      RRB72
+billing-c:   RRB72
+nserver:     firewalls.com.br  
+nsstat:      20160630 CREFUSED
+nslastaa:    20050630
+nserver:     adaptanet.com.br  
+nsstat:      20160630 UH
+nslastaa:    20040925
+created:     20020716 #913109
+changed:     20020716
+status:      published
+
+nic-hdl-br:  RRB72
+person:      Rodrigo Rubira Branco
+created:     20010711
+changed:     20080524
+
+

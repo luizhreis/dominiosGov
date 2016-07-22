@@ -1,0 +1,32 @@
+
+
+
+domain:      tre-ap.gov.br
+owner:       Tribunal Regional Eleitoral do Amapá
+responsible: Maria de Nazaré Rodrigues
+country:     BR
+owner-c:     DCC
+admin-c:     DCC
+tech-c:      DCC
+billing-c:   WOS3
+nserver:     sauron.tse.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     saruman.tse.jus.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19980805 #106206
+changed:     20150108
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  WOS3
+person:      Wander Oliveira Sobral
+created:     19980202
+changed:     19980202
+
+

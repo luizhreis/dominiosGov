@@ -1,0 +1,35 @@
+
+
+
+domain:      finep.gov.br
+owner:       FINANCIADORA DE ESTUDOS E PROJETOS - FINEP
+responsible: Wanderley de Souza
+country:     BR
+owner-c:     CAZ89
+admin-c:     CAZ89
+tech-c:      MPP41
+billing-c:   CAZ89
+nserver:     ns1.finep.gov.br 200.159.251.1 
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     ns2.finep.gov.br 200.159.251.31 
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     teyr.na-cp.rnp.br  
+nsstat:      20160626 AA
+nslastaa:    20160626
+created:     before 19950101
+changed:     20141105
+status:      published
+
+nic-hdl-br:  CAZ89
+person:      Carlos Alberto Zani
+created:     20040914
+changed:     20040914
+
+nic-hdl-br:  MPP41
+person:      Marconi Ponte Pereira
+created:     20000512
+changed:     20160613
+
+

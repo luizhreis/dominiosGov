@@ -1,0 +1,27 @@
+
+
+
+domain:      inmetro-sc.gov.br
+owner:       Inst Nac Metrologia e Norm Ind
+responsible: Gilberto Albuquerque
+country:     BR
+owner-c:     GIA9
+admin-c:     GIA9
+tech-c:      GIA9
+billing-c:   GIA9
+nserver:     dns.inmetro-sc.gov.br 200.135.32.225 
+nsstat:      20160701 QREFUSED
+nslastaa:    20130809
+nserver:     dns2.inmetro-sc.gov.br 200.135.32.226 
+nsstat:      20160701 QREFUSED
+nslastaa:    20130809
+created:     20010713 #599347
+changed:     20080206
+status:      published
+
+nic-hdl-br:  GIA9
+person:      Gilberto Albuquerque
+created:     19990621
+changed:     20070920
+
+

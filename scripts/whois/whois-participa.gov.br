@@ -1,0 +1,42 @@
+
+
+
+domain:      participa.gov.br
+owner:       SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA
+responsible: Secretaria de Administração
+country:     BR
+owner-c:     MAR79
+admin-c:     MAR79
+tech-c:      MRV103
+billing-c:   MAR79
+nserver:     antares.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20131016 #12086744
+changed:     20131016
+status:      published
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+

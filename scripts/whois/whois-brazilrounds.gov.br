@@ -1,0 +1,27 @@
+
+
+
+domain:      brazilrounds.gov.br
+owner:       Agência Nacional do Petróleo, Gás Natural e Bioco.
+responsible: Sergio Fontoura de Oliveira
+country:     BR
+owner-c:     RALFA27
+admin-c:     RALFA27
+tech-c:      RALFA27
+billing-c:   RALFA27
+nserver:     ns1.anp.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.anp.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20001010 #436444
+changed:     20150818
+status:      published
+
+nic-hdl-br:  RALFA27
+person:      Raquel Lima Façanha
+created:     20150717
+changed:     20160106
+
+

@@ -1,0 +1,30 @@
+
+
+
+domain:      crbio02.gov.br
+owner:       Conselho Regional Biologia 2ª Reg RJ/ES
+responsible: Vicente Moreira Conti
+country:     BR
+owner-c:     DRS76
+admin-c:     DRS76
+tech-c:      DRS76
+billing-c:   DRS76
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20090216 #5228657
+changed:     20090216
+status:      published
+
+nic-hdl-br:  DRS76
+person:      Daniel Ribeiro dos Santos
+created:     20020111
+changed:     20040511
+
+

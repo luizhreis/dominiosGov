@@ -1,0 +1,27 @@
+
+
+
+domain:      prf.gov.br
+owner:       Departamento de Polícia Rodoviária Federal
+responsible: Divisão de Telemática
+country:     BR
+owner-c:     DITEL10
+admin-c:     DITEL10
+tech-c:      DITEL10
+billing-c:   DITEL10
+nserver:     ns3.prf.gov.br 189.9.13.205 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns4.prf.gov.br 189.9.13.210 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20150521
+created:     20030530 #1227299
+changed:     20160202
+status:      published
+
+nic-hdl-br:  DITEL10
+person:      Divisão de Telemática
+created:     20141111
+changed:     20160202
+
+

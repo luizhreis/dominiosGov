@@ -1,0 +1,27 @@
+
+
+
+domain:      esmpu.gov.br
+owner:       ESCOLA SUPERIOR DO MINISTÉRIO PÚBLICO DA UNIÃO
+responsible: Dr. Carlos Henrique Martins Lima
+country:     BR
+owner-c:     ESATE4
+admin-c:     ESATE4
+tech-c:      ESATE4
+billing-c:   ESATE4
+nserver:     capella.mpf.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     vega.mpf.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20030107 #1045091
+changed:     20130610
+status:      published
+
+nic-hdl-br:  ESATE4
+person:      ESMPU Secretaria de Admin. e Tecnologia
+created:     20130605
+changed:     20160502
+
+

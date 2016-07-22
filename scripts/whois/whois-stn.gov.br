@@ -1,0 +1,41 @@
+
+
+
+domain:      stn.gov.br
+owner:       Secretaria do Tesouro Nacional
+responsible: Lincoln Moreira Jorge Junior
+country:     BR
+owner-c:     MNR
+admin-c:     MNR
+tech-c:      ROFFR86
+billing-c:   MNR
+nserver:     antares.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20090811 #5830758
+changed:     20160429
+status:      published
+
+nic-hdl-br:  MNR
+person:      Marcio Nahas Ribeiro
+created:     19980314
+changed:     20050801
+
+nic-hdl-br:  ROFFR86
+person:      RODRIGO FERNANDES FRANÇA
+created:     20160215
+changed:     20160215
+
+

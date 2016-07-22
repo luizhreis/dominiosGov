@@ -1,0 +1,27 @@
+
+
+
+domain:      ctlivre.gov.br
+owner:       Ministério da Ciência e Tecnologia
+responsible: Administrativo NIC
+country:     BR
+owner-c:     ADNMC
+admin-c:     ADNMC
+tech-c:      ADNMC
+billing-c:   ADNMC
+nserver:     faraday.ctlivre.gov.br 200.130.17.130 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20141126
+nserver:     planck.ctlivre.gov.br 200.130.9.1 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20160627
+created:     20041116 #1875160
+changed:     20130204
+status:      published
+
+nic-hdl-br:  ADNMC
+person:      Administrativo Nic MCTI
+created:     20121123
+changed:     20150603
+
+

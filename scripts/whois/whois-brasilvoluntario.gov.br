@@ -1,0 +1,28 @@
+
+
+
+domain:      brasilvoluntario.gov.br
+owner:       Ministério do Esporte
+responsible: Thiago Mendonça de Souza
+country:     BR
+owner-c:     JORLO58
+admin-c:     JORLO58
+tech-c:      JORLO58
+billing-c:   JORLO58
+nserver:     ns1.brasilvoluntario.gov.br 200.130.15.217 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.brasilvoluntario.gov.br 200.130.15.215 
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20121116 #10719025
+changed:     20140228
+status:      published
+
+nic-hdl-br:  JORLO58
+person:      José Roberto Loureiro
+created:     20121008
+changed:     20131022
+
+

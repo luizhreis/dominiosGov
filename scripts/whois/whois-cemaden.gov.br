@@ -1,0 +1,31 @@
+
+
+
+domain:      cemaden.gov.br
+owner:       INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS
+responsible: Leonel Fernando Perondi
+country:     BR
+owner-c:     BPF7
+admin-c:     BPF7
+tech-c:      BPF7
+billing-c:   BPF7
+nserver:     giotto.dpi.inpe.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     lagavulin.ltid.inpe.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     anace.gsr.inpe.br  
+nsstat:      20160627 AA
+nslastaa:    20160627
+saci:        yes
+created:     20110930 #8851138
+changed:     20130912
+status:      published
+
+nic-hdl-br:  BPF7
+person:      Benicio Pereira de Carvalho Filho
+created:     19990805
+changed:     20150318
+
+

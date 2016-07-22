@@ -1,0 +1,27 @@
+
+
+
+domain:      jornadasdip.gov.br
+owner:       Ministério das Relações Exteriores - DCD
+responsible: Nestor José Forster Junior
+country:     BR
+owner-c:     SAT7
+admin-c:     SAT7
+tech-c:      SAT7
+billing-c:   SAT7
+nserver:     ns01.itamaraty.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns02.itamaraty.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20051101 #2449362
+changed:     20110906
+status:      published
+
+nic-hdl-br:  SAT7
+person:      Antonio Vieira
+created:     19981016
+changed:     20150521
+
+

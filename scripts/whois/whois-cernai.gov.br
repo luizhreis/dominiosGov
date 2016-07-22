@@ -1,0 +1,32 @@
+
+
+
+domain:      cernai.gov.br
+owner:       Departamento de Controle do Espaço Aéreo
+responsible: Seção de Rede Local
+country:     BR
+owner-c:     ADRED14
+admin-c:     ADRED14
+tech-c:      MVF212
+billing-c:   MVF212
+nserver:     dns1.decea.gov.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20160622
+nserver:     dns2.decea.gov.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20141115
+created:     20040722 #1735827
+changed:     20140124
+status:      published
+
+nic-hdl-br:  ADRED14
+person:      Administracao de Rede
+created:     20140124
+changed:     20160301
+
+nic-hdl-br:  MVF212
+person:      Marcelo Valverde Fernandes
+created:     20050630
+changed:     20050630
+
+

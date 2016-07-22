@@ -1,0 +1,27 @@
+
+
+
+domain:      tavbrasil.gov.br
+owner:       Agência Nacional de Transportes Terrestres
+responsible: Gerência de Tecnologia da Informação
+country:     BR
+owner-c:     MAFSO91
+admin-c:     MAFSO91
+tech-c:      MAFSO91
+billing-c:   MAFSO91
+nserver:     ns01sn.tavbrasil.gov.br 189.9.36.133 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns02en.tavbrasil.gov.br 201.73.102.132 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20090618 #5679250
+changed:     20160217
+status:      published
+
+nic-hdl-br:  MAFSO91
+person:      Marcos Flávio de Souza
+created:     20091201
+changed:     20160217
+
+

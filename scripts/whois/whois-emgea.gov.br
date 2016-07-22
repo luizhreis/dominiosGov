@@ -1,0 +1,30 @@
+
+
+
+domain:      emgea.gov.br
+owner:       Empresa Gestora de Ativos - EMGEA
+responsible: Paulo de Tarso C. Campolina de Oliveira
+country:     BR
+owner-c:     SUT30
+admin-c:     SUT30
+tech-c:      SUT30
+billing-c:   SUT30
+nserver:     seth.emgea.gov.br 189.73.194.245 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     seth2.emgea.gov.br 189.73.194.246 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     seth3.emgea.gov.br 189.73.194.249 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20010910 #633340
+changed:     20120418
+status:      published
+
+nic-hdl-br:  SUT30
+person:      Superintendencia de Tecnologia
+created:     20041020
+changed:     20110913
+
+

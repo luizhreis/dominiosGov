@@ -1,0 +1,32 @@
+
+
+
+domain:      senad.gov.br
+owner:       PRESIDENCIA DA REPUBLICA
+responsible: Secretaria de Administração
+country:     BR
+owner-c:     MAR79
+admin-c:     MAR79
+tech-c:      CCO83
+billing-c:   CCO83
+nserver:     weber.mj.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     weil.mj.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19981029 #123648
+changed:     20120104
+status:      published
+
+nic-hdl-br:  CCO83
+person:      CLEITON CARDOSO DE OLIVEIRA
+created:     20050221
+changed:     20081119
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+

@@ -1,0 +1,39 @@
+
+
+
+domain:      crbm5.gov.br
+owner:       Conselho Regional de Biomedicina 5ª Região
+responsible: Renato Minozzo
+country:     BR
+owner-c:     REMIN22
+admin-c:     REMIN22
+tech-c:      MAGSI53
+billing-c:   REMIN22
+nserver:     dns1.impactamidia.uni5.net  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.impactamidia.uni5.net  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns3.impactamidia.uni5.net  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns4.impactamidia.uni5.net  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20130325 #11259290
+changed:     20130325
+status:      published
+
+nic-hdl-br:  MAGSI53
+person:      Matheus Guimarães da Silva
+created:     20080409
+changed:     20140124
+
+nic-hdl-br:  REMIN22
+person:      Renato Minozzo
+created:     20130128
+changed:     20130128
+
+

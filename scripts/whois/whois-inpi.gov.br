@@ -1,0 +1,30 @@
+
+
+
+domain:      inpi.gov.br
+owner:       INPI - INSTITUTO NAC. DA PROPRIEDADE INDUSTRIAL
+responsible: Luiz Otavio Pimentel
+country:     BR
+owner-c:     JSN6
+admin-c:     JSN6
+tech-c:      JSN6
+billing-c:   JSN6
+nserver:     ns1.inpi.gov.br 200.149.34.47 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.inpi.gov.br 200.149.34.48 
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    34024 RSA/SHA-1 C5C4EC1A4F4E573B1E3FF7143B644D12B0BC4E6F
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     19970228 #31664
+changed:     20150918
+status:      published
+
+nic-hdl-br:  JSN6
+person:      INPI - DIMINF/CPD
+created:     19980310
+changed:     20160427
+
+

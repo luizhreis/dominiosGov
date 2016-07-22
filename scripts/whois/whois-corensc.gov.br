@@ -1,0 +1,27 @@
+
+
+
+domain:      corensc.gov.br
+owner:       Conselho Regional de Enfermagem de Santa Catarina
+responsible: João Luiz B. Giamattey
+country:     BR
+owner-c:     MIRKA
+admin-c:     MIRKA
+tech-c:      MIRKA
+billing-c:   MIRKA
+nserver:     ns1.corensc.gov.br 201.55.98.58 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.corensc.gov.br 201.55.98.60 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20091116 #6232598
+changed:     20160205
+status:      published
+
+nic-hdl-br:  MIRKA
+person:      Michel R. Kannenberg
+created:     20141114
+changed:     20160205
+
+

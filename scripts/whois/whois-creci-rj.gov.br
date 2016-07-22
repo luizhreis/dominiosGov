@@ -1,0 +1,32 @@
+
+
+
+domain:      creci-rj.gov.br
+owner:       Conselho Regional dos Corretores de Imoveis 1 Reg.
+responsible: Manoel da Silveira Maia
+country:     BR
+owner-c:     SOASO22
+admin-c:     ROB192
+tech-c:      SOASO22
+billing-c:   SOASO22
+nserver:     ns1.condosite.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.condosite.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20080610 #4530323
+changed:     20130826
+status:      published
+
+nic-hdl-br:  ROB192
+person:      Robson Rosa Branco
+created:     20000706
+changed:     20090916
+
+nic-hdl-br:  SOASO22
+person:      Solon Amaral de Souza
+created:     20130124
+changed:     20150305
+
+

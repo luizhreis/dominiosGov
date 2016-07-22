@@ -1,0 +1,32 @@
+
+
+
+domain:      prt8.gov.br
+owner:       Procuradoria Regional do Trabalho da 8a. Região
+responsible: Responsável pela Internet
+country:     BR
+owner-c:     SAC142
+admin-c:     SAC142
+tech-c:      SAC142
+billing-c:   CAC15
+nserver:     ns.amazon.com.br  
+nsstat:      20160701 UH
+nslastaa:    20120322
+nserver:     ns2.amazon.com.br  
+nsstat:      20160701 UH
+nslastaa:    20120322
+created:     19980116 #82513
+changed:     20010802
+status:      published
+
+nic-hdl-br:  CAC15
+person:      Cynthia Avelino Correa
+created:     19980216
+changed:     19980216
+
+nic-hdl-br:  SAC142
+person:      suporte amazon corp
+created:     20010405
+changed:     20150710
+
+

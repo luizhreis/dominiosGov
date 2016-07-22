@@ -1,0 +1,28 @@
+
+
+
+domain:      sibbr.gov.br
+owner:       Laboratório Nacional de Computação Científica
+responsible: Pedro Leite da Silva Dias
+country:     BR
+owner-c:     WVL
+admin-c:     WVL
+tech-c:      WVL
+billing-c:   WVL
+nserver:     view.lncc.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     server1.pop-rj.rnp.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20121010 #10488859
+changed:     20121010
+status:      published
+
+nic-hdl-br:  WVL
+person:      Wagner Vieira Leo
+created:     20000629
+changed:     20000629
+
+

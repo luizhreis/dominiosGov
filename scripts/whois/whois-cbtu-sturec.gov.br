@@ -1,0 +1,33 @@
+
+
+
+domain:      cbtu-sturec.gov.br
+owner:       COMPANHIA BRASILEIRA DE TRENS URBANOS
+responsible: Carlos Alberto Ribeiro
+country:     BR
+owner-c:     FCV93
+admin-c:     FCV93
+tech-c:      FCV93
+billing-c:   CAR107
+nserver:     ns81.domaincontrol.com  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns82.domaincontrol.com  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20110601 #8249316
+changed:     20160411
+status:      published
+
+nic-hdl-br:  CAR107
+person:      Carlos Alberto Ribeiro
+created:     19991005
+changed:     20140910
+
+nic-hdl-br:  FCV93
+person:      FábioAdriano de Carvalho Vieira
+created:     20051011
+changed:     20150515
+
+

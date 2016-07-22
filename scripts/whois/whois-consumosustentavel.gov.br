@@ -1,0 +1,31 @@
+
+
+
+domain:      consumosustentavel.gov.br
+owner:       MINISTERIO DO MEIO AMBIENTE
+responsible: Coord Geral de Tec. da Informação e Info
+country:     BR
+owner-c:     MMR
+admin-c:     MMR
+tech-c:      MMR
+billing-c:   MMR
+nserver:     ns1.consumosustentavel.gov.br 200.198.242.66 2804:150:11:d602::5
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.consumosustentavel.gov.br 200.198.242.69 2804:150:11:d602::6
+nsstat:      20160628 AA
+nslastaa:    20160628
+dsrecord:    57456 RSA/SHA-1 2F328B8C3F7F2A1868425137F8E7C6E585EE9CF6
+dsstatus:    20160628 DSOK
+dslastok:    20160628
+saci:        yes
+created:     20120201 #9373581
+changed:     20160411
+status:      published
+
+nic-hdl-br:  MMR
+person:      Ministério do Meio Ambiente
+created:     19980109
+changed:     20151014
+
+

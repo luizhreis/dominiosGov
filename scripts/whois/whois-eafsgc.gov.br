@@ -1,0 +1,27 @@
+
+
+
+domain:      eafsgc.gov.br
+owner:       ESCOLA AGROTEC FED DE SAO GABRIEL DA CACHOEIRA
+responsible: Rinaldo Sena Fernandes
+country:     BR
+owner-c:     RSF290
+admin-c:     RSF290
+tech-c:      RSF290
+billing-c:   RSF290
+nserver:     dns1.stoltz.uni5.net  
+nsstat:      20160630 UH
+nslastaa:    20120522
+nserver:     dns2.stoltz.uni5.net  
+nsstat:      20160630 UH
+nslastaa:    20120522
+created:     20050221 #1994498
+changed:     20150107
+status:      published
+
+nic-hdl-br:  RSF290
+person:      rinaldo sena fernandes
+created:     20041029
+changed:     20050201
+
+

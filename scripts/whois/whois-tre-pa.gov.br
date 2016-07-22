@@ -1,0 +1,37 @@
+
+
+
+domain:      tre-pa.gov.br
+owner:       Tribunal Regional Eleitoral do Pará
+responsible: Ivan dos Santos Mello
+country:     BR
+owner-c:     TRP11
+admin-c:     DCC
+tech-c:      DCC
+billing-c:   JFR25
+nserver:     sauron.tse.jus.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     saruman.tse.jus.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19980803 #106204
+changed:     20150108
+status:      published
+
+nic-hdl-br:  DCC
+person:      Daniel Carlos Lima Correa
+created:     19980129
+changed:     20120302
+
+nic-hdl-br:  JFR25
+person:      José Flávio Lima da Rocha
+created:     20000410
+changed:     20000410
+
+nic-hdl-br:  TRP11
+person:      Tribunal Regional Eleitoral do Pará
+created:     20000210
+changed:     20000210
+
+

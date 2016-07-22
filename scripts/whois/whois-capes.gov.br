@@ -1,0 +1,30 @@
+
+
+
+domain:      capes.gov.br
+owner:       FUNDACAO CAPES
+responsible: Sergio da Costa Cortes
+country:     BR
+owner-c:     FUCAP4
+admin-c:     FUCAP4
+tech-c:      FUCAP4
+billing-c:   FUCAP4
+nserver:     ns1.capes.gov.br 200.130.18.192 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.capes.gov.br 200.130.19.38 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns3.capes.gov.br 200.130.18.193 
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     before 19950101
+changed:     20150929
+status:      published
+
+nic-hdl-br:  FUCAP4
+person:      Fundação CAPES
+created:     20121123
+changed:     20140422
+
+

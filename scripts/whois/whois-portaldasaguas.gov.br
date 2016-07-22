@@ -1,0 +1,32 @@
+
+
+
+domain:      portaldasaguas.gov.br
+owner:       Agência Nacional de Águas
+responsible: Allan Nagem Soares
+country:     BR
+owner-c:     ANS308
+admin-c:     ROTFI
+tech-c:      ROTFI
+billing-c:   ROTFI
+nserver:     ns1.ana.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.ana.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20031202 #1447844
+changed:     20071219
+status:      published
+
+nic-hdl-br:  ANS308
+person:      Allan Nagem Soares
+created:     20010917
+changed:     20140127
+
+nic-hdl-br:  ROTFI
+person:      Roque T Filho
+created:     20071217
+changed:     20151208
+
+

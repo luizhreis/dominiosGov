@@ -1,0 +1,32 @@
+
+
+
+domain:      eafsc.gov.br
+owner:       Escola Agrotécnica Federal de São Cristóvão - SE
+responsible: Alberto Aciole Bomfim
+country:     BR
+owner-c:     MAN779
+admin-c:     MAN779
+tech-c:      WEI
+billing-c:   MAN779
+nserver:     aracaju.infonet.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     itabaiana.infonet.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20050221 #2017005
+changed:     20050323
+status:      published
+
+nic-hdl-br:  MAN779
+person:      Marcos Aurélio Rodrigues Nunes
+created:     20050219
+changed:     20130819
+
+nic-hdl-br:  WEI
+person:      Nivaldo Pereira de Almeida
+created:     19980212
+changed:     20140416
+
+

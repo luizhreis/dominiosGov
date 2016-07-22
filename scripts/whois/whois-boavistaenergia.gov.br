@@ -1,0 +1,37 @@
+
+
+
+domain:      boavistaenergia.gov.br
+owner:       Centrais Eletricas do Norte do Brasil
+responsible: Gerencia de Servicos de Rede Corporativa
+country:     BR
+owner-c:     GSC187
+admin-c:     AFN123
+tech-c:      JPLBR2
+billing-c:   AFN123
+nserver:     ns1.boavistaenergia.gov.br 189.2.91.3 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.boavistaenergia.gov.br 189.2.91.4 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20000912 #414884
+changed:     20160614
+status:      published
+
+nic-hdl-br:  AFN123
+person:      Antonio Felismino Nascimento
+created:     20030512
+changed:     20081126
+
+nic-hdl-br:  GSC187
+person:      Gerência de Serviço de Rede Corporativa
+created:     20050830
+changed:     20070529
+
+nic-hdl-br:  JPLBR2
+person:      JENNER PATRICK LOPES BRASIL
+created:     20081118
+changed:     20150413
+
+

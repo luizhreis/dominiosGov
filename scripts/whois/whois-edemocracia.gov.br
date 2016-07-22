@@ -1,0 +1,30 @@
+
+
+
+domain:      edemocracia.gov.br
+owner:       Camara dos Deputados
+responsible: Guilherme Brügger Damato
+country:     BR
+owner-c:     SSG50
+admin-c:     SSG50
+tech-c:      SSG50
+billing-c:   SSG50
+nserver:     hypatia.camara.leg.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     melissa.camara.leg.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    60967 RSA/SHA-256 5B6CB3073AC71CA5E1EF69FBA431FB2D269EAEC1
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+created:     20090615 #5587853
+changed:     20150615
+status:      published
+
+nic-hdl-br:  SSG50
+person:      S S G
+created:     20040402
+changed:     20140422
+
+

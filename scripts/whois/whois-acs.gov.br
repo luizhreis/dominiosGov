@@ -1,0 +1,32 @@
+
+
+
+domain:      acs.gov.br
+owner:       ALCANTARA CYCLONE SPACE - BINACIONAL
+responsible: Renato Araujo Junior
+country:     BR
+owner-c:     OSMAT
+admin-c:     OSMAT
+tech-c:      CSL474
+billing-c:   OSMAT
+nserver:     ns1.acs.gov.br 189.31.137.26 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20110222
+nserver:     ns2.acs.gov.br 189.31.137.27 
+nsstat:      20160630 TIMEOUT
+nslastaa:    20101015
+created:     20071203 #4108303
+changed:     20150616
+status:      published
+
+nic-hdl-br:  CSL474
+person:      Claiton de Souza Linhares
+created:     20031221
+changed:     20100820
+
+nic-hdl-br:  OSMAT
+person:      Ossamu Matsunaga
+created:     20060629
+changed:     20100818
+
+

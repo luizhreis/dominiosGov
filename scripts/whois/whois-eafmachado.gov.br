@@ -1,0 +1,27 @@
+
+
+
+domain:      eafmachado.gov.br
+owner:       Escola Agrotécnica Federal de Machado
+responsible: Marcelo Leite
+country:     BR
+owner-c:     MAL889
+admin-c:     MAL889
+tech-c:      MAL889
+billing-c:   MAL889
+nserver:     orion.eafmachado.gov.br 200.131.10.18 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     andromeda.eafmachado.gov.br 200.131.10.19 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20020605 #876624
+changed:     20130627
+status:      published
+
+nic-hdl-br:  MAL889
+person:      Marcelo Leite
+created:     20020523
+changed:     20130821
+
+

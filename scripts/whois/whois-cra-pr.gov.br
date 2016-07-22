@@ -1,0 +1,33 @@
+
+
+
+domain:      cra-pr.gov.br
+owner:       Conselho Regional de Administração do Paraná
+responsible: Sergio Pereira Lobo
+country:     BR
+owner-c:     ARAND20
+admin-c:     ARAND20
+tech-c:      RUD30
+billing-c:   ARAND20
+nserver:     nsbra12.hostgator.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     nsbra13.hostgator.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20160331 #15401084
+changed:     20160331
+status:      published
+
+nic-hdl-br:  ARAND20
+person:      Ariane de Andrade
+created:     20130927
+changed:     20130927
+
+nic-hdl-br:  RUD30
+person:      Rubem Deiana
+created:     20040803
+changed:     20140417
+
+

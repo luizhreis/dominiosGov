@@ -1,0 +1,27 @@
+
+
+
+domain:      insa.gov.br
+owner:       Instituto Nacional do Semi-Árido-INSA
+responsible: Manoel Dantas Vilar FIlho
+country:     BR
+owner-c:     LJS88
+admin-c:     LJS88
+tech-c:      LJS88
+billing-c:   LJS88
+nserver:     insa.gov.br 200.129.65.30 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     server1.pop-pb.rnp.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20061023 #3113287
+changed:     20090626
+status:      published
+
+nic-hdl-br:  LJS88
+person:      Leandro José Ventura Silva
+created:     20031020
+changed:     20061009
+
+

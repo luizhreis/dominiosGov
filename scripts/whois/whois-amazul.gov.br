@@ -1,0 +1,28 @@
+
+
+
+domain:      amazul.gov.br
+owner:       Amazônia Azul Tecnologias de Defesa S.A. - Amazul
+responsible: Charles Magno
+country:     BR
+owner-c:     CHMME21
+admin-c:     CHMME21
+tech-c:      CHMME21
+billing-c:   CHMME21
+nserver:     barroso.mar.mil.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     tamandare.mar.mil.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20140716 #13103073
+changed:     20140716
+status:      published
+
+nic-hdl-br:  CHMME21
+person:      Charles Magno Medeiros
+created:     20131205
+changed:     20131205
+
+

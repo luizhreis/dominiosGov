@@ -1,0 +1,30 @@
+
+
+
+domain:      crbm1.gov.br
+owner:       Conselho Regional de Biomedicina 1º Regiao
+responsible: Aparecida Zocateli
+country:     BR
+owner-c:     MAA575
+admin-c:     MAA575
+tech-c:      MAA575
+billing-c:   MAA575
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20080919 #4806281
+changed:     20080919
+status:      published
+
+nic-hdl-br:  MAA575
+person:      Marcelo Asmir
+created:     20000930
+changed:     20150706
+
+

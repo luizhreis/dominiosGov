@@ -1,0 +1,27 @@
+
+
+
+domain:      projovem.gov.br
+owner:       Secretaria Nacional da Juventude
+responsible: Maria José Vieira Feres
+country:     BR
+owner-c:     CPPAV
+admin-c:     CPPAV
+tech-c:      CPPAV
+billing-c:   CPPAV
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20060609 #2844020
+changed:     20150608
+status:      published
+
+nic-hdl-br:  CPPAV
+person:      Centro de Políticas Públicas e Avaliação
+created:     20080806
+changed:     20080806
+
+

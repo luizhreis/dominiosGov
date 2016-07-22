@@ -1,0 +1,31 @@
+
+
+
+domain:      crmvrn.gov.br
+owner:       Conselho Regional de Medicina Veterinária do RN
+responsible: Francisco Ferreira Lima
+country:     BR
+owner-c:     FRFLI2
+admin-c:     FRFLI2
+tech-c:      FRFLI2
+billing-c:   FRFLI2
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20110616 #8441671
+changed:     20110616
+status:      published
+
+nic-hdl-br:  FRFLI2
+person:      Franscisco Ferreira Lima
+created:     20070227
+changed:     20110512
+
+

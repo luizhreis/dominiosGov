@@ -1,0 +1,28 @@
+
+
+
+domain:      turismoacessivel.gov.br
+owner:       Ministério do Turismo
+responsible: Sumaid Andrade de Albuquerque
+country:     BR
+owner-c:     SUAAL3
+admin-c:     SUAAL3
+tech-c:      SUAAL3
+billing-c:   SUAAL3
+nserver:     ns1.turismo.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.turismo.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20140227 #12566429
+changed:     20140227
+status:      published
+
+nic-hdl-br:  SUAAL3
+person:      Sumaid Andrade de Albuquerque
+created:     20071206
+changed:     20140527
+
+

@@ -1,0 +1,28 @@
+
+
+
+domain:      corenms.gov.br
+owner:       CONSELHO REGIONAL DE ENFERMAGEM DE MS
+responsible: DULCE DIRCLAIR HUF BAIS
+country:     BR
+owner-c:     GHV12
+admin-c:     GHV12
+tech-c:      GHV12
+billing-c:   GHV12
+nserver:     dell.ns.cloudflare.com  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     george.ns.cloudflare.com  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20110425 #8168920
+changed:     20160614
+status:      published
+
+nic-hdl-br:  GHV12
+person:      Gedalias Hugo de Oliveira Valentim
+created:     20031116
+changed:     20141126
+
+

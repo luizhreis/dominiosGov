@@ -1,0 +1,32 @@
+
+
+
+domain:      corenpb.gov.br
+owner:       CONSELHO REGIONAL DE ENFERMAGEM DA PARAIBA
+responsible: RONALDO MIGUEL BESERRA
+country:     BR
+owner-c:     GESRI10
+admin-c:     GESRI10
+tech-c:      GHV12
+billing-c:   GESRI10
+nserver:     dell.ns.cloudflare.com  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     george.ns.cloudflare.com  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20090630 #5654571
+changed:     20160614
+status:      published
+
+nic-hdl-br:  GESRI10
+person:      Gerson da Silva Ribeiro
+created:     20090520
+changed:     20150311
+
+nic-hdl-br:  GHV12
+person:      Gedalias Hugo de Oliveira Valentim
+created:     20031116
+changed:     20141126
+
+

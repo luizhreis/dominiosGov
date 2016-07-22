@@ -1,0 +1,27 @@
+
+
+
+domain:      cofeci.gov.br
+owner:       CONSELHO FEDERAL DE CORRETORES DE IMÓVEIS
+responsible: CARLOS ERNESTO
+country:     BR
+owner-c:     CFI6
+admin-c:     CFI6
+tech-c:      CFI6
+billing-c:   CFI6
+nserver:     ns1.cofeci.gov.br 201.48.129.165 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.cofeci.gov.br 201.48.129.166 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20010504 #549534
+changed:     20140205
+status:      published
+
+nic-hdl-br:  CFI6
+person:      Conselho Federal de Corretores de Imovei
+created:     20010411
+changed:     20140417
+
+

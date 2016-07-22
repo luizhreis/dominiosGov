@@ -1,0 +1,27 @@
+
+
+
+domain:      etfc.gov.br
+owner:       ESCOLA TÉCNICA FEDERAL DE CANOAS
+responsible: André Marcelo Schneider
+country:     BR
+owner-c:     ADRIF4
+admin-c:     ADRIF4
+tech-c:      ADRIF4
+billing-c:   ADRIF4
+nserver:     nsa.ifrs.edu.br  
+nsstat:      20160625 AA
+nslastaa:    20160625
+nserver:     dns.tche.br  
+nsstat:      20160625 AA
+nslastaa:    20160625
+created:     20080618 #4562786
+changed:     20160413
+status:      published
+
+nic-hdl-br:  ADRIF4
+person:      Administrador da Rede do IFRS
+created:     20150114
+changed:     20160314
+
+

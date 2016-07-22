@@ -1,0 +1,32 @@
+
+
+
+domain:      trt23.gov.br
+owner:       TRIBUNAL REGIONAL DO TRABALHO - 23 REGIAO
+responsible: ROGERIO MENDES PIMENTA
+country:     BR
+owner-c:     RMP321
+admin-c:     FRTNE13
+tech-c:      FRTNE13
+billing-c:   FRTNE13
+nserver:     ns1.trt23.gov.br 189.59.69.194 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.trt23.gov.br 189.59.69.254 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19961021 #19718
+changed:     20160119
+status:      published
+
+nic-hdl-br:  FRTNE13
+person:      FRANCISCO THOMAZINI NETTO
+created:     20160118
+changed:     20160118
+
+nic-hdl-br:  RMP321
+person:      Rogerio Mendes Pimenta
+created:     20050221
+changed:     20110509
+
+

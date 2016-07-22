@@ -1,0 +1,47 @@
+
+
+
+domain:      sinesp.gov.br
+owner:       MINISTERIO DA JUSTICA
+responsible: Eugênio José Guilherme de Aragão
+country:     BR
+owner-c:     MIJUS7
+admin-c:     ALCBA81
+tech-c:      MRV103
+billing-c:   ALCBA81
+nserver:     antares.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     andromeda.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     centauro.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     canisvenatici.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20120420 #9754732
+changed:     20121203
+status:      published
+
+nic-hdl-br:  ALCBA81
+person:      ALEXANDRE CARDOSO DE BARROS
+created:     20120213
+changed:     20160309
+
+nic-hdl-br:  MIJUS7
+person:      Ministério da Justiça
+created:     20160215
+changed:     20160215
+
+nic-hdl-br:  MRV103
+person:      Marcio Ribeiro Vasel
+created:     20050126
+changed:     20140430
+
+

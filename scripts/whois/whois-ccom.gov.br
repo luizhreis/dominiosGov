@@ -1,0 +1,38 @@
+
+
+
+domain:      ccom.gov.br
+owner:       Agencia Brasileira de Inteligencia
+responsible: GERALDO DANTAS DA SILVA
+country:     BR
+owner-c:     GDS174
+admin-c:     GDS174
+tech-c:      DSARA3
+billing-c:   GDS174
+nserver:     dns2.ccom.gov.br 200.198.220.24 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     antares.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    3946 RSA/SHA-1 D84B1E7E7B160BCA5D82FDCEFB571A40ED1DD8AC
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     19991216 #232839
+changed:     20141118
+status:      published
+
+nic-hdl-br:  DSARA3
+person:      Divisao de Suporte a Redes da ABIN
+created:     20090518
+changed:     20130206
+
+nic-hdl-br:  GDS174
+person:      Geraldo Dantas da Silva
+created:     20060202
+changed:     20080923
+
+

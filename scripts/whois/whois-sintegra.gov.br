@@ -1,0 +1,37 @@
+
+
+
+domain:      sintegra.gov.br
+owner:       SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO
+responsible: Alexandre dos Santos Ferreira
+country:     BR
+owner-c:     ADSFE47
+admin-c:     ADSFE47
+tech-c:      RDV
+billing-c:   WEQLI
+nserver:     dns1.procergs.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns2.procergs.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19980116 #82349
+changed:     20110502
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  RDV
+person:      Registro de Dominios do Via-RS
+created:     19971218
+changed:     20150109
+
+nic-hdl-br:  WEQLI
+person:      WELDSON QUEIROZ DE LIMA
+created:     20100218
+changed:     20160204
+
+

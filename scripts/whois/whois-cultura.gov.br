@@ -1,0 +1,32 @@
+
+
+
+domain:      cultura.gov.br
+owner:       Ministério da Cultura
+responsible: CGTI SPOA SE MinC
+country:     BR
+owner-c:     MICUL2
+admin-c:     MICUL2
+tech-c:      JCC386
+billing-c:   MICUL2
+nserver:     ns1.cultura.gov.br 200.198.204.91 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns2.cultura.gov.br 200.198.204.92 
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     19960816 #14100
+changed:     20140512
+status:      published
+
+nic-hdl-br:  JCC386
+person:      Jeimerson C Chaves
+created:     20020624
+changed:     20051227
+
+nic-hdl-br:  MICUL2
+person:      Ministério da Cultura
+created:     20130321
+changed:     20150917
+
+

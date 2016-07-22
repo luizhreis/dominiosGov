@@ -1,0 +1,31 @@
+
+
+
+domain:      sp.gov.br
+web-whois:   http://www.dominio.sp.gov.br/
+owner:       Cia Proc. de Dados do Estado de S Paulo - Prodesp
+responsible: CSIRT-Grupo de Resposta à Incidentes
+country:     BR
+owner-c:     GEIPR
+admin-c:     GEIPR
+tech-c:      GEIPR
+billing-c:   GEIPR
+nserver:     dns1e.sp.gov.br 200.144.6.154 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns3e.sp.gov.br 200.144.6.92 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns2e.sp.gov.br 201.55.16.39 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19950706
+changed:     20150608
+status:      published
+
+nic-hdl-br:  GEIPR
+person:      Gerencia Internet PRODESP
+created:     20081014
+changed:     20150306
+
+

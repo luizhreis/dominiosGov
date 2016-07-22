@@ -1,0 +1,38 @@
+
+
+
+domain:      ciasc.gov.br
+owner:       Centro de Informatica e Automacao do Estado de SC
+responsible: Flavio Ramos
+country:     BR
+owner-c:     FLR3
+admin-c:     FLR3
+tech-c:      LAB548
+billing-c:   FLR3
+nserver:     ns1.sc.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.sc.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     adns1.pop-sc.rnp.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     adns2.pop-sc.rnp.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     before 19950101
+changed:     20160105
+status:      published
+
+nic-hdl-br:  FLR3
+person:      flavio ramos
+created:     19980127
+changed:     20140423
+
+nic-hdl-br:  LAB548
+person:      Laercio Brehmer
+created:     20060208
+changed:     20140225
+
+

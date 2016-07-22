@@ -1,0 +1,27 @@
+
+
+
+domain:      frp.gov.br
+owner:       FUNDACAO ROQUETTE PINTO
+responsible: Antonio Renato Cezar de Andrade
+country:     BR
+owner-c:     ARA11
+admin-c:     ARA11
+tech-c:      ARA11
+billing-c:   ARA11
+nserver:     barracuda.frp.gov.br 200.18.185.2 
+nsstat:      20160701 TIMEOUT
+nslastaa:    19990817
+nserver:     server1.pop-rj.rnp.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    19990823
+created:     19970306 #32360
+changed:     19980318
+status:      published
+
+nic-hdl-br:  ARA11
+person:      Antonio Rentao Cezar de Andrade
+created:     19980202
+changed:     19980202
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      prove.gov.br
+owner:       EMATER -DF
+responsible: José Melo de Assis Fonsec
+country:     BR
+owner-c:     PSB51
+admin-c:     PSB51
+tech-c:      PSB51
+billing-c:   PSB51
+nserver:     srv5inet.tba.com.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    19990603
+nserver:     srv5rjo.rjo.tba.com.br  
+nsstat:      20160629 ERR
+nslastaa:    19990603
+created:     19980716 #104260
+changed:     20010816
+status:      published
+
+nic-hdl-br:  PSB51
+person:      PSINet do Brasil S/A
+created:     20010702
+changed:     20020814
+
+

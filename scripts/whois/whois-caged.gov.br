@@ -1,0 +1,49 @@
+
+
+
+domain:      caged.gov.br
+owner:       MINISTERIO DO TRABALHO E EMPREGO
+responsible: Equipe de Redes MTE
+country:     BR
+owner-c:     COINF90
+admin-c:     CLMEN28
+tech-c:      MALHE11
+billing-c:   MALHE11
+nserver:     ns1.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns4.mte.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    3289 RSA/SHA-1 67AF672D21E59A9911996A9EE9D60FC5B489E3D1
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+dsrecord:    3289 RSA/SHA-1 4A766CFB973CF6171E928A4B85CBB0CE2A624439557397AE686861F4D908D2DE
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     20050429 #2088808
+changed:     20160205
+status:      published
+
+nic-hdl-br:  CLMEN28
+person:      Claudio Menezes
+created:     20091214
+changed:     20091216
+
+nic-hdl-br:  COINF90
+person:      Coordenação de Infraestrutura
+created:     20141029
+changed:     20141029
+
+nic-hdl-br:  MALHE11
+person:      Marcelo Luiz Heiden
+created:     20101125
+changed:     20140128
+
+

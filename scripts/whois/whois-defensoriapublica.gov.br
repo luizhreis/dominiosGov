@@ -1,0 +1,37 @@
+
+
+
+domain:      defensoriapublica.gov.br
+owner:       MINISTERIO DA JUSTICA
+responsible: Eugênio José Guilherme de Aragão
+country:     BR
+owner-c:     MIJUS7
+admin-c:     ALCBA81
+tech-c:      ARAJU47
+billing-c:   ALCBA81
+nserver:     weber.mj.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     weil.mj.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20020412 #768323
+changed:     20130404
+status:      published
+
+nic-hdl-br:  ALCBA81
+person:      ALEXANDRE CARDOSO DE BARROS
+created:     20120213
+changed:     20160309
+
+nic-hdl-br:  ARAJU47
+person:      Alfeno Rodrigues de Assunção Júnior
+created:     20130404
+changed:     20130404
+
+nic-hdl-br:  MIJUS7
+person:      Ministério da Justiça
+created:     20160215
+changed:     20160215
+
+

@@ -1,0 +1,49 @@
+
+
+
+domain:      rs.gov.br
+owner:       PROCERGS - Cia de Processamento de Dados do RGS
+responsible: GRIP - Grupo de Resposta a Incidentes de
+country:     BR
+owner-c:     PAANG11
+admin-c:     GRPRO20
+tech-c:      RDV
+billing-c:   RDV
+nserver:     dns1.procergs.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.procergs.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns3.procergs.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns4.procergs.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns31.procergs.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns41.procergs.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19960906 #15966
+changed:     20141216
+status:      published
+
+nic-hdl-br:  GRPRO20
+person:      GRIP PROCERGS
+created:     20140224
+changed:     20140224
+
+nic-hdl-br:  PAANG11
+person:      Paulo Angonese
+created:     20111213
+changed:     20140221
+
+nic-hdl-br:  RDV
+person:      Registro de Dominios do Via-RS
+created:     19971218
+changed:     20150109
+
+

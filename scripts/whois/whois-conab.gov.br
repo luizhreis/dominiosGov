@@ -1,0 +1,38 @@
+
+
+
+domain:      conab.gov.br
+owner:       COMPANHIA NACIONAL DE ABASTECIMENTO
+responsible: Marcelo Lins Faustino
+country:     BR
+owner-c:     GPL11
+admin-c:     GPL11
+tech-c:      GPL11
+billing-c:   MHM5
+nserver:     ns01.conab.gov.br 200.198.220.101 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns02.conab.gov.br 200.198.220.102 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     antares.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     trifid.serpro.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19970106 #27275
+changed:     20150828
+status:      published
+
+nic-hdl-br:  GPL11
+person:      Gustavo Perdigão Meneses Lima
+created:     19981026
+changed:     20160425
+
+nic-hdl-br:  MHM5
+person:      Valdir Ferreira
+created:     19980310
+changed:     20010312
+
+

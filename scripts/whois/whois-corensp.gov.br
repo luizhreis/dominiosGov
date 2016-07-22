@@ -1,0 +1,41 @@
+
+
+
+domain:      corensp.gov.br
+owner:       Conselho Regional de Enfermagem de SP
+responsible: Bruno Moreira Cestari
+country:     BR
+owner-c:     BRMCE7
+admin-c:     BRMCE7
+tech-c:      RJS174
+billing-c:   BRMCE7
+nserver:     dns2.corensp.gov.br 201.63.225.206 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns3-sec.corensp.gov.br 200.187.158.183 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns2-sec.corensp.gov.br 200.187.158.185 
+nsstat:      20160629 AA
+nslastaa:    20160629
+dsrecord:    42376 RSA/SHA-1 1EF20E3C3A31EABB6408B6263800D89F38E54E73
+dsstatus:    20160629 DSOK
+dslastok:    20160629
+dsrecord:    42376 RSA/SHA-1 29352FC37CF335A41F9C576818C3613C096A4DCB4F563E10DEFDF4E733F45283
+dsstatus:    20160629 DSOK
+dslastok:    20160629
+created:     20080918 #4794739
+changed:     20150519
+status:      published
+
+nic-hdl-br:  BRMCE7
+person:      Bruno Moreira Cestari
+created:     20120405
+changed:     20160504
+
+nic-hdl-br:  RJS174
+person:      Reginaldo José de Souza
+created:     20030415
+changed:     20130205
+
+

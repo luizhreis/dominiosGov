@@ -1,0 +1,27 @@
+
+
+
+domain:      cnir.gov.br
+owner:       Ministerio do Desenvolvimento Agrario
+responsible: Coordenador Geral de Modernizacao e Info
+country:     BR
+owner-c:     ECLNA
+admin-c:     ECLNA
+tech-c:      ECLNA
+billing-c:   ECLNA
+nserver:     incra-master.incra.gov.br  
+nsstat:      20160701 QREFUSED
+nslastaa:    20030715
+nserver:     incra-web.incra.gov.br  
+nsstat:      20160701 UH
+nslastaa:    20030325
+created:     20011018 #654887
+changed:     20101116
+status:      published
+
+nic-hdl-br:  ECLNA
+person:      Eduardo Camargos Lagares do Nascimento
+created:     20101116
+changed:     20140204
+
+

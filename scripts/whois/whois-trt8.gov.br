@@ -1,0 +1,35 @@
+
+
+
+domain:      trt8.gov.br
+owner:       TRIBUNAL REGIONAL DO TRABALHO - 8A REGIAO
+responsible: Marco Aurelio Fidelis Rego
+country:     BR
+owner-c:     MAFRE58
+admin-c:     MAFRE58
+tech-c:      GISSI85
+billing-c:   MAFRE58
+nserver:     apollo.trt8.gov.br 192.159.116.69 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     apollo2.trt8.gov.br 192.159.116.70 
+nsstat:      20160629 AA
+nslastaa:    20160629
+dsrecord:    64093 RSA/SHA-1 499B0FB2B02CA238FDCDD44041023E50F3630830
+dsstatus:    20160629 DSOK
+dslastok:    20160629
+created:     19961029 #20714
+changed:     20150520
+status:      published
+
+nic-hdl-br:  GISSI85
+person:      GILMARA SANTOS DA SILVA
+created:     20121016
+changed:     20130822
+
+nic-hdl-br:  MAFRE58
+person:      Marco Aurélio Fidelis Rêgo
+created:     20080724
+changed:     20090824
+
+

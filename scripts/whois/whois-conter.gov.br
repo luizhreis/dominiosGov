@@ -1,0 +1,30 @@
+
+
+
+domain:      conter.gov.br
+owner:       Conselho Nacional de Téc. em Radiologia - Conter
+responsible: Valdelice Teodoro
+country:     BR
+owner-c:     HFF25
+admin-c:     HFF25
+tech-c:      HFF25
+billing-c:   HFF25
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20001024 #440700
+changed:     20110921
+status:      published
+
+nic-hdl-br:  HFF25
+person:      Higino Ferreira Filho
+created:     20031111
+changed:     20101224
+
+

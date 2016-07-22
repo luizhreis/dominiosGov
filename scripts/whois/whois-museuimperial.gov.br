@@ -1,0 +1,27 @@
+
+
+
+domain:      museuimperial.gov.br
+owner:       Museu Imperial
+responsible: Sérgio Abrahão
+country:     BR
+owner-c:     SEABR7
+admin-c:     SEABR7
+tech-c:      SEABR7
+billing-c:   SEABR7
+nserver:     ns1.dcd-host.com  
+nsstat:      20160626 AA
+nslastaa:    20160626
+nserver:     ns2.dcd-host.com  
+nsstat:      20160626 AA
+nslastaa:    20160626
+created:     20000920 #425462
+changed:     20160112
+status:      published
+
+nic-hdl-br:  SEABR7
+person:      Sergio Abrahão
+created:     20100813
+changed:     20160111
+
+

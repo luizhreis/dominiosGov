@@ -1,0 +1,32 @@
+
+
+
+domain:      crtrrj.gov.br
+owner:       CONSELHO REGIONAL DE TÉCNICOS EM RADIOLOGIA 4ª R
+responsible: MARCO AURELIO DA SILVA RODRIGUES
+country:     BR
+owner-c:     CRR111
+admin-c:     CRR111
+tech-c:      RVI3
+billing-c:   CRR111
+nserver:     ns1.cadernoinformatica.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.cadernoinformatica.com.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20020813 #937205
+changed:     20111228
+status:      published
+
+nic-hdl-br:  CRR111
+person:      CONS. REGIONAL.DE TECN. EM RADIOLOGIA
+created:     20010601
+changed:     20120905
+
+nic-hdl-br:  RVI3
+person:      Registro Verità Internet
+created:     20041026
+changed:     20160120
+
+

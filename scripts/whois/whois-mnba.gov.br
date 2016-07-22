@@ -1,0 +1,32 @@
+
+
+
+domain:      mnba.gov.br
+owner:       Museu Nacional de Belas Artes
+responsible: Claudia Lucia de Souza Moura Santos
+country:     BR
+owner-c:     CSS68
+admin-c:     CSS68
+tech-c:      RNM126
+billing-c:   CSS68
+nserver:     ns1.dcd-host.com  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.dcd-host.com  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20001204 #471179
+changed:     20150911
+status:      published
+
+nic-hdl-br:  CSS68
+person:      Claudia de Souza Moura Santos
+created:     20001124
+changed:     20150522
+
+nic-hdl-br:  RNM126
+person:      Raphael Nunes Masgalhães
+created:     20060112
+changed:     20150921
+
+

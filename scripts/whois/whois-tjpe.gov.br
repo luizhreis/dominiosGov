@@ -1,0 +1,27 @@
+
+
+
+domain:      tjpe.gov.br
+owner:       TRIBUNAL DE JUSTICA DO ESTADO DE PERNAMBUCO
+responsible: Diretoria de Operações - Felipe Simão
+country:     BR
+owner-c:     TJP
+admin-c:     TJP
+tech-c:      TJP
+billing-c:   TJP
+nserver:     dns1.tjpe.gov.br 200.238.65.3 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dns2.tjpe.gov.br 200.238.65.4 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19971010 #62308
+changed:     20130206
+status:      published
+
+nic-hdl-br:  TJP
+person:      Tribunal de Justiça do Estado de Pernamb
+created:     19980310
+changed:     20150416
+
+

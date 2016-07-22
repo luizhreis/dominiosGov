@@ -1,0 +1,31 @@
+
+
+
+domain:      crtr01.gov.br
+owner:       Conselho Regional de Tecnicos em Radiologia -01
+responsible: ALDENILDO PEREIRA DA SILVA
+country:     BR
+owner-c:     MAHEN40
+admin-c:     MAHEN40
+tech-c:      MAHEN40
+billing-c:   MAHEN40
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20110715 #8567176
+changed:     20110715
+status:      published
+
+nic-hdl-br:  MAHEN40
+person:      MARCIO HENRIQUE
+created:     20091013
+changed:     20100813
+
+

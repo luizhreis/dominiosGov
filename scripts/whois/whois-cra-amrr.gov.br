@@ -1,0 +1,32 @@
+
+
+
+domain:      cra-amrr.gov.br
+owner:       CONSELHO REGIONAL DE ADMINISTRAÇÃO DO AMAZONAS
+responsible: JOSÉ CARLOS DE SÁ COLARES
+country:     BR
+owner-c:     ICM47
+admin-c:     CRA181
+tech-c:      CRA181
+billing-c:   CRA181
+nserver:     ns1.wwhs.net  
+nsstat:      20160630 QREFUSED
+nslastaa:    20150426
+nserver:     ns2.wwhs.net  
+nsstat:      20160630 QREFUSED
+nslastaa:    20150426
+created:     20010719 #601733
+changed:     20021001
+status:      published
+
+nic-hdl-br:  CRA181
+person:      CONSELHO REGIONAL DE ADMINISTRACAO DO A
+created:     20020920
+changed:     20020920
+
+nic-hdl-br:  ICM47
+person:      izabel christina de souza maquine
+created:     20020201
+changed:     20160401
+
+

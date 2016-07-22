@@ -1,0 +1,27 @@
+
+
+
+domain:      belomonte.gov.br
+owner:       Centrais Eletricas do Norte do Brasil
+responsible: Gerencia de Servicos de Rede Corporativa
+country:     BR
+owner-c:     GSC187
+admin-c:     GSC187
+tech-c:      GSC187
+billing-c:   GSC187
+nserver:     ns1.eln.gov.br  
+nsstat:      20160630 CNAME
+nslastaa:    20110724
+nserver:     ns2.eln.gov.br  
+nsstat:      20160630 CNAME
+nslastaa:    20110724
+created:     20020508 #810126
+changed:     20080508
+status:      published
+
+nic-hdl-br:  GSC187
+person:      Gerência de Serviço de Rede Corporativa
+created:     20050830
+changed:     20070529
+
+

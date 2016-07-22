@@ -1,0 +1,39 @@
+
+
+
+domain:      projetodomhelder.gov.br
+owner:       Projeto Dom Helder Câmara
+responsible: Espedito Rufino
+country:     BR
+owner-c:     IDR7
+admin-c:     IDR7
+tech-c:      IDR7
+billing-c:   IDR7
+nserver:     dns1.dom.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns2.dom.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns1.he.net  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.he.net  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.he.net  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns4.he.net  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20030714 #1265504
+changed:     20130604
+status:      published
+
+nic-hdl-br:  IDR7
+person:      Instituto de Desenvolvimento Rural-INDER
+created:     20020218
+changed:     20051124
+
+

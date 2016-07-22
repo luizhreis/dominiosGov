@@ -1,0 +1,43 @@
+
+
+
+domain:      trincadasorte.gov.br
+owner:       CAIXA ECONOMICA FEDERAL
+responsible: Gerência de Internet da CAIXA
+country:     BR
+owner-c:     RMJ35
+admin-c:     RMJ35
+tech-c:      GIT60
+billing-c:   GIC166
+nserver:     polar.caixa.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     lyra.caixa.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     orion.caixa.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     mira.caixa.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20000502 #323562
+changed:     20150716
+status:      published
+
+nic-hdl-br:  GIC166
+person:      Gerência de Internet da CAIXA - Cobrança
+created:     20020930
+changed:     20130613
+
+nic-hdl-br:  GIT60
+person:      Gerência de Internet da CAIXA - Técnico
+created:     20020930
+changed:     20150630
+
+nic-hdl-br:  RMJ35
+person:      Gerência de Internet da CAIXA
+created:     20000101
+changed:     20140729
+
+

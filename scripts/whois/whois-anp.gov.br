@@ -1,0 +1,27 @@
+
+
+
+domain:      anp.gov.br
+owner:       Agência Nacional do Petróleo, Gás Natural e Bioco.
+responsible: Sergio Fontoura de Oliveira
+country:     BR
+owner-c:     RALFA27
+admin-c:     RALFA27
+tech-c:      RALFA27
+billing-c:   RALFA27
+nserver:     ns1.anp.gov.br 200.244.156.201 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.anp.gov.br 201.73.100.150 
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19980202 #84599
+changed:     20150818
+status:      published
+
+nic-hdl-br:  RALFA27
+person:      Raquel Lima Façanha
+created:     20150717
+changed:     20160106
+
+

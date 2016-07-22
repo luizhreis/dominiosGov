@@ -1,0 +1,32 @@
+
+
+
+domain:      rni.gov.br
+owner:       REDE NORTERIOGRANDESE DE INFORMATICA - RNI
+responsible: PoP-RN, RNP
+country:     BR
+owner-c:     SVF12
+admin-c:     SVF12
+tech-c:      EMN66
+billing-c:   SVF12
+nserver:     osiris.pop-rn.rnp.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     zeus.pop-rn.rnp.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19970829 #54733
+changed:     20030225
+status:      published
+
+nic-hdl-br:  EMN66
+person:      Edson Moreira Silva Neto
+created:     20030225
+changed:     20030226
+
+nic-hdl-br:  SVF12
+person:      Sergio Vianna Fialho
+created:     20011226
+changed:     20020821
+
+

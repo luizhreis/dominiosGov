@@ -1,0 +1,32 @@
+
+
+
+domain:      cprm-be.gov.br
+owner:       COMPANHIA DE PESQUISA DE RECURSOS MINERAIS
+responsible: Tomaz Lobato
+country:     BR
+owner-c:     SAC142
+admin-c:     SAC142
+tech-c:      SAC142
+billing-c:   CPB2
+nserver:     ns.amazon.com.br  
+nsstat:      20160630 UH
+nslastaa:    20120321
+nserver:     ns2.amazon.com.br  
+nsstat:      20160630 UH
+nslastaa:    20120321
+created:     19970118 #28066
+changed:     20010801
+status:      published
+
+nic-hdl-br:  CPB2
+person:      CPRM BE
+created:     19980122
+changed:     19980122
+
+nic-hdl-br:  SAC142
+person:      suporte amazon corp
+created:     20010405
+changed:     20150710
+
+

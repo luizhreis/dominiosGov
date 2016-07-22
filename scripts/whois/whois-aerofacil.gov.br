@@ -1,0 +1,28 @@
+
+
+
+domain:      aerofacil.gov.br
+owner:       PRESIDENCIA DA REPUBLICA
+responsible: Secretaria de Administração
+country:     BR
+owner-c:     MAR79
+admin-c:     MAR79
+tech-c:      MAR79
+billing-c:   MAR79
+nserver:     alpha.planalto.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20131223 #12368464
+changed:     20140115
+status:      published
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+

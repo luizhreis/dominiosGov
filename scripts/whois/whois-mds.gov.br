@@ -1,0 +1,27 @@
+
+
+
+domain:      mds.gov.br
+owner:       DTI/SE/MDS E COMBATE A FOME
+responsible: Eduardo Hallison Rodrigo Amaral Martins
+country:     BR
+owner-c:     MACSO438
+admin-c:     MACSO438
+tech-c:      MACSO438
+billing-c:   MACSO438
+nserver:     ns-serpro01.mds.gov.br 189.9.45.21 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns-serpro02.mds.gov.br 189.9.45.24 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20040506 #1630325
+changed:     20140613
+status:      published
+
+nic-hdl-br:  MACSO438
+person:      MANOEL CHAGAS SOBRINHO
+created:     20140602
+changed:     20150331
+
+

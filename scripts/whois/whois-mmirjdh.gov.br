@@ -1,0 +1,38 @@
+
+
+
+domain:      mmirjdh.gov.br
+owner:       Min das Mulheres, Igualdade Racial, Juv. e Dir Hum
+responsible: Élida de Oliveira Lauris dos Santos
+country:     BR
+owner-c:     DMPRO12
+admin-c:     DMPRO12
+tech-c:      FRASO52
+billing-c:   ANHCA25
+nserver:     selene.sdh.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     geia.sdh.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20160419 #15472384
+changed:     20160419
+status:      published
+
+nic-hdl-br:  ANHCA25
+person:      André Henrique Castro
+created:     20131113
+changed:     20140422
+
+nic-hdl-br:  DMPRO12
+person:      Daniel Miranda Pontes Rogério
+created:     20160412
+changed:     20160419
+
+nic-hdl-br:  FRASO52
+person:      Francisco Araújo Soares
+created:     20130319
+changed:     20130319
+
+

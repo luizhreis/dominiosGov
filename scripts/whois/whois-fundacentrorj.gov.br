@@ -1,0 +1,27 @@
+
+
+
+domain:      fundacentrorj.gov.br
+owner:       Fundacao J. D. F. de Seg. e Medicina do Trabalho
+responsible: Sr. Marcos Aurélio Hartung
+country:     BR
+owner-c:     MAH384
+admin-c:     MAH384
+tech-c:      MAH384
+billing-c:   MAH384
+nserver:     rionet6.rionet.com.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20060302
+nserver:     rionet5.rionet.com.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20060831
+created:     19980116 #80592
+changed:     20130825
+status:      published
+
+nic-hdl-br:  MAH384
+person:      Marcos Aurélio Hartung
+created:     20050307
+changed:     20050307
+
+

@@ -1,0 +1,40 @@
+
+
+
+domain:      capoeira.gov.br
+owner:       INSTITUTO DO PATRIMONIO HISTORICO E ARTISTICO NACI
+responsible: Fernando Antonio Ornelas de Almeida
+country:     BR
+owner-c:     ABCSO3
+admin-c:     ABCSO3
+tech-c:      ABCSO3
+billing-c:   ABCSO3
+nserver:     dns1.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns3.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns4.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns5.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns6.kinghost.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20160301 #15274658
+changed:     20160301
+status:      published
+
+nic-hdl-br:  ABCSO3
+person:      Alan Bittencourt da Costa Souza
+created:     20080602
+changed:     20080602
+
+

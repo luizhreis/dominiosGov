@@ -1,0 +1,37 @@
+
+
+
+domain:      al.gov.br
+owner:       FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS
+responsible: Fabio Guedes Gomes
+country:     BR
+owner-c:     GESNE7
+admin-c:     GESNE7
+tech-c:      BRCBA15
+billing-c:   ANFSO60
+nserver:     ns1.fapeal.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.fapeal.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960404 #6462
+changed:     20160304
+status:      published
+
+nic-hdl-br:  ANFSO60
+person:      ANTONIO FERNANDO SOUZA
+created:     20110225
+changed:     20110225
+
+nic-hdl-br:  BRCBA15
+person:      Bruno Cavalcante Barbosa
+created:     20120320
+changed:     20120320
+
+nic-hdl-br:  GESNE7
+person:      Georginei Souza Neri
+created:     20100708
+changed:     20101119
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      cprm-ma.gov.br
+owner:       Companhia de Pesquisa de Recursos Minerais CPRM
+responsible: Sr. Ubiraci
+country:     BR
+owner-c:     INL3
+admin-c:     INL3
+tech-c:      INL3
+billing-c:   INL3
+nserver:     dns1.internext.com.br  
+nsstat:      20160630 TIMEOUT
+nslastaa:    20130826
+nserver:     dns2.internext.com.br  
+nsstat:      20160630 CREFUSED
+nslastaa:    20130826
+created:     20010123 #500371
+changed:     20021230
+status:      published
+
+nic-hdl-br:  INL3
+person:      INTERNExT Ltda.
+created:     19980106
+changed:     20150325
+
+

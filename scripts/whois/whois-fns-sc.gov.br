@@ -1,0 +1,27 @@
+
+
+
+domain:      fns-sc.gov.br
+owner:       FUNDACAO NACIONAL DE SAUDE - COORDENAÇÃO REGIONAL
+responsible: MILTON TADASHI SHIRATORI
+country:     BR
+owner-c:     RHR2
+admin-c:     RHR2
+tech-c:      RHR2
+billing-c:   RHR2
+nserver:     sabin.fns-sc.gov.br 200.18.11.2 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20020302
+nserver:     webmail.fns-sc.gov.br 200.18.11.1 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20020302
+created:     19971015 #63166
+changed:     20011207
+status:      published
+
+nic-hdl-br:  RHR2
+person:      Ricardo Henrique Ramos
+created:     19980218
+changed:     20140303
+
+

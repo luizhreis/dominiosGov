@@ -1,0 +1,32 @@
+
+
+
+domain:      bnb.gov.br
+owner:       BANCO DO NORDESTE DO BRASIL S/A
+responsible: Celia Maria Rufino de Sousa
+country:     BR
+owner-c:     CMRSO14
+admin-c:     CMRSO14
+tech-c:      FFN
+billing-c:   CMRSO14
+nserver:     ns3.bnb.gov.br 198.17.120.3 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns4.bnb.gov.br 198.17.121.3 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     19960424 #7114
+changed:     20160607
+status:      published
+
+nic-hdl-br:  CMRSO14
+person:      Celia Maria Rufino de Sousa
+created:     20160317
+changed:     20160411
+
+nic-hdl-br:  FFN
+person:      Francisco Ferreira Maia Lopes NETO
+created:     19980108
+changed:     20120625
+
+

@@ -1,0 +1,30 @@
+
+
+
+domain:      crasp.gov.br
+owner:       Conselho Regional de Administração de São Paulo
+responsible: Welton Marques
+country:     BR
+owner-c:     CRASP
+admin-c:     CRASP
+tech-c:      CRASP
+billing-c:   CRASP
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20080428 #4395208
+changed:     20110831
+status:      published
+
+nic-hdl-br:  CRASP
+person:      Conselho Regional de Administração de SP
+created:     20081127
+changed:     20120521
+
+

@@ -1,0 +1,27 @@
+
+
+
+domain:      crecies.gov.br
+owner:       Conselho Regional de Corretores de Imóveis/13 Reg.
+responsible: Luiz Augusto Mill
+country:     BR
+owner-c:     VIMTR2
+admin-c:     VIMTR2
+tech-c:      VIMTR2
+billing-c:   VIMTR2
+nserver:     max.ns.cloudflare.com  
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     rachel.ns.cloudflare.com  
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20080731 #4720440
+changed:     20160623
+status:      published
+
+nic-hdl-br:  VIMTR2
+person:      Vitor Machado Trigo
+created:     20090603
+changed:     20150312
+
+

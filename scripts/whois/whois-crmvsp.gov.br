@@ -1,0 +1,32 @@
+
+
+
+domain:      crmvsp.gov.br
+owner:       Conselho Regional de Med.Veterinária de SP
+responsible: Conselho Regional de Med.Veterinária de 
+country:     BR
+owner-c:     CRS389
+admin-c:     CRS389
+tech-c:      CRS389
+billing-c:   CRS389
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+saci:        yes
+created:     20110801 #8561217
+changed:     20110801
+provider:    LOCAWEB (2)
+status:      published
+
+nic-hdl-br:  CRS389
+person:      Cons. Reg.de Med. Veterinaria do Est. SP
+created:     20020506
+changed:     20140721
+
+

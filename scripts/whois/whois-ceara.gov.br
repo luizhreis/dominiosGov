@@ -1,0 +1,38 @@
+
+
+
+domain:      ceara.gov.br
+owner:       Secretaria da Administração
+responsible: Raimundo Osman Lima
+country:     BR
+owner-c:     RAOLI10
+admin-c:     VLS171
+tech-c:      RAOLI10
+billing-c:   VLS171
+nserver:     ns1.etice.ce.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.etice.ce.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.etice.ce.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     futuro.pop-ce.rnp.br  
+nsstat:      20160629 UH
+nslastaa:    20160624
+created:     19950821
+changed:     20140506
+status:      published
+
+nic-hdl-br:  RAOLI10
+person:      Raimundo Osman Lima
+created:     20070509
+changed:     20140318
+
+nic-hdl-br:  VLS171
+person:      Vera Lucia Carneiro de Sousa
+created:     20041230
+changed:     20130130
+
+

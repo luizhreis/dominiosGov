@@ -1,0 +1,27 @@
+
+
+
+domain:      ceagesp.gov.br
+owner:       Companhia de Entrepostos e Armazéns Gerais de SP
+responsible: Departamento de Tecnologia
+country:     BR
+owner-c:     CEP457
+admin-c:     CEP457
+tech-c:      CEP457
+billing-c:   CEP457
+nserver:     ns1.ceagesp.gov.br 187.63.135.14 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.ceagesp.gov.br 187.63.135.13 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20031001 #1357071
+changed:     20151230
+status:      published
+
+nic-hdl-br:  CEP457
+person:      Cia de Ent. e Arm. Gerais de São Paulo
+created:     20060209
+changed:     20150514
+
+

@@ -1,0 +1,36 @@
+
+
+
+domain:      corenpr.gov.br
+owner:       Conselho Regional de Enfermagem do Paraná
+responsible: Simone Aparecida Peruzzo
+country:     BR
+owner-c:     CCE120
+admin-c:     CCE120
+tech-c:      MGPSO
+billing-c:   CCE120
+nserver:     ns1.dominios.uol.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.dominios.uol.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns3.dominios.uol.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+saci:        yes
+created:     20120223 #9395488
+changed:     20140726
+status:      published
+
+nic-hdl-br:  CCE120
+person:      Coren-PR Conselho de Enfermagem
+created:     20050803
+changed:     20140726
+
+nic-hdl-br:  MGPSO
+person:      Manoel Gilliard Paes de Sousa
+created:     20061101
+changed:     20140726
+
+

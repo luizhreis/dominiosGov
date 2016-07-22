@@ -1,0 +1,32 @@
+
+
+
+domain:      tcu.gov.br
+owner:       Tribunal de Contas da União
+responsible: Alfram Roberto Rodrigues de Albuquerque
+country:     BR
+owner-c:     ARRAL9
+admin-c:     ARRAL9
+tech-c:      RETMI
+billing-c:   ARRAL9
+nserver:     falcao.tcu.gov.br 189.114.57.130 2801:80:1260::130
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     gaviao.tcu.gov.br 138.186.96.211 2801:80:1260::211
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19960410 #6596
+changed:     20160622
+status:      published
+
+nic-hdl-br:  ARRAL9
+person:      Alfram Roberto Rodrigues de Albuquerque
+created:     20090213
+changed:     20150225
+
+nic-hdl-br:  RETMI
+person:      Regina Tsujiguchi Mikami
+created:     20090206
+changed:     20091216
+
+

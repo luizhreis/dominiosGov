@@ -1,0 +1,27 @@
+
+
+
+domain:      consumidor.gov.br
+owner:       MINISTERIO DA JUSTICA
+responsible: Eugênio José Guilherme de Aragão
+country:     BR
+owner-c:     ALCBA81
+admin-c:     ALCBA81
+tech-c:      ALCBA81
+billing-c:   ALCBA81
+nserver:     dns1.consumidor.gov.br 170.66.15.53 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     dns2.consumidor.gov.br 170.66.15.153 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20011213 #697240
+changed:     20140312
+status:      published
+
+nic-hdl-br:  ALCBA81
+person:      ALEXANDRE CARDOSO DE BARROS
+created:     20120213
+changed:     20160309
+
+

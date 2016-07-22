@@ -1,0 +1,33 @@
+
+
+
+domain:      rio20.gov.br
+owner:       MINISTERIO DAS RELACOES EXTERIORES
+responsible: Nestor José Forster Junior
+country:     BR
+owner-c:     SAT7
+admin-c:     SAT7
+tech-c:      MAR79
+billing-c:   SAT7
+nserver:     alpha.planalto.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     alpha2.planalto.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20110513 #8216116
+changed:     20121002
+status:      published
+
+nic-hdl-br:  MAR79
+person:      Coord. Tecnologia de Rede
+created:     19980526
+changed:     20140418
+
+nic-hdl-br:  SAT7
+person:      Antonio Vieira
+created:     19981016
+changed:     20150521
+
+

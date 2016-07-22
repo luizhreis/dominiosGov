@@ -1,0 +1,37 @@
+
+
+
+domain:      proagua.gov.br
+owner:       SECRETARIA DE RECURSOS HIDRICOS E AMBIENTE URBANO
+responsible: Silvano Silvério da Costa
+country:     BR
+owner-c:     BRGDU2
+admin-c:     AMS65
+tech-c:      DVN6
+billing-c:   DVN6
+nserver:     ana-dns02.ana.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ana-dns01.ana.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     19970821 #53330
+changed:     20021112
+status:      published
+
+nic-hdl-br:  AMS65
+person:      ALBERTO ALVES DE SANTANA
+created:     19981207
+changed:     20000427
+
+nic-hdl-br:  BRGDU2
+person:      BRAULIO GOTTSCHALG DUQUE
+created:     20080123
+changed:     20110414
+
+nic-hdl-br:  DVN6
+person:      Dixmer Vallini Netto
+created:     20010402
+changed:     20010402
+
+

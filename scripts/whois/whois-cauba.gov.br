@@ -1,0 +1,44 @@
+
+
+
+domain:      cauba.gov.br
+owner:       Conselho de Arquitetura e Urbanismo do Brasil
+responsible: HAROLDO PINHEIRO VILLAR DE QUEIROZ
+country:     BR
+owner-c:     MICLO17
+admin-c:     MICLO17
+tech-c:      SCITI
+billing-c:   SCFIN
+nserver:     ns-1200.awsdns-22.org  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns-307.awsdns-38.com  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns-1574.awsdns-04.co.uk  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns-975.awsdns-57.net  
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20140626 #13050742
+changed:     20150429
+status:      published
+
+nic-hdl-br:  MICLO17
+person:      Mirna C.Lobo
+created:     20120328
+changed:     20140605
+
+nic-hdl-br:  SCFIN
+person:      Scytl Financeiro
+created:     20140710
+changed:     20140710
+
+nic-hdl-br:  SCITI
+person:      Scytl Infraestrutura de TI
+created:     20140710
+changed:     20150303
+
+

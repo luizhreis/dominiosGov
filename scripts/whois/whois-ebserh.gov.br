@@ -1,0 +1,28 @@
+
+
+
+domain:      ebserh.gov.br
+owner:       EMPRESA BRASILEIRA DE SERV HOSPITALARES - EBSERH
+responsible: Jose Rubens Rebelato
+country:     BR
+owner-c:     DOEBS
+admin-c:     DOEBS
+tech-c:      DOEBS
+billing-c:   DOEBS
+nserver:     ns1.ebserh.gov.br 200.130.7.249 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.ebserh.gov.br 200.130.7.250 
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20130423 #11267250
+changed:     20140528
+status:      published
+
+nic-hdl-br:  DOEBS
+person:      Domínios EBSERH
+created:     20140528
+changed:     20140528
+
+

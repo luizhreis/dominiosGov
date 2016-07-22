@@ -1,0 +1,32 @@
+
+
+
+domain:      tjap.gov.br
+owner:       TRIBUNAL DE JUSTICA DO ESTADO DO AMAPA
+responsible: Rosywan Cantuaria da Silva Ferreira
+country:     BR
+owner-c:     MACSC41
+admin-c:     MACSC41
+tech-c:      LEBEZ10
+billing-c:   MACSC41
+nserver:     ns1.tjap.gov.br 200.242.211.3 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20140423
+nserver:     ns2.tjap.gov.br 200.242.211.10 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20131214
+created:     19980514 #97640
+changed:     20120801
+status:      published
+
+nic-hdl-br:  LEBEZ10
+person:      Leandro Bezerra
+created:     20120731
+changed:     20120731
+
+nic-hdl-br:  MACSC41
+person:      Marco Antônio Campos Soares Craveiro
+created:     20120701
+changed:     20130206
+
+

@@ -1,0 +1,35 @@
+
+
+
+domain:      certidãodenascimento.gov.br xn--certidodenascimento-0vb.gov.br
+owner:       Secretaria de Direitos Humanos
+responsible: Marco Antônio Juliatto
+country:     BR
+owner-c:     MAAJU182
+admin-c:     WEL52
+tech-c:      WEL52
+billing-c:   WEL52
+nserver:     dere-01.dataprev.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dere-02.dataprev.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     poodle.dtpdf.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20090915 #5978128
+changed:     20150113
+status:      published
+
+nic-hdl-br:  MAAJU182
+person:      MARCO ANTÔNIO JULIATTO
+created:     20160412
+changed:     20160412
+
+nic-hdl-br:  WEL52
+person:      Wesley Lira
+created:     20030519
+changed:     20130801
+
+

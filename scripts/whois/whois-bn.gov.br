@@ -1,0 +1,33 @@
+
+
+
+domain:      bn.gov.br
+owner:       FUNDACAO BIBLIOTECA NACIONAL
+responsible: Galeno Amorim
+country:     BR
+owner-c:     GGCJU6
+admin-c:     GGCJU6
+tech-c:      LACAJ
+billing-c:   GGCJU6
+nserver:     ns1.bn.gov.br 200.9.175.53 
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.bn.gov.br 200.9.175.153 
+nsstat:      20160628 AA
+nslastaa:    20160628
+saci:        yes
+created:     20130131 #10957465
+changed:     20160418
+status:      published
+
+nic-hdl-br:  GGCJU6
+person:      Geraldo Gonçalves Chaves Junior
+created:     20130110
+changed:     20130110
+
+nic-hdl-br:  LACAJ
+person:      Luiz Antonio C. Alves Jr.
+created:     20080507
+changed:     20130110
+
+

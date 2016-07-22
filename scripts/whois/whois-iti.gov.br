@@ -1,0 +1,35 @@
+
+
+
+domain:      iti.gov.br
+owner:       Instituto Nacional de Tecnologia Informação - ITI
+responsible: Maurício Augusto Coelho
+country:     BR
+owner-c:     JRGJU4
+admin-c:     RLSSI74
+tech-c:      RLSSI74
+billing-c:   RLSSI74
+nserver:     ns1.iti.gov.br 177.135.243.69 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.iti.gov.br 189.9.5.91 
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.iti.gov.br 189.9.5.90 
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20010215 #514186
+changed:     20160505
+status:      published
+
+nic-hdl-br:  JRGJU4
+person:      José Rodrigues Gonçalves Júnior
+created:     20090306
+changed:     20160504
+
+nic-hdl-br:  RLSSI74
+person:      RONALD LUIS SILVA SIQUEIRA
+created:     20160505
+changed:     20160505
+
+

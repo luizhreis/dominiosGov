@@ -1,0 +1,37 @@
+
+
+
+domain:      trtes.gov.br
+owner:       Tribunal Regional do Trabalho 17ª Região
+responsible: Carlos Tadeu Goulart
+country:     BR
+owner-c:     CATGO3
+admin-c:     CATGO3
+tech-c:      JMSCA2
+billing-c:   DRZ
+nserver:     ns1.trtes.gov.br 200.9.85.33 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.trtes.gov.br 200.9.85.34 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20070807 #3761923
+changed:     20150815
+status:      published
+
+nic-hdl-br:  CATGO3
+person:      CARLOS TADEU GOULART
+created:     20071128
+changed:     20150817
+
+nic-hdl-br:  DRZ
+person:      Dirceu Roque Zanotelli
+created:     19980310
+changed:     19980310
+
+nic-hdl-br:  JMSCA2
+person:      Johnathan Marques Silveira Carioca
+created:     20060905
+changed:     20060905
+
+

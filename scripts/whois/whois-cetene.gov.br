@@ -1,0 +1,27 @@
+
+
+
+domain:      cetene.gov.br
+owner:       Ministério da Ciência, Tecnologia e Inovação
+responsible: André Galembeck
+country:     BR
+owner-c:     CTENE
+admin-c:     CTENE
+tech-c:      CTENE
+billing-c:   CTENE
+nserver:     ns01.cetene.gov.br 200.133.5.110 
+nsstat:      20160627 AA
+nslastaa:    20160627
+nserver:     ns02.cetene.gov.br 200.133.5.111 
+nsstat:      20160627 AA
+nslastaa:    20160627
+created:     20070626 #3636218
+changed:     20150805
+status:      published
+
+nic-hdl-br:  CTENE
+person:      Centro de Tecnologias Estratégicas do Ne
+created:     20061214
+changed:     20160518
+
+

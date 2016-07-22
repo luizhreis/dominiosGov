@@ -1,0 +1,30 @@
+
+
+
+domain:      faesa-oscip.gov.br
+owner:       FEDERAÇÃO DAS ASSOC. E ENTID. P/ DESENV. SEMIÁRIDO
+responsible: MARIA DO REMÉDIO LEITE DE SANTANA
+country:     BR
+owner-c:     LCM516
+admin-c:     LCM516
+tech-c:      LCM516
+billing-c:   LCM516
+nserver:     ns1.locaweb.com.br  
+nsstat:      20160701 FAIL
+nslastaa:    20070222
+nserver:     ns2.locaweb.com.br  
+nsstat:      20160701 FAIL
+nslastaa:    20070222
+nserver:     ns3.locaweb.com.br  
+nsstat:      20160701 FAIL
+nslastaa:    20070222
+created:     20040517 #1633530
+changed:     20040517
+status:      published
+
+nic-hdl-br:  LCM516
+person:      Luiz Carlos Menezes
+created:     20040506
+changed:     20131231
+
+

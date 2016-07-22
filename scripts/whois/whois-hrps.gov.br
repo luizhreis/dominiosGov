@@ -1,0 +1,27 @@
+
+
+
+domain:      hrps.gov.br
+owner:       Hospital Raphael de Paula Souza
+responsible: Dr. Victor G.
+country:     BR
+owner-c:     PSB51
+admin-c:     PSB51
+tech-c:      PSB51
+billing-c:   PSB51
+nserver:     gb1-rio.gblnet.com.br  
+nsstat:      20160701 UH
+nslastaa:    20010905
+nserver:     gb5-rio.gblnet.com.br  
+nsstat:      20160701 UH
+nslastaa:    20010905
+created:     19980825 #110087
+changed:     20010814
+status:      published
+
+nic-hdl-br:  PSB51
+person:      PSINet do Brasil S/A
+created:     20010702
+changed:     20020814
+
+

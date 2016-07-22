@@ -1,0 +1,27 @@
+
+
+
+domain:      netminas.gov.br
+owner:       COMPANHIA DE TECNOLOGIA DA INFORMAÇÃO ESTADO MG
+responsible: Governo Minas Gerais
+country:     BR
+owner-c:     PGM14
+admin-c:     PGM14
+tech-c:      PGM14
+billing-c:   PGM14
+nserver:     nsa1.prodemge.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     nsa2.prodemge.gov.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     19980116 #81512
+changed:     20160504
+status:      published
+
+nic-hdl-br:  PGM14
+person:      Prodemge Ger. Rede - Dominios MG.GOV.BR
+created:     20000901
+changed:     20130808
+
+

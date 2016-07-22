@@ -1,0 +1,32 @@
+
+
+
+domain:      biodiesel.gov.br
+owner:       IBICT - MCTI
+responsible: Cecília Leite Oliveira
+country:     BR
+owner-c:     LEL7
+admin-c:     MAPNO38
+tech-c:      MAPNO38
+billing-c:   MAPNO38
+nserver:     ns1.ibict.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.ibict.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+created:     20050204 #1986365
+changed:     20140805
+status:      published
+
+nic-hdl-br:  LEL7
+person:      Leonardo Lazarte
+created:     19980131
+changed:     20140306
+
+nic-hdl-br:  MAPNO38
+person:      Marcos Pereira de Novais
+created:     20140805
+changed:     20141125
+
+

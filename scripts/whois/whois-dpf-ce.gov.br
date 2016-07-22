@@ -1,0 +1,27 @@
+
+
+
+domain:      dpf-ce.gov.br
+owner:       SUPER. REGIONAL DA POLICIA FEDERAL NO CEARÁ
+responsible: Sérgio Antonio Silveira de Paula
+country:     BR
+owner-c:     SAP3
+admin-c:     SAP3
+tech-c:      SAP3
+billing-c:   SAP3
+nserver:     ns1.dpf-ce.gov.br 200.129.26.1 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20051115
+nserver:     ns2.dnadigital.com.br  
+nsstat:      20160629 UH
+nslastaa:    20050430
+created:     19970223 #31061
+changed:     20040324
+status:      published
+
+nic-hdl-br:  SAP3
+person:      Sergio Antonio Silveira de Paula
+created:     19971229
+changed:     20150203
+
+

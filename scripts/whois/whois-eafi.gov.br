@@ -1,0 +1,27 @@
+
+
+
+domain:      eafi.gov.br
+owner:       ESCOLA AGROTECNICA FEDERAL DE INCONFIDENTES
+responsible: Ademir José Pereira
+country:     BR
+owner-c:     GMMPE2
+admin-c:     GMMPE2
+tech-c:      GMMPE2
+billing-c:   GMMPE2
+nserver:     ns1.eafi.gov.br 200.131.80.29 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.eafi.gov.br 200.131.80.30 
+nsstat:      20160629 NOT SYNC ZONE
+nslastaa:    20160629
+created:     20030516 #1199829
+changed:     20130808
+status:      published
+
+nic-hdl-br:  GMMPE2
+person:      Gabriel Maduro Marcondes Pereira
+created:     20100804
+changed:     20130808
+
+

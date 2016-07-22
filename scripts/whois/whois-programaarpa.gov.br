@@ -1,0 +1,31 @@
+
+
+
+domain:      programaarpa.gov.br
+owner:       MINISTERIO DO MEIO AMBIENTE
+responsible: Coord Geral de Tec. da Informação e Info
+country:     BR
+owner-c:     MMR
+admin-c:     MMR
+tech-c:      MMR
+billing-c:   MMR
+nserver:     ns1.mma.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.mma.gov.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+dsrecord:    62571 RSA/SHA-1 14A59B0D22CE43234C6F205F18B365181F007246
+dsstatus:    20160630 DSOK
+dslastok:    20160630
+saci:        yes
+created:     20130425 #11387857
+changed:     20160411
+status:      published
+
+nic-hdl-br:  MMR
+person:      Ministério do Meio Ambiente
+created:     19980109
+changed:     20151014
+
+

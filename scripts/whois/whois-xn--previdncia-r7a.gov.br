@@ -1,0 +1,40 @@
+
+
+
+domain:      previdência.gov.br xn--previdncia-r7a.gov.br
+owner:       EMP. DE TEC. E INFORMACOES DA PREVIDENCIA SOCIAL
+responsible: Rodrigo Ortiz DAvila Assumpção
+country:     BR
+owner-c:     DDA66
+admin-c:     DDA66
+tech-c:      DDT10
+billing-c:   DDC98
+nserver:     dere-01.dataprev.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     dere-02.dataprev.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     poodle.dataprev.gov.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20050831 #2322262
+changed:     20130607
+status:      published
+
+nic-hdl-br:  DDA66
+person:      DERE.O - DIGR.O - ADMINISTRATIVO
+created:     20041123
+changed:     20150727
+
+nic-hdl-br:  DDC98
+person:      DERE.O - DIGR.O - COBRANÇA
+created:     20041112
+changed:     20131028
+
+nic-hdl-br:  DDT10
+person:      DERE.O - DIGR.O - TÉCNICO
+created:     20041119
+changed:     20150817
+
+

@@ -1,0 +1,36 @@
+
+
+
+domain:      crtr17.gov.br
+owner:       Conselho Regional de Técnicos em Radiologia 17ª Rg
+responsible: Sérgio Murilo Ramada
+country:     BR
+owner-c:     MAMOC2
+admin-c:     MAMOC2
+tech-c:      CRARE8
+billing-c:   CRARE8
+nserver:     ns1.hostsys.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns2.hostsys.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+nserver:     ns3.hostsys.com.br  
+nsstat:      20160630 AA
+nslastaa:    20160630
+saci:        yes
+created:     20110504 #8241651
+changed:     20120514
+status:      published
+
+nic-hdl-br:  CRARE8
+person:      CRTR 17a. Região
+created:     20110106
+changed:     20120514
+
+nic-hdl-br:  MAMOC2
+person:      Marcos Mochel
+created:     20080802
+changed:     20080802
+
+

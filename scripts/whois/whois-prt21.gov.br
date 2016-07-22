@@ -1,0 +1,32 @@
+
+
+
+domain:      prt21.gov.br
+owner:       Procuradoria Regional do Trabalho - 21ª Região
+responsible: Fernando Lyra Vidaller
+country:     BR
+owner-c:     LEA2
+admin-c:     LEA2
+tech-c:      LEA2
+billing-c:   DDF42
+nserver:     ns1.hospedainterativa.com.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20150309
+nserver:     ns2.hospedainterativa.com.br  
+nsstat:      20160701 TIMEOUT
+nslastaa:    20150309
+created:     19980715 #106186
+changed:     20131125
+status:      published
+
+nic-hdl-br:  DDF42
+person:      Diginet Depto. Financeiro
+created:     20040517
+changed:     20120306
+
+nic-hdl-br:  LEA2
+person:      Leonardo Annes
+created:     19980212
+changed:     20130121
+
+

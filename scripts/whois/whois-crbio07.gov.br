@@ -1,0 +1,33 @@
+
+
+
+domain:      crbio07.gov.br
+owner:       conselho regional de biologia da setima região
+responsible: rogerio duilio genari
+country:     BR
+owner-c:     RODGE
+admin-c:     RODGE
+tech-c:      DAA277
+billing-c:   RODGE
+nserver:     ns01.webgenium.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns02.webgenium.com.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20120828 #10335261
+changed:     20120828
+status:      published
+
+nic-hdl-br:  DAA277
+person:      DATACENTRO [ADM]
+created:     20031202
+changed:     20140307
+
+nic-hdl-br:  RODGE
+person:      Rogerio Duilio Genari
+created:     20060612
+changed:     20120321
+
+

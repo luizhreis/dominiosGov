@@ -1,0 +1,30 @@
+
+
+
+domain:      ccpe.gov.br
+owner:       MINISTERIO DE MINAS E ENERGIA
+responsible: Sergio Luiz Barbosa
+country:     BR
+owner-c:     HCB42
+admin-c:     HCB42
+tech-c:      HCB42
+billing-c:   HCB42
+nserver:     urano.ccpe.gov.br 200.198.223.21 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20050420
+nserver:     antares.serpro.gov.br  
+nsstat:      20160629 TIMEOUT
+nslastaa:    20070706
+nserver:     terra.ccpe.gov.br 200.198.223.12 
+nsstat:      20160629 TIMEOUT
+nslastaa:    20070228
+created:     20000229 #275195
+changed:     20090214
+status:      published
+
+nic-hdl-br:  HCB42
+person:      Hiram Costa Botelho
+created:     20030911
+changed:     20070307
+
+

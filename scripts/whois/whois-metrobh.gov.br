@@ -1,0 +1,32 @@
+
+
+
+domain:      metrobh.gov.br
+owner:       Companhia Brasileira de Trens Urbanos
+responsible: Jackson Alves de Viveiros
+country:     BR
+owner-c:     JAAVI19
+admin-c:     JAAVI19
+tech-c:      CSILT7
+billing-c:   JAAVI19
+nserver:     ns1.metrobh.gov.br 46.4.17.67 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     comlinux3.citis.com.br  
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20030205 #1082083
+changed:     20150619
+status:      published
+
+nic-hdl-br:  CSILT7
+person:      CITIS SERVICOS DE INFORMATICA LTDA
+created:     20070807
+changed:     20150520
+
+nic-hdl-br:  JAAVI19
+person:      Jackson Alves de Viveiros
+created:     20100521
+changed:     20100825
+
+

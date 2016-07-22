@@ -1,0 +1,30 @@
+
+
+
+domain:      geipot.gov.br
+owner:       EMPRESA BRASILEIRA DE PLANEJAMENTO DE
+responsible: Nubian Mendonça Amorim
+country:     BR
+owner-c:     SECDA3
+admin-c:     SECDA3
+tech-c:      SECDA3
+billing-c:   SECDA3
+nserver:     ns1.transportes.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.transportes.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+dsrecord:    32212 RSA/SHA-1 907C7AA4047C5A9D2DC6009E93579EB4C7D19C5E
+dsstatus:    20160701 DSOK
+dslastok:    20160701
+created:     19961031 #20961
+changed:     20140730
+status:      published
+
+nic-hdl-br:  SECDA3
+person:      Serviço de Comunicação de Dados
+created:     20110722
+changed:     20160331
+
+

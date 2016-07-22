@@ -1,0 +1,32 @@
+
+
+
+domain:      egressos-esaf.gov.br
+owner:       Escola de Administração Fazendária
+responsible: Jorge Ribeiro Cunha da Silva
+country:     BR
+owner-c:     JRS323
+admin-c:     JRS323
+tech-c:      YRD7
+billing-c:   YRD7
+nserver:     ns1.yawl.com.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20120113
+nserver:     ns2.yawl.com.br  
+nsstat:      20160629 QREFUSED
+nslastaa:    20120113
+created:     20021122 #1009312
+changed:     20021122
+status:      published
+
+nic-hdl-br:  JRS323
+person:      Jorge Ribeiro Cunha da Silva
+created:     20011207
+changed:     20021022
+
+nic-hdl-br:  YRD7
+person:      Yawl Registro Domínio
+created:     20001208
+changed:     20090306
+
+

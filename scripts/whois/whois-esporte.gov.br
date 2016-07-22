@@ -1,0 +1,32 @@
+
+
+
+domain:      esporte.gov.br
+owner:       ME - Ministerio do Esporte
+responsible: Jose Dartalian Gomes Pinheiro
+country:     BR
+owner-c:     JDGPI
+admin-c:     JAA364
+tech-c:      JAA364
+billing-c:   JAA364
+nserver:     dns1.esporte.gov.br 200.198.193.99 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.esporte.gov.br 200.198.193.100 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20030122 #1061511
+changed:     20080419
+status:      published
+
+nic-hdl-br:  JAA364
+person:      Jorge Antônio Lacerda de Andrade
+created:     20030908
+changed:     20160222
+
+nic-hdl-br:  JDGPI
+person:      José Dartalian Gomes Pinheiro
+created:     20160222
+changed:     20160222
+
+

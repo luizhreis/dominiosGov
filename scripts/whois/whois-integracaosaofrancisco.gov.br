@@ -1,0 +1,38 @@
+
+
+
+domain:      integracaosaofrancisco.gov.br
+owner:       MINISTERIO DA INTEGRACAO NACIONAL
+responsible: Flavio Ferreira dos Santos
+country:     BR
+owner-c:     ADSFE47
+admin-c:     FFDSA72
+tech-c:      HEMGO28
+billing-c:   FFDSA72
+nserver:     ns1.mi.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.mi.gov.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+saci:        yes
+created:     20131211 #12326071
+changed:     20140128
+status:      published
+
+nic-hdl-br:  ADSFE47
+person:      Alexandre dos Santos Ferreira
+created:     20110413
+changed:     20110502
+
+nic-hdl-br:  FFDSA72
+person:      Flavio Ferreira dos Santos
+created:     20110628
+changed:     20110628
+
+nic-hdl-br:  HEMGO28
+person:      HELDER MOTA GOMES
+created:     20130925
+changed:     20160104
+
+

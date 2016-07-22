@@ -1,0 +1,27 @@
+
+
+
+domain:      mpes.gov.br
+owner:       Ministério Público do Estado do Espírito Santo
+responsible: Coordenação de Informática
+country:     BR
+owner-c:     AMP477
+admin-c:     AMP477
+tech-c:      AMP477
+billing-c:   AMP477
+nserver:     ns1.mpes.gov.br 200.214.53.161 
+nsstat:      20160629 AA
+nslastaa:    20160629
+nserver:     ns2.mpes.gov.br 200.214.53.162 
+nsstat:      20160629 AA
+nslastaa:    20160629
+created:     20010914 #640020
+changed:     20100128
+status:      published
+
+nic-hdl-br:  AMP477
+person:      Administrador do Ministério Publico
+created:     20051202
+changed:     20140423
+
+

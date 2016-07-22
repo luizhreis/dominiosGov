@@ -1,0 +1,27 @@
+
+
+
+domain:      eafce.gov.br
+owner:       Escola Agrotécnica Federal de Ceres
+responsible: Welington de Arruda Passarinho
+country:     BR
+owner-c:     EAC261
+admin-c:     EAC261
+tech-c:      EAC261
+billing-c:   EAC261
+nserver:     sol.eafce.gov.br 200.18.164.253 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20100426
+nserver:     lua.eafce.gov.br 200.18.164.254 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20100426
+created:     20041029 #1861027
+changed:     20070914
+status:      published
+
+nic-hdl-br:  EAC261
+person:      Escola Agrotécnica Federal de Ceres
+created:     20041022
+changed:     20080307
+
+

@@ -1,0 +1,32 @@
+
+
+
+domain:      agespacial.gov.br
+owner:       Agência Espacial Brasileira
+responsible: José Raimundo Braga Coelho
+country:     BR
+owner-c:     VIL10
+admin-c:     VIL10
+tech-c:      VIL10
+billing-c:   GMB5
+nserver:     lisa.agespacial.gov.br 200.130.146.200 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20160515
+nserver:     marge.agespacial.gov.br 200.130.146.201 
+nsstat:      20160701 TIMEOUT
+nslastaa:    20160515
+created:     19980525 #98443
+changed:     20150819
+status:      published
+
+nic-hdl-br:  GMB5
+person:      Gessé Martins Borges
+created:     19980525
+changed:     19980525
+
+nic-hdl-br:  VIL10
+person:      Virgínia Luz
+created:     19980312
+changed:     20160513
+
+

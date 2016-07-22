@@ -1,0 +1,27 @@
+
+
+
+domain:      jfrn.gov.br
+owner:       Justiça Federal do Rio Grande do Norte
+responsible: Francisco Rodrigues Rocha
+country:     BR
+owner-c:     FRRRO5
+admin-c:     FRRRO5
+tech-c:      FRRRO5
+billing-c:   FRRRO5
+nserver:     dns1.jfrn.jus.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     dns2.jfrn.jus.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19980116 #80611
+changed:     20100905
+status:      published
+
+nic-hdl-br:  FRRRO5
+person:      FRANCISCO RODRIGUES ROCHA
+created:     20100319
+changed:     20100319
+
+

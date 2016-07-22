@@ -1,0 +1,27 @@
+
+
+
+domain:      nuclebras.gov.br
+owner:       Nuclebras Equipamentos Pesados S.A.
+responsible: Antonio Carlos de Rezende Ribeiro
+country:     BR
+owner-c:     HEACA9
+admin-c:     HEACA9
+tech-c:      HEACA9
+billing-c:   HEACA9
+nserver:     ns.embratel.net.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+nserver:     ns2.embratel.net.br  
+nsstat:      20160628 AA
+nslastaa:    20160628
+created:     20090303 #5287038
+changed:     20090303
+status:      published
+
+nic-hdl-br:  HEACA9
+person:      Helio Araujo de Castro
+created:     20090216
+changed:     20090216
+
+

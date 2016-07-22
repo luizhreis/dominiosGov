@@ -1,0 +1,27 @@
+
+
+
+domain:      fab.gov.br
+owner:       Centro de Computação da Aeronáutica de Brasília
+responsible: Ten.Cel.Av. ROBSON LUIS LOPES DOS SANTOS
+country:     BR
+owner-c:     CMANS
+admin-c:     CMANS
+tech-c:      CMANS
+billing-c:   CMANS
+nserver:     alfa.aer.mil.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     beta.aer.mil.br  
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     20030205 #1072309
+changed:     20140204
+status:      published
+
+nic-hdl-br:  CMANS
+person:      Claudio M. Albuquerque Nascimento Silva
+created:     20090407
+changed:     20141117
+
+

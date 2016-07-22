@@ -1,0 +1,27 @@
+
+
+
+domain:      crbio3.gov.br
+owner:       Conselho Regional de Biologia - 3a. Região
+responsible: Clarice Luz
+country:     BR
+owner-c:     CLLUZ2
+admin-c:     CLLUZ2
+tech-c:      CLLUZ2
+billing-c:   CLLUZ2
+nserver:     ns1.3winternet.com.br  
+nsstat:      20160701 UDN
+nslastaa:    20160410
+nserver:     ns2.3winternet.com.br  
+nsstat:      20160701 UDN
+nslastaa:    20160410
+created:     20090129 #5209815
+changed:     20090129
+status:      published
+
+nic-hdl-br:  CLLUZ2
+person:      clarice luz
+created:     20080724
+changed:     20080724
+
+

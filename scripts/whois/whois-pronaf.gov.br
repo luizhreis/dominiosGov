@@ -1,0 +1,27 @@
+
+
+
+domain:      pronaf.gov.br
+owner:       Ministerio do Desenvolvimento Agrario
+responsible: Coordenacao Geral de Modernizacao e Info
+country:     BR
+owner-c:     ECLNA
+admin-c:     ECLNA
+tech-c:      ECLNA
+billing-c:   ECLNA
+nserver:     ns1.pronaf.gov.br 200.198.212.52 
+nsstat:      20160701 AA
+nslastaa:    20160701
+nserver:     ns2.pronaf.gov.br 200.198.212.43 
+nsstat:      20160701 AA
+nslastaa:    20160701
+created:     19980319 #89536
+changed:     20150608
+status:      published
+
+nic-hdl-br:  ECLNA
+person:      Eduardo Camargos Lagares do Nascimento
+created:     20101116
+changed:     20140204
+
+
