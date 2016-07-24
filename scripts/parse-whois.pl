@@ -96,22 +96,132 @@ while (my $row = $csv->getline ($fh_csv)) {
     my $dominio = $row->[0];
     $dados->{dominios}->{$dominio}->{documento} = $row->[1];
     $dados->{dominios}->{$dominio}->{uf} = $row->[3];
-    $dados->{dominios}->{$dominio}->{cidade} = $row->[4];
+    $dados->{dominios}->{$dominio}->{cidade} = uc($row->[4]);
     $dados->{dominios}->{$dominio}->{cep} = $row->[5];
+    $dados->{dominios}->{$dominio}->{data_cadastro} = $row->[6];
+    $dados->{dominios}->{$dominio}->{ultima_atualizacao} = $row->[7];
+    $dados->{dominios}->{$dominio}->{ticket} = $row->[8];
 
 #    print $fh_sql "Dominio:  $row->[0]\tNome: $row->[2]\n";
 }
+close $fh_csv;
 
-print Dumper $dados;
+#print Dumper $dados;
 
-foreach my $dominio (keys %{$dados->{dominios}}){
-    print $fh_sql "Dominio:  $dominio\tNome: $dados->{dominios}->{$dominio}->{owner}\tCidade: $dados->{dominios}->{$dominio}->{cidade}\n";
-    #print "$dominio\n";
-}
+#gerar_inserts_nservers($dados);
+#gerar_inserts_nics($dados);
+#gerar_inserts_ents_resps($dados);
+#gerar_inserts_funcionarios($dados);
+#gerar_inserts_dominios($dados);
+#gerar_inserts_aponta($dados);
+gerar_inserts_papel($dados);
+
+# foreach my $dominio (keys %{$dados->{dominios}}){
+#     print $fh_sql "Dominio:  $dominio\tNome: $dados->{dominios}->{$dominio}->{owner}\tCidade: $dados->{dominios}->{$dominio}->{cidade}\n";
+#     #print "$dominio\n";
+# }
 #print Dumper $dados->{nics};
 #print Dumper $dados->{nservers};
 close $fh_sql;
-close $fh_csv;
+
+sub gerar_inserts_aponta{
+    my $dados = shift;
+    my $file_sql = "popular_aponta.sql";
+    open my $fh_sql, ">:encoding(utf8)", $file_sql or die "$!";
+    foreach my $dominio (keys %{$dados->{dominios}}){
+        foreach my $dns ( split /,/, $dados->{dominios}->{$dominio}->{nservers} ){
+            my $status = $dados->{dominios}->{$dominio}->{status};
+            print $fh_sql "INSERT INTO Aponta (domain, nserver, status) VALUES ('". $dominio ."', '". $dns ."', '". $status ."');\n";
+        }
+    }
+    close $fh_sql;
+}
+
+sub gerar_inserts_dominios{
+    my $dados = shift;
+    my $file_sql = "popular_dominios.sql";
+    open my $fh_sql, ">:encoding(utf8)", $file_sql or die "$!";
+    foreach my $dominio (keys %{$dados->{dominios}}){
+        my $data_cadastro = $dados->{dominios}->{$dominio}->{data_cadastro};
+        my $ultima_atualizacao = $dados->{dominios}->{$dominio}->{ultima_atualizacao};
+        my $ticket = $dados->{dominios}->{$dominio}->{ticket};
+        my $documento = $dados->{dominios}->{$dominio}->{documento};
+        print $fh_sql "INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('". $dominio ."', '". $data_cadastro ."', '". $ultima_atualizacao ."', '". $ticket ."', '". $documento ."');\n";
+    }
+    close $fh_sql;
+}
+
+sub gerar_inserts_ents_resps{
+    my $dados = shift;
+    my $file_sql = "popular_ents_resps.sql";
+    open my $fh_sql, ">:encoding(utf8)", $file_sql or die "$!";
+    foreach my $dominio (keys %{$dados->{dominios}}){
+        my $documento = $dados->{dominios}->{$dominio}->{documento};
+        my $cep = $dados->{dominios}->{$dominio}->{cep};
+        my $nome = $dados->{dominios}->{$dominio}->{owner};
+        my $cidade = $dados->{dominios}->{$dominio}->{cidade};
+        my $uf = $dados->{dominios}->{$dominio}->{uf};
+        print $fh_sql "INSERT INTO Ents_Resps (documento, cep, nome, id_cidade) VALUES ('". $documento ."', '". $cep ."', '". $nome ."', (SELECT id_cidade FROM Cidades NATURAL JOIN Estados WHERE cidade LIKE '". $cidade ."' AND sigla like '". $uf ."' ));\n";
+    }
+    close $fh_sql;
+}
+
+sub gerar_inserts_funcionarios{
+    my $dados = shift;
+    my $file_sql = "popular_funcionarios.sql";
+    open my $fh_sql, ">:encoding(utf8)", $file_sql or die "$!";
+    foreach my $dominio (keys %{$dados->{dominios}}){
+        my $documento = $dados->{dominios}->{$dominio}->{documento};
+        my $ownerc = $dados->{dominios}->{$dominio}->{ownerc};
+        my $adminc = $dados->{dominios}->{$dominio}->{adminc};
+        my $techc = $dados->{dominios}->{$dominio}->{techc};
+        my $billingc = $dados->{dominios}->{$dominio}->{billingc};
+        print $fh_sql "INSERT INTO Funcionarios (documento, nic_hdl_br) VALUES ('". $documento ."', '". $ownerc ."');\n";
+        print $fh_sql "INSERT INTO Funcionarios (documento, nic_hdl_br) VALUES ('". $documento ."', '". $adminc ."');\n";
+        print $fh_sql "INSERT INTO Funcionarios (documento, nic_hdl_br) VALUES ('". $documento ."', '". $techc ."');\n";
+        print $fh_sql "INSERT INTO Funcionarios (documento, nic_hdl_br) VALUES ('". $documento ."', '". $billingc ."');\n";
+    }
+    close $fh_sql;
+}
+
+sub gerar_inserts_nics{
+    my $dados = shift;
+    my $file_sql = "popular_nichandles.sql";
+    open my $fh_sql, ">:encoding(utf8)", $file_sql or die "$!";
+    foreach my $nic (keys %{$dados->{nics}}){
+        print $fh_sql "INSERT INTO NicHandles (nic_hdl_br, person, created, changed) VALUES ('". $nic ."', '". $dados->{nics}->{$nic}->{person} ."', '". $dados->{nics}->{$nic}->{created} ."', '". $dados->{nics}->{$nic}->{changed} ."');\n";
+    }
+    close $fh_sql;
+}
+
+sub gerar_inserts_nservers{
+    my $dados = shift;
+    my $file_sql = "popular_nservers.sql";
+    open my $fh_sql, ">:encoding(utf8)", $file_sql or die "$!";
+    foreach my $nserver (keys %{$dados->{nservers}}){
+        print $fh_sql "INSERT INTO Nservers (nserver, nsstat, nslastaa) VALUES ('". $nserver ."', '". $dados->{nservers}->{$nserver}->{nsstat} ."', '". $dados->{nservers}->{$nserver}->{nslastaa} ."');\n";
+        #print $fh_sql "Dominio:  $dominio\tNome: $dados->{dominios}->{$dominio}->{owner}\tCidade: $dados->{dominios}->{$dominio}->{cidade}\n";
+        #print "$dominio\n";
+    }
+    close $fh_sql;
+}
+
+sub gerar_inserts_papel{
+    my $dados = shift;
+    my $file_sql = "popular_papel.sql";
+    open my $fh_sql, ">:encoding(utf8)", $file_sql or die "$!";
+    foreach my $dominio (keys %{$dados->{dominios}}){
+        my $ownerc = $dados->{dominios}->{$dominio}->{ownerc};
+        my $adminc = $dados->{dominios}->{$dominio}->{adminc};
+        my $techc = $dados->{dominios}->{$dominio}->{techc};
+        my $billingc = $dados->{dominios}->{$dominio}->{billingc};
+        print $fh_sql "INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('". $dominio ."', '". $ownerc ."', 'owner-c');\n";
+        print $fh_sql "INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('". $dominio ."', '". $adminc ."', 'admin-c');\n";
+        print $fh_sql "INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('". $dominio ."', '". $techc ."', 'tech-c');\n";
+        print $fh_sql "INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('". $dominio ."', '". $billingc ."', 'billing-c');\n";
+    }
+    close $fh_sql;
+}
 
 sub get_adminc{
     my $linha = shift;
@@ -180,7 +290,8 @@ sub get_nslastaa{
 sub get_nsstat{
     my $linha = shift;
     my $nsstat = (split /:/, $linha)[1];
-    $nsstat =~ s/\s+//;
+    $nsstat =~ s/[[:alpha:]]//g;
+    $nsstat =~ s/\s//g;
     $nsstat =~ s/\n//;
     return $nsstat;
 }

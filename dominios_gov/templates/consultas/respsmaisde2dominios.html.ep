@@ -1,0 +1,22 @@
+% layout 'layout';
+% title 'DominiosGov';
+
+<div class="well bs-component">
+<label for="btn7">Listagem do nome das pessoas (person) que são responsáveis por mais de 2 domínios diferentes, em qualquer tipo de papel. </label>
+	<table class="table table-striped table-bordered">
+		<thead>
+			<tr>
+				<th>Nome</th>
+				<th>Quantidade</th>
+			</tr>
+		</thead>
+		<tbody>
+			<% for my $item (@$itens) { %>
+				<tr scope="row">
+				<td><%= $item->[0] %></td>
+				<td><%= $item->[1] %></td>
+				</tr>
+			<% } %>
+		</tbody>
+	</table>
+</div>
