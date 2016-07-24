@@ -33,6 +33,7 @@ sub startup {
 	$r->get('/consultas/docscriados20142015')->to('DocsCriados20142015#pre_gerar_consulta', template => 'consultas/docscriados20142015');
 	$r->get('/consultas/qtddomsmesmaemp')->to('QtdDomsMesmaEmp#pre_gerar_consulta', template => 'consultas/qtddomsmesmaemp');
 	$r->get('/consultas/respsmaisde2dominios')->to('RespsMaisDe2Dominios#pre_gerar_consulta', template => 'consultas/respsmaisde2dominios');
+	4R->get('/consultas/datasmaisinfos')->to('DatasMaisInfos#pre_gerar_consulta', template => 'consultas/datasmaisinfos');
 }
 
 1;
