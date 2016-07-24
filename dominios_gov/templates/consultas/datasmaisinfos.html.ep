@@ -1,0 +1,34 @@
+% layout 'layout';
+% title 'DominiosGov';
+
+<div class="well bs-component">
+	<label for="btn3">Listar as datas de criação e alteração dos domínios, seus endereços, o documento da empresa responsável e o papel exercido pelos funcionários, bem como suas siglas: </label>
+	<table class="table table-striped table-bordered">
+		<thead>
+			<tr>
+				<th>Data Cadastro</th>
+				<th>Data Alteração</th>
+				<th>Dominio</th>
+				<th>Ticket</th>
+				<th>Documento</th>
+				<th>Função</th>
+				<th>NIC-HDL-BR</th>
+				<th>Estado</th>
+			</tr>
+		</thead>
+		<tbody>
+			<% for my $item (@$itens) { %>
+				<tr scope="row">
+				<td><%= $item->[0] %></td>
+				<td><%= $item->[1] %></td>
+				<td><%= $item->[2] %></td>
+				<td><%= $item->[3] %></td>
+				<td><%= $item->[4] %></td>
+				<td><%= $item->[5] %></td>
+				<td><%= $item->[6] %></td>
+				<td><%= $item->[7] %></td>
+				</tr>
+			<% } %>
+		</tbody>
+	</table>
+</div>
