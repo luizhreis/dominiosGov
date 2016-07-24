@@ -12,7 +12,7 @@
 		<a class="btn btn-default btn-lg" href="consultas/datasmaisinfos" role="button">Listar data de criação e alteração dos dominios, endereço, documento, estado e os responsáveis</a>
 	</div>
 	<div class="form-group">
-		<a class="btn btn-default btn-lg" href="consultas/empfax" role="button">Listar empresas com fax</a>
+		<a class="btn btn-default btn-lg" href="consultas/funcemps" role="button">Listar os nomes dos funcionarios e as empresas ligadas</a>
 	</div>
 	<div class="form-group">
 		<a class="btn btn-default btn-lg" href="consultas/domsdns" role="button">Listar dominios com seus name servers</a>
@@ -27,6 +27,9 @@
 		<a class="btn btn-default btn-lg" href="consultas/respsmaisde2dominios" role="button">Listar nomes das pessoas responsaveis por mais de 2 dominios</a>
 	</div>
 	<div class="form-group">
-		<a class="btn btn-default btn-lg" href="consultas/empfax" role="button">Listar empresas com fax</a>
+		<a class="btn btn-default btn-lg" href="consultas/empsrio" role="button">Listar o nome e o docmento das empresas que estão sediadas no Rio de Janeiro</a>
+	</div>
+	<div class="form-group">
+		<a class="btn btn-default btn-lg" href="consultas/domsatualizados20102015" role="button">Listar os domínios cujos nameservers foram atualizados pela ultima vez entre 2010 e 2015</a>
 	</div>
 </div>

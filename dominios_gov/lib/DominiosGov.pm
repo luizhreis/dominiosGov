@@ -15,7 +15,7 @@ sub startup {
     $self->secrets(['LeYTmFPhw3q', 'QrPTZhWJmqCjyGZmguK']);
 
     # Model
-    $self->helper(mysql => sub { state $mysql = Mojo::mysql->new('mysql://root@/dominiosgov') });
+    $self->helper(mysql => sub { state $mysql = Mojo::mysql->new('mysql://root:aulabd@/dominiosgov') });
     $self->helper(consultas => sub { state $consultas = DominiosGov::Model::Consultas->new(mysql => shift->mysql) });
 
 	# Router
@@ -33,7 +33,10 @@ sub startup {
 	$r->get('/consultas/docscriados20142015')->to('DocsCriados20142015#pre_gerar_consulta', template => 'consultas/docscriados20142015');
 	$r->get('/consultas/qtddomsmesmaemp')->to('QtdDomsMesmaEmp#pre_gerar_consulta', template => 'consultas/qtddomsmesmaemp');
 	$r->get('/consultas/respsmaisde2dominios')->to('RespsMaisDe2Dominios#pre_gerar_consulta', template => 'consultas/respsmaisde2dominios');
-	4R->get('/consultas/datasmaisinfos')->to('DatasMaisInfos#pre_gerar_consulta', template => 'consultas/datasmaisinfos');
+	$r->get('/consultas/datasmaisinfos')->to('DatasMaisInfos#pre_gerar_consulta', template => 'consultas/datasmaisinfos');
+	$r->get('/consultas/funcemps')->to('FuncEmps#pre_gerar_consulta', template => 'consultas/funcemps');
+	$r->get('/consultas/empsrio')->to('EmpsRio#pre_gerar_consulta', template => 'consultas/empsrio');
+	$r->get('/consultas/domsatualizados20102015')->to('DomsAtualizados20102015#pre_gerar_consulta', template => 'consultas/domsatualizados20102015');
 }
 
 1;

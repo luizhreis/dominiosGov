@@ -10,8 +10,6 @@ sub pre_gerar_consulta {
 	my $self = shift;
 	my $itens = $self->consultas->get_datas_mais_infos($self); 
 
-	print Dumper $self;
-	print Dumper $itens;
 	$self->stash(
 		itens => $itens,
 	);
