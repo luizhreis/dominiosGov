@@ -1,0 +1,20 @@
+% layout 'layout';
+% title 'DominiosGov';
+
+<div class="well bs-component">
+	<label for="btn1">Listagem de todos os domínios cujos valores de ticket são maiores que 20000: </label>
+	<table class="table table-striped table-bordered">
+		<thead>
+			<tr>
+				<th>Dominios</th>
+			</tr>
+		</thead>
+		<tbody>
+			<% for my $item (@$itens) { %>
+				<tr scope="row">
+				<td><%= $item->[0] %></td>
+				</tr>
+			<% } %>
+		</tbody>
+	</table>
+</div>

@@ -1,0 +1,24 @@
+% layout 'layout';
+% title 'DominiosGov';
+
+<div class="well bs-component">
+	<label for="btn3">Procedência </label>
+	<table class="table table-striped table-bordered">
+		<thead>
+			<tr>
+				<th>Empresa</th>
+				<th>DDD</th>
+				<th>Fax</th>
+			</tr>
+		</thead>
+		<tbody>
+			<% for my $item (@$itens) { %>
+				<tr scope="row">
+				<td><%= $item->[0] %></td>
+				<td><%= $item->[1] %></td>
+				<td><%= $item->[2] %></td>
+				</tr>
+			<% } %>
+		</tbody>
+	</table>
+</div>
