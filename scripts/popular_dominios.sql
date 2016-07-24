@@ -1,1504 +1,1495 @@
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coren-ap.gov.br', '2012-04-26 19:39:27', '2014-08-18 12:02:12', '9778847', '000.593.411/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rni.gov.br', '1997-08-29 12:00:00', '2003-02-25 21:40:53', '54733', '008.469.280/0001-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comprasnet.gov.br', '1999-03-26 13:15:35', '2011-05-02 12:07:33', '149989', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trf3.gov.br', '1998-08-24 17:57:05', '2015-08-04 21:14:19', '111967', '059.949.362/0001-76');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixacultural.gov.br', '2005-05-17 11:42:54', '2015-07-16 18:55:07', '2119071', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fbn.gov.br', '2013-01-31 15:29:54', '2016-04-18 11:56:21', '10957415', '040.176.679/0001-99');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbiopr.gov.br', '2009-05-15 16:23:16', '2012-03-21 19:42:59', '5558323', '007.863.214/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('encomex.gov.br', '2005-04-04 13:01:21', '2013-05-10 19:23:18', '2044957', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dfa-ba.gov.br', '1998-09-25 21:05:21', '1998-09-25 18:05:21', '118491', '000.396.895/0024-11');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('btig.gov.br', '2013-05-06 15:12:15', '2014-07-10 14:19:34', '11385270', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('corenmg.gov.br', '2009-03-16 17:03:10', '2015-08-28 15:12:36', '5285332', '021.699.889/0001-17');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('contracorrupcao.gov.br', '2015-12-03 16:42:13', '2016-04-15 19:06:19', '14981148', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-pi.gov.br', '1998-08-12 13:39:50', '2015-01-08 21:14:32', '110090', '000.509.018/0016-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('investexportbrazil.gov.br', '2015-09-11 14:34:24', '2015-09-11 14:34:24', '14641557', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ec.gov.br', '2010-07-13 18:21:21', '2012-11-26 17:36:50', '7050960', '000.394.544/0008-51');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('antarcticabrazil.gov.br', '2013-05-13 17:43:02', '2013-05-13 17:43:02', '11436908', '000.394.536/0006-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dialoga.gov.br', '2015-04-14 17:49:35', '2015-04-14 17:49:35', '14062641', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafsrbonfim.gov.br', '1999-06-24 13:57:42', '2007-10-12 14:17:56', '167497', '000.853.966/0001-71');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnfcp.gov.br', '2008-07-21 19:58:06', '2015-02-24 15:10:40', '4643851', '026.474.056/0031-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mt.gov.br', '1996-11-28 12:00:00', '2013-06-21 15:33:46', '0', '003.507.415/0001-44');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ppcaam.gov.br', '2010-10-14 18:58:58', '2010-10-14 18:58:58', '7326223', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('anssaude.gov.br', '2001-04-02 19:55:39', '2004-07-13 14:12:39', '540691', '003.589.068/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e-contacaixa.gov.br', '2001-12-17 19:18:37', '2002-12-18 15:53:43', '685789', '000.360.305/2714-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('saudenacopa.gov.br', '2014-05-26 10:58:30', '2014-08-08 17:44:20', '12916924', '000.530.493/0001-71');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jornadasdip.gov.br', '2005-11-01 17:58:09', '2011-09-06 22:47:55', '2449362', '000.394.536/0012-91');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasil.gov.br', '1996-12-06 11:00:00', '2010-03-28 17:35:05', '24188', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crecisp.gov.br', '2008-06-12 20:58:57', '2014-06-23 02:00:07', '4538779', '062.655.246/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bacen.gov.br', '1996-11-26 11:00:00', '2015-06-17 22:19:54', '0', '000.038.166/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('siorg.gov.br', '2010-03-01 15:01:35', '2014-01-22 17:36:02', '6524018', '000.489.828/0003-17');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('codesa.gov.br', '2004-04-19 13:37:14', '2015-12-31 14:27:13', '1600186', '027.316.538/0001-66');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ro.gov.br', '1997-03-04 12:00:00', '2016-01-25 17:37:05', '0', '004.798.328/0001-56');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creciba.gov.br', '2014-03-11 16:24:02', '2016-04-05 17:01:59', '12666007', '015.245.848/0001-58');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comprasgovernamentais.gov.br', '2014-01-15 18:39:16', '2014-01-15 18:39:16', '12435180', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('federal.gov.br', '2000-08-04 21:17:49', '2015-07-16 20:56:33', '399415', '000.360.305/0655-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sintegra.gov.br', '1998-01-16 12:25:08', '2011-05-02 12:10:39', '82349', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('saudesuplementar.gov.br', '2000-08-08 19:33:52', '2004-07-13 14:13:29', '396034', '003.589.068/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('amazonfund-bndes.gov.br', '2009-03-17 14:38:40', '2014-02-13 23:08:30', '5310107', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cauac.gov.br', '2012-07-06 12:40:58', '2015-04-29 13:53:57', '10045896', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('lai.gov.br', '2014-04-08 19:15:07', '2016-04-15 19:07:16', '12773600', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('esmpu.gov.br', '2003-01-07 10:09:15', '2013-06-10 15:19:56', '1045091', '003.920.829/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('esporte.gov.br', '2003-01-22 11:34:25', '2008-04-19 23:43:20', '1061511', '002.961.362/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio-02.gov.br', '2009-02-16 11:03:30', '2009-02-16 11:03:30', '5228642', '002.452.608/0001-82');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('conseg.gov.br', '2008-09-01 15:12:35', '2009-01-09 17:50:15', '4814165', '000.394.494/0018-84');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasil-rounds.gov.br', '2001-10-19 10:56:59', '2015-08-18 12:28:29', '659465', '002.313.673/0002-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('conasp.gov.br', '2009-11-16 17:11:34', '2013-11-12 17:17:34', '6231775', '000.394.494/0005-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('passaporteverde.gov.br', '2009-02-16 19:16:51', '2016-04-11 13:34:48', '5271410', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rpp.gov.br', '1998-05-08 18:23:38', '2001-02-09 20:58:17', '95057', '000.422.744/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('orcamento.gov.br', '2012-06-27 18:04:07', '2012-06-27 18:04:07', '10078555', '000.489.828/0008-21');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tradepromotion.gov.br', '2012-05-24 17:29:54', '2014-07-10 14:15:37', '9837295', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt-sp.gov.br', '1999-06-11 19:04:24', '2016-02-15 21:13:27', '168315', '003.241.738/0001-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('procel.gov.br', '2000-11-06 18:41:03', '2009-10-05 18:54:36', '453438', '000.001.180/0002-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('chequeazul.gov.br', '2000-08-04 20:46:57', '2015-07-16 20:40:04', '399389', '000.360.305/0674-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('viibra.gov.br', '2014-03-05 15:21:22', '2014-03-05 15:21:22', '12568537', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('radiocamara.gov.br', '2009-10-08 18:22:41', '2015-06-15 18:34:33', '6001342', '000.530.352/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('viversemlimite.gov.br', '2012-08-28 18:02:37', '2012-08-28 18:02:37', '10385025', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eletrobras.gov.br', '1996-01-09 12:00:00', '2014-07-02 19:56:36', '5023', '000.001.180/0002-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('documenta.gov.br', '2003-07-03 19:51:25', '2016-04-18 11:54:46', '1255106', '040.176.679/0001-99');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('amazonfund.gov.br', '2009-03-17 14:54:06', '2014-02-27 23:16:39', '5310125', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rio.gov.br', '2000-07-28 20:03:11', '2009-09-18 14:31:58', '394341', '029.468.063/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rffsa.gov.br', '1996-12-11 11:00:00', '2015-07-31 13:19:10', '24888', '033.613.332/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnarq.gov.br', '2011-08-30 16:16:01', '2015-05-21 20:19:05', '8724474', '004.374.067/0001-47');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mtps.gov.br', '2016-02-25 23:45:28', '2016-03-04 00:04:42', '15231628', '023.612.685/0001-22');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ans.gov.br', '2000-07-28 17:28:45', '2013-08-10 00:19:36', '377463', '003.589.068/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crescenordeste.gov.br', '2004-05-03 12:33:33', '2011-05-30 18:45:57', '1615211', '007.237.373/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('investecaixa.gov.br', '2001-10-25 19:55:49', '2002-12-18 15:55:17', '650497', '000.360.305/2714-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('epl.gov.br', '2012-10-10 13:30:20', '2014-12-05 22:46:47', '10453651', '015.763.423/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalplanalto.gov.br', '2011-08-08 10:45:44', '2014-09-22 17:08:33', '8638146', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crm.gov.br', '2000-07-04 16:40:21', '2009-04-20 19:56:37', '373927', '092.724.145/0001-53');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cprm-be.gov.br', '1997-01-18 11:00:00', '2001-08-01 22:07:49', '28066', '000.091.652/0005-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('energiabrasil.gov.br', '2001-06-01 13:26:50', '2009-02-14 13:47:04', '573428', '037.115.383/0005-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('opeixeeaartedepescar.gov.br', '2009-04-16 19:33:00', '2015-06-15 12:43:32', '5472238', '000.530.352/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('genero.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:06:34', '6426222', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fonoaudiologia-1.gov.br', '2009-07-03 20:16:53', '2015-03-19 20:03:54', '5733993', '032.243.313/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prf.gov.br', '2003-05-30 19:43:46', '2016-02-02 11:30:51', '1227299', '000.394.494/0104-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('softwarelivre.gov.br', '2003-06-24 10:57:23', '2011-05-02 12:10:52', '1254667', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('protocolointegrado.gov.br', '2013-03-21 12:02:07', '2014-01-22 17:28:34', '11219354', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comunidadenegra.gov.br', '2000-07-12 18:59:03', '2004-08-25 11:46:46', '366436', '046.379.400/0001-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mda.gov.br', '2000-05-22 18:31:57', '2015-06-08 21:57:34', '339586', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inma.gov.br', '2014-09-08 14:57:20', '2016-02-26 13:29:02', '13289016', '010.898.596/0010-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('xn--certidodenascimento-0vb.gov.br', '2009-09-15 18:45:33', '2015-01-13 12:49:33', '5978128', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cauma.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:57:03', '10046002', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafmuz.gov.br', '2001-06-07 20:57:31', '2009-01-24 16:13:51', '578355', '073.933.178/0001-69');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('unijus.gov.br', '2006-09-26 17:47:46', '2016-02-11 13:26:48', '3075238', '000.488.478/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cdp-ahitar.gov.br', '2001-10-18 18:48:55', '2011-08-03 18:14:30', '653114', '004.933.552/0011-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('irb-brasilre.gov.br', '2009-06-16 14:19:39', '2015-08-18 16:46:18', '5575493', '033.376.989/0001-91');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('am.gov.br', '1996-11-28 12:00:00', '2015-10-13 12:16:32', '0', '004.407.920/0001-80');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('igam.gov.br', '1998-03-19 19:52:46', '1998-03-19 16:52:46', '89689', '017.387.481/0001-32');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('gestaoemdestaque.gov.br', '2013-08-19 19:17:54', '2014-01-22 17:26:06', '11866076', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('quiosque.gov.br', '2002-05-14 19:51:53', '2011-05-02 12:09:44', '846503', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bnb.gov.br', '1996-04-24 12:00:00', '2016-06-07 13:24:25', '7114', '007.237.373/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portosdobrasil.gov.br', '2007-07-16 13:37:21', '2007-07-16 13:37:21', '3736210', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('senasp.gov.br', '2010-05-13 13:32:35', '2015-10-28 10:40:05', '6855036', '000.394.494/0005-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('corensc.gov.br', '2009-11-16 17:27:01', '2016-02-05 14:36:46', '6232598', '075.308.106/0001-56');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('minc.gov.br', '1995-10-30 12:00:00', '2014-07-04 11:20:35', '4416', '001.264.142/0002-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('recadastramento.gov.br', '2013-02-18 10:59:04', '2015-02-13 13:12:37', '11080147', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnrh.gov.br', '2008-09-09 13:05:26', '2011-03-11 19:49:31', '4837697', '037.115.375/0003-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cartaobndes.gov.br', '2002-05-02 13:40:46', '2014-11-17 15:59:41', '810139', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cprm-ma.gov.br', '2001-01-23 12:07:05', '2002-12-30 14:57:15', '500371', '000.091.652/0004-21');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caupb.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:58:15', '10046027', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('amazoniafundo-bndes.gov.br', '2009-03-17 14:38:39', '2014-02-13 23:08:56', '5310091', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cgna.gov.br', '2001-12-26 18:40:12', '2015-09-14 17:29:59', '701713', '000.394.429/0048-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('xn--assistnciasocial-xqb.gov.br', '2005-09-09 13:06:14', '2005-09-09 12:00:00', '2340762', '042.422.253/0014-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('to.gov.br', '1998-02-02 11:00:00', '2015-08-17 20:42:50', '84697', '001.786.011/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('justica.gov.br', '2002-02-01 13:49:06', '2013-04-04 14:36:08', '724843', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('desenvolvimentosocial.gov.br', '2004-03-23 15:06:49', '2014-06-13 13:28:12', '1580366', '005.756.246/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('hpiedade.gov.br', '1998-10-02 13:50:08', '2001-08-14 19:17:07', '117547', '000.394.544/0209-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt13.gov.br', '1998-01-16 12:25:33', '2013-05-14 17:22:30', '82541', '000.509.968/0014-62');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sg.gov.br', '2010-01-13 14:04:12', '2016-05-02 14:55:38', '6426184', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prove.gov.br', '1998-07-16 12:12:51', '2001-08-16 14:55:37', '104260', '000.509.612/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('abgf.gov.br', '2013-12-26 09:38:27', '2015-08-17 21:31:49', '12374398', '017.909.518/0001-45');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brazilglobalnet.gov.br', '2011-05-05 16:07:36', '2014-07-10 14:19:59', '8249899', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt-pe.gov.br', '1997-11-14 11:00:00', '2013-01-05 14:46:04', '69522', '000.509.968/0007-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('condraf.gov.br', '2016-06-01 19:43:51', '2016-06-01 19:43:51', '15654749', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cultura.gov.br', '1996-08-16 12:00:00', '2014-05-12 22:56:29', '14100', '001.264.142/0002-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cef.gov.br', '1996-01-01 12:00:00', '2015-07-16 20:39:01', '0', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crecito.gov.br', '2016-03-16 19:18:31', '2016-03-16 19:18:31', '15262151', '038.145.157/0001-88');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prt16.gov.br', '1999-01-21 12:40:01', '2005-03-22 23:21:33', '135261', '026.989.715/0047-95');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('governancadosolo.gov.br', '2014-09-16 12:10:58', '2014-09-16 12:10:58', '13309483', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trf4.gov.br', '1998-06-19 20:44:29', '2015-11-05 11:55:59', '102774', '092.518.737/0001-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('lotofacil.gov.br', '2000-08-04 21:17:56', '2015-07-16 21:22:23', '399433', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('matopiba.gov.br', '2015-08-21 19:31:25', '2015-08-21 19:31:25', '14547161', '000.396.895/0011-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dtceamt.gov.br', '2009-09-30 13:36:06', '2015-10-01 17:37:21', '5995666', '000.394.429/0094-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('maranhao.gov.br', '1999-04-19 19:41:34', '2014-09-17 22:35:23', '155160', '063.574.479/0001-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cft.gov.br', '2011-09-27 18:22:43', '2011-09-27 18:22:43', '8860780', '005.032.746/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('projovem.gov.br', '2006-06-09 19:57:18', '2015-06-08 15:11:53', '2844020', '007.490.910/0001-49');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aeroportoindustrial.gov.br', '2002-01-29 18:45:44', '2013-01-09 11:34:28', '719697', '000.352.294/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('congresso.gov.br', '1997-04-17 12:00:00', '2014-01-24 19:37:52', '36816', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('planalto.gov.br', '1996-04-16 12:00:00', '2016-04-21 17:28:45', '6787', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prodemge.gov.br', '1996-01-01 12:00:00', '2013-08-13 15:28:48', '0', '016.636.540/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crm-rj.gov.br', '2008-12-01 12:46:33', '2015-07-04 13:49:37', '5089377', '031.027.527/0001-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('integracao.gov.br', '2000-02-16 17:16:56', '2013-09-25 17:50:14', '258232', '003.353.358/0001-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-al.gov.br', '2001-05-03 12:03:35', '2014-10-17 14:09:41', '555205', '012.475.711/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pronera.gov.br', '2000-06-27 20:05:53', '2010-11-16 13:07:52', '371259', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e-stj.gov.br', '2004-04-28 18:40:10', '2015-11-03 18:03:40', '1617198', '000.488.478/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ppsa.gov.br', '2014-03-11 13:13:17', '2014-03-11 13:13:17', '12625848', '018.738.727/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dpr.gov.br', '2014-12-11 09:19:35', '2014-12-11 09:19:35', '13644210', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mpt.gov.br', '1995-11-13 12:00:00', '2014-07-05 17:50:52', '4515', '026.989.715/0005-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sepm.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:21:25', '6426170', '005.510.958/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('energiaboavista.gov.br', '2000-09-12 12:00:20', '2008-12-10 12:11:46', '414887', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sipia.gov.br', '2011-09-30 16:35:51', '2013-02-26 15:50:22', '8862007', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('xn--servios-yxa.gov.br', '2012-02-23 09:53:25', '2014-01-22 17:29:15', '9507560', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eaf-sbf.gov.br', '1998-04-15 13:14:19', '2007-10-12 14:17:43', '93030', '000.853.966/0001-71');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfrn.gov.br', '1998-01-16 12:22:14', '2010-09-05 05:20:41', '80611', '000.508.903/0020-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('certidãodenascimento.gov.brxn--certidodenascimento-0vb.gov.br', '', '', '', '');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('varadafazenda.gov.br', '2004-07-22 18:15:37', '2016-02-11 13:27:03', '1734201', '000.488.478/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('maerj.gov.br', '1997-03-14 12:00:00', '2005-03-19 10:04:05', '33239', '000.394.429/0129-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('florestal.gov.br', '2007-07-23 13:51:07', '2013-04-24 18:34:41', '3751211', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('causc.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:01:01', '10258008', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coredopiaui.gov.br', '2014-09-01 17:26:31', '2014-09-01 17:26:31', '13238042', '006.518.666/0001-12');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ctir.gov.br', '2004-12-17 17:03:07', '2013-02-22 18:56:02', '1940214', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trtes.gov.br', '2007-08-07 17:07:39', '2015-08-15 04:46:10', '3761923', '002.488.507/0001-61');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e-jus.gov.br', '2004-05-11 12:04:16', '2016-02-11 13:26:11', '1608962', '000.488.478/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pgi.gov.br', '2013-12-04 19:39:17', '2014-01-22 17:28:12', '12303676', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cfbm.gov.br', '2015-11-17 12:39:52', '2015-11-17 12:39:52', '14932442', '052.391.703/0001-91');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tjdf.gov.br', '1997-10-09 11:00:00', '2016-02-25 22:10:43', '62157', '000.531.954/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('reformapostal.gov.br', '2000-01-17 13:47:32', '2016-06-04 00:51:19', '240586', '034.028.316/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cofeci.gov.br', '2001-05-04 22:26:09', '2014-02-05 16:28:15', '549534', '062.658.737/0001-53');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aleam.gov.br', '2000-11-13 17:30:54', '2000-11-13 15:30:54', '453845', '004.530.820/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caumg.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:58:07', '10046005', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mme.gov.br', '1996-07-17 12:00:00', '2012-09-18 12:45:52', '11916', '037.115.383/0005-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('serviços.gov.brxn--servios-yxa.gov.br', '', '', '', '');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('hrps.gov.br', '1998-08-25 14:05:37', '2001-08-14 19:16:43', '110087', '000.394.544/0065-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('metrobh.gov.br', '2003-02-05 13:19:03', '2015-06-20 01:18:16', '1082083', '042.357.483/0005-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crmvpaap.gov.br', '2001-02-06 19:19:33', '2012-11-07 14:27:16', '498670', '004.798.070/0001-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-ac.gov.br', '1998-08-12 12:39:07', '2015-01-08 20:20:40', '109494', '000.509.018/0023-29');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crq13.gov.br', '2010-05-12 19:15:00', '2014-07-26 02:54:43', '6834102', '079.887.659/0001-61');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ibama.gov.br', '1996-01-01 12:00:00', '2006-03-31 22:35:07', '0', '003.659.166/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coren-ba.gov.br', '2014-05-13 01:55:08', '2016-03-11 22:19:59', '12865901', '015.679.277/0001-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio06.gov.br', '2010-01-26 13:24:20', '2010-01-26 13:24:20', '6457619', '007.934.511/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ceturb.gov.br', '2000-05-29 19:31:32', '2008-08-27 12:16:52', '346479', '028.503.894/0001-51');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rrc.gov.br', '2015-10-27 11:26:54', '2015-10-27 11:26:54', '14852395', '001.263.896/0021-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eletronorte.gov.br', '2000-08-09 22:35:19', '2013-01-02 16:51:12', '396358', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafmanaus.gov.br', '2003-05-21 18:20:39', '2009-01-27 15:39:20', '1192881', '084.490.572/0001-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('defesaagropecuaria.gov.br', '1998-07-06 14:21:56', '2000-05-03 18:21:19', '104435', '000.396.895/0042-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafsertao.gov.br', '2001-08-22 19:18:41', '2009-08-31 19:00:24', '617601', '073.878.324/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ceplacpa.gov.br', '2001-07-11 19:40:32', '2007-10-09 17:05:41', '599550', '033.004.300/0101-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caudf.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:56:59', '10045995', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bioform.gov.br', '2013-04-01 12:23:27', '2013-04-01 12:23:27', '11267724', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dominiopublico.gov.br', '2004-10-28 19:29:27', '2014-01-23 12:08:06', '1865552', '000.394.445/0003-65');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('humanizaredes.gov.br', '2015-03-30 17:35:13', '2015-03-30 17:35:13', '14006177', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafst.gov.br', '2003-05-26 18:32:22', '2012-04-19 11:38:39', '1205521', '032.405.268/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pgr.gov.br', '2005-07-14 12:39:21', '2012-09-06 22:16:17', '2236217', '026.989.715/0050-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-ro.gov.br', '1998-08-05 19:21:59', '2015-01-08 21:17:03', '108620', '004.565.735/0001-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prt4.gov.br', '2000-12-15 12:49:51', '2006-11-24 14:50:45', '480574', '026.989.715/0035-51');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pac.gov.br', '2007-05-04 18:08:04', '2015-05-15 20:09:41', '3544303', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('desafios.gov.br', '2015-07-28 11:40:34', '2015-07-28 11:40:34', '14461468', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('servicoflorestal.gov.br', '2006-10-16 18:00:06', '2013-02-15 21:01:30', '3069138', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt10.gov.br', '1996-01-23 12:00:00', '2006-08-29 19:51:29', '5134', '002.011.574/0001-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cenpra.gov.br', '2002-01-11 12:47:29', '2015-01-08 12:16:41', '703453', '004.822.500/0001-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('funpresp.gov.br', '2013-09-05 18:03:50', '2016-04-11 17:27:50', '11875493', '017.312.597/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('servicos.gov.br', '2010-05-18 17:59:45', '2014-01-22 17:29:04', '6803183', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('renaqua.gov.br', '2014-09-17 20:40:37', '2014-09-17 20:40:37', '13294206', '005.482.692/0001-75');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('previdênciasocial.gov.brxn--previdnciasocial-xqb.gov.br', '', '', '', '');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aeroportodebrasilia.gov.br', '2002-11-12 10:56:02', '2013-01-09 11:34:42', '1008124', '000.352.294/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cremesp.gov.br', '2011-01-17 13:19:16', '2013-10-20 21:04:57', '7771407', '063.106.843/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crq12.gov.br', '2014-10-24 12:58:01', '2016-02-17 10:03:44', '13405959', '001.759.984/0001-51');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('selic.gov.br', '2010-07-28 12:18:08', '2011-03-30 02:25:07', '7082360', '000.038.166/0010-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('previc.gov.br', '2013-11-05 09:41:27', '2015-08-17 16:29:00', '12172583', '007.290.290/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt11.gov.br', '1997-12-11 11:00:00', '2011-04-13 16:17:59', '74971', '001.671.187/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cauto.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:04:28', '10257986', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('amazoniafundo.gov.br', '2009-03-17 14:54:06', '2014-02-13 23:09:13', '5310130', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ministeriodomeioambiente.gov.br', '2001-08-13 20:13:15', '2016-04-11 13:25:33', '615402', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dtceatmrj.gov.br', '2010-03-17 19:11:32', '2015-10-01 18:11:04', '6644696', '000.394.429/0094-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('proinfa.gov.br', '2002-04-18 14:55:25', '2013-04-15 21:36:41', '784297', '000.001.180/0002-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('copa2014.gov.br', '2010-05-25 19:48:36', '2013-12-11 13:45:12', '6904353', '002.961.362/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cop15brasil.gov.br', '2009-11-19 17:31:34', '2014-09-22 17:06:01', '6289632', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('abrasil.gov.br', '1999-08-20 11:50:34', '2014-01-22 17:24:26', '190313', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('transparencia.gov.br', '2004-12-07 13:21:31', '2016-04-15 19:08:10', '1904753', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('federalcap.gov.br', '2000-08-04 21:17:50', '2015-07-16 20:56:48', '399404', '000.360.305/0674-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('avozdobrasil.gov.br', '2016-01-18 13:07:22', '2016-01-18 13:07:22', '15079605', '009.168.704/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ctis.gov.br', '2000-06-01 18:50:25', '2010-11-16 13:07:45', '345437', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('justicaeleitoral.gov.br', '2001-08-01 17:09:46', '2015-02-03 17:46:27', '614308', '000.509.018/0001-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sisbacen.gov.br', '1998-12-31 00:24:19', '2016-05-18 21:19:24', '135007', '000.038.166/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('vicepresidenciadarepublica.gov.br', '2000-04-10 16:46:11', '2007-07-10 23:18:08', '303886', '000.894.355/0001-71');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('agriculturafamiliar.gov.br', '2000-06-27 20:05:34', '2015-03-10 17:24:52', '369570', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('anapost.gov.br', '2000-02-01 18:09:06', '2015-04-02 17:15:52', '246117', '034.028.316/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio03.gov.br', '2009-01-28 18:46:22', '2016-04-01 14:50:07', '5209812', '004.053.157/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('infopen.gov.br', '2010-06-07 12:00:46', '2013-04-04 14:38:18', '6924089', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('profae.gov.br', '2001-11-21 17:47:24', '2006-02-01 20:10:19', '682101', '003.009.608/0001-75');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pessoacomdeficiencia.gov.br', '2010-10-29 18:04:08', '2015-03-30 18:31:41', '7492842', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('relacoesexteriores.gov.br', '2013-05-02 18:48:19', '2013-05-08 14:38:51', '11413282', '000.394.536/0006-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('itaipu.gov.br', '1996-10-15 11:00:00', '2014-10-09 19:33:58', '18930', '000.395.988/0014-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aneel.gov.br', '1998-01-16 12:21:47', '2011-09-20 21:11:59', '80028', '002.270.669/0001-29');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crecidf.gov.br', '2012-01-12 13:23:50', '2015-10-14 17:07:34', '9323584', '000.105.650/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('juntoscontracorrupcao.gov.br', '2015-12-03 16:42:13', '2016-04-15 19:07:09', '14981141', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('certics.gov.br', '2012-09-17 10:37:17', '2015-01-08 12:17:16', '10433403', '004.822.500/0001-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portodevitoria.gov.br', '2004-04-19 13:37:14', '2015-12-31 21:36:19', '1600188', '027.316.538/0001-66');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilsemmiseria.gov.br', '2011-05-26 16:59:26', '2013-10-14 11:21:34', '8329582', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portosrio.gov.br', '1998-02-27 18:13:54', '2014-08-15 21:24:50', '87552', '042.266.890/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('premioconservacaoenergia.gov.br', '2009-03-24 20:07:14', '2013-04-15 21:36:17', '5379045', '000.001.180/0002-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('consegi.gov.br', '2008-04-30 19:14:28', '2011-05-02 12:07:57', '4409079', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('labcluster.gov.br', '2012-10-26 09:30:37', '2014-01-22 17:27:24', '10664867', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasiltransparente.gov.br', '2000-08-21 15:35:49', '2011-05-02 12:07:11', '410725', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfsc.gov.br', '2000-01-27 13:13:23', '2014-10-16 23:50:19', '245517', '005.427.319/0001-11');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rap.gov.br', '2012-11-28 13:56:45', '2014-02-17 13:32:14', '10744654', '028.305.936/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mls.gov.br', '2000-06-08 13:12:51', '2010-08-17 20:59:55', '345374', '026.474.056/0017-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fundacentro-ba.gov.br', '1998-05-12 20:49:40', '2006-06-08 14:20:16', '95208', '062.428.073/0017-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('srpv-sp.gov.br', '2008-10-06 17:13:09', '2016-06-02 18:24:00', '4917000', '000.394.429/0094-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('xn--guiadeservios-sgb.gov.br', '2012-02-23 09:58:26', '2014-01-22 17:26:27', '9507597', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafa-to.gov.br', '2002-06-03 15:48:12', '2008-05-14 16:57:50', '855933', '025.064.890/0001-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fab.gov.br', '2003-02-05 12:48:57', '2014-02-04 15:56:58', '1072309', '000.394.429/0122-06');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio-7.gov.br', '2009-05-15 16:07:48', '2012-03-21 19:39:51', '5558288', '007.863.214/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('servir.gov.br', '2013-02-05 13:24:36', '2014-01-22 17:29:24', '10991591', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trtwap.gov.br', '2000-10-25 12:50:28', '2016-02-15 21:16:53', '442480', '003.241.738/0001-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('meioambientedobrasil.gov.br', '2001-08-13 20:13:16', '2016-04-11 13:23:52', '615403', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ahinor.gov.br', '2007-11-09 15:07:23', '2007-11-09 15:07:23', '4051221', '006.347.892/0002-69');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tradeandinvestment.gov.br', '2012-08-10 12:59:50', '2014-07-10 14:16:04', '10309351', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('obscriancaeadolescente.gov.br', '2010-05-11 19:47:19', '2015-01-13 12:48:40', '6846842', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt8.gov.br', '1996-10-29 11:00:00', '2015-05-20 16:09:08', '20714', '001.547.343/0001-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('convergenciademidias.gov.br', '2010-10-29 19:16:39', '2014-09-22 17:05:34', '7498154', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('investexportbrasil.gov.br', '2015-08-31 19:23:23', '2015-08-31 19:23:23', '14538608', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mb.gov.br', '2009-08-07 13:48:46', '2016-01-26 12:13:59', '5858626', '000.394.502/0394-31');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt22.gov.br', '1997-06-25 12:00:00', '2014-09-27 14:23:01', '44732', '000.509.968/0087-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalpadrao.gov.br', '2014-09-18 11:26:31', '2016-05-10 21:01:34', '13338190', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prsc.gov.br', '1996-08-12 12:00:00', '1999-08-26 12:00:00', '13786', '026.989.715/0029-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redecontrole.gov.br', '2010-03-09 14:07:38', '2012-03-06 20:43:57', '6561807', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e-pagamentoscaixa.gov.br', '2001-12-17 19:18:38', '2002-12-18 15:54:12', '685790', '000.360.305/2714-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('querovercultura.gov.br', '2015-12-15 13:08:02', '2015-12-15 13:08:02', '15015025', '001.264.142/0002-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('relacoesinstitucionais.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:09:17', '6426191', '011.475.667/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brazilenvironment-mobile.gov.br', '2001-08-13 20:13:18', '2016-04-11 13:09:33', '615408', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('invexbrasil.gov.br', '2015-06-18 17:46:43', '2015-06-18 17:46:43', '14289360', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('qualidadedealimentos.gov.br', '2008-06-16 12:20:09', '2013-04-04 14:36:13', '4527913', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('xn--notcias-9ya.gov.br', '2013-03-26 12:27:03', '2014-01-22 17:28:04', '11252298', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('correio.gov.br', '2000-02-01 18:09:22', '2016-01-19 17:46:40', '246912', '034.028.316/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('enap.gov.br', '1997-09-10 12:00:00', '2016-04-05 19:35:19', '56937', '000.627.612/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('museudoindio.gov.br', '2003-10-23 16:28:14', '2016-05-11 12:47:47', '1373769', '000.059.311/0002-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbm5.gov.br', '2013-03-25 12:18:05', '2013-03-25 12:18:05', '11259290', '013.738.204/0001-76');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fundacentro.gov.br', '1997-02-03 11:00:00', '2013-07-15 18:04:03', '29635', '062.428.073/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('acessoainformacao.gov.br', '2012-02-28 10:43:00', '2016-04-15 19:05:49', '9416110', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cd.gov.br', '2010-06-15 10:33:14', '2015-06-08 17:33:22', '6952893', '000.530.352/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('desenvolvimentoagrario.gov.br', '2000-05-22 18:31:50', '2015-09-02 21:18:12', '339594', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('segov.gov.br', '2016-02-17 12:37:44', '2016-02-17 12:37:44', '15186838', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('empresasimples.gov.br', '2013-11-11 18:31:44', '2013-11-11 18:31:44', '12212540', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('nordesteeletronico.gov.br', '2001-11-19 18:18:10', '2011-05-30 18:47:23', '663204', '007.237.373/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-rr.gov.br', '1998-08-05 19:21:58', '2015-01-08 21:17:31', '108319', '000.509.018/0026-71');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('faroldodesenvolvimento.gov.br', '2000-06-13 20:26:58', '2011-05-30 18:48:06', '362318', '007.237.373/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trtms.gov.br', '2003-10-17 19:31:51', '2016-01-14 23:10:28', '1399086', '037.115.409/0001-63');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('wikilegis.gov.br', '2009-06-15 18:47:42', '2015-06-15 14:55:51', '5587856', '000.530.352/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redefloresta.gov.br', '2004-03-05 12:48:15', '2010-05-12 11:22:33', '1546935', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caues.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:57:00', '10045998', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bolaofederal.gov.br', '2000-05-02 13:26:04', '2015-07-16 18:31:09', '323563', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('br.gov.br', '2013-11-18 18:20:41', '2013-11-18 18:20:41', '12262544', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fnde.gov.br', '1998-11-17 15:57:35', '2016-02-24 12:06:54', '124561', '000.378.257/0001-81');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ruralminas.gov.br', '1998-02-19 11:49:55', '2009-02-19 13:08:07', '86393', '017.291.105/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cepesc.gov.br', '1996-01-01 12:00:00', '2014-11-18 13:16:10', '0', '001.175.497/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eusoumaismedicos.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:37:29', '11933032', '015.126.437/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('esamur.gov.br', '2000-05-23 13:26:52', '2006-08-28 19:15:06', '326150', '039.750.948/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-rs.gov.br', '2008-06-03 12:19:13', '2013-03-08 03:51:29', '4480248', '092.966.159/0001-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fomezero.gov.br', '2003-01-22 18:05:33', '2013-10-23 20:18:24', '1073518', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('acessoajustica.gov.br', '2013-06-04 14:01:03', '2013-06-04 14:01:03', '11519349', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('interlegis.gov.br', '1997-07-07 12:00:00', '2014-09-16 18:25:50', '46196', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('lapa-pe.gov.br', '2001-03-27 17:19:12', '2001-03-27 14:19:12', '532987', '000.396.895/0021-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('car.gov.br', '2012-12-06 12:40:07', '2012-12-06 12:40:07', '10813198', '003.659.166/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('traficodepessoas.gov.br', '2013-06-11 11:56:50', '2013-06-11 11:56:50', '11572672', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-es.gov.br', '1998-07-23 20:25:15', '2015-01-08 21:08:38', '106347', '000.509.018/0007-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fat.gov.br', '2010-03-17 18:09:28', '2016-02-05 20:41:46', '6639489', '037.115.367/0033-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comercioeinvestimento.gov.br', '2012-05-11 12:36:20', '2014-07-10 14:17:18', '9837264', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('convenios.gov.br', '2008-04-14 11:55:04', '2014-01-22 17:35:46', '4388176', '000.489.828/0003-17');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafco.gov.br', '2000-10-26 19:18:03', '2012-05-18 19:44:43', '443829', '084.568.336/0001-45');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dtceaaf.gov.br', '2009-10-01 19:28:22', '2015-10-01 17:51:34', '5995649', '000.394.429/0094-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafuberaba.gov.br', '2000-11-24 17:42:01', '2005-11-14 16:03:36', '469349', '073.925.414/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('secretaria-geral.gov.br', '2010-01-13 14:19:41', '2016-05-02 14:58:06', '6426178', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('museuvictormeirelles.gov.br', '2010-08-19 13:17:50', '2012-09-03 18:38:52', '7123957', '010.898.596/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dnpm.gov.br', '1997-04-02 12:00:00', '2015-02-04 17:05:05', '35177', '000.381.056/0001-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('vozdobrasil.gov.br', '2016-01-18 13:07:22', '2016-01-18 13:07:22', '15079616', '009.168.704/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mct.gov.br', '1996-01-01 12:00:00', '2016-01-22 20:08:02', '0', '001.263.896/0003-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('funag.gov.br', '1998-05-21 20:01:01', '2011-12-21 12:52:11', '98256', '000.662.197/0001-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilexport.gov.br', '2013-09-12 12:24:44', '2014-07-10 14:21:14', '11946792', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('esic.gov.br', '2014-04-08 18:14:52', '2016-04-15 19:06:47', '12756167', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('funai.gov.br', '1998-02-10 13:07:35', '2013-07-24 16:20:58', '83785', '000.059.311/0001-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('chesf.gov.br', '1996-04-17 12:00:00', '2015-05-27 18:40:12', '6832', '033.541.368/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trensurb.gov.br', '2002-01-21 20:35:04', '2014-11-27 14:26:53', '721838', '037.115.342/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dtceasj.gov.br', '2009-09-30 13:36:06', '2015-10-01 18:03:16', '5995680', '000.394.429/0094-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('diariodajustica.gov.br', '2006-05-19 12:22:53', '2014-10-08 15:32:12', '2804653', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('hcl.gov.br', '1998-07-02 19:06:02', '2006-07-31 14:49:00', '104334', '000.394.544/0213-44');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('monumenta.gov.br', '2001-06-25 18:04:03', '2015-01-07 17:03:16', '578452', '001.264.142/0002-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt15.gov.br', '1996-07-15 12:00:00', '2015-04-06 18:18:51', '11736', '000.509.968/0016-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trevofederal.gov.br', '2000-05-02 13:26:24', '2015-07-16 21:40:29', '323580', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalambiental.gov.br', '2000-03-21 20:30:49', '2016-04-11 13:35:27', '285789', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('susep.gov.br', '1998-01-16 12:25:06', '2013-06-05 17:34:01', '82347', '042.354.068/0001-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ibc.gov.br', '2004-06-08 20:28:32', '2016-06-19 17:16:07', '1675115', '000.394.445/0272-12');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ac-jus.gov.br', '2005-01-05 10:25:29', '2014-03-25 13:11:16', '1943824', '000.508.903/0001-88');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixaresolve.gov.br', '2000-08-04 20:46:55', '2015-07-16 19:41:37', '399386', '000.360.305/0674-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-ma.gov.br', '1998-08-31 13:27:02', '2015-01-08 21:11:31', '111330', '000.509.018/0009-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('telepar.gov.br', '1995-07-03 12:00:00', '2015-08-03 19:10:30', '0', '076.535.764/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-pa.gov.br', '1998-08-03 14:01:15', '2015-01-08 21:13:38', '106204', '000.509.018/0012-76');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('expresso.gov.br', '2010-11-04 13:02:45', '2011-05-02 12:08:23', '7502175', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('educacaofiscal.gov.br', '2001-12-20 18:58:26', '2001-12-20 16:58:26', '699467', '002.317.176/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('environment.gov.br', '2001-08-13 20:13:13', '2016-04-11 13:22:02', '615399', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fimdotrabalhoinfantil.gov.br', '2012-05-17 20:17:14', '2014-06-13 13:26:11', '9892296', '005.756.246/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comexresponde.gov.br', '2014-07-29 10:45:30', '2014-07-29 11:35:04', '13158446', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ibge.gov.br', '1996-01-01 12:00:00', '2014-07-11 20:43:43', '0', '033.787.094/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafrs.gov.br', '2002-05-29 12:29:48', '2011-10-13 21:38:16', '866902', '000.147.606/0001-54');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('chicomendes.gov.br', '2011-04-29 14:47:46', '2013-04-19 12:32:37', '8208630', '008.829.974/0001-94');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coren-mt.gov.br', '2002-05-10 15:55:47', '2009-01-05 16:17:55', '820407', '008.336.841/0001-86');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('stm.gov.br', '1997-01-06 11:00:00', '2012-09-24 15:57:40', '27285', '000.497.560/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio3.gov.br', '2009-01-29 17:39:38', '2009-01-29 17:39:38', '5209815', '004.053.157/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('irbbrasilre.gov.br', '2009-06-16 14:35:08', '2015-08-18 16:49:43', '5575522', '033.376.989/0001-91');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cidadesdigitais.gov.br', '2013-08-28 14:37:05', '2013-08-28 14:37:05', '11909114', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fiscalizacopa2014.gov.br', '2010-05-04 19:08:21', '2010-05-04 19:08:21', '6777584', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-ms.gov.br', '1998-01-16 12:21:46', '2015-01-08 21:12:16', '80021', '000.509.018/0024-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('simulaminhacasaminhavida.gov.br', '2016-02-11 18:48:54', '2016-02-11 18:48:54', '15187580', '005.465.986/0001-99');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rs.gov.br', '1996-09-06 12:00:00', '2014-12-16 11:11:41', '15966', '087.124.582/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('infosoc.gov.br', '2000-07-20 14:02:14', '2014-08-05 23:16:38', '388869', '004.082.993/0001-49');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caminhaofederal.gov.br', '2000-05-02 13:26:04', '2015-07-16 19:44:03', '323559', '000.360.305/0643-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tjrn.gov.br', '1999-04-09 20:20:45', '2012-12-27 11:24:57', '147831', '008.546.459/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mtur.gov.br', '2003-01-16 11:26:33', '2014-09-20 22:07:14', '1066494', '033.741.794/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('officebankingsocial.gov.br', '2000-08-04 21:17:59', '2015-07-16 21:26:37', '399409', '000.360.305/0674-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalgoverno.gov.br', '2002-07-15 11:48:25', '2011-09-14 14:42:24', '907366', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mtbauru.gov.br', '2002-07-16 18:04:35', '2002-07-16 15:04:35', '913109', '037.115.367/0041-58');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crmrj.gov.br', '2008-12-01 12:31:03', '2010-12-17 19:38:23', '5057878', '031.027.527/0001-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('censo2000.gov.br', '2000-07-26 13:34:48', '2011-07-30 22:00:36', '386036', '033.787.094/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caupr.gov.br', '2012-07-06 12:46:00', '2015-04-29 13:59:28', '10046051', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('finep.gov.br', '1996-01-01 12:00:00', '2014-11-05 18:05:17', '0', '033.749.086/0002-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('minhacasaminhavida.gov.br', '2009-04-08 00:23:47', '2009-04-08 00:23:47', '5419701', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aeroshopping.gov.br', '2002-01-29 18:45:38', '2013-01-09 11:34:13', '719666', '000.352.294/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sptrt.gov.br', '1999-06-11 19:34:36', '2016-02-15 21:10:52', '168325', '003.241.738/0001-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rapidinha.gov.br', '2000-08-04 21:18:00', '2015-07-16 21:31:10', '399421', '000.360.305/0655-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tjap.gov.br', '1998-05-14 12:57:56', '2012-08-02 02:49:47', '97640', '034.870.576/0001-21');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mestradoprofissional.gov.br', '2015-12-02 18:44:16', '2015-12-02 18:44:16', '14934291', '033.892.175/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('datasus.gov.br', '1995-10-31 12:00:00', '2016-06-06 13:35:52', '4437', '000.394.544/0271-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inmetro.gov.br', '1996-04-16 12:00:00', '2015-11-16 17:36:39', '6763', '000.662.270/0003-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('snis.gov.br', '2001-09-10 11:14:55', '2014-09-24 17:35:31', '624275', '005.465.986/0001-99');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('historiasdobrasil.gov.br', '2015-08-12 17:17:06', '2015-08-12 17:17:06', '14509106', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eproc-rs.gov.br', '2003-08-05 11:52:44', '2012-04-24 14:55:50', '1289185', '005.442.380/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redesim.gov.br', '2014-09-02 19:04:42', '2014-09-02 19:04:42', '13280319', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('duplasena.gov.br', '2003-09-30 19:48:18', '2015-07-16 20:50:44', '1342309', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt01.gov.br', '2007-06-05 11:32:00', '2016-03-17 20:31:56', '3639141', '002.578.421/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('nuclep.gov.br', '1998-12-04 18:37:33', '2012-03-29 19:41:13', '129198', '042.515.882/0003-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brazilexport.gov.br', '2013-08-14 18:48:06', '2014-07-10 14:20:10', '11823944', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tjmg.gov.br', '1997-12-04 11:00:00', '2016-06-17 19:15:43', '72924', '021.154.554/0001-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ceagesp.gov.br', '2003-10-01 11:20:18', '2015-12-30 13:49:10', '1357071', '062.463.005/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('hemobras.gov.br', '2006-09-27 13:20:48', '2016-03-31 21:39:10', '3062780', '007.607.851/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalcoren-rs.gov.br', '2001-08-02 17:54:49', '2015-01-28 12:23:32', '607190', '087.088.670/0001-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redebrasil.gov.br', '2003-07-21 13:31:42', '2013-02-04 17:39:27', '1275952', '001.263.896/0003-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('conter.gov.br', '2000-10-24 18:33:55', '2011-09-21 23:34:04', '440700', '003.635.323/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('gsi.gov.br', '2010-05-10 12:53:36', '2016-05-16 19:59:21', '6837292', '009.399.736/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crmvmg.gov.br', '2015-01-09 18:42:27', '2015-01-09 18:42:27', '13697332', '016.539.173/0001-12');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ctnbio.gov.br', '2000-06-19 19:05:06', '2013-02-04 17:39:06', '354889', '001.263.896/0003-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('xn--previdnciasocial-xqb.gov.br', '2006-10-27 13:20:12', '2006-10-27 13:20:12', '3165465', '042.422.253/0014-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixaeconomica.gov.br', '1997-08-20 12:00:00', '2015-07-16 19:03:08', '53141', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('apec.gov.br', '2002-03-11 19:35:42', '2005-04-15 23:02:33', '738555', '026.989.350/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ipp.gov.br', '1998-12-08 12:29:55', '1998-12-28 12:00:00', '129608', '000.394.544/0056-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('a2000.gov.br', '1999-01-15 17:39:03', '2011-05-02 12:06:48', '137067', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-pe.gov.br', '1998-08-10 14:18:51', '2015-01-08 21:14:11', '108167', '000.509.018/0015-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eixos.gov.br', '2000-05-09 14:02:58', '2014-01-22 17:25:26', '334520', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('direitosdacrianca.gov.br', '2014-05-19 13:12:00', '2014-05-19 13:12:00', '12854581', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('deputado.gov.br', '2007-07-04 12:32:00', '2015-06-12 17:17:37', '3725132', '000.530.352/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('goias.gov.br', '2000-06-12 20:19:01', '2015-07-16 20:28:50', '362555', '003.517.631/0001-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dinheiroaqui.gov.br', '2000-08-04 21:17:46', '2015-07-16 20:49:08', '399427', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rfb.gov.br', '2010-05-12 18:28:34', '2014-11-21 13:10:14', '6834837', '000.394.460/0008-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-rj.gov.br', '2008-06-10 18:35:21', '2013-08-26 21:04:58', '4530323', '033.345.109/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-go.gov.br', '1998-08-14 16:54:00', '2015-01-08 21:09:51', '108492', '000.509.018/0008-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafsi.gov.br', '2005-06-15 04:25:04', '2012-05-18 19:45:02', '2190774', '000.855.923/0001-25');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redebrasildigital.gov.br', '2015-11-16 15:23:00', '2015-11-16 15:23:00', '14886239', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ceplacdf.gov.br', '1998-05-06 18:25:15', '2008-07-29 00:24:45', '95516', '033.004.300/0001-06');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('epamigcaldas.gov.br', '2000-05-30 19:38:26', '2014-02-20 18:25:21', '333722', '017.138.140/0006-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('vidaedinheiro.gov.br', '2008-08-01 16:55:20', '2014-04-17 20:00:13', '4719790', '029.507.878/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caupa.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:58:13', '10046017', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mj.gov.br', '1996-05-17 12:00:00', '2015-09-09 19:28:13', '7908', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crearo.gov.br', '2009-09-14 14:14:42', '2009-09-14 14:14:42', '5954372', '004.920.948/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cancer.gov.br', '2005-03-22 12:12:19', '2016-05-24 13:03:53', '2040942', '000.394.544/0171-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pbqp-h.gov.br', '1998-06-04 16:41:37', '2014-09-24 17:34:24', '100651', '000.489.828/0006-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnater.gov.br', '2015-09-15 14:41:05', '2015-09-15 14:41:05', '14619667', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mpdft.gov.br', '1996-05-21 12:00:00', '2015-12-22 20:17:53', '8005', '026.989.715/0002-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('confiancanobrasil.gov.br', '2008-12-26 12:22:25', '2008-12-26 12:22:25', '5148848', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('agronet-pe.gov.br', '2002-04-11 11:56:47', '2011-07-11 11:05:13', '786648', '035.672.054/0001-88');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('disque100.gov.br', '2010-06-07 12:00:46', '2015-03-30 18:31:41', '6924086', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cenad.gov.br', '2006-03-28 15:27:52', '2015-06-08 17:45:59', '2687107', '003.353.358/0001-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bancodonordeste.gov.br', '2002-03-18 13:34:47', '2016-06-07 13:06:00', '756331', '007.237.373/0016-06');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-rs.gov.br', '1998-07-15 12:04:53', '2015-02-03 18:19:30', '105897', '000.509.018/0019-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mte.gov.br', '1999-02-11 18:24:28', '2016-02-05 19:35:43', '141353', '037.115.367/0033-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt-02.gov.br', '1999-06-11 19:34:38', '2016-02-15 21:12:06', '168328', '003.241.738/0001-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnis.gov.br', '2002-10-08 18:27:09', '2004-11-26 12:13:13', '987612', '042.422.253/0027-32');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('censo.gov.br', '2000-07-26 13:34:48', '2011-07-30 21:57:08', '386034', '033.787.094/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('computadoresparainclusao.gov.br', '2008-04-18 13:17:49', '2014-01-22 17:35:37', '4395624', '000.489.828/0003-17');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafs.gov.br', '1999-12-07 13:03:55', '2008-06-26 13:48:30', '226362', '069.978.468/0001-51');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('megasena.gov.br', '2003-09-22 12:32:38', '2015-07-16 21:23:55', '1337598', '000.360.305/0655-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('educacao.gov.br', '2000-04-19 20:43:11', '2014-01-23 12:08:47', '308354', '000.394.445/0030-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaltransparencia.gov.br', '2004-11-24 17:43:10', '2016-04-15 19:07:43', '1884690', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('idbrasil.gov.br', '2003-12-02 14:53:31', '2015-03-25 13:01:21', '1440118', '000.394.437/0001-57');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inmet.gov.br', '1996-06-11 12:00:00', '2016-01-04 11:39:34', '0', '000.396.895/0010-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('economizar.gov.br', '2002-06-21 17:10:11', '2012-12-05 17:20:29', '888871', '033.000.167/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cemave.gov.br', '2013-04-18 18:37:54', '2013-04-19 12:32:20', '11330434', '008.829.974/0001-94');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-se.gov.br', '1998-08-24 17:26:44', '2015-01-08 21:18:21', '110572', '000.509.018/0022-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('boavistaenergia.gov.br', '2000-09-12 12:00:19', '2016-06-15 01:15:39', '414884', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafajt.gov.br', '2003-03-24 15:00:09', '2009-09-28 12:00:47', '1136184', '042.709.402/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('conarq.gov.br', '2011-09-06 12:42:49', '2015-05-21 20:19:42', '8724458', '004.374.067/0001-47');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sibbr.gov.br', '2012-10-10 19:30:05', '2012-10-10 19:30:05', '10488859', '004.079.233/0001-82');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rsbr.gov.br', '2014-05-09 12:28:21', '2014-05-13 13:56:55', '12838688', '004.053.755/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('funarte.gov.br', '1997-07-31 12:00:00', '2010-01-19 19:50:05', '49537', '026.963.660/0002-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('combateafome.gov.br', '2012-09-28 17:27:21', '2014-06-13 13:28:01', '10499645', '005.756.246/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfes.gov.br', '2007-06-04 17:32:14', '2014-07-23 14:08:55', '3637470', '005.424.467/0001-82');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('energiabv.gov.br', '2000-09-12 12:00:21', '2008-12-10 12:11:56', '414889', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('conab.gov.br', '1997-01-06 11:00:00', '2015-08-28 17:12:48', '27275', '026.461.699/0001-80');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eletrofurnas.gov.br', '2000-06-30 19:29:40', '2002-08-12 14:21:09', '366449', '023.274.194/0001-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt-ma.gov.br', '2007-06-05 11:32:00', '2009-12-10 18:48:54', '3639585', '023.608.631/0001-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('netminas.gov.br', '1998-01-16 12:23:41', '2016-05-04 14:49:22', '81512', '016.636.540/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dfasp.gov.br', '2002-02-19 11:23:08', '2002-02-19 12:00:00', '730786', '000.396.895/0028-45');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('obrasnet.gov.br', '2002-05-03 14:37:25', '2015-07-16 21:26:07', '810227', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aeroportodesalvador.gov.br', '2002-11-12 10:56:02', '2013-01-09 11:34:38', '1012775', '000.352.294/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pronaf.gov.br', '1998-03-19 17:52:16', '2015-06-08 22:28:37', '89536', '000.396.895/0069-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ac.gov.br', '1998-10-21 11:00:00', '2016-06-28 17:46:08', '122623', '004.034.468/0001-58');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio-03.gov.br', '2009-01-29 17:24:15', '2009-01-29 17:24:15', '5229737', '004.053.157/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trf2.gov.br', '1997-10-02 12:00:00', '2015-10-30 13:19:55', '61185', '032.243.347/0001-51');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sae.gov.br', '1997-10-09 11:00:00', '2009-05-18 19:09:09', '62181', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('paranaeleitoral.gov.br', '2002-08-08 17:34:59', '2012-03-20 15:01:11', '930037', '003.985.113/0001-81');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('exercito.gov.br', '1998-01-29 11:00:00', '2015-11-05 11:32:25', '84429', '000.394.452/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pb.gov.br', '1996-11-01 12:00:00', '2015-12-22 21:29:00', '0', '009.189.499/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('capes.gov.br', '1996-01-01 12:00:00', '2015-09-29 21:14:40', '0', '000.889.834/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tesouro.gov.br', '2009-08-11 11:52:18', '2016-04-29 13:42:37', '5830730', '000.394.460/0409-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('governo.gov.br', '2016-02-17 12:37:44', '2016-02-17 12:37:44', '15186843', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaldatransparencia.gov.br', '2004-11-24 17:43:10', '2016-04-15 19:07:32', '1884669', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('denatran.gov.br', '2002-04-12 19:30:38', '2014-09-24 17:33:38', '768317', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('participa.gov.br', '2013-10-16 18:38:59', '2013-10-16 18:38:59', '12086744', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('splp.gov.br', '2007-07-16 13:37:22', '2007-07-16 13:37:22', '3746202', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('stj.gov.br', '1995-08-29 12:00:00', '2016-02-11 13:26:32', '0', '000.488.478/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coren-mg.gov.br', '2009-01-22 10:18:04', '2013-08-13 23:00:03', '5169547', '021.699.889/0001-17');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('convivio.gov.br', '2001-07-18 19:21:15', '2010-11-16 13:07:41', '602728', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('observatoriodaindustria.gov.br', '2012-05-10 13:20:53', '2013-02-15 15:33:45', '9790097', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dnpm-pe.gov.br', '2002-10-01 12:12:23', '2013-08-16 12:43:47', '957607', '000.381.056/0005-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mpu.gov.br', '1999-10-15 19:03:24', '2012-09-06 22:21:26', '206380', '026.989.715/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prt3.gov.br', '1998-07-01 21:35:21', '2006-05-30 21:04:15', '103590', '026.989.715/0034-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('gdfaz.gov.br', '2001-12-20 18:58:27', '2001-12-20 16:58:27', '699472', '002.317.176/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cbh.gov.br', '2008-02-26 13:33:09', '2008-02-26 13:33:09', '4258477', '004.204.444/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ba.gov.br', '1995-12-27 12:00:00', '2015-09-11 02:36:58', '4932', '013.579.586/0001-32');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inovaif.gov.br', '2015-04-24 13:29:00', '2015-04-24 13:29:00', '13997050', '010.791.831/0001-82');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('copatransparente.gov.br', '2011-07-12 16:17:24', '2014-01-24 20:14:17', '8550844', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sjrs.gov.br', '1998-10-26 17:07:51', '2013-09-24 21:48:04', '121928', '005.442.380/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('amazul.gov.br', '2014-07-16 14:06:03', '2014-07-16 14:06:03', '13103073', '018.910.028/0001-21');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ebndes.gov.br', '2002-05-02 13:40:48', '2016-02-12 20:54:26', '810174', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dpu.gov.br', '2007-10-05 17:05:55', '2012-08-02 16:23:26', '3957938', '000.375.114/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crtrrj.gov.br', '2002-08-13 12:44:56', '2011-12-28 18:33:04', '937205', '032.095.317/0001-45');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cauba.gov.br', '2014-06-26 11:17:34', '2015-04-29 13:54:02', '13050742', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio-sc.gov.br', '2009-01-29 17:24:13', '2009-01-29 17:24:13', '5209810', '004.053.157/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ctac.gov.br', '1997-09-02 12:00:00', '2010-01-20 00:02:04', '55302', '026.963.660/0002-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cprmpa.gov.br', '1998-07-18 13:55:22', '1999-11-17 18:49:59', '104099', '000.091.652/0009-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sipam.gov.br', '2001-04-12 19:56:37', '2013-10-21 19:22:25', '545274', '007.129.796/0001-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pdp.gov.br', '2010-02-01 17:00:34', '2011-10-25 11:07:41', '6487325', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e-jud.gov.br', '2004-05-11 12:04:16', '2015-11-03 18:02:30', '1607240', '000.488.478/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aiaf2014.gov.br', '2014-02-18 14:41:46', '2015-06-08 22:26:30', '12510135', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('education.gov.br', '2000-04-19 20:43:14', '2014-01-23 12:08:18', '308387', '000.394.445/0030-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaldoexportador.gov.br', '2001-11-26 11:35:25', '2013-02-15 15:38:29', '687964', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mdic.gov.br', '1999-03-15 14:56:43', '2013-02-15 16:49:52', '146981', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafguanambi.gov.br', '2005-07-07 14:11:32', '2009-09-28 12:00:54', '2222962', '042.709.402/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cbee.gov.br', '2002-01-24 14:02:30', '2006-02-22 13:46:52', '714185', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('businessbrasil.gov.br', '2013-06-24 14:44:28', '2014-07-10 14:17:53', '11592370', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('c-brazil.gov.br', '2000-05-08 20:09:22', '2011-05-02 12:14:59', '324581', '033.683.111/0009-56');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('vispublica.gov.br', '2012-11-21 18:08:24', '2014-01-22 17:30:10', '10667427', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('niteroi-artes.gov.br', '1997-10-10 11:00:00', '2013-05-30 02:21:06', '62299', '028.550.176/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt7.gov.br', '1998-01-16 12:23:40', '2012-02-24 11:09:22', '81487', '000.509.968/0008-14');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-pb.gov.br', '2002-10-01 20:16:49', '2016-05-21 02:21:03', '978225', '009.292.194/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnpd.gov.br', '2001-05-08 19:39:23', '2016-04-04 19:24:03', '548050', '033.892.175/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaldoconsumidor.gov.br', '2001-12-11 18:30:14', '2015-05-20 12:18:51', '683263', '000.662.270/0003-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bndespar.gov.br', '2006-05-17 17:29:51', '2014-11-11 20:48:56', '2800307', '000.383.281/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('agu.gov.br', '1999-01-21 19:17:15', '2014-07-31 20:50:35', '135851', '026.994.558/0001-23');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('justicafederal.gov.br', '2005-01-11 12:43:56', '2014-03-25 13:13:04', '1965153', '000.508.903/0001-88');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfal.gov.br', '2000-03-17 20:31:23', '2016-06-02 15:05:30', '286462', '000.508.903/0019-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('processoeletronico.gov.br', '2014-10-15 09:44:27', '2014-10-15 09:44:27', '13442571', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('casadamoeda.gov.br', '1997-05-01 12:00:00', '2016-04-25 15:54:21', '38379', '034.164.319/0005-06');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('informacao.gov.br', '2014-04-08 19:15:07', '2016-04-15 19:07:03', '12773610', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prodepa.gov.br', '1996-05-08 12:00:00', '2013-10-10 01:08:25', '7566', '005.059.613/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('receita.gov.br', '1998-04-17 18:43:14', '2014-10-17 18:58:42', '93848', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('manausenergia.gov.br', '2006-05-10 13:29:16', '2008-05-08 14:13:52', '2754242', '002.341.467/0003-92');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafsb.gov.br', '2006-08-10 13:46:00', '2009-12-16 17:42:34', '2981571', '000.853.966/0001-71');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dnrc.gov.br', '1997-09-18 12:00:00', '2013-05-10 19:23:14', '58455', '000.394.494/0103-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mulhergoverno.gov.br', '2003-02-18 15:43:16', '2014-01-22 17:27:48', '1095512', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafb.gov.br', '2001-10-19 12:27:47', '2014-04-22 11:11:19', '656702', '073.946.741/0001-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('agricultura.gov.br', '1997-04-15 12:00:00', '2013-06-11 22:54:21', '36630', '000.396.895/0001-25');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cprm.gov.br', '1996-02-16 12:00:00', '2015-11-25 15:20:16', '5443', '000.091.652/0002-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fjp.gov.br', '1996-06-28 12:00:00', '2016-06-03 18:49:04', '10659', '017.464.652/0001-80');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasildigital.gov.br', '2015-03-02 19:51:54', '2015-03-02 19:51:54', '13890186', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfsp.gov.br', '2001-03-16 20:44:33', '2012-05-17 21:52:34', '526406', '000.508.903/0009-35');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crfa1.gov.br', '2009-07-03 13:35:02', '2015-09-25 10:46:53', '5697830', '032.243.313/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caurn.gov.br', '2012-07-06 12:46:00', '2015-04-29 13:59:31', '10046062', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dpf.gov.br', '1996-07-16 12:00:00', '2016-01-29 18:38:30', '11801', '000.394.494/0080-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('funasa.gov.br', '2000-05-31 19:14:41', '2007-08-21 23:13:04', '348663', '026.989.350/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cetem.gov.br', '1996-01-01 12:00:00', '2013-10-02 21:24:00', '0', '004.074.457/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mpa.gov.br', '2009-11-09 12:45:46', '2015-12-09 12:08:52', '6243968', '005.482.692/0001-75');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('se.gov.br', '1997-08-18 12:00:00', '2014-02-18 10:47:20', '52525', '013.164.959/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prap.gov.br', '1998-01-16 12:24:38', '2003-02-18 21:06:36', '82021', '026.989.715/0009-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaljt.gov.br', '2001-05-14 20:13:33', '2015-03-04 19:10:05', '562730', '000.509.968/0001-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e-parana.gov.br', '2000-09-21 15:29:01', '2009-12-08 13:44:33', '414002', '076.545.011/0001-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('peticaoeletronica.gov.br', '2003-01-02 12:17:30', '2013-09-24 22:27:53', '1044451', '005.442.380/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mtb.gov.br', '1996-01-08 12:00:00', '2016-02-05 20:42:31', '5021', '037.115.367/0033-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-ap.gov.br', '1998-08-05 19:21:57', '2015-01-08 21:03:47', '106206', '034.927.343/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bid2002brasil.gov.br', '2001-11-14 17:57:46', '2014-01-22 17:32:07', '680509', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-mt.gov.br', '1998-08-07 17:06:35', '2015-01-08 21:12:35', '106451', '005.901.308/0001-21');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('nossoambiente.gov.br', '2001-08-13 20:13:18', '2016-04-11 13:26:59', '615405', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ana.gov.br', '2001-03-20 21:24:48', '2012-10-19 20:11:27', '530908', '004.204.444/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('spm.gov.br', '2010-05-26 13:50:57', '2014-09-22 17:10:52', '6887059', '005.510.958/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prr4.gov.br', '1996-07-30 12:00:00', '2014-02-10 16:42:04', '12880', '094.953.767/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sivam.gov.br', '1997-05-16 12:00:00', '2002-12-02 13:06:11', '39757', '000.394.429/0133-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redegoverno.gov.br', '1998-04-17 18:43:06', '2011-05-02 12:10:04', '93845', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-ce.gov.br', '2001-11-06 19:51:09', '2013-11-15 01:29:55', '660888', '009.420.282/0001-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pgfn.gov.br', '2007-06-26 19:28:37', '2011-05-02 12:09:30', '3656427', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('investidor.gov.br', '2008-08-01 16:55:20', '2014-04-05 16:59:53', '4720366', '029.507.878/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ancine.gov.br', '2002-02-27 17:38:26', '2015-05-28 20:56:47', '739426', '004.884.574/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('desenvolvimentorural.gov.br', '2013-06-20 18:03:30', '2015-06-08 22:41:19', '11588729', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crecimg.gov.br', '2010-03-24 14:03:38', '2011-03-15 18:21:27', '6668616', '017.481.268/0001-95');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dnit.gov.br', '2002-04-10 17:42:58', '2010-01-22 00:47:01', '761929', '004.892.707/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crmvsp.gov.br', '2011-08-01 10:57:05', '2011-08-01 10:57:05', '8561217', '050.052.885/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-df.gov.br', '1998-07-31 18:20:32', '2015-01-08 21:07:24', '106173', '000.509.018/0006-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('gdf.gov.br', '1995-04-07 12:00:00', '2014-06-23 14:13:51', '0', '003.230.476/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eproc-pr.gov.br', '2003-08-05 11:52:44', '2012-04-24 14:55:29', '1289181', '005.442.380/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('nead.gov.br', '1999-04-07 11:58:19', '2011-08-03 15:57:51', '146549', '000.375.972/0002-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tesourodireto.gov.br', '2003-05-08 14:03:24', '2011-05-02 12:11:21', '1178358', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfceara.gov.br', '2003-09-22 14:18:13', '2010-04-10 19:58:12', '1368198', '005.424.487/0001-53');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sivnet.gov.br', '2002-01-29 18:45:39', '2013-01-09 11:34:23', '719669', '000.352.294/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ce.gov.br', '1996-05-27 12:00:00', '2013-01-18 12:21:47', '8516', '003.773.788/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('serac4.gov.br', '2005-07-12 16:00:47', '2006-11-30 13:18:46', '2228294', '000.394.429/0086-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixainveste.gov.br', '2001-10-25 19:55:48', '2015-07-16 19:34:57', '650495', '000.360.305/2714-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafcrato.gov.br', '2005-05-30 15:08:41', '2014-10-09 23:17:28', '2139432', '041.338.161/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('epost.gov.br', '2001-09-21 18:29:56', '2016-06-04 00:32:19', '637030', '034.028.316/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cenipa.gov.br', '2006-09-06 19:54:06', '2016-04-06 14:03:50', '2998740', '000.394.429/0131-99');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cndrs.gov.br', '2000-06-27 20:05:41', '2010-11-16 13:07:30', '371258', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixa.gov.br', '1997-08-20 12:00:00', '2016-01-17 04:49:56', '53140', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('torcidalegal.gov.br', '2011-05-26 18:17:09', '2011-05-26 18:17:09', '8254264', '002.961.362/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('scnet.gov.br', '1999-05-11 12:01:46', '2006-02-08 15:10:34', '160206', '083.043.745/0001-65');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eproc.gov.br', '2003-08-05 11:52:44', '2012-04-24 15:20:57', '1289174', '005.442.380/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sp.gov.br', '1995-07-06 12:00:00', '2015-06-08 12:13:00', '0', '062.577.929/0001-35');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafudi.gov.br', '2001-06-07 20:57:29', '2007-06-06 12:25:48', '576210', '073.875.502/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inss.gov.br', '1998-07-27 13:47:15', '2004-11-29 11:53:43', '108377', '042.422.253/0014-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tesourotransparente.gov.br', '2015-05-26 13:34:23', '2016-04-29 13:42:50', '14171768', '000.394.460/0409-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('voluntariado.gov.br', '2013-10-24 10:06:30', '2013-10-24 10:06:30', '12162272', '002.961.362/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('acraiz.gov.br', '2001-07-25 14:43:49', '2015-08-20 12:58:36', '609551', '004.039.532/0001-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('vice-presidencia.gov.br', '2000-04-10 16:46:09', '2007-07-10 23:17:49', '303852', '000.894.355/0001-71');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('frp.gov.br', '1997-03-06 12:00:00', '1998-03-18 12:00:00', '32360', '033.868.639/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cref4.gov.br', '2012-09-28 15:21:47', '2012-09-28 15:21:47', '10501422', '003.676.803/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mc.gov.br', '1996-03-12 12:00:00', '2015-03-25 13:01:38', '5863', '000.394.437/0001-57');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaldaexportacao.gov.br', '2002-01-02 17:49:09', '2013-02-15 15:37:50', '709116', '000.394.478/0003-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dner1drf.gov.br', '2000-01-10 12:29:17', '2000-01-10 12:00:00', '235023', '033.628.777/0002-35');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt14.gov.br', '1999-10-14 18:13:50', '2014-11-22 20:38:06', '207068', '003.326.815/0001-53');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cdv.gov.br', '2010-12-20 18:17:24', '2014-05-09 20:39:51', '7696548', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dpf-ce.gov.br', '1997-02-23 12:00:00', '2004-03-24 14:19:36', '31061', '000.394.494/0023-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('info.gov.br', '2014-04-08 18:09:51', '2016-04-15 19:06:56', '12756172', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt4.gov.br', '1997-05-15 12:00:00', '2014-03-22 23:06:59', '39445', '002.520.619/0001-52');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('loterias.gov.br', '2000-08-04 21:17:55', '2015-07-16 21:21:07', '399407', '000.360.305/0674-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('lojacaixa.gov.br', '2004-10-19 18:53:37', '2015-07-16 21:19:12', '1850408', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('logisticabrasil.gov.br', '2013-05-08 14:03:54', '2014-04-02 17:55:05', '11353074', '015.763.423/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cvm.gov.br', '1996-06-04 12:00:00', '2014-04-05 17:06:36', '8975', '029.507.878/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('emquestao.gov.br', '2010-09-30 17:49:42', '2014-09-22 17:06:22', '7370703', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caisan.gov.br', '2014-05-14 15:19:06', '2014-06-13 13:27:44', '12820961', '005.756.246/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-sc.gov.br', '1998-08-05 12:49:05', '2015-01-08 21:17:52', '106213', '000.509.018/0020-86');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cienciasemfronteiras.gov.br', '2011-12-01 16:19:29', '2014-03-11 21:45:04', '9160529', '000.889.834/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sri.gov.br', '2010-05-10 13:09:05', '2014-09-22 17:11:03', '6836616', '011.475.667/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cetene.gov.br', '2007-06-26 19:28:37', '2015-08-05 13:00:24', '3636218', '001.263.896/0021-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('orçamentofederal.gov.brxn--oramentofederal-fmb.gov.br', '', '', '', '');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('int.gov.br', '1998-11-11 16:07:16', '2012-12-05 13:49:58', '123432', '001.263.896/0004-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('orcamentofederal.gov.br', '2010-12-06 17:42:44', '2011-05-02 12:09:01', '7603108', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caubr.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:54:04', '10045983', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('itamaraty.gov.br', '1999-02-12 11:00:00', '2014-09-10 00:03:38', '141521', '000.394.536/0006-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('memoriasreveladas.gov.br', '2009-07-24 16:13:23', '2015-05-21 20:20:07', '5817079', '004.374.067/0001-47');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bemrecebercopa.gov.br', '2010-05-26 13:50:56', '2013-04-08 20:44:52', '6815823', '033.741.794/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dtceasp.gov.br', '2009-09-30 13:36:06', '2015-10-01 18:05:21', '5995687', '000.394.429/0094-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixadasorte.gov.br', '2000-08-04 21:17:42', '2015-07-16 18:56:03', '399423', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caums.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:58:09', '10046007', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('projovemurbano.gov.br', '2008-08-14 13:51:23', '2015-06-08 15:12:07', '4751512', '007.490.910/0001-49');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ccom.gov.br', '1999-12-16 10:49:25', '2014-11-18 13:15:42', '232839', '001.175.497/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crediamigo.gov.br', '2001-05-18 19:45:53', '2013-04-01 19:09:06', '566336', '007.237.373/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('entespublicos.gov.br', '2014-11-04 11:21:11', '2014-11-04 11:21:11', '13512112', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fns-es.gov.br', '1999-06-02 20:20:31', '2006-01-10 14:35:53', '163059', '026.989.350/0019-45');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cbtu-sturec.gov.br', '2011-06-01 12:34:02', '2016-04-11 18:28:08', '8249316', '042.357.483/0006-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dialogosfederativos.gov.br', '2013-01-08 14:32:06', '2013-01-08 14:32:06', '10896318', '011.475.658/0001-76');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ap.gov.br', '1998-10-21 11:00:00', '2016-03-10 18:07:18', '122622', '001.591.392/0001-73');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ahipar.gov.br', '1997-11-25 11:00:00', '2010-04-07 17:56:44', '71033', '044.837.524/0006-11');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixainvest.gov.br', '2001-10-25 19:55:47', '2015-07-16 19:34:29', '650493', '000.360.305/2714-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('seade.gov.br', '1996-01-01 12:00:00', '2015-02-09 12:10:01', '0', '051.169.555/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crq9.gov.br', '2016-05-13 18:00:08', '2016-05-13 18:00:08', '15485657', '076.471.358/0001-64');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('vlibras.gov.br', '2015-12-04 20:14:41', '2015-12-04 20:14:41', '14978448', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ambiente.gov.br', '2001-08-13 20:13:13', '2016-04-11 13:05:49', '615398', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('participo.gov.br', '2013-10-16 18:38:59', '2013-10-16 18:38:59', '12089314', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('unasus.gov.br', '2011-10-25 13:52:35', '2012-04-22 05:28:59', '8923771', '033.781.055/0009-92');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('certidaodenascimento.gov.br', '2009-08-20 19:25:47', '2015-01-13 12:49:10', '5868501', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prt8.gov.br', '1998-01-16 12:25:25', '2001-08-02 15:40:13', '82513', '026.989.715/0039-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('decine.gov.br', '1999-03-04 20:56:50', '2007-12-12 11:40:34', '145017', '026.963.660/0002-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('saemec.gov.br', '1998-10-13 19:10:28', '1998-11-25 12:00:00', '121239', '001.678.363/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bc.gov.br', '1998-12-30 18:22:39', '2015-06-17 22:20:33', '133801', '000.038.166/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cp2.gov.br', '2009-07-10 16:17:13', '2013-03-08 19:47:15', '5737217', '042.414.284/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('assistenciasocial.gov.br', '2002-11-18 12:32:35', '2014-06-13 13:26:46', '1005833', '005.756.246/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('solucoestipublica.gov.br', '2003-02-27 18:44:28', '2011-05-02 12:11:07', '1121051', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ahsul.gov.br', '2014-02-27 14:21:33', '2015-08-24 12:42:12', '12568279', '006.347.892/0010-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mre.gov.br', '1996-01-01 12:00:00', '2011-09-06 22:43:29', '0', '000.394.536/0006-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cernai.gov.br', '2004-07-22 18:15:37', '2014-01-24 11:53:09', '1735827', '000.394.429/0048-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sudam.gov.br', '1997-08-13 12:00:00', '2013-04-13 03:13:26', '51749', '004.931.713/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fatoseboatos.gov.br', '2015-09-04 16:52:44', '2015-09-04 16:52:44', '14633244', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafvsa.gov.br', '2004-09-28 12:04:03', '2011-01-11 17:10:01', '1817818', '041.008.699/0001-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio04.gov.br', '2008-11-25 12:27:44', '2014-12-09 14:04:09', '5076779', '002.505.297/0001-72');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('linea.gov.br', '2010-05-13 14:34:36', '2015-01-22 02:52:40', '6832432', '004.079.233/0001-82');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasil2016.gov.br', '2013-10-23 13:42:11', '2013-10-23 13:42:11', '12121014', '002.961.362/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comunicacoes.gov.br', '2012-06-13 13:46:43', '2015-03-25 13:00:13', '10001332', '000.394.437/0003-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('etfto.gov.br', '2003-06-05 19:12:50', '2015-12-09 20:16:42', '1227133', '005.095.151/0001-94');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ibama-pi.gov.br', '2002-06-27 18:19:58', '2002-06-27 15:19:58', '899914', '003.659.166/0030-47');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt05.gov.br', '1997-11-13 11:00:00', '2015-11-04 13:33:35', '69435', '000.509.968/0006-52');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('amapa.gov.br', '1998-01-16 12:26:24', '2016-03-09 18:40:19', '82660', '001.591.392/0001-73');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt9.gov.br', '1999-04-13 13:45:04', '2016-05-06 14:43:14', '151987', '000.509.968/0010-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ceasa.gov.br', '2006-02-01 13:41:34', '2015-08-28 17:09:51', '2591389', '026.461.699/0001-80');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('projetobrasilmunicipios.gov.br', '2009-02-04 10:56:44', '2014-01-22 17:35:54', '5186358', '000.489.828/0003-17');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('codevasf.gov.br', '1996-01-01 12:00:00', '2016-03-22 19:43:34', '0', '000.399.857/0001-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mpf.gov.br', '1996-01-01 12:00:00', '2012-09-06 21:47:01', '0', '026.989.715/0050-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('casadoscontos.gov.br', '2001-09-20 14:11:10', '2009-11-14 14:18:00', '639747', '000.394.460/0263-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('loteriascaixa.gov.br', '2000-08-04 21:17:56', '2015-07-16 21:21:50', '399432', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('atlasdeacessoajustica.gov.br', '2013-06-04 14:01:03', '2013-06-04 14:01:03', '11519414', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pncda.gov.br', '1999-10-27 19:53:43', '2014-09-24 17:35:05', '213199', '000.489.828/0006-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('turismobrasil.gov.br', '2007-12-24 11:29:17', '2014-09-20 22:11:28', '4131446', '033.741.794/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dnpmma.gov.br', '2002-09-04 17:28:42', '2002-09-04 14:28:42', '944603', '000.381.056/0023-49');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('infojus.gov.br', '2000-08-09 14:21:41', '2014-10-08 15:32:43', '400199', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('simples.gov.br', '2013-11-11 18:31:44', '2013-11-11 18:31:44', '12212554', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cofen.gov.br', '2002-05-28 15:35:31', '2016-06-10 21:25:54', '854945', '047.217.146/0001-57');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('plenarinho.gov.br', '2003-09-22 13:17:52', '2015-06-11 14:00:27', '1342021', '000.530.352/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('funasa-sc.gov.br', '2001-05-11 20:02:41', '2001-12-07 17:22:05', '555543', '026.989.350/0024-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crqxx.gov.br', '2010-09-14 19:57:22', '2015-02-19 13:30:50', '7307573', '009.558.631/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('consultaprotocolo.gov.br', '2014-11-05 16:30:10', '2014-11-05 16:30:10', '13521910', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mulheres.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:07:11', '6426224', '005.510.958/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('raspadinhadacaixa.gov.br', '2000-05-02 13:26:18', '2015-07-16 21:32:03', '323570', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('semanaenef.gov.br', '2014-02-27 20:48:17', '2014-02-27 20:48:17', '12598009', '029.507.878/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('microepequenaempresa.gov.br', '2013-11-06 13:41:09', '2013-11-06 13:41:09', '12212573', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cjf.gov.br', '1997-01-29 11:00:00', '2014-03-25 13:12:12', '29162', '000.508.903/0001-88');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('defesa.gov.br', '1999-06-22 13:18:34', '2014-12-18 13:10:53', '171030', '000.894.356/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafigt.gov.br', '2002-02-22 19:32:54', '2007-12-28 14:16:05', '737396', '041.339.771/0001-95');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('centrodememoriabndes.gov.br', '2014-12-11 09:24:35', '2014-12-11 09:24:35', '13643576', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cref-sp.gov.br', '2008-10-09 16:11:07', '2010-02-10 13:56:19', '4915683', '003.676.803/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('incrarn.gov.br', '1998-06-17 12:30:34', '2003-09-04 12:27:34', '99023', '000.375.972/0018-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('secretariadegoverno.gov.br', '2016-02-17 12:37:44', '2016-02-17 12:37:44', '15186834', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('museus.gov.br', '2006-10-19 14:12:11', '2015-01-22 17:50:38', '3133715', '010.898.596/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cmb.gov.br', '2007-08-22 11:39:06', '2016-04-25 15:54:35', '3770042', '034.164.319/0005-06');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('guiadeserviços.gov.brxn--guiadeservios-sgb.gov.br', '', '', '', '');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('focco-pb.gov.br', '2009-03-26 16:20:30', '2010-07-08 00:26:42', '5342346', '026.989.715/0020-75');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('venturecapital.gov.br', '2000-04-04 17:18:46', '2011-05-04 18:56:36', '290586', '033.749.086/0002-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ministeriopublicodf.gov.br', '2008-08-21 18:36:21', '2015-04-20 19:02:04', '4725433', '026.989.715/0002-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('supercaminhaodasorte.gov.br', '2000-05-02 13:26:20', '2015-07-16 21:35:42', '323561', '000.360.305/0643-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redeagentes.gov.br', '2001-04-18 12:51:00', '2013-05-10 19:41:50', '548814', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-ba.gov.br', '1998-07-24 20:05:07', '2015-01-08 21:05:03', '106344', '000.509.018/0004-66');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ahrana.gov.br', '2002-10-21 19:02:43', '2006-05-17 16:35:21', '997263', '044.837.524/0005-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafi.gov.br', '2003-05-16 13:38:23', '2013-08-08 10:52:14', '1199829', '073.920.001/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('culturaviva.gov.br', '2015-09-17 17:46:29', '2015-09-17 17:46:29', '14669233', '001.264.142/0002-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rededojudiciario.gov.br', '1999-03-17 19:20:59', '2014-10-08 15:33:35', '147659', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('gespublica.gov.br', '2005-09-26 13:13:58', '2011-05-02 12:08:42', '2379916', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crmvrs.gov.br', '2000-04-28 14:21:26', '2008-10-14 16:07:14', '325983', '093.009.116/0001-72');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cprmba.gov.br', '2001-03-09 12:12:55', '2002-06-22 14:25:00', '523307', '000.091.652/0007-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sitedoconsumidor.gov.br', '2000-10-30 16:12:35', '2015-05-20 12:19:25', '453947', '000.662.270/0003-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio02.gov.br', '2009-02-16 11:18:53', '2009-02-16 11:18:53', '5228657', '002.452.608/0001-82');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('secgeral.gov.br', '2010-01-13 14:04:12', '2016-05-02 14:57:16', '6426174', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('icea.gov.br', '2003-12-17 18:50:46', '2016-03-01 12:52:36', '1463809', '000.394.429/0048-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('corenam.gov.br', '2015-03-16 14:37:42', '2016-06-14 18:38:10', '13948456', '004.667.846/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brazilrounds.gov.br', '2000-10-10 17:47:22', '2015-08-18 11:57:37', '436444', '002.313.673/0002-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('arquivonacional.gov.br', '1999-11-29 13:55:28', '2015-05-22 04:14:30', '225434', '004.374.067/0001-47');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tjpe.gov.br', '1997-10-10 11:00:00', '2013-02-06 15:53:01', '62308', '011.431.327/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mict.gov.br', '1996-01-01 12:00:00', '2013-05-10 19:41:42', '0', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('loteriafederal.gov.br', '2000-05-02 13:26:13', '2015-07-16 21:20:48', '323556', '000.360.305/0643-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pimentalonga.gov.br', '2000-10-25 12:50:34', '2000-11-27 14:39:49', '449661', '000.348.003/0068-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pmss.gov.br', '2001-09-10 11:14:56', '2014-09-24 17:34:41', '627941', '005.465.986/0001-99');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crecipr.gov.br', '2009-04-07 12:02:35', '2014-05-23 19:23:40', '5417469', '076.693.910/0001-69');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inb.gov.br', '1998-03-17 19:26:24', '2015-06-26 18:59:43', '89158', '000.322.818/0020-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('abin.gov.br', '1997-11-08 11:00:00', '2014-11-18 13:15:11', '68327', '001.175.497/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('vigilanciasanitaria.gov.br', '2000-08-22 11:36:27', '2015-11-19 18:22:04', '404720', '003.112.386/0001-11');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('apostasurpresa.gov.br', '2000-08-04 20:46:54', '2015-07-16 18:28:44', '399383', '000.360.305/0674-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('nex.gov.br', '2002-01-10 17:11:12', '2002-01-10 15:11:12', '714718', '000.394.536/0065-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt3.gov.br', '2007-08-29 15:41:38', '2015-03-18 15:43:42', '3863807', '001.298.583/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('processoeletroniconacional.gov.br', '2014-10-15 09:44:27', '2014-10-15 09:44:27', '13442554', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('amazonasenergia.gov.br', '2001-09-28 20:14:55', '2015-10-16 20:59:14', '639230', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixaaqui.gov.br', '2001-09-05 20:08:24', '2015-07-16 18:51:27', '628476', '000.360.305/2714-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('vitrinedoexportador.gov.br', '2004-08-19 12:27:39', '2013-02-15 15:40:30', '1774074', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixamaisqueumbanco.gov.br', '2011-09-12 18:52:35', '2015-07-16 19:35:35', '8785977', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crefsp.gov.br', '2008-09-24 18:07:55', '2010-02-10 13:56:19', '4810156', '003.676.803/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('suframa.gov.br', '1998-01-28 21:39:44', '2015-01-12 19:02:47', '82825', '004.407.029/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rb.gov.br', '2000-05-03 12:59:05', '2014-06-27 16:50:39', '314451', '042.519.488/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cadastrominhacasaminhavida.gov.br', '2016-03-25 20:12:18', '2016-03-29 19:56:52', '15397059', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('acre.gov.br', '2010-01-26 13:24:19', '2015-05-25 16:53:55', '6434360', '004.034.468/0001-58');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ic-brazil.gov.br', '2007-12-05 18:49:00', '2015-01-08 12:18:02', '4101337', '004.822.500/0001-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fundoamazonia.gov.br', '2009-03-17 14:54:06', '2014-02-27 23:18:04', '5352022', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('migrantes.gov.br', '2013-11-14 13:06:11', '2013-11-14 13:06:11', '12187693', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('preps.gov.br', '2006-05-29 17:17:58', '2012-12-19 11:28:34', '2820376', '005.482.692/0001-75');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dner-ms.gov.br', '1999-05-25 14:09:45', '2006-02-01 13:54:54', '162874', '033.628.777/0022-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ouvidoriadoservidor.gov.br', '2003-10-24 14:45:06', '2011-05-02 12:09:15', '1404373', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cbtujp.gov.br', '2000-09-27 17:05:57', '2001-06-18 20:26:42', '430223', '042.357.483/0010-17');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('linuxseguro.gov.br', '2004-04-29 23:58:17', '2014-11-18 13:18:13', '1611339', '001.175.497/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mps.gov.br', '2003-02-12 18:31:27', '2006-09-18 16:20:36', '1097821', '000.394.528/0005-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafbambui.gov.br', '1999-08-06 18:56:01', '2010-01-15 16:29:04', '183523', '070.915.798/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('poupeenergia.gov.br', '2001-05-09 19:37:06', '2009-02-14 13:47:25', '563081', '037.115.383/0005-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fiscopa2014.gov.br', '2010-05-04 19:08:21', '2010-05-04 19:08:21', '6777556', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('anatel.gov.br', '1997-07-22 12:00:00', '2015-11-26 17:36:39', '48284', '002.030.715/0001-12');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt24.gov.br', '1997-06-13 12:00:00', '2016-01-14 23:09:18', '42809', '037.115.409/0001-63');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('presidenciadarepublica.gov.br', '2000-05-11 21:20:23', '2006-03-29 18:27:45', '337135', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('protocolo.gov.br', '2014-11-05 17:45:26', '2014-11-05 17:45:26', '13521904', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('soumaismedico.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:38:06', '11932831', '015.126.437/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caged.gov.br', '2005-04-29 18:22:22', '2016-02-05 20:41:17', '2088808', '037.115.367/0033-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt02.gov.br', '1996-08-08 12:00:00', '2016-02-15 21:13:48', '13553', '003.241.738/0001-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('data.gov.br', '2011-10-21 17:04:27', '2014-01-22 17:25:15', '8893230', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sigepe.gov.br', '2011-07-11 11:29:00', '2014-01-22 17:29:46', '8552320', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('stn.gov.br', '2009-08-11 11:36:52', '2016-04-29 13:41:41', '5830758', '000.394.460/0409-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('logisticsbrazil.gov.br', '2013-05-08 14:03:54', '2014-04-02 17:55:20', '11353072', '015.763.423/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cidades.gov.br', '2003-02-19 18:46:24', '2014-09-24 17:32:21', '1110118', '005.465.986/0001-99');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('institutochicomendes.gov.br', '2011-04-29 14:52:56', '2013-04-19 12:32:25', '8208640', '008.829.974/0001-94');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('promocaocomercial.gov.br', '2012-06-27 14:17:20', '2014-07-10 14:16:24', '9976315', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cause.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:01:03', '10258002', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-rn.gov.br', '1998-08-05 12:18:49', '2015-01-08 21:16:45', '108318', '000.509.018/0018-61');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trevodaloteria.gov.br', '2000-05-02 13:26:23', '2015-07-16 21:39:08', '323553', '000.360.305/0643-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sinir.gov.br', '2012-12-06 18:47:05', '2016-04-11 13:42:07', '10795307', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cra-amrr.gov.br', '2001-07-19 20:07:59', '2002-10-01 15:46:54', '601733', '014.189.856/0001-61');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redejudiciario.gov.br', '1999-03-17 18:50:31', '2014-10-08 15:33:51', '147655', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jef-sc.gov.br', '2003-08-05 12:07:46', '2012-04-24 15:02:52', '1289171', '005.442.380/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mpdf.gov.br', '2008-08-21 18:51:45', '2015-04-20 19:02:57', '4725445', '026.989.715/0002-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafsgc.gov.br', '2005-02-21 14:52:27', '2015-01-07 15:51:30', '1994498', '084.490.564/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cemaden.gov.br', '2011-09-30 13:19:41', '2013-09-12 14:35:50', '8851138', '001.263.896/0005-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio-4.gov.br', '2008-11-27 11:36:42', '2014-12-09 14:04:48', '5076795', '002.505.297/0001-72');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('previdenciasocial.gov.br', '1999-12-27 12:41:21', '2004-11-29 11:54:20', '234838', '042.422.253/0014-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caurj.gov.br', '2012-08-01 11:59:02', '2015-04-29 13:59:30', '10218298', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('planejamentoterritorial.gov.br', '2008-09-29 18:24:50', '2014-01-22 17:28:21', '4895048', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crqpr.gov.br', '2016-05-13 18:00:08', '2016-05-13 18:00:08', '15485681', '076.471.358/0001-64');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bolsadacaixa.gov.br', '2000-08-04 21:17:42', '2015-07-16 18:31:57', '399411', '000.360.305/0655-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('turismoacessivel.gov.br', '2014-02-27 14:36:40', '2014-02-27 14:36:40', '12566429', '005.457.283/0002-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('softwarepublico.gov.br', '2005-11-24 12:23:25', '2016-01-22 20:28:46', '2483279', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('colabora.gov.br', '2015-01-05 13:06:40', '2015-01-05 13:06:40', '13676469', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('policiafederal.gov.br', '2009-01-22 10:18:04', '2016-01-29 21:39:00', '5189653', '000.394.494/0080-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trf5.gov.br', '1998-01-16 12:24:16', '2013-12-10 02:57:42', '81744', '024.130.072/0001-11');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bvenergia.gov.br', '2000-09-12 12:00:20', '2010-01-09 16:52:25', '414885', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caminhaodasorte.gov.br', '2000-05-02 13:26:04', '2015-07-16 19:43:47', '323560', '000.360.305/0643-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sus.gov.br', '2011-08-22 13:52:29', '2016-06-06 13:40:44', '8672213', '000.394.544/0271-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crfsc.gov.br', '2015-03-09 17:29:15', '2015-11-10 10:39:46', '13922961', '083.900.969/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rj.gov.br', '1996-01-29 12:00:00', '2016-01-13 17:39:23', '5200', '030.121.578/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnir.gov.br', '2001-10-18 19:19:39', '2010-11-16 13:07:37', '654887', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('saofrancisco.gov.br', '1999-10-13 16:52:31', '2016-04-13 16:16:32', '204971', '000.091.652/0010-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fundacentroms.gov.br', '1999-05-25 14:09:48', '2006-02-01 14:28:45', '162875', '062.428.073/0023-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfpe.gov.br', '1999-12-07 20:12:37', '2014-08-29 15:56:56', '227076', '000.508.903/0014-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cgu.gov.br', '2002-05-24 12:30:14', '2016-04-15 19:24:07', '857794', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trtsp.gov.br', '1999-06-10 20:59:44', '2016-02-15 21:15:41', '168099', '003.241.738/0001-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rais.gov.br', '2000-01-26 16:48:49', '2011-05-02 12:15:15', '245082', '033.683.111/0009-56');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inde.gov.br', '2010-02-23 17:18:01', '2011-07-30 22:02:20', '6581510', '033.787.094/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jf.gov.br', '2005-01-07 10:29:51', '2014-03-25 13:12:40', '1960548', '000.508.903/0001-88');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trincadasorte.gov.br', '2000-05-02 13:26:25', '2015-07-16 21:41:15', '323562', '000.360.305/0643-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('abcd.gov.br', '2012-07-17 14:52:47', '2012-07-17 14:52:47', '10111463', '002.961.362/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jmpi2015.gov.br', '2015-06-18 20:12:16', '2015-06-18 20:12:16', '14301957', '002.961.362/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixaforte.gov.br', '2000-08-04 21:17:43', '2015-07-16 19:31:54', '399425', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crcn.gov.br', '1999-10-28 17:18:23', '2009-02-19 11:48:46', '204322', '000.402.552/0014-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('arquitetura.gov.br', '2015-07-28 10:55:31', '2015-07-28 10:55:31', '14444330', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('emdefesadademocracia.gov.br', '2016-04-12 15:25:31', '2016-04-12 15:25:31', '15430403', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crtr19.gov.br', '2011-06-15 19:17:25', '2013-01-07 12:02:39', '8307335', '011.899.162/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('iti.gov.br', '2001-02-15 13:23:12', '2016-05-05 13:50:39', '514186', '004.039.532/0001-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tribunaiscplp.gov.br', '2000-09-05 11:58:56', '2012-03-06 20:44:23', '415628', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('scdl.gov.br', '2000-06-15 19:35:42', '2010-01-26 14:44:23', '353149', '000.394.536/0017-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('educacion.gov.br', '2000-04-19 20:43:12', '2014-01-23 12:09:17', '308380', '000.394.445/0030-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfrs.gov.br', '1999-12-14 17:36:02', '2015-09-16 12:43:21', '224620', '005.442.380/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sena.gov.br', '2000-05-02 13:26:19', '2015-07-16 21:35:04', '323554', '000.360.305/0643-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('c-brasil.gov.br', '2000-05-08 20:09:22', '2011-05-02 12:14:52', '324512', '033.683.111/0009-56');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('anac.gov.br', '2006-04-26 20:30:46', '2016-01-22 21:02:22', '2762327', '007.947.821/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('spmulheres.gov.br', '2003-04-03 16:24:04', '2005-06-29 16:42:12', '1156300', '005.510.958/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('notícias.gov.brxn--notcias-9ya.gov.br', '', '', '', '');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafcol.gov.br', '2004-03-17 19:11:27', '2016-02-19 10:47:05', '1572501', '036.351.658/0001-95');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('radiobras.gov.br', '1996-08-13 12:00:00', '2015-05-23 01:55:11', '13827', '009.168.704/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnj.gov.br', '2005-04-20 14:56:08', '2015-02-05 17:44:45', '2111539', '007.421.906/0001-29');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('defesacivil.gov.br', '2000-04-28 13:50:20', '2015-06-08 17:46:09', '303547', '003.353.358/0001-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilre.gov.br', '2009-06-16 14:19:39', '2015-08-18 16:45:08', '5608210', '033.376.989/0001-91');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eletrosul.gov.br', '1996-07-27 12:00:00', '2014-12-29 18:59:18', '12785', '000.073.957/0001-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sigabrasil.gov.br', '2009-02-26 12:25:28', '2014-01-24 20:04:27', '5296790', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('biodiesel.gov.br', '2005-02-04 10:33:20', '2014-08-05 23:15:41', '1986365', '004.082.993/0001-49');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio2.gov.br', '2015-01-16 13:03:10', '2015-01-16 13:03:10', '13717675', '002.452.608/0001-82');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fiscalizacaorio2016.gov.br', '2013-11-27 16:58:21', '2013-11-27 16:58:21', '12266738', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tjdft.gov.br', '1998-07-20 17:34:38', '2016-02-25 22:10:55', '107450', '000.531.954/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tribunaisdotrabalho.gov.br', '2001-03-23 12:50:33', '2015-03-04 19:04:42', '536774', '000.509.968/0001-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('territoriosrurais.gov.br', '2016-03-08 17:43:45', '2016-03-08 17:43:45', '15316288', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('xn--oramentofederal-fmb.gov.br', '2010-12-17 16:25:33', '2011-05-02 12:09:09', '7658293', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mpm.gov.br', '1997-09-11 12:00:00', '2014-06-21 17:19:28', '57113', '026.989.715/0004-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ticontrole.gov.br', '2008-10-08 13:41:43', '2014-07-18 18:01:09', '4916917', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fns.gov.br', '1996-08-19 12:00:00', '1999-07-19 12:00:00', '14283', '026.989.350/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cbtu-natal.gov.br', '1998-08-28 14:59:07', '2001-07-06 15:34:00', '112905', '042.357.483/0009-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trinka.gov.br', '2000-05-02 13:26:26', '2015-07-16 21:41:46', '323565', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cmrj.gov.br', '1995-12-15 12:00:00', '2000-04-26 11:55:46', '4853', '030.467.039/0001-84');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fiscalizario2016.gov.br', '2013-11-27 16:58:21', '2013-11-27 16:58:21', '12266757', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comunicacaosocial.gov.br', '2010-01-13 14:04:12', '2016-05-12 13:34:03', '6425018', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pcdl.gov.br', '2002-09-03 11:55:50', '2002-09-03 12:00:00', '951810', '000.394.536/0016-15');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('enamat.gov.br', '2006-09-06 19:39:02', '2015-03-04 19:16:57', '3046336', '000.509.968/0001-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixaeconomicafederal.gov.br', '1998-10-20 13:51:47', '2015-07-16 19:08:55', '120970', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('agronet.gov.br', '2001-03-26 18:16:14', '2012-05-02 16:47:10', '537300', '073.895.294/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('adene.gov.br', '2002-08-23 20:19:58', '2005-12-01 20:37:59', '943225', '005.193.279/0001-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mercosul.gov.br', '2001-01-05 20:56:59', '2011-09-07 00:45:03', '494320', '000.394.536/0006-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dados.gov.br', '2011-07-29 13:40:32', '2016-02-02 17:15:47', '8552337', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('abcnaidadecerta.gov.br', '2012-08-09 13:49:35', '2014-01-23 12:09:42', '10265256', '000.394.445/0139-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('simecpr.gov.br', '2011-08-10 12:26:06', '2014-01-23 12:09:04', '8651955', '000.394.445/0139-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfce.gov.br', '2000-03-13 21:12:29', '2015-03-07 12:32:53', '283761', '000.508.903/0016-64');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caupe.gov.br', '2012-07-06 12:46:00', '2015-04-29 13:59:22', '10046034', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('siga.gov.br', '2009-06-03 15:03:40', '2014-01-24 20:13:20', '5623057', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('transparenciapublica.gov.br', '2005-10-05 19:21:02', '2016-04-15 19:08:19', '2401048', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jef-rs.gov.br', '2003-08-05 12:07:46', '2012-04-24 14:56:54', '1289172', '005.442.380/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('reluz.gov.br', '2000-11-06 18:41:04', '2009-10-05 18:35:49', '453442', '000.001.180/0002-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e-pagamentos.gov.br', '2001-12-17 19:18:38', '2002-12-18 15:53:57', '685791', '000.360.305/2714-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('hasp.gov.br', '1998-09-16 17:54:16', '2007-01-16 23:31:40', '116858', '000.394.429/0106-88');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crea-ro.gov.br', '2009-10-02 19:55:50', '2009-10-02 19:55:50', '6002407', '004.920.948/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('iufro2019.gov.br', '2015-02-11 19:11:57', '2015-02-11 19:11:57', '13825876', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dfa-pe.gov.br', '1998-03-26 19:38:11', '2003-02-18 14:24:47', '90348', '000.396.895/0021-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('agespacial.gov.br', '1998-05-25 17:57:00', '2015-08-19 18:51:17', '98443', '086.900.545/0001-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('maismedicos.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:37:54', '11932824', '015.126.437/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('casamilitar.gov.br', '2015-11-04 18:09:01', '2015-11-04 18:09:01', '14879374', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('seppir.gov.br', '2010-05-10 13:09:05', '2014-09-22 17:10:24', '6837324', '006.064.438/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('capoeira.gov.br', '2016-03-01 11:06:47', '2016-03-01 11:06:47', '15274658', '026.474.056/0008-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt19.gov.br', '1999-06-30 14:23:33', '2008-02-27 22:18:37', '169924', '035.734.318/0001-80');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt23.gov.br', '1996-10-21 11:00:00', '2016-01-19 18:11:26', '19718', '037.115.425/0001-56');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt6.gov.br', '1996-10-16 11:00:00', '2016-02-21 14:39:36', '19093', '000.509.968/0007-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('finame.gov.br', '2006-05-17 17:29:51', '2014-11-11 20:50:02', '2800317', '033.660.564/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('conferenciameioambiente.gov.br', '2013-02-27 19:43:59', '2016-04-11 13:19:08', '11119091', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ect.gov.br', '1996-02-08 12:00:00', '2016-01-19 18:43:37', '5310', '034.028.316/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('reformaagraria.gov.br', '2000-05-22 18:31:59', '2010-11-16 13:07:55', '339590', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('laracps.gov.br', '1999-04-13 19:24:14', '1999-04-13 16:24:14', '152221', '000.396.895/0047-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ibge2.gov.br', '1999-08-06 12:21:05', '2004-09-13 22:02:10', '184965', '033.787.094/0043-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('senadora.gov.br', '2002-11-07 12:50:27', '2014-01-27 13:56:40', '1009330', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilcentral.gov.br', '2015-09-16 19:09:24', '2015-09-16 19:09:24', '14653175', '003.230.476/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creditoruralcaixa.gov.br', '2014-09-17 15:09:31', '2015-07-16 20:48:44', '13323025', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('baciadoprata.gov.br', '1999-03-23 18:05:37', '2011-12-15 20:15:46', '149111', '002.270.669/0001-29');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crasp.gov.br', '2008-04-28 17:41:14', '2011-08-31 12:16:45', '4395208', '043.060.078/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cepec.gov.br', '1999-05-24 13:18:32', '2016-04-01 16:26:23', '160998', '033.004.300/0007-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('excelenciaemturismo.gov.br', '2008-07-08 17:55:38', '2014-10-14 18:12:16', '4644824', '033.741.794/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt2.gov.br', '1999-06-11 19:34:38', '2016-02-15 21:14:35', '168327', '003.241.738/0001-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfrj.gov.br', '1997-09-19 12:00:00', '2014-11-24 18:33:51', '58721', '005.424.540/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('observatoriodegenero.gov.br', '2009-01-22 10:18:04', '2009-01-22 10:18:04', '5206019', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafsc.gov.br', '2005-02-21 14:52:28', '2005-03-23 17:41:42', '2017005', '073.883.027/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trabalho.gov.br', '2000-07-28 21:30:21', '2016-02-05 20:45:42', '394684', '037.115.367/0033-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafmachado.gov.br', '2002-06-05 17:28:52', '2013-06-28 00:27:31', '876624', '073.926.602/0001-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bcdam.gov.br', '1999-03-22 18:29:36', '2015-08-05 18:20:34', '145756', '000.091.652/0002-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tse.gov.br', '1996-06-17 12:00:00', '2015-01-08 20:19:43', '9718', '000.509.018/0001-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crecipe.gov.br', '2008-05-02 18:08:17', '2016-02-29 19:38:45', '4380107', '011.005.444/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aids.gov.br', '1997-06-02 12:00:00', '2016-04-06 17:53:35', '41832', '000.530.493/0001-71');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('snisb.gov.br', '2016-01-21 18:23:20', '2016-01-21 18:23:20', '15125034', '004.204.444/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio5.gov.br', '2011-11-28 18:31:45', '2016-05-11 19:19:33', '9123872', '003.662.446/0001-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('reste.gov.br', '1998-02-10 12:07:21', '1998-02-10 12:00:00', '85216', '000.091.652/0015-84');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rio20.gov.br', '2011-05-13 10:23:55', '2012-10-02 11:48:51', '8216116', '000.394.536/0004-81');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixaqui.gov.br', '2000-08-04 21:17:44', '2015-07-16 19:41:19', '399412', '000.360.305/0655-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mercadopublico.gov.br', '2008-04-15 18:45:28', '2015-07-06 18:41:01', '4382710', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('maisambiente.gov.br', '2011-09-28 18:14:20', '2011-09-28 18:14:20', '8786862', '003.659.166/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('energiaheliotermica.gov.br', '2015-02-06 09:05:24', '2015-02-06 09:05:24', '13791642', '004.082.993/0001-49');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilglobalnet.gov.br', '2010-12-29 12:59:40', '2014-07-10 14:21:04', '7725667', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('radiojustica.gov.br', '2004-03-15 11:50:32', '2014-10-08 15:33:16', '1559406', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('enccla.gov.br', '2007-03-28 17:43:20', '2014-03-13 15:08:15', '3446190', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cidadaniafinanceira.gov.br', '2015-03-31 16:27:25', '2015-06-17 22:21:48', '13971449', '000.038.166/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('federalcard.gov.br', '2000-08-04 21:17:50', '2015-07-16 20:57:31', '399405', '000.360.305/0674-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caurr.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:00:46', '10258052', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pame.gov.br', '2004-12-14 12:24:14', '2015-03-23 18:13:17', '1924674', '000.394.429/0069-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalexporta.gov.br', '2002-01-02 17:49:10', '2013-02-15 15:39:45', '709140', '000.394.478/0003-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('igualdaderacial.gov.br', '2010-05-10 12:53:36', '2014-09-22 17:06:43', '6837299', '006.064.438/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eproc-sc.gov.br', '2003-08-05 11:52:44', '2012-04-24 14:56:02', '1289184', '005.442.380/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ouvidoria.gov.br', '2016-06-02 18:54:04', '2016-06-02 18:54:04', '15610129', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('palmares.gov.br', '2000-03-24 12:36:01', '2008-08-13 13:29:54', '276431', '032.901.688/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-to.gov.br', '1998-08-12 12:39:08', '2015-01-08 21:18:52', '109495', '000.509.018/0025-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pe.gov.br', '1996-07-10 12:00:00', '2007-02-08 13:58:14', '11446', '006.067.608/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caugo.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:57:02', '10046001', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('siapenet.gov.br', '1999-10-22 11:32:01', '2011-05-02 12:10:32', '212040', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('museudainconfidencia.gov.br', '2009-08-28 19:40:50', '2009-08-28 19:40:50', '5883869', '026.474.056/0022-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dialogabrasil.gov.br', '2015-08-03 15:22:25', '2015-08-03 15:22:25', '14494864', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilmaisprodutivo.gov.br', '2016-03-30 13:03:41', '2016-03-30 13:03:41', '15403365', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('juventude.gov.br', '2007-10-17 19:13:26', '2011-10-03 20:09:30', '3962921', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dadosabertos.gov.br', '2011-07-29 13:40:32', '2014-01-22 17:23:37', '8552341', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('instantanea.gov.br', '2000-08-04 21:17:54', '2015-07-16 21:07:40', '399419', '000.360.305/0655-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crefono8.gov.br', '2011-10-26 10:28:36', '2011-10-28 11:33:28', '8918873', '008.077.490/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('xn--previdncia-r7a.gov.br', '2005-08-31 13:55:29', '2013-06-07 22:40:54', '2322262', '042.422.253/0027-32');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dou.gov.br', '1997-01-07 11:00:00', '2007-11-30 17:40:56', '27356', '000.394.494/0016-12');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('antt.gov.br', '2002-04-15 11:34:13', '2014-01-31 13:14:49', '783416', '004.898.488/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jt.gov.br', '2001-03-23 12:50:34', '2015-03-04 19:18:42', '536775', '000.509.968/0001-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inpi.gov.br', '1997-02-28 12:00:00', '2015-09-18 23:00:35', '31664', '042.521.088/0001-37');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caumt.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:58:11', '10046011', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tvjustica.gov.br', '2002-03-22 12:13:03', '2014-10-08 15:34:31', '746725', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bcb.gov.br', '1996-01-24 12:00:00', '2015-06-17 22:20:50', '5153', '000.038.166/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cefetbg.gov.br', '2002-12-11 11:10:41', '2016-03-16 18:39:07', '1038981', '094.728.821/0001-92');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pracas.gov.br', '2011-05-23 15:06:19', '2013-03-21 19:26:59', '8268448', '001.264.142/0002-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('teleceara.gov.br', '1996-01-01 12:00:00', '2015-08-03 19:03:47', '0', '002.558.134/0001-58');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('serpro.gov.br', '1996-01-01 12:00:00', '2015-07-06 20:13:15', '0', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('camex.gov.br', '2012-09-26 15:55:49', '2013-02-15 15:29:26', '10380069', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cprm-sp.gov.br', '1998-05-04 17:43:41', '1998-05-05 12:00:00', '95976', '000.091.652/0008-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('codomar.gov.br', '2012-04-03 18:58:13', '2015-12-14 17:35:58', '9708122', '006.347.892/0001-88');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('seap.gov.br', '2004-03-01 14:21:14', '2012-12-19 10:00:36', '1526492', '005.482.692/0001-75');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cinemateca.gov.br', '2004-05-20 15:53:37', '2015-04-14 19:44:18', '1641397', '003.221.904/0001-35');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('exportadoresbrasileiros.gov.br', '2002-10-22 15:54:13', '2011-11-04 09:59:21', '985223', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('novoaeroportorecife.gov.br', '2001-07-10 11:41:34', '2013-02-15 12:12:41', '596093', '000.352.294/0014-35');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cbtu.gov.br', '1998-02-20 12:15:14', '2002-02-21 23:25:18', '86585', '042.357.483/0001-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaldoinvestidor.gov.br', '2006-12-20 15:46:49', '2014-04-05 17:03:56', '3236285', '029.507.878/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sgi.gov.br', '2011-09-02 14:15:58', '2014-01-22 17:29:35', '8771412', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('seliganacaixa.gov.br', '2014-09-17 15:09:31', '2015-07-16 21:34:41', '13323021', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('todoscontracorrupcao.gov.br', '2015-12-03 16:42:13', '2016-04-15 19:07:58', '14981140', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('esportiva.gov.br', '2000-08-04 21:17:49', '2015-07-16 20:56:09', '399414', '000.360.305/0655-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbm3.gov.br', '2015-05-15 13:52:54', '2015-05-15 13:52:54', '14147040', '026.619.841/0001-75');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dte.gov.br', '1999-02-23 00:23:28', '2014-11-18 13:17:24', '142726', '001.175.497/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('justiça.gov.brxn--justia-0ua.gov.br', '', '', '', '');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalexportacao.gov.br', '2001-11-23 15:48:17', '2013-05-10 19:46:36', '684404', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('iec.gov.br', '2013-10-14 14:42:41', '2013-12-04 18:33:39', '12108828', '000.394.544/0025-52');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ahimor.gov.br', '1998-06-15 17:24:52', '2011-07-11 17:38:11', '100243', '004.933.552/0010-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('quina.gov.br', '2000-05-02 13:26:17', '2015-07-16 21:30:16', '323557', '000.360.305/0643-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eletronuclear.gov.br', '1998-05-07 14:38:53', '2015-08-05 14:33:15', '95963', '042.540.211/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sisp.gov.br', '2010-12-10 23:52:45', '2016-02-02 17:13:34', '7635221', '000.489.828/0003-17');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('corenpb.gov.br', '2009-06-30 13:50:17', '2016-06-14 13:50:48', '5654571', '007.647.181/0001-91');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coren-pe.gov.br', '2012-02-09 10:37:41', '2015-10-21 22:58:14', '9411912', '011.674.777/0001-58');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crtr17.gov.br', '2011-05-04 17:08:20', '2012-05-14 16:47:04', '8241651', '010.622.423/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-se.gov.br', '2015-11-04 12:17:53', '2015-11-26 20:28:28', '14866141', '013.171.970/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inclusaodigital.gov.br', '2005-08-05 20:10:25', '2014-01-22 17:27:02', '2269476', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-sc.gov.br', '2008-05-14 16:12:42', '2014-11-02 00:49:22', '4455993', '082.894.098/0001-32');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('corenms.gov.br', '2011-04-25 14:23:05', '2016-06-14 13:39:03', '8168920', '024.630.212/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('d.gov.br', '2000-03-16 22:35:17', '2014-01-22 17:32:16', '288085', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pescabrasil.gov.br', '2003-03-26 18:06:17', '2012-12-19 10:00:31', '1144496', '005.482.692/0001-75');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('museulasarsegall.gov.br', '2010-07-27 19:37:19', '2012-09-03 18:39:09', '7113884', '010.898.596/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('soumaismedicos.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:38:18', '11932840', '015.126.437/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dtpdf.gov.br', '1997-02-27 12:00:00', '2013-09-20 00:07:46', '31562', '042.422.253/0014-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('celepar.gov.br', '1996-03-18 12:00:00', '2009-12-08 13:41:49', '5966', '076.545.011/0001-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('quiosqueredegoverno.gov.br', '2002-07-15 11:48:24', '2011-05-02 12:09:51', '907317', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('gcth-sida.gov.br', '1999-03-31 17:52:03', '2002-11-13 14:04:39', '149799', '000.394.544/0001-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inep.gov.br', '1995-06-07 12:00:00', '2011-08-30 20:04:48', '0', '001.678.363/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('corenma.gov.br', '2012-04-11 12:47:11', '2012-04-11 12:47:11', '9641565', '006.272.868/0001-27');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ceplac.gov.br', '1997-09-27 12:00:00', '2016-03-07 18:59:26', '60228', '033.004.300/0003-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inmetro-sc.gov.br', '2001-07-13 13:36:23', '2008-02-06 17:38:40', '599347', '000.662.270/0004-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('businessbrazil.gov.br', '2013-06-24 14:44:28', '2014-07-10 14:17:33', '11592380', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mp.gov.br', '1999-08-20 11:50:33', '2014-01-22 17:27:40', '186926', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('investinbrazil.gov.br', '2000-03-17 18:55:01', '2014-01-22 17:33:28', '288574', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mp-df.gov.br', '2008-08-21 18:36:21', '2015-04-20 19:02:38', '4725404', '026.989.715/0002-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('separeolixo.gov.br', '2011-07-26 11:14:03', '2016-04-11 13:41:12', '8572182', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('voz.gov.br', '2016-01-18 13:07:22', '2016-01-18 13:07:22', '15079583', '009.168.704/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cop15brazil.gov.br', '2009-11-19 17:31:34', '2014-09-22 17:06:13', '6289641', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ipsm.gov.br', '1996-04-15 12:00:00', '2015-11-27 12:14:32', '6707', '017.444.779/0001-37');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mg.gov.br', '1995-07-27 12:00:00', '2013-08-13 15:28:27', '0', '016.636.540/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fundacentro-pe.gov.br', '1997-12-12 11:00:00', '2011-06-13 13:17:30', '75337', '062.428.073/0006-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e-post.gov.br', '2001-09-21 19:00:54', '2016-06-04 00:33:32', '637040', '034.028.316/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-sp.gov.br', '2008-06-12 21:45:18', '2015-09-24 18:37:41', '4543146', '062.655.246/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cauro.gov.br', '2012-08-01 18:51:27', '2015-04-29 13:59:33', '10257996', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ahsfra.gov.br', '2002-07-29 14:12:18', '2010-09-08 19:59:38', '907060', '014.372.148/0005-95');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('justra.gov.br', '2001-03-23 12:50:32', '2015-03-04 19:16:20', '536770', '000.509.968/0001-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio8.gov.br', '2015-04-13 18:32:10', '2016-01-27 13:57:22', '14022776', '022.165.071/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('guiadeservicos.gov.br', '2012-02-23 09:53:25', '2014-01-22 17:26:17', '9507584', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('premio-e.gov.br', '2002-09-10 15:02:45', '2015-07-14 14:26:57', '963854', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilsemiseria.gov.br', '2011-05-26 16:59:26', '2013-10-14 11:21:21', '8329623', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mnba.gov.br', '2000-12-04 18:35:24', '2015-09-11 15:19:37', '471179', '026.474.056/0019-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prt6.gov.br', '1998-05-11 14:12:06', '2009-02-11 20:07:41', '96814', '026.989.715/0037-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ada.gov.br', '2002-09-14 15:11:29', '2009-02-08 20:32:28', '958769', '005.165.423/0001-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ceitec.gov.br', '2013-11-13 16:08:27', '2013-11-13 16:08:27', '12219808', '010.770.641/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trinca.gov.br', '2000-05-02 13:26:25', '2015-07-16 21:40:49', '323568', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pf.gov.br', '2009-01-22 10:18:04', '2016-01-29 18:38:00', '5189629', '000.394.494/0080-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfse.gov.br', '1999-01-12 20:17:22', '2016-06-20 14:18:48', '134712', '000.508.903/0018-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('almg.gov.br', '1996-01-01 12:00:00', '2014-08-21 13:55:52', '0', '017.516.113/0001-47');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ctav.gov.br', '2006-03-10 13:14:15', '2015-01-07 17:02:09', '2663201', '003.221.904/0001-35');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-pr.gov.br', '2008-04-29 11:40:02', '2014-05-23 19:24:31', '4386338', '076.693.910/0001-69');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('acs.gov.br', '2007-12-03 16:12:20', '2015-06-16 19:43:40', '4108303', '007.752.497/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coracaoazul.gov.br', '2013-06-11 11:56:50', '2013-06-11 11:56:50', '11572636', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sei.gov.br', '2014-10-15 09:44:27', '2014-10-15 09:44:27', '13442575', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mec.gov.br', '1995-12-14 12:00:00', '2014-01-23 11:54:52', '4823', '000.394.445/0139-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('al.gov.br', '1996-04-04 12:00:00', '2016-03-04 20:57:23', '6462', '035.562.321/0001-64');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('conpet.gov.br', '2001-08-15 13:07:31', '2012-12-05 17:20:25', '619358', '033.000.167/0147-57');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalfederativo.gov.br', '2006-03-21 15:28:43', '2012-11-20 19:14:34', '2696932', '033.892.175/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pracasdopac.gov.br', '2010-09-10 13:53:58', '2014-01-23 12:09:28', '7294520', '000.394.445/0139-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sic.gov.br', '2014-04-08 19:15:07', '2016-04-15 19:07:49', '12773558', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mtecbo.gov.br', '2002-10-17 11:25:31', '2016-02-05 20:43:14', '982440', '037.115.367/0033-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixaoperadoradeseguros.gov.br', '2015-07-16 17:39:31', '2015-07-16 19:38:13', '14436705', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('orint.gov.br', '1999-12-02 19:22:41', '2014-11-18 13:19:01', '224288', '001.175.497/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fundacentro-es.gov.br', '1998-02-26 18:05:59', '2005-10-31 18:07:34', '86056', '062.428.073/0014-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aeb.gov.br', '2002-04-04 14:27:06', '2014-08-19 12:52:23', '774705', '086.900.545/0001-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('nordestedigital.gov.br', '2001-11-19 18:18:11', '2011-05-30 18:46:20', '663208', '007.237.373/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('siscomex.gov.br', '1998-06-24 19:32:39', '2011-05-02 12:10:46', '104131', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('go.gov.br', '1996-06-18 12:00:00', '2015-08-04 17:50:47', '0', '003.517.631/0001-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coletapilotocnae.gov.br', '2008-12-01 12:15:35', '2011-05-02 12:30:32', '5059501', '000.394.460/0008-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('computadorparaprofessores.gov.br', '2008-07-07 13:37:19', '2011-04-29 17:42:18', '4639088', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('convensi.gov.br', '2014-05-05 13:54:04', '2014-05-06 19:09:20', '12844980', '062.658.737/0001-53');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cra-pr.gov.br', '2016-03-31 13:08:32', '2016-03-31 13:08:32', '15401084', '078.348.059/0001-62');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ien.gov.br', '2000-11-22 17:22:12', '2010-01-19 16:52:57', '454275', '000.402.552/0003-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('riocmsi.gov.br', '2005-04-04 18:47:26', '2011-05-02 12:10:11', '2080875', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('imprensanacional.gov.br', '2008-02-22 18:21:08', '2008-02-22 18:51:45', '4225046', '004.196.645/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eleicoes.gov.br', '2001-08-02 18:49:44', '2013-10-02 17:06:46', '615171', '000.509.018/0001-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aviacao.gov.br', '2015-07-28 10:55:31', '2015-07-28 10:55:31', '14431227', '013.564.476/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('petrobras.gov.br', '1996-01-01 12:00:00', '2012-12-05 17:21:48', '0', '033.000.167/0819-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inmetro-es.gov.br', '1998-11-18 18:44:48', '2007-04-11 14:26:58', '123973', '000.662.270/0010-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('senad.gov.br', '1998-10-29 13:09:47', '2012-01-04 13:47:35', '123648', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('presidencia.gov.br', '2000-03-03 13:28:22', '2011-09-19 00:22:20', '276235', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brmcc.gov.br', '2005-07-08 20:03:00', '2005-07-08 17:03:00', '2215475', '000.394.429/0048-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('scdp.gov.br', '2005-10-26 16:30:29', '2011-05-02 12:10:17', '2416257', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bancodeconteudos.gov.br', '2010-02-12 17:00:59', '2015-04-14 19:40:07', '6496733', '003.221.904/0001-35');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('govbankingcaixa.gov.br', '2000-08-04 21:17:52', '2015-07-16 21:02:57', '399416', '000.360.305/0655-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('olaturista.gov.br', '2009-09-29 12:23:26', '2014-09-20 22:08:54', '6006082', '033.741.794/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('saude.gov.br', '1996-08-04 12:00:00', '2016-06-06 13:30:28', '13340', '000.394.544/0008-51');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cop.gov.br', '2009-11-18 17:03:04', '2014-09-22 17:05:44', '6275817', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('registrocivil.gov.br', '2013-07-08 12:30:29', '2013-07-08 12:30:29', '11698736', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rr.gov.br', '1998-10-21 11:00:00', '2016-05-19 22:15:27', '122624', '084.012.012/0001-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('transparencianacopa.gov.br', '2011-07-12 16:17:24', '2014-01-24 20:06:42', '8550859', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mpes.gov.br', '2001-09-14 16:51:17', '2010-01-28 20:20:41', '640020', '002.304.470/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fonoaudiologia-rj.gov.br', '2009-07-08 20:34:26', '2015-03-19 20:11:13', '5729289', '032.243.313/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('noticias.gov.br', '2013-03-26 12:22:02', '2014-01-22 17:27:55', '11251642', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('anp.gov.br', '1998-02-02 11:14:20', '2015-08-18 12:31:01', '84599', '002.313.673/0001-27');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalconsular.gov.br', '2012-02-08 12:47:57', '2012-02-08 12:47:57', '9391847', '000.394.536/0004-81');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ipardes.gov.br', '1996-01-01 12:00:00', '2009-12-08 13:11:34', '0', '075.954.891/0001-14');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sinesp.gov.br', '2012-04-20 15:44:26', '2012-12-03 20:14:50', '9754732', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cfmv.gov.br', '2010-12-29 12:54:29', '2010-12-29 12:54:29', '7629594', '000.119.784/0001-71');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('catir.gov.br', '2010-12-10 23:52:45', '2014-01-22 17:35:26', '7635212', '000.489.828/0003-17');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comexbrazil.gov.br', '2011-07-04 13:06:55', '2013-05-10 19:23:04', '8496779', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comiteamazonia.gov.br', '2000-10-24 11:17:51', '2002-11-19 20:19:04', '440868', '004.931.713/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt18.gov.br', '1998-05-13 12:21:05', '2011-12-08 03:59:14', '95194', '002.395.868/0001-63');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redecidadao.gov.br', '1999-03-04 20:26:05', '2009-12-08 13:42:49', '144997', '076.545.011/0001-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sispac.gov.br', '2011-08-30 18:34:05', '2014-01-22 17:29:55', '8747901', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('oconsumidor.gov.br', '2000-10-30 16:12:34', '2015-05-20 12:18:15', '453939', '000.662.270/0003-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaldoempreendedor.gov.br', '2009-06-30 13:50:18', '2010-02-05 19:41:52', '5695847', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('correios.gov.br', '1997-10-16 11:00:00', '2015-04-02 17:59:12', '63697', '034.028.316/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crefito-sp.gov.br', '2008-07-11 16:22:23', '2008-07-11 16:22:23', '4666492', '049.781.479/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mtecbo2000.gov.br', '2001-06-27 13:07:25', '2010-12-15 11:21:57', '586428', '037.115.367/0033-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt20.gov.br', '1997-12-06 11:00:00', '2007-09-13 13:51:01', '73545', '001.445.033/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('concar.gov.br', '2010-09-23 19:02:45', '2011-07-30 22:03:43', '7353286', '033.787.094/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('secom.gov.br', '2009-09-29 12:54:20', '2016-05-11 17:27:58', '6041433', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('amazonianfund.gov.br', '2009-03-17 14:54:06', '2014-02-13 23:09:39', '5310136', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coren-sp.gov.br', '2008-09-18 18:09:57', '2015-05-19 15:33:58', '4868212', '044.413.680/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('parana.gov.br', '2000-08-24 11:57:17', '2009-12-08 15:04:09', '406928', '076.545.011/0001-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('telebrasilia.gov.br', '1996-01-01 12:00:00', '2009-07-22 12:57:22', '0', '576');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ciscea.gov.br', '2005-03-17 20:01:07', '2005-07-12 11:02:02', '2044738', '000.394.429/0133-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crtr18.gov.br', '2012-03-29 14:12:27', '2012-03-29 14:12:27', '9658942', '010.765.721/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('snirh.gov.br', '1999-10-26 13:51:32', '2014-01-28 12:25:26', '213127', '004.204.444/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redesocial.gov.br', '2001-06-25 19:13:20', '2014-01-22 17:34:18', '591267', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('renapi.gov.br', '2011-02-04 13:38:34', '2015-07-08 04:12:01', '7805309', '009.266.912/0001-84');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cartelafederal.gov.br', '2000-05-02 13:26:05', '2015-07-16 19:54:46', '323555', '000.360.305/0643-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ctlivre.gov.br', '2004-11-16 10:22:49', '2013-02-04 17:38:59', '1875160', '003.132.745/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trtrio.gov.br', '1997-08-12 12:00:00', '2016-03-17 20:32:36', '51508', '002.578.421/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dtceagw.gov.br', '2009-09-30 13:51:34', '2015-10-01 17:55:34', '5995664', '000.394.429/0094-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caurs.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:00:48', '10258017', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('irb.gov.br', '1995-11-27 12:00:00', '2015-08-18 16:47:14', '4611', '033.376.989/0001-91');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crimecongress2010.gov.br', '2009-10-02 19:40:18', '2013-04-04 14:37:51', '6034773', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cti.gov.br', '2008-07-22 11:07:44', '2015-01-08 12:17:47', '4633687', '004.822.500/0001-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('defensoriapublica.gov.br', '2002-04-12 19:30:39', '2013-04-04 14:35:43', '768323', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilemcidades.gov.br', '2011-10-11 12:59:26', '2014-09-24 17:31:07', '8912744', '000.489.828/0006-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cindacta2.gov.br', '2010-07-28 11:05:52', '2014-06-04 00:30:59', '7100525', '000.394.429/0055-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('df.gov.br', '1996-08-15 12:00:00', '2016-06-17 01:08:45', '14006', '003.230.476/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('promocaodaigualdaderacial.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:09:04', '6426201', '006.064.438/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tecanet.gov.br', '2002-01-29 18:45:41', '2013-01-09 11:34:18', '719687', '000.352.294/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilcultura.gov.br', '2001-10-03 14:45:26', '2011-09-06 22:47:32', '652566', '000.394.536/0004-81');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasiltradenet.gov.br', '2000-02-01 11:26:44', '2014-07-10 14:20:47', '251694', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('memoriabndes.gov.br', '2014-12-10 15:38:29', '2014-12-10 15:38:29', '13601169', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bancodaterra.gov.br', '2000-06-27 20:05:35', '2010-11-16 13:08:05', '371252', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('nuclebras.gov.br', '2009-03-03 16:28:09', '2009-03-03 16:28:09', '5287038', '042.515.882/0002-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ibram.gov.br', '2009-09-04 14:20:56', '2015-01-18 13:01:47', '5963433', '010.898.596/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fibge.gov.br', '2011-05-16 18:33:40', '2011-11-11 19:22:01', '8261997', '033.787.094/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('camaradosdeputados.gov.br', '2005-05-27 11:43:57', '2015-06-08 19:42:10', '2151224', '000.530.352/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sacoeumsaco.gov.br', '2009-12-16 11:43:11', '2016-04-11 13:40:01', '6283396', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio08.gov.br', '2016-01-28 15:44:11', '2016-01-28 15:44:11', '15135681', '022.165.071/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sirc.gov.br', '2013-09-19 22:13:38', '2013-09-19 22:13:38', '11967324', '042.422.253/0027-32');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jbrj.gov.br', '1997-09-10 12:00:00', '2015-08-20 17:37:55', '57014', '037.115.375/0007-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sigplan.gov.br', '2001-08-20 19:14:37', '2014-01-22 17:34:42', '626302', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('guiafacilgps.gov.br', '2000-08-04 21:17:53', '2015-07-16 21:06:06', '399406', '000.360.305/0674-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pru5.gov.br', '2008-05-21 19:00:52', '2008-05-21 19:00:52', '4464454', '026.994.558/0008-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inmetrogo.gov.br', '2002-09-27 14:12:12', '2010-06-22 13:37:19', '966348', '000.662.270/0002-49');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafsombrio.gov.br', '2000-11-08 16:37:38', '2016-05-11 16:35:59', '455139', '073.955.064/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crefono1.gov.br', '2010-09-03 13:49:48', '2015-09-25 10:46:43', '7275234', '032.243.313/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnen.gov.br', '1996-02-16 12:00:00', '2015-03-04 12:56:49', '5454', '000.402.552/0001-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('maismedico.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:37:41', '11932833', '015.126.437/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cgtee.gov.br', '2000-07-11 13:28:55', '2013-09-14 15:23:39', '377572', '002.016.507/0004-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('camara.gov.br', '1997-04-26 12:00:00', '2016-02-29 15:11:36', '37928', '000.530.352/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('versionamento.gov.br', '2013-03-21 14:37:52', '2014-01-22 17:30:04', '11248869', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inca.gov.br', '2002-02-21 17:19:49', '2016-05-24 13:02:35', '739564', '000.394.544/0171-50');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dom.gov.br', '2003-07-14 14:45:18', '2013-06-04 13:08:27', '1265509', '004.224.785/0001-37');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dnocs.gov.br', '1999-02-10 19:09:57', '2015-09-04 14:09:16', '139185', '000.043.711/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('casaruibarbosa.gov.br', '1998-03-02 19:21:32', '2014-06-27 16:50:21', '87512', '042.519.488/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aplicativos.gov.br', '2013-08-26 12:54:00', '2013-08-26 12:54:00', '11895940', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ibamanet.gov.br', '2001-05-04 19:46:45', '2006-03-31 22:37:16', '550947', '003.659.166/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crecies.gov.br', '2008-07-31 14:26:14', '2016-06-24 01:25:00', '4720440', '027.239.854/0001-81');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cfbio.gov.br', '2009-08-07 15:06:09', '2015-05-07 13:11:56', '5859295', '000.720.532/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('csjt.gov.br', '2001-03-02 21:18:28', '2015-03-04 19:11:40', '520691', '000.509.968/0001-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('veracruz-rs.gov.br', '2000-06-02 19:29:20', '2014-07-18 15:23:12', '352374', '098.661.366/0001-06');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tecnojusc.gov.br', '2001-08-20 18:42:35', '2003-11-18 11:41:56', '626127', '002.482.005/0001-23');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('abc.gov.br', '2001-09-24 19:40:12', '2013-05-06 22:51:47', '642972', '000.394.536/0065-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crefitosp.gov.br', '2008-07-11 13:32:26', '2012-03-30 12:36:29', '4644585', '049.781.479/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('forumsocinfo.gov.br', '2004-11-11 12:43:46', '2011-05-02 12:08:29', '1882454', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('valec.gov.br', '2005-09-15 14:51:35', '2012-03-10 09:41:32', '2346471', '042.150.664/0007-72');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('infraestruturabrasil.gov.br', '2000-09-01 15:25:11', '2014-01-22 17:33:06', '411465', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalcofen.gov.br', '2000-08-29 18:29:52', '2016-06-10 21:43:54', '410071', '047.217.146/0001-57');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cquali.gov.br', '2008-06-16 18:30:31', '2013-04-04 14:37:05', '4572666', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('nordestenegocios.gov.br', '2001-11-19 18:18:09', '2011-05-30 18:48:27', '663199', '007.237.373/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('frameworkdemoiselle.gov.br', '2009-01-12 13:08:00', '2011-05-02 12:08:35', '5134631', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cprmbh.gov.br', '2000-11-17 14:03:42', '2003-08-06 21:07:10', '460087', '000.091.652/0010-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brazilianexporters.gov.br', '2002-10-22 15:54:13', '2013-02-15 15:29:11', '990005', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('consorciobdjur.gov.br', '2004-10-08 15:57:04', '2016-02-11 13:25:56', '1833739', '000.488.478/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnenpc.gov.br', '2001-03-26 12:28:32', '2015-02-11 12:33:49', '532132', '000.402.552/0007-11');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dner.gov.br', '1998-11-06 16:40:45', '2010-01-22 00:48:03', '124781', '033.628.777/0001-54');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('supersenaduplachance.gov.br', '2000-08-04 21:18:01', '2015-07-16 21:36:07', '399422', '000.360.305/0655-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfpb.gov.br', '1999-09-14 14:14:51', '2011-11-25 01:42:16', '194147', '000.508.903/0021-21');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('todosjuntoscontracorrupcao.gov.br', '2015-12-03 16:42:13', '2016-04-15 19:08:04', '14981136', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coegv.gov.br', '1998-11-12 19:22:22', '2008-05-08 14:13:21', '122146', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sdh.gov.br', '2010-12-01 18:41:08', '2015-09-30 14:31:44', '7553676', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('previdencia.gov.br', '2003-05-28 19:23:35', '2013-09-20 00:06:05', '1203703', '042.422.253/0027-32');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfms.gov.br', '2002-07-16 13:30:52', '2012-05-17 21:52:51', '899650', '000.508.903/0024-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('federativo.gov.br', '2006-03-21 15:28:43', '2012-11-20 19:14:24', '2696926', '033.892.175/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('institutodamataatlantica.gov.br', '2014-09-08 14:57:20', '2016-02-26 13:29:50', '13289046', '010.898.596/0010-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-al.gov.br', '1998-11-11 16:07:14', '2015-01-08 20:21:32', '123231', '000.509.018/0002-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('olacefs.gov.br', '2000-05-15 20:25:43', '2012-03-06 20:43:46', '336640', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dnocspb.gov.br', '1999-06-14 16:47:03', '2016-03-11 13:47:39', '165937', '000.043.711/0008-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pbqp.gov.br', '1999-11-09 18:54:27', '2009-12-21 14:54:53', '215563', '000.662.270/0003-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('controladoria.gov.br', '2006-12-27 13:03:33', '2016-04-15 19:06:26', '3279595', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('agritempo.gov.br', '2003-06-05 18:42:46', '2015-07-29 18:33:32', '1236028', '000.348.003/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('uca.gov.br', '2007-06-14 17:47:35', '2011-05-02 12:11:44', '3656440', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('insa.gov.br', '2006-10-23 12:53:35', '2009-06-26 11:52:39', '3113287', '001.263.896/0019-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('empresa.gov.br', '2013-11-11 18:31:45', '2013-11-11 18:31:45', '12212565', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('embratur.gov.br', '1995-06-26 12:00:00', '2016-04-15 13:16:53', '0', '033.741.794/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crt.gov.br', '1996-05-06 12:00:00', '2009-07-22 12:43:21', '7505', '092.794.486/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fundaj.gov.br', '1995-06-30 12:00:00', '2015-01-31 19:04:53', '0', '009.773.169/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('raspadinhafederal.gov.br', '2000-05-02 13:26:18', '2015-07-16 21:32:23', '323571', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creciro.gov.br', '2015-02-24 14:42:47', '2016-05-11 14:51:59', '13884579', '005.968.813/0001-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('proagua.gov.br', '1997-08-21 12:00:00', '2002-11-12 18:40:24', '53330', '037.115.375/0003-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e-sic.gov.br', '2014-04-08 18:09:51', '2016-04-15 19:06:41', '12756158', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bn.gov.br', '2013-01-31 13:39:16', '2016-04-18 11:58:33', '10957465', '040.176.679/0001-99');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('gra.gov.br', '2000-08-29 17:26:49', '2011-05-02 12:15:08', '408759', '033.683.111/0009-56');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('construcard.gov.br', '2000-08-04 20:46:58', '2015-07-16 20:44:20', '399390', '000.360.305/0674-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnmp.gov.br', '2005-07-14 12:39:20', '2015-03-29 22:07:43', '2236197', '011.439.520/0001-11');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('clicksaudavel.gov.br', '2015-01-28 13:42:48', '2015-11-19 18:21:51', '13764271', '003.112.386/0001-11');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pen.gov.br', '2014-10-15 09:44:27', '2014-10-15 09:44:27', '13442429', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ciasc.gov.br', '1996-01-01 12:00:00', '2016-01-05 17:28:14', '0', '083.043.745/0001-65');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sisgen.gov.br', '2015-10-14 19:25:25', '2016-04-11 13:42:42', '14786814', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('marinha.gov.br', '2009-08-17 18:25:35', '2016-01-26 12:12:32', '5899323', '000.394.502/0394-31');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-pr.gov.br', '1998-08-13 14:47:29', '2015-01-08 21:14:53', '108165', '003.985.113/0001-81');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pormin.gov.br', '2008-01-11 19:24:38', '2015-02-04 17:05:28', '4136215', '000.381.056/0001-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trf1.gov.br', '1997-02-26 12:00:00', '2014-10-31 19:07:15', '31411', '003.658.507/0001-25');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbm1.gov.br', '2008-09-19 13:29:32', '2008-09-19 13:29:32', '4806281', '062.021.837/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('telesc.gov.br', '1996-01-01 12:00:00', '2015-08-03 19:11:10', '0', '076.535.764/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaldajustica.gov.br', '2004-06-07 17:10:18', '2016-02-11 13:26:23', '1644624', '000.488.478/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pronasci.gov.br', '2009-08-26 20:22:49', '2013-04-04 14:38:24', '5888828', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafc-pa.gov.br', '1998-09-22 14:28:55', '2007-05-22 23:53:33', '115409', '034.823.237/0001-94');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('consumosustentavel.gov.br', '2012-02-01 17:26:02', '2016-04-11 13:21:12', '9373581', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cdes.gov.br', '2003-02-12 14:00:50', '2003-02-12 12:00:50', '1105216', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ines.gov.br', '2007-01-31 10:12:17', '2015-03-26 19:52:30', '3327564', '000.394.445/0273-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('belomonte.gov.br', '2002-05-08 14:33:37', '2008-05-08 13:59:24', '810126', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crtr14.gov.br', '2015-03-20 14:57:10', '2015-03-20 14:57:10', '13952375', '002.873.120/0001-29');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('geres.gov.br', '2000-08-24 11:57:15', '2006-03-04 19:36:04', '404029', '001.206.116/0001-44');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sudeco.gov.br', '2011-07-29 12:22:58', '2016-01-04 11:45:11', '8570053', '013.802.028/0001-94');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('copadacultura.gov.br', '2005-12-30 18:02:09', '2015-01-07 17:02:34', '2539441', '001.264.142/0002-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('biodiversidade.gov.br', '2011-01-06 18:04:02', '2013-04-19 12:32:05', '7708202', '008.829.974/0001-94');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ensaiosclinicos.gov.br', '2010-07-13 18:21:21', '2012-11-23 15:57:37', '7050969', '000.394.544/0008-51');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('confecom.gov.br', '2009-10-23 20:58:07', '2014-09-22 17:05:26', '6132259', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('turismo.gov.br', '2003-01-15 17:48:29', '2015-09-14 18:25:50', '1070851', '033.741.794/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('viajamais.gov.br', '2013-07-29 18:30:21', '2014-09-20 22:12:36', '11775765', '005.457.283/0002-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rededopoderjudiciario.gov.br', '1999-03-17 19:21:05', '2014-10-08 15:33:42', '147662', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aviacaocivil.gov.br', '2011-06-01 14:02:09', '2011-06-01 14:02:09', '8349031', '013.564.476/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-rj.gov.br', '1998-08-11 20:30:19', '2013-10-26 11:55:20', '108617', '000.509.018/0017-80');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio-3.gov.br', '2009-01-29 17:24:13', '2009-01-29 17:24:13', '5209806', '004.053.157/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comexbrasil.gov.br', '2011-07-04 13:06:54', '2013-05-10 19:22:55', '8496772', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafspb.gov.br', '2005-09-08 11:29:48', '2011-05-31 17:37:45', '2314476', '012.724.340/0001-44');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('infoconsumo.gov.br', '2000-10-30 16:12:33', '2015-05-20 12:17:14', '453931', '000.662.270/0003-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mma.gov.br', '1995-07-10 12:00:00', '2016-04-11 13:26:14', '0', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('emprel.gov.br', '1996-01-01 12:00:00', '2015-11-06 19:44:21', '0', '011.006.269/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('museudebiologiamelloleitao.gov.br', '2011-09-06 13:38:09', '2016-02-26 13:30:20', '8742984', '010.898.596/0010-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crq-9.gov.br', '2016-05-13 18:05:11', '2016-05-13 18:05:11', '15485691', '076.471.358/0001-64');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e-car.gov.br', '2010-11-08 09:30:01', '2011-05-02 12:08:04', '7484850', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('diesporte.gov.br', '2015-06-18 17:31:40', '2015-06-18 19:13:20', '14301400', '002.961.362/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ls.gov.br', '2004-04-29 23:58:17', '2014-11-18 13:18:37', '1611341', '001.175.497/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('edufinanceiranaescola.gov.br', '2014-05-20 09:39:26', '2014-05-20 09:39:26', '12841005', '029.507.878/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('justicadotrabalho.gov.br', '2001-03-23 12:50:32', '2015-03-04 19:06:29', '536773', '000.509.968/0001-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dinheirovivo.gov.br', '2000-08-04 21:17:48', '2015-07-16 20:50:12', '399431', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pnll.gov.br', '2006-03-07 17:17:30', '2015-01-07 17:03:34', '2666037', '001.264.142/0007-14');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('epe.gov.br', '2005-01-06 16:43:35', '2008-09-18 19:42:37', '1958251', '006.977.747/0001-80');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt17.gov.br', '1996-10-29 11:00:00', '2015-08-15 04:45:44', '20723', '000.509.968/0023-53');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('lexml.gov.br', '2005-12-19 10:44:20', '2012-11-01 13:14:55', '2518511', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('defesadoconsumidor.gov.br', '2016-04-04 15:06:50', '2016-04-04 15:06:50', '15427301', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bndes.gov.br', '1995-10-30 12:00:00', '2016-05-27 23:04:52', '4412', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('informacaoecidadania.gov.br', '2009-11-24 12:33:07', '2014-01-22 17:27:12', '6298645', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('senador.gov.br', '2002-11-07 12:50:27', '2014-01-24 19:53:27', '1010027', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mds.gov.br', '2004-05-06 14:40:29', '2014-06-13 13:24:47', '1630325', '005.756.246/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('esocial.gov.br', '2013-05-31 17:21:53', '2013-05-31 17:21:53', '11523942', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dnpmsc.gov.br', '2002-05-07 19:05:37', '2007-05-07 21:38:38', '825078', '000.381.056/0012-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-pe.gov.br', '2008-05-02 18:23:45', '2012-03-09 13:37:38', '4380454', '011.005.444/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fundacentrorj.gov.br', '1998-01-16 12:22:06', '2013-08-25 22:07:44', '80592', '062.428.073/0002-17');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('casemg.gov.br', '2013-07-17 20:04:57', '2015-11-27 12:18:13', '11729523', '017.186.370/0001-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ans-saude.gov.br', '2001-04-02 20:27:13', '2004-07-13 14:13:18', '540699', '003.589.068/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('butantan.gov.br', '1998-02-09 19:05:53', '2014-04-25 16:30:04', '85080', '061.821.344/0001-56');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redepcs.gov.br', '2012-08-02 13:55:14', '2016-04-11 13:38:44', '10249172', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inpe.gov.br', '1999-08-20 19:24:21', '2010-03-04 19:52:29', '187057', '001.263.896/0016-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('banconordeste.gov.br', '1998-02-09 12:03:19', '2011-05-30 18:47:36', '83925', '007.237.373/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('govbrasil.gov.br', '2013-08-26 12:54:00', '2013-08-26 12:54:00', '11895959', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dtceasc.gov.br', '2009-09-30 13:36:06', '2015-10-01 17:59:22', '5995673', '000.394.429/0094-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cref4sp.gov.br', '2012-09-28 15:26:49', '2012-09-28 15:26:49', '10501429', '003.676.803/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pesquisa.gov.br', '2015-07-28 11:40:34', '2015-07-28 11:40:34', '14461521', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inpa.gov.br', '1997-07-28 12:00:00', '2013-05-21 14:23:57', '49011', '001.263.896/0015-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('topawa-kaa.gov.br', '2004-03-05 12:48:15', '2010-05-12 11:22:53', '1546938', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eusoumaismedico.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:37:06', '11932922', '015.126.437/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ouvidorias.gov.br', '2011-09-02 14:31:04', '2016-04-15 19:07:25', '8780804', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pa.gov.br', '1997-06-02 12:00:00', '2014-06-18 18:37:29', '0', '005.054.861/0001-76');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coletasolidaria.gov.br', '2007-12-13 14:16:42', '2011-05-02 12:29:59', '4117825', '005.756.246/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('corenpr.gov.br', '2012-02-23 11:13:47', '2014-07-26 16:24:50', '9395488', '075.078.816/0001-37');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('errec.gov.br', '1998-02-09 12:03:12', '2002-07-01 18:50:43', '83258', '033.613.332/0019-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('desenvolvimento.gov.br', '2001-02-21 20:19:54', '2013-05-10 19:21:45', '514117', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dj.gov.br', '2006-05-19 12:22:53', '2014-10-08 15:32:32', '2804648', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brazilsenvironment.gov.br', '2001-08-13 20:13:17', '2016-04-11 13:11:44', '615404', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cauce.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:56:57', '10045990', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('altatv.gov.br', '2010-02-01 15:58:41', '2015-01-08 12:16:17', '6477007', '004.822.500/0001-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('regulacao.gov.br', '2009-06-01 19:37:13', '2009-06-01 19:37:13', '5602143', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('contaspublicas.gov.br', '1999-05-06 12:55:40', '2012-03-06 20:43:37', '153234', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('apo.gov.br', '2011-10-07 13:16:51', '2013-04-03 19:59:48', '8885678', '014.039.541/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('projetodomhelder.gov.br', '2003-07-14 15:00:22', '2013-06-04 13:10:21', '1265504', '004.224.785/0001-37');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('direitoshumanos.gov.br', '2008-04-10 16:13:02', '2015-01-13 12:47:59', '4331632', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('agrolivre.gov.br', '2004-02-03 18:31:07', '2015-07-29 18:33:56', '1480690', '000.348.003/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('nbr.gov.br', '2016-02-26 17:09:19', '2016-02-26 17:09:19', '15186857', '009.168.704/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('worldcup2014.gov.br', '2010-05-25 19:48:36', '2014-06-11 18:19:04', '6904342', '002.961.362/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mega-sena.gov.br', '2000-08-04 21:17:57', '2015-07-16 21:23:18', '399420', '000.360.305/0655-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('an.gov.br', '2009-07-24 16:13:24', '2015-05-21 20:18:45', '5817090', '004.374.067/0001-47');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mcti.gov.br', '2011-10-31 11:50:51', '2016-01-25 18:41:24', '8985644', '001.263.896/0003-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('avancabrasil.gov.br', '1999-08-20 11:50:35', '2014-01-22 17:24:37', '190314', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dtceast.gov.br', '2009-09-30 13:36:06', '2015-10-01 18:08:41', '5995699', '000.394.429/0094-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jfpr.gov.br', '1999-07-17 16:48:56', '2013-06-08 12:04:23', '173238', '005.420.123/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brazil.gov.br', '1996-12-06 11:00:00', '2010-03-28 17:35:34', '24189', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sgov.gov.br', '2016-02-17 12:37:44', '2016-02-17 12:37:44', '15186841', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('museuimperial.gov.br', '2000-09-20 12:31:34', '2016-01-12 16:48:31', '425462', '026.474.056/0018-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ahimoc.gov.br', '2012-01-18 13:59:01', '2012-03-21 01:23:18', '9338399', '006.347.892/0004-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('codesp.gov.br', '2009-03-23 16:05:57', '2009-03-26 00:17:30', '5391404', '044.837.524/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafsl.gov.br', '2008-04-29 11:40:02', '2015-01-07 19:20:22', '4398238', '073.964.538/0001-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jef-pr.gov.br', '2003-08-05 12:07:46', '2012-04-24 14:56:27', '1289165', '005.442.380/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('corensp.gov.br', '2008-09-18 17:54:29', '2015-05-19 15:33:03', '4794739', '044.413.680/0001-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('consumidor.gov.br', '2001-12-13 18:37:05', '2014-03-12 20:05:49', '697240', '000.394.494/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('proinfo.gov.br', '1998-07-01 21:35:27', '2014-01-23 12:08:28', '104376', '000.394.445/0540-23');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trevodasorte.gov.br', '2000-05-02 13:26:23', '2015-07-16 21:39:23', '323577', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixaseguridade.gov.br', '2015-07-16 17:39:31', '2015-07-16 19:42:44', '14436714', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pi.gov.br', '1997-04-16 12:00:00', '2014-06-10 17:09:57', '36663', '008.839.135/0001-57');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prodeb.gov.br', '1996-01-01 12:00:00', '2014-08-01 14:31:07', '0', '013.579.586/0001-32');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('vls.gov.br', '1999-09-17 16:41:23', '2014-05-06 18:29:32', '199885', '086.900.545/0001-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('exportadoresbrasilenos.gov.br', '2012-08-16 14:37:56', '2013-02-15 15:32:22', '10318402', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crmvrn.gov.br', '2011-06-16 17:32:16', '2011-06-16 17:32:16', '8441671', '008.693.822/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('transportes.gov.br', '1996-12-05 11:00:00', '2014-07-30 19:13:13', '23865', '037.115.342/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('programaarpa.gov.br', '2013-04-25 14:28:13', '2016-04-11 13:37:00', '11387857', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('senado.gov.br', '1996-01-01 12:00:00', '2016-02-05 15:53:19', '0', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coren-pb.gov.br', '2009-07-03 20:01:26', '2014-02-18 14:40:58', '5724636', '007.647.181/0001-91');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('governoeletronico.gov.br', '2000-12-11 11:56:03', '2014-01-22 17:32:47', '480986', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('causp.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:01:05', '10258005', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-pa.gov.br', '2002-08-26 12:50:25', '2012-10-04 08:34:08', '946320', '004.574.646/0001-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('embrapa.gov.br', '2000-06-09 20:26:57', '2003-08-22 10:38:42', '357901', '000.348.003/0101-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('qualidadedoleite.gov.br', '2008-06-16 12:20:09', '2013-04-04 14:37:45', '4527897', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dinheiroinstantaneo.gov.br', '2000-08-04 21:17:47', '2015-07-16 20:49:55', '399429', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('postal.gov.br', '1999-11-23 16:04:46', '2015-07-16 21:27:26', '223294', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cbnb.gov.br', '2005-10-24 16:34:04', '2014-08-20 13:45:42', '2392361', '000.394.429/0023-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('es.gov.br', '1996-11-01 12:00:00', '2014-07-18 18:39:32', '0', '028.162.790/0001-20');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ipea.gov.br', '1996-04-29 12:00:00', '2016-05-30 21:23:29', '7297', '033.892.175/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('servidor.gov.br', '1999-10-28 18:51:13', '2014-01-22 17:34:33', '214379', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('entreguesuaarma.gov.br', '2011-05-03 12:52:40', '2013-04-04 14:37:38', '8227908', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('integracaosaofrancisco.gov.br', '2013-12-11 18:22:48', '2014-01-28 16:55:57', '12326071', '003.353.358/0001-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('exportabrasil.gov.br', '2001-11-23 15:48:13', '2013-02-15 16:52:58', '679275', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dataprev.gov.br', '1997-01-28 11:00:00', '2013-06-07 20:16:46', '29076', '042.422.253/0027-32');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('correios-ce.gov.br', '1996-02-07 12:00:00', '2013-12-11 13:37:56', '5293', '034.028.316/0010-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tavbrasil.gov.br', '2009-06-18 14:08:35', '2016-02-17 12:39:13', '5679250', '004.898.488/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilsaudavelesustentavel.gov.br', '2015-04-29 19:03:31', '2015-04-29 19:03:31', '14074511', '005.756.246/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prt21.gov.br', '1998-07-15 21:10:13', '2013-11-25 12:20:41', '106186', '026.989.715/0061-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aerofacil.gov.br', '2013-12-23 18:07:43', '2014-01-15 20:30:54', '12368464', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('investidoresinstitucionais.gov.br', '2001-12-13 13:28:42', '2015-07-16 21:17:50', '689142', '000.360.305/0262-51');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('citenel.gov.br', '2011-04-08 16:02:21', '2014-10-22 17:24:14', '8140543', '002.270.669/0001-29');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cfa.gov.br', '2009-03-18 19:41:24', '2015-01-14 12:56:58', '5312797', '034.061.135/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('anvs.gov.br', '2000-08-22 11:36:26', '2015-11-19 18:21:36', '404655', '003.112.386/0001-11');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redegeochronos.gov.br', '2006-05-19 11:22:45', '2014-04-24 17:36:06', '2788606', '000.091.652/0002-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('casacivil.gov.br', '2009-08-08 18:51:56', '2016-04-28 12:43:56', '5829920', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cnv.gov.br', '2012-07-24 10:50:50', '2016-01-15 14:16:54', '10171985', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bancodeoportunidades.gov.br', '1999-09-10 18:30:30', '2014-01-22 17:24:47', '196982', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-sp.gov.br', '1998-08-07 15:04:12', '2015-09-23 16:41:13', '108320', '000.509.018/0021-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio07.gov.br', '2012-08-28 13:46:01', '2012-08-28 13:46:01', '10335261', '007.863.214/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cefetsvs.gov.br', '2002-12-11 19:11:26', '2009-11-27 09:45:33', '1033880', '094.445.673/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio01.gov.br', '2009-01-22 10:18:04', '2015-02-17 03:12:49', '5161309', '002.366.047/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cbtumetrorec.gov.br', '2008-04-10 13:07:49', '2011-12-30 00:46:38', '4350194', '042.357.483/0006-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dinheiroemcaixa.gov.br', '2000-08-04 21:17:46', '2015-07-16 20:49:29', '399428', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dtceagl.gov.br', '2009-09-30 13:51:34', '2015-10-01 17:53:21', '5995657', '000.394.429/0094-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('maisbrasil.gov.br', '2007-10-11 19:08:36', '2014-09-22 17:06:58', '3955204', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bcc.gov.br', '2010-02-12 17:00:59', '2015-04-14 19:40:34', '6496729', '003.221.904/0001-35');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ms.gov.br', '1996-01-01 12:00:00', '2012-04-10 22:20:43', '0', '015.412.257/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cade.gov.br', '2001-04-18 20:48:59', '2015-08-20 18:17:22', '546914', '000.418.993/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tst.gov.br', '1995-11-30 12:00:00', '2015-03-04 19:19:55', '4671', '000.509.968/0001-48');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('governancapublica.gov.br', '2014-08-12 18:30:34', '2014-09-10 19:50:24', '13183970', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('participe.gov.br', '2013-10-16 18:38:59', '2013-10-16 18:38:59', '12089290', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ipeadata.gov.br', '2000-02-25 18:46:36', '2016-04-20 20:59:25', '268063', '033.892.175/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('in.gov.br', '1996-11-20 11:00:00', '2015-06-25 19:44:43', '22790', '000.394.494/0016-12');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dac.gov.br', '1997-04-08 12:00:00', '2012-09-11 17:33:18', '35808', '000.394.429/0043-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('infra-estruturabrasil.gov.br', '2000-09-01 15:25:16', '2014-01-22 17:32:57', '417422', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crq-pr.gov.br', '2016-05-13 18:05:11', '2016-05-13 18:05:11', '15485688', '076.471.358/0001-64');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('retp.gov.br', '2010-12-10 18:32:13', '2016-04-11 13:39:24', '7588661', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fazenda.gov.br', '1995-08-28 12:00:00', '2014-10-01 11:53:45', '0', '000.394.460/0008-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ird.gov.br', '1995-12-15 12:00:00', '2014-02-26 18:20:42', '4852', '000.402.552/0004-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ecobrancacaixa.gov.br', '2002-04-01 18:33:13', '2002-12-18 15:54:29', '768337', '000.360.305/2714-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-mg.gov.br', '1998-06-15 17:24:54', '2015-01-08 21:11:54', '100479', '000.509.018/0011-95');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('seminariobrasildigital.gov.br', '2015-03-02 19:51:54', '2015-03-02 19:51:54', '13890177', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('srpvsp.gov.br', '2008-10-03 19:05:01', '2016-05-13 22:28:16', '4854674', '000.394.429/0094-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('p2r2.gov.br', '2010-11-04 13:02:45', '2016-04-11 13:30:12', '7525532', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('egressos-esaf.gov.br', '2002-11-22 15:09:39', '2002-11-22 13:09:39', '1009312', '002.317.176/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coaf.gov.br', '1999-07-20 20:07:02', '2011-05-02 12:07:26', '179648', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bdjur.gov.br', '2004-10-13 14:50:40', '2016-02-11 13:25:40', '1845312', '000.488.478/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('acessoinformacao.gov.br', '2012-03-09 13:11:06', '2016-04-15 19:05:59', '9582965', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pensesimples.gov.br', '2015-01-30 17:08:54', '2015-01-30 17:08:54', '13766917', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('incra-pe.gov.br', '1998-11-25 14:12:52', '2000-08-18 20:33:55', '123516', '000.375.972/0005-94');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sp-trt.gov.br', '1999-06-11 19:04:29', '2016-02-15 21:10:33', '168323', '003.241.738/0001-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ahitar.gov.br', '2003-05-30 19:28:44', '2007-10-19 20:07:27', '1221392', '004.933.552/0011-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aeroportoindustria.gov.br', '2002-01-29 18:45:42', '2013-01-09 11:34:34', '719691', '000.352.294/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('antaq.gov.br', '2002-03-12 12:46:43', '2015-01-22 11:49:27', '751032', '004.903.587/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('assistênciasocial.gov.brxn--assistnciasocial-xqb.gov.br', '', '', '', '');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mincrj.gov.br', '1998-08-06 16:57:38', '2013-03-21 19:26:34', '109080', '001.264.142/0002-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rededecontrole.gov.br', '2010-03-26 10:24:10', '2012-03-06 20:44:05', '6628310', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafce.gov.br', '2004-10-29 11:15:47', '2007-09-14 23:32:10', '1861027', '073.999.823/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixapostal.gov.br', '1999-11-23 16:04:45', '2015-07-16 19:40:19', '223289', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eufiscalizo.gov.br', '2014-08-11 13:11:46', '2014-09-10 19:49:21', '13148199', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('smpe.gov.br', '2013-11-06 13:41:09', '2013-11-06 13:41:09', '12212581', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('loteriaesportiva.gov.br', '2000-05-02 13:26:12', '2015-07-16 21:20:13', '323558', '000.360.305/0643-40');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('jcdf.gov.br', '2011-11-30 16:48:37', '2013-02-15 15:33:21', '9128256', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('depv.gov.br', '2000-03-20 12:08:06', '2014-01-24 11:55:16', '284049', '000.394.429/0048-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('patrimoniodetodos.gov.br', '2009-09-30 11:01:50', '2010-02-02 11:43:10', '5992626', '000.489.828/0009-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('geipot.gov.br', '1996-10-31 11:00:00', '2014-07-30 18:42:20', '20961', '000.366.914/0001-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sudene.gov.br', '1996-01-01 12:00:00', '2015-11-24 15:20:01', '0', '010.890.804/0001-67');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('planejamento.gov.br', '1999-10-28 18:51:08', '2015-07-14 13:46:35', '214372', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('acjus.gov.br', '2005-01-05 10:10:27', '2014-03-25 13:11:47', '1943823', '000.508.903/0001-88');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaldasaguas.gov.br', '2003-12-02 13:23:20', '2007-12-19 17:59:21', '1447844', '004.204.444/0001-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pernambuco.gov.br', '1999-03-05 19:45:42', '2008-05-19 13:05:02', '145277', '006.067.608/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafars.gov.br', '2007-01-15 18:07:17', '2014-08-19 17:50:07', '3276440', '091.551.986/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('lotomania.gov.br', '2003-09-30 19:48:18', '2015-07-16 21:23:03', '1342303', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tcu.gov.br', '1996-04-10 12:00:00', '2016-06-22 20:01:14', '6596', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('alemg.gov.br', '1998-12-11 14:10:54', '2014-09-04 11:32:50', '132644', '017.516.113/0001-47');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portodesantos.gov.br', '2009-03-26 00:24:31', '2009-03-26 00:24:31', '5391399', '044.837.524/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fns-sc.gov.br', '1997-10-15 11:00:00', '2001-12-07 17:10:51', '63166', '026.989.350/0024-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cdb.gov.br', '2005-11-23 19:20:16', '2011-09-07 00:44:51', '2485694', '000.394.536/0012-91');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rn.gov.br', '1996-10-15 11:00:00', '2012-02-13 11:09:08', '18916', '008.241.788/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('infraero.gov.br', '1996-11-05 11:00:00', '2015-01-20 18:05:47', '21425', '000.352.294/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('projud.gov.br', '2002-04-15 13:36:56', '2012-12-27 11:25:47', '788233', '008.546.459/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('seminariodefencil.gov.br', '2009-09-10 19:54:45', '2016-05-04 19:17:48', '5979422', '003.353.358/0001-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cauap.gov.br', '2015-05-06 21:00:57', '2015-05-06 21:00:57', '14122581', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('segurancaquimica.gov.br', '2011-12-16 12:12:45', '2016-04-11 13:40:32', '9164073', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('hgb.gov.br', '1999-05-25 14:09:05', '2001-03-06 12:03:45', '157067', '000.394.544/0202-91');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt.gov.br', '1996-04-22 12:00:00', '2015-03-18 15:38:37', '7055', '001.298.583/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('foccopb.gov.br', '2009-03-26 16:05:06', '2010-07-08 00:27:21', '5342334', '026.989.715/0020-75');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brazil-rounds.gov.br', '2000-10-24 22:43:00', '2015-08-18 12:26:05', '446016', '002.313.673/0002-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fgts.gov.br', '2009-04-29 16:21:42', '2015-07-16 21:00:13', '5512241', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('desaparecidos.gov.br', '2012-02-14 09:55:39', '2013-03-22 20:44:51', '9414210', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cin-sci.gov.br', '1995-10-03 12:00:00', '2014-11-18 13:14:44', '4190', '001.175.497/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caupi.gov.br', '2012-07-06 12:46:00', '2015-04-29 13:59:27', '10046041', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fhdf.gov.br', '1996-01-01 12:00:00', '2008-02-19 20:18:44', '0', '000.054.015/0001-32');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('braziltradenet.gov.br', '2000-01-28 13:18:18', '2014-07-10 14:19:45', '250008', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pru-pe.gov.br', '2008-05-19 12:29:50', '2008-05-19 12:29:50', '4464504', '026.994.558/0008-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('defencil.gov.br', '2009-09-10 19:54:45', '2016-05-04 19:17:12', '5979409', '003.353.358/0001-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-ce.gov.br', '1998-07-30 19:43:39', '2015-02-03 18:46:36', '106325', '000.509.018/0005-47');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crmvto.gov.br', '2013-10-11 16:53:18', '2013-10-11 16:53:18', '12092731', '033.209.263/0001-64');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('supertrinca.gov.br', '2000-05-02 13:26:20', '2015-07-16 21:36:25', '323567', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-es.gov.br', '2000-08-07 15:05:22', '2015-10-08 11:57:24', '393289', '027.239.854/0001-81');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt21.gov.br', '1997-06-18 12:00:00', '2015-10-19 13:41:15', '43814', '000.509.968/0086-37');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('programadorabrasil.gov.br', '2014-09-30 11:02:53', '2014-09-30 11:02:53', '13358007', '001.264.142/0023-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('amazoniafund.gov.br', '2009-03-17 14:54:06', '2014-02-13 23:08:43', '5310115', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ci-brasil.gov.br', '2007-12-05 18:49:00', '2015-01-08 12:17:35', '4101340', '004.822.500/0001-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('capitalderisco.gov.br', '2000-04-04 17:17:35', '2011-05-04 18:55:44', '290583', '033.749.086/0002-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('confiancabrasil.gov.br', '2008-12-26 12:22:25', '2008-12-26 12:22:25', '5135023', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mmirjdh.gov.br', '2016-04-19 19:53:54', '2016-04-19 19:53:54', '15472384', '023.657.991/0001-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dinf.gov.br', '2000-03-23 19:59:28', '2014-11-18 13:16:53', '279803', '001.175.497/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('secretariageral.gov.br', '2010-01-13 14:04:12', '2016-05-02 14:56:26', '6425828', '010.366.249/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('computadorparatodos.gov.br', '2005-09-30 14:17:55', '2011-05-02 12:07:48', '2358165', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('stfnet.gov.br', '1999-03-17 19:20:51', '2014-10-08 15:34:23', '147657', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('loteca.gov.br', '2000-05-02 13:26:11', '2015-07-16 21:19:57', '323569', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('agenciacamara.gov.br', '2008-11-19 08:40:04', '2015-06-16 13:33:35', '5034350', '000.530.352/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('xn--justia-0ua.gov.br', '2013-11-14 13:06:11', '2013-11-14 13:06:11', '12171078', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bancocentral.gov.br', '1998-12-31 00:24:21', '2015-06-17 22:20:15', '135008', '000.038.166/0001-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('iphan.gov.br', '1997-02-26 12:00:00', '2015-06-16 21:08:23', '31478', '026.474.056/0001-71');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('purn.gov.br', '1999-08-19 19:46:49', '2007-10-17 19:28:49', '182963', '026.994.558/0034-91');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('presalpetroleo.gov.br', '2015-05-18 19:32:49', '2015-05-18 19:32:49', '14183195', '018.738.727/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rbmlq.gov.br', '2010-12-16 11:40:09', '2010-12-16 11:40:09', '7651999', '000.662.270/0009-15');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixavirtual.gov.br', '2000-08-04 21:17:44', '2015-07-16 19:43:13', '399413', '000.360.305/0655-83');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comprasagriculturafamiliar.gov.br', '2016-02-05 17:57:43', '2016-02-05 17:57:43', '15166912', '005.756.246/0001-01');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilpresente.gov.br', '2009-10-27 20:30:23', '2014-09-22 17:04:44', '6132322', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaldaigualdade.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:08:14', '6426207', '006.064.438/0001-10');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('gesac.gov.br', '2003-11-19 19:09:45', '2015-03-25 13:00:40', '1414720', '000.394.437/0001-57');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portosempapel.gov.br', '2010-06-18 17:48:13', '2010-06-18 17:48:13', '6934554', '008.855.874/0001-32');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('netgoverno.gov.br', '2000-02-26 16:18:42', '2009-12-08 13:43:14', '265137', '076.545.011/0001-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cenp.gov.br', '2015-11-25 14:25:42', '2015-11-25 14:25:42', '14947108', '000.394.544/0022-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('badesc.gov.br', '1996-06-28 12:00:00', '2015-06-12 23:10:08', '10625', '082.937.293/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('icmbio.gov.br', '2007-08-29 18:31:20', '2013-04-19 12:32:12', '3844230', '008.829.974/0001-94');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt16.gov.br', '1999-10-14 20:16:23', '2013-08-09 21:26:02', '209542', '023.608.631/0001-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio7.gov.br', '2009-05-15 16:23:16', '2012-03-21 19:42:50', '5558339', '007.863.214/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('territoriosdacidadania.gov.br', '2008-02-19 19:56:57', '2015-02-24 21:27:34', '4216803', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('aprendendoaexportar.gov.br', '2001-12-04 18:36:17', '2013-05-10 19:22:26', '690933', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('clique100.gov.br', '2015-04-13 21:57:43', '2015-04-13 21:57:43', '14027824', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('expofeiras.gov.br', '2012-05-10 13:20:53', '2013-02-15 15:31:42', '9846518', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crq7.gov.br', '2011-02-18 16:47:29', '2011-02-18 16:47:29', '7940861', '014.117.931/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cadastrorural.gov.br', '2014-11-04 11:21:11', '2014-11-04 11:21:11', '13512125', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rndh.gov.br', '2001-05-09 13:16:07', '2013-04-04 14:38:30', '549119', '000.394.494/0013-70');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('etfc.gov.br', '2008-06-18 19:37:03', '2016-04-13 16:11:47', '4562786', '009.544.546/0001-88');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('previdência.gov.brxn--previdncia-r7a.gov.br', '', '', '', '');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('somostodosbrasil.gov.br', '2015-09-24 17:04:32', '2015-09-24 17:04:32', '14689950', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crecise.gov.br', '2015-11-04 12:22:53', '2015-11-30 15:49:28', '14866147', '013.171.970/0001-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('amazonianfund-bndes.gov.br', '2009-03-17 14:38:39', '2014-02-13 23:09:26', '5310056', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ma.gov.br', '1997-04-07 12:00:00', '2016-06-18 14:57:44', '35641', '063.574.479/0001-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dner-ce.gov.br', '1997-11-12 11:00:00', '2015-03-12 22:43:27', '68934', '033.628.777/0004-05');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('loto-tauloteriadacopa.gov.br', '2000-05-02 13:26:14', '2015-07-16 21:22:07', '323575', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('investcaixa.gov.br', '2001-10-25 19:55:49', '2002-12-18 15:55:00', '650496', '000.360.305/2714-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cortesmercosur.gov.br', '2007-10-30 15:48:50', '2014-10-08 15:31:47', '4027421', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalsiscomex.gov.br', '2014-03-05 15:41:26', '2014-03-05 15:41:26', '12551486', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('anvisa.gov.br', '2000-05-19 13:53:15', '2015-11-19 18:21:10', '342060', '003.112.386/0001-11');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dcea.gov.br', '2001-12-20 19:59:27', '2014-01-24 11:54:38', '700710', '000.394.429/0048-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('trt12.gov.br', '1997-09-06 12:00:00', '2013-05-29 15:19:21', '56395', '002.482.005/0001-23');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cortesmercosul.gov.br', '2007-10-30 15:48:50', '2014-10-08 15:29:27', '4027416', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('emgea.gov.br', '2001-09-10 12:15:38', '2012-04-18 21:12:47', '633340', '004.527.335/0001-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('forumpermanente.gov.br', '2011-08-05 12:37:00', '2013-05-10 19:41:34', '8658832', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio-pr.gov.br', '2009-05-15 16:07:48', '2012-03-21 19:42:13', '5558310', '007.863.214/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('vivaleitura.gov.br', '2004-12-20 17:56:22', '2015-01-07 17:04:20', '1938732', '001.264.142/0002-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('comex.gov.br', '2007-08-22 18:21:17', '2014-07-10 14:16:53', '3840705', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('shoppingcaixa.gov.br', '2004-10-19 18:53:37', '2015-07-16 21:35:22', '1850414', '000.360.305/0688-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-pb.gov.br', '1998-04-15 12:44:06', '2014-08-28 20:17:35', '91806', '000.509.018/0013-57');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pbh.gov.br', '1995-09-21 12:00:00', '2015-06-02 14:57:31', '4116', '018.239.038/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('meioambiente.gov.br', '2000-03-21 20:30:38', '2016-04-11 13:24:44', '285374', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fundoamazonia-bndes.gov.br', '2009-03-17 14:38:39', '2014-02-13 23:15:28', '5310031', '033.657.248/0001-89');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mpas.gov.br', '1996-03-20 12:00:00', '2008-07-27 18:46:06', '6042', '000.394.528/0008-69');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('capacidades.gov.br', '2011-10-19 18:22:27', '2014-09-24 17:31:58', '8980271', '000.489.828/0006-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('tre-am.gov.br', '1998-08-03 20:07:10', '2015-01-08 20:21:58', '106208', '000.509.018/0003-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('incra.gov.br', '1996-07-12 12:00:00', '2004-09-21 18:21:28', '11611', '000.375.972/0002-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('seti.gov.br', '1996-04-02 12:00:00', '2009-12-08 13:41:30', '6400', '077.046.951/0001-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('controle.gov.br', '2007-10-11 21:32:09', '2016-04-15 19:06:32', '3963349', '005.914.685/0001-03');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbio-rs.gov.br', '2009-01-29 17:24:13', '2009-01-29 17:24:13', '5209808', '004.053.157/0001-36');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ilbsenado.gov.br', '2000-04-11 19:05:15', '2002-10-15 13:35:28', '308334', '000.530.279/0005-49');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafc.gov.br', '2006-09-05 11:32:27', '2010-04-14 19:36:39', '3035355', '073.893.018/0001-33');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixadotesouro.gov.br', '2000-08-04 21:17:43', '2015-07-16 18:59:03', '399424', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caixamasterpass.gov.br', '2015-10-27 19:33:35', '2015-10-27 19:33:35', '14823420', '000.360.305/0001-04');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cref4-sp.gov.br', '2012-09-28 15:21:47', '2012-09-28 15:21:47', '10501420', '003.676.803/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilmaior.gov.br', '2011-08-03 13:43:30', '2013-05-10 19:22:31', '8652213', '000.394.478/0002-24');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crbm2.gov.br', '2014-08-13 17:53:25', '2014-08-13 17:53:25', '13170994', '024.417.008/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('nae.gov.br', '2005-11-23 12:17:24', '2008-02-28 23:13:57', '2478043', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sc.gov.br', '1996-01-01 12:00:00', '2016-01-05 17:27:47', '0', '083.043.745/0001-65');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('emdiacomopronaf.gov.br', '2015-10-28 14:10:31', '2015-10-28 14:39:28', '14806933', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crefito16.gov.br', '2015-11-06 10:27:44', '2015-11-06 10:27:44', '14890232', '023.283.472/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e-conta.gov.br', '2001-09-05 20:08:23', '2002-12-18 15:53:27', '628473', '000.360.305/2714-85');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mincsp.gov.br', '2002-06-21 15:09:18', '2013-03-21 19:26:46', '896763', '001.264.142/0002-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('funpresp-exe.gov.br', '2013-09-05 18:03:50', '2016-04-11 17:27:24', '11875499', '017.312.597/0001-02');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('redemulheres.gov.br', '2013-08-20 15:00:36', '2016-04-11 13:37:40', '11876431', '037.115.375/0002-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('carrocampeao.gov.br', '2000-08-04 21:17:45', '2015-07-16 19:44:21', '399426', '000.360.305/2399-13');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('agenciabrasil.gov.br', '2000-07-17 13:15:36', '2009-04-01 12:46:01', '369745', '009.168.704/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dnc.gov.br', '1996-08-22 12:00:00', '2015-08-18 11:43:09', '14672', '037.115.383/0034-11');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('forumsipec.gov.br', '2000-10-28 14:46:14', '2014-01-22 17:25:36', '455615', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('imbel.gov.br', '2000-02-23 13:41:15', '2016-01-06 17:12:15', '263716', '000.444.232/0001-39');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('planobrasil.gov.br', '2003-05-09 19:52:14', '2014-01-22 17:33:47', '1205422', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crecigo.gov.br', '2011-03-01 13:55:48', '2012-12-13 17:40:26', '7968449', '001.638.121/0001-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eafcatu.gov.br', '2004-02-18 13:31:03', '2008-09-16 17:42:02', '1533568', '016.132.623/0001-58');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('icpbrasil.gov.br', '2001-07-23 14:08:28', '2015-08-20 12:45:57', '608113', '004.039.532/0001-93');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('colab.gov.br', '2014-10-15 09:44:27', '2014-10-15 09:44:27', '13442567', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('conitec.gov.br', '2014-10-06 14:47:09', '2016-06-06 13:42:59', '13316849', '000.394.544/0008-51');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('inova.gov.br', '2015-06-11 19:43:40', '2015-06-11 19:43:40', '14237728', '000.489.828/0001-55');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pndrss.gov.br', '2015-01-15 20:37:18', '2015-06-08 22:34:10', '13701811', '001.612.452/0001-97');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crefito2.gov.br', '2012-02-15 14:08:03', '2012-02-15 14:08:03', '9476312', '029.991.262/0001-47');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ccpe.gov.br', '2000-02-29 21:25:17', '2009-02-14 13:46:53', '275195', '037.115.383/0005-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('casabrasil.gov.br', '2006-02-22 15:07:31', '2013-02-04 17:38:52', '2629511', '001.263.896/0003-26');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilia2010.gov.br', '2010-02-02 15:56:39', '2014-07-04 11:03:41', '6485016', '001.264.142/0002-00');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('prplanalto.gov.br', '2013-11-13 18:13:53', '2015-04-10 22:04:19', '12244593', '000.394.411/0001-09');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('eln.gov.br', '1995-05-30 12:00:00', '2013-01-02 16:53:26', '0', '000.357.038/0001-16');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cop15.gov.br', '2009-11-18 17:03:04', '2014-09-22 17:05:53', '6272565', '009.234.494/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coren-df.gov.br', '2011-02-24 12:58:40', '2014-10-23 10:19:14', '7970211', '003.875.295/0001-38');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('decea.gov.br', '2001-12-26 18:40:17', '2014-01-24 11:55:40', '705211', '000.394.429/0048-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('brasilvoluntario.gov.br', '2012-11-16 19:07:47', '2014-02-28 20:45:40', '10719025', '002.973.091/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sedh.gov.br', '2003-07-17 11:07:59', '2015-03-30 18:31:41', '1268815', '005.478.625/0001-87');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('mi.gov.br', '1999-09-23 16:25:17', '2015-06-24 20:43:14', '202195', '003.353.358/0001-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('rotasdascidades.gov.br', '2011-10-19 18:17:26', '2014-09-24 17:35:18', '8980264', '000.489.828/0006-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ebserh.gov.br', '2013-04-23 10:50:27', '2014-05-28 13:33:10', '11267250', '015.126.437/0001-43');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('creci-am.gov.br', '2013-06-06 20:19:13', '2013-07-22 19:41:44', '11537616', '004.619.672/0001-30');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('stf.gov.br', '1996-04-16 12:00:00', '2014-10-08 15:34:05', '6820', '000.531.640/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crqsc.gov.br', '2010-05-12 19:15:00', '2014-07-26 02:55:46', '6834151', '079.887.659/0001-61');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('socinfo.gov.br', '2000-07-20 14:01:55', '2014-08-05 23:17:18', '388868', '004.082.993/0001-49');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portalbrasil.gov.br', '2000-07-17 13:15:48', '2011-07-28 21:31:44', '370017', '009.168.704/0001-42');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('pr.gov.br', '1996-03-18 12:00:00', '2012-02-09 16:36:09', '5965', '076.545.011/0001-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('furnas.gov.br', '1995-07-05 12:00:00', '2015-09-23 18:49:34', '0', '023.274.194/0001-19');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('fnsms.gov.br', '1999-07-19 17:26:01', '2015-11-05 20:27:03', '177754', '026.989.350/0526-98');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('infrastructurebrazil.gov.br', '2000-09-01 15:25:12', '2014-01-22 17:33:16', '411467', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('e.gov.br', '2002-07-25 18:22:59', '2011-05-02 12:08:10', '920707', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('caual.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:53:59', '10045914', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('faesa-oscip.gov.br', '2004-05-17 18:47:10', '2004-05-17 15:47:10', '1633530', '002.005.173/0001-28');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('siop.gov.br', '2012-06-27 18:04:07', '2012-06-27 18:04:07', '10078525', '000.489.828/0008-21');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('sisbin.gov.br', '2005-05-25 12:05:59', '2014-11-18 13:19:26', '2158741', '001.175.497/0001-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('dprf.gov.br', '1998-10-05 12:29:15', '2016-02-02 11:36:17', '117380', '000.394.494/0104-41');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('publicgovernance.gov.br', '2014-08-12 18:30:34', '2014-09-10 19:50:41', '13183982', '000.414.607/0001-18');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('codern.gov.br', '2011-12-15 12:52:59', '2011-12-15 12:52:59', '9218722', '034.040.345/0001-90');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('gnre.gov.br', '2005-04-04 18:47:26', '2011-09-14 14:41:53', '2050041', '033.683.111/0001-07');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cidadania.gov.br', '2000-10-25 12:50:30', '2014-01-22 15:58:20', '448648', '000.530.279/0004-68');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('edemocracia.gov.br', '2009-06-15 18:47:42', '2015-06-15 17:37:33', '5587853', '000.530.352/0001-59');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('btn.gov.br', '2004-02-27 19:17:13', '2014-07-10 14:19:22', '1525676', '000.394.536/0009-96');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('portaldacopa.gov.br', '2011-11-09 12:25:01', '2014-07-03 13:10:21', '9097409', '002.961.362/0001-74');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('bdep.gov.br', '2001-09-21 12:54:52', '2015-08-18 11:50:53', '640628', '002.313.673/0002-08');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('gestaopublica.gov.br', '2000-10-23 17:04:11', '2014-01-22 17:32:37', '451899', '002.927.863/0001-34');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('cauam.gov.br', '2015-05-06 21:00:57', '2015-05-06 21:00:57', '14122546', '014.702.767/0001-77');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('politicasmulheres.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:07:19', '6426226', '005.510.958/0001-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('crtr01.gov.br', '2011-07-15 12:27:10', '2011-07-15 12:27:10', '8567176', '003.657.392/0001-54');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('infoseg.gov.br', '2003-06-11 10:41:21', '2015-07-02 20:42:18', '1233804', '000.394.494/0005-60');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('teimozinha.gov.br', '2000-08-04 21:18:02', '2015-07-16 21:36:41', '399410', '000.360.305/0674-46');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('ceara.gov.br', '1995-08-21 12:00:00', '2014-05-06 19:30:28', '0', '007.954.480/0001-79');
-INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('odmbrasil.gov.br', '2012-05-21 13:31:12', '2012-05-21 13:31:12', '9831924', '000.394.411/0001-09');
+INSERT INTO Dominios (domain, data_cadastro, ultima_atualizacao, ticket, documento) VALUES ('coren-ap.gov.br', '2012-04-26 19:39:27', '2014-08-18 12:02:12', '9778847', '000.593.411/0001-38'),
+('rni.gov.br', '1997-08-29 12:00:00', '2003-02-25 21:40:53', '54733', '008.469.280/0001-93'),
+('comprasnet.gov.br', '1999-03-26 13:15:35', '2011-05-02 12:07:33', '149989', '033.683.111/0001-07'),
+('trf3.gov.br', '1998-08-24 17:57:05', '2015-08-04 21:14:19', '111967', '059.949.362/0001-76'),
+('caixacultural.gov.br', '2005-05-17 11:42:54', '2015-07-16 18:55:07', '2119071', '000.360.305/0001-04'),
+('fbn.gov.br', '2013-01-31 15:29:54', '2016-04-18 11:56:21', '10957415', '040.176.679/0001-99'),
+('crbiopr.gov.br', '2009-05-15 16:23:16', '2012-03-21 19:42:59', '5558323', '007.863.214/0001-30'),
+('encomex.gov.br', '2005-04-04 13:01:21', '2013-05-10 19:23:18', '2044957', '000.394.478/0002-24'),
+('dfa-ba.gov.br', '1998-09-25 21:05:21', '1998-09-25 18:05:21', '118491', '000.396.895/0024-11'),
+('btig.gov.br', '2013-05-06 15:12:15', '2014-07-10 14:19:34', '11385270', '000.394.536/0009-96'),
+('corenmg.gov.br', '2009-03-16 17:03:10', '2015-08-28 15:12:36', '5285332', '021.699.889/0001-17'),
+('contracorrupcao.gov.br', '2015-12-03 16:42:13', '2016-04-15 19:06:19', '14981148', '005.914.685/0001-03'),
+('tre-pi.gov.br', '1998-08-12 13:39:50', '2015-01-08 21:14:32', '110090', '000.509.018/0016-08'),
+('investexportbrazil.gov.br', '2015-09-11 14:34:24', '2015-09-11 14:34:24', '14641557', '000.394.536/0009-96'),
+('ec.gov.br', '2010-07-13 18:21:21', '2012-11-26 17:36:50', '7050960', '000.394.544/0008-51'),
+('antarcticabrazil.gov.br', '2013-05-13 17:43:02', '2013-05-13 17:43:02', '11436908', '000.394.536/0006-43'),
+('dialoga.gov.br', '2015-04-14 17:49:35', '2015-04-14 17:49:35', '14062641', '000.394.411/0001-09'),
+('eafsrbonfim.gov.br', '1999-06-24 13:57:42', '2007-10-12 14:17:56', '167497', '000.853.966/0001-71'),
+('cnfcp.gov.br', '2008-07-21 19:58:06', '2015-02-24 15:10:40', '4643851', '026.474.056/0031-97'),
+('mt.gov.br', '1996-11-28 12:00:00', '2013-06-21 15:33:46', '0', '003.507.415/0001-44'),
+('ppcaam.gov.br', '2010-10-14 18:58:58', '2010-10-14 18:58:58', '7326223', '005.478.625/0001-87'),
+('anssaude.gov.br', '2001-04-02 19:55:39', '2004-07-13 14:12:39', '540691', '003.589.068/0001-46'),
+('e-contacaixa.gov.br', '2001-12-17 19:18:37', '2002-12-18 15:53:43', '685789', '000.360.305/2714-85'),
+('saudenacopa.gov.br', '2014-05-26 10:58:30', '2014-08-08 17:44:20', '12916924', '000.530.493/0001-71'),
+('jornadasdip.gov.br', '2005-11-01 17:58:09', '2011-09-06 22:47:55', '2449362', '000.394.536/0012-91'),
+('brasil.gov.br', '1996-12-06 11:00:00', '2010-03-28 17:35:05', '24188', '000.394.411/0001-09'),
+('crecisp.gov.br', '2008-06-12 20:58:57', '2014-06-23 02:00:07', '4538779', '062.655.246/0001-59'),
+('bacen.gov.br', '1996-11-26 11:00:00', '2015-06-17 22:19:54', '0', '000.038.166/0001-05'),
+('siorg.gov.br', '2010-03-01 15:01:35', '2014-01-22 17:36:02', '6524018', '000.489.828/0003-17'),
+('codesa.gov.br', '2004-04-19 13:37:14', '2015-12-31 14:27:13', '1600186', '027.316.538/0001-66'),
+('ro.gov.br', '1997-03-04 12:00:00', '2016-01-25 17:37:05', '0', '004.798.328/0001-56'),
+('creciba.gov.br', '2014-03-11 16:24:02', '2016-04-05 17:01:59', '12666007', '015.245.848/0001-58'),
+('comprasgovernamentais.gov.br', '2014-01-15 18:39:16', '2014-01-15 18:39:16', '12435180', '033.683.111/0001-07'),
+('federal.gov.br', '2000-08-04 21:17:49', '2015-07-16 20:56:33', '399415', '000.360.305/0655-83'),
+('sintegra.gov.br', '1998-01-16 12:25:08', '2011-05-02 12:10:39', '82349', '033.683.111/0001-07'),
+('saudesuplementar.gov.br', '2000-08-08 19:33:52', '2004-07-13 14:13:29', '396034', '003.589.068/0001-46'),
+('amazonfund-bndes.gov.br', '2009-03-17 14:38:40', '2014-02-13 23:08:30', '5310107', '033.657.248/0001-89'),
+('cauac.gov.br', '2012-07-06 12:40:58', '2015-04-29 13:53:57', '10045896', '014.702.767/0001-77'),
+('lai.gov.br', '2014-04-08 19:15:07', '2016-04-15 19:07:16', '12773600', '005.914.685/0001-03'),
+('esmpu.gov.br', '2003-01-07 10:09:15', '2013-06-10 15:19:56', '1045091', '003.920.829/0001-09'),
+('esporte.gov.br', '2003-01-22 11:34:25', '2008-04-19 23:43:20', '1061511', '002.961.362/0001-74'),
+('crbio-02.gov.br', '2009-02-16 11:03:30', '2009-02-16 11:03:30', '5228642', '002.452.608/0001-82'),
+('conseg.gov.br', '2008-09-01 15:12:35', '2009-01-09 17:50:15', '4814165', '000.394.494/0018-84'),
+('brasil-rounds.gov.br', '2001-10-19 10:56:59', '2015-08-18 12:28:29', '659465', '002.313.673/0002-08'),
+('conasp.gov.br', '2009-11-16 17:11:34', '2013-11-12 17:17:34', '6231775', '000.394.494/0005-60'),
+('passaporteverde.gov.br', '2009-02-16 19:16:51', '2016-04-11 13:34:48', '5271410', '037.115.375/0002-98'),
+('rpp.gov.br', '1998-05-08 18:23:38', '2001-02-09 20:58:17', '95057', '000.422.744/0001-02'),
+('orcamento.gov.br', '2012-06-27 18:04:07', '2012-06-27 18:04:07', '10078555', '000.489.828/0008-21'),
+('tradepromotion.gov.br', '2012-05-24 17:29:54', '2014-07-10 14:15:37', '9837295', '000.394.536/0009-96'),
+('trt-sp.gov.br', '1999-06-11 19:04:24', '2016-02-15 21:13:27', '168315', '003.241.738/0001-39'),
+('procel.gov.br', '2000-11-06 18:41:03', '2009-10-05 18:54:36', '453438', '000.001.180/0002-07'),
+('chequeazul.gov.br', '2000-08-04 20:46:57', '2015-07-16 20:40:04', '399389', '000.360.305/0674-46'),
+('viibra.gov.br', '2014-03-05 15:21:22', '2014-03-05 15:21:22', '12568537', '000.530.279/0004-68'),
+('radiocamara.gov.br', '2009-10-08 18:22:41', '2015-06-15 18:34:33', '6001342', '000.530.352/0001-59'),
+('viversemlimite.gov.br', '2012-08-28 18:02:37', '2012-08-28 18:02:37', '10385025', '005.478.625/0001-87'),
+('eletrobras.gov.br', '1996-01-09 12:00:00', '2014-07-02 19:56:36', '5023', '000.001.180/0002-07'),
+('documenta.gov.br', '2003-07-03 19:51:25', '2016-04-18 11:54:46', '1255106', '040.176.679/0001-99'),
+('amazonfund.gov.br', '2009-03-17 14:54:06', '2014-02-27 23:16:39', '5310125', '033.657.248/0001-89'),
+('rio.gov.br', '2000-07-28 20:03:11', '2009-09-18 14:31:58', '394341', '029.468.063/0001-59'),
+('rffsa.gov.br', '1996-12-11 11:00:00', '2015-07-31 13:19:10', '24888', '033.613.332/0001-09'),
+('cnarq.gov.br', '2011-08-30 16:16:01', '2015-05-21 20:19:05', '8724474', '004.374.067/0001-47'),
+('mtps.gov.br', '2016-02-25 23:45:28', '2016-03-04 00:04:42', '15231628', '023.612.685/0001-22'),
+('ans.gov.br', '2000-07-28 17:28:45', '2013-08-10 00:19:36', '377463', '003.589.068/0001-46'),
+('crescenordeste.gov.br', '2004-05-03 12:33:33', '2011-05-30 18:45:57', '1615211', '007.237.373/0001-20'),
+('investecaixa.gov.br', '2001-10-25 19:55:49', '2002-12-18 15:55:17', '650497', '000.360.305/2714-85'),
+('epl.gov.br', '2012-10-10 13:30:20', '2014-12-05 22:46:47', '10453651', '015.763.423/0001-30'),
+('portalplanalto.gov.br', '2011-08-08 10:45:44', '2014-09-22 17:08:33', '8638146', '009.234.494/0001-43'),
+('crm.gov.br', '2000-07-04 16:40:21', '2009-04-20 19:56:37', '373927', '092.724.145/0001-53'),
+('cprm-be.gov.br', '1997-01-18 11:00:00', '2001-08-01 22:07:49', '28066', '000.091.652/0005-02'),
+('energiabrasil.gov.br', '2001-06-01 13:26:50', '2009-02-14 13:47:04', '573428', '037.115.383/0005-87'),
+('opeixeeaartedepescar.gov.br', '2009-04-16 19:33:00', '2015-06-15 12:43:32', '5472238', '000.530.352/0001-59'),
+('genero.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:06:34', '6426222', '009.234.494/0001-43'),
+('fonoaudiologia-1.gov.br', '2009-07-03 20:16:53', '2015-03-19 20:03:54', '5733993', '032.243.313/0001-67'),
+('prf.gov.br', '2003-05-30 19:43:46', '2016-02-02 11:30:51', '1227299', '000.394.494/0104-41'),
+('softwarelivre.gov.br', '2003-06-24 10:57:23', '2011-05-02 12:10:52', '1254667', '033.683.111/0001-07'),
+('protocolointegrado.gov.br', '2013-03-21 12:02:07', '2014-01-22 17:28:34', '11219354', '000.489.828/0001-55'),
+('comunidadenegra.gov.br', '2000-07-12 18:59:03', '2004-08-25 11:46:46', '366436', '046.379.400/0001-50'),
+('mda.gov.br', '2000-05-22 18:31:57', '2015-06-08 21:57:34', '339586', '001.612.452/0001-97'),
+('inma.gov.br', '2014-09-08 14:57:20', '2016-02-26 13:29:02', '13289016', '010.898.596/0010-33'),
+('xn--certidodenascimento-0vb.gov.br', '2009-09-15 18:45:33', '2015-01-13 12:49:33', '5978128', '005.478.625/0001-87'),
+('cauma.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:57:03', '10046002', '014.702.767/0001-77'),
+('eafmuz.gov.br', '2001-06-07 20:57:31', '2009-01-24 16:13:51', '578355', '073.933.178/0001-69'),
+('unijus.gov.br', '2006-09-26 17:47:46', '2016-02-11 13:26:48', '3075238', '000.488.478/0001-02'),
+('cdp-ahitar.gov.br', '2001-10-18 18:48:55', '2011-08-03 18:14:30', '653114', '004.933.552/0011-85'),
+('irb-brasilre.gov.br', '2009-06-16 14:19:39', '2015-08-18 16:46:18', '5575493', '033.376.989/0001-91'),
+('am.gov.br', '1996-11-28 12:00:00', '2015-10-13 12:16:32', '0', '004.407.920/0001-80'),
+('igam.gov.br', '1998-03-19 19:52:46', '1998-03-19 16:52:46', '89689', '017.387.481/0001-32'),
+('gestaoemdestaque.gov.br', '2013-08-19 19:17:54', '2014-01-22 17:26:06', '11866076', '000.489.828/0001-55'),
+('quiosque.gov.br', '2002-05-14 19:51:53', '2011-05-02 12:09:44', '846503', '033.683.111/0001-07'),
+('bnb.gov.br', '1996-04-24 12:00:00', '2016-06-07 13:24:25', '7114', '007.237.373/0001-20'),
+('portosdobrasil.gov.br', '2007-07-16 13:37:21', '2007-07-16 13:37:21', '3736210', '000.394.411/0001-09'),
+('senasp.gov.br', '2010-05-13 13:32:35', '2015-10-28 10:40:05', '6855036', '000.394.494/0005-60'),
+('corensc.gov.br', '2009-11-16 17:27:01', '2016-02-05 14:36:46', '6232598', '075.308.106/0001-56'),
+('minc.gov.br', '1995-10-30 12:00:00', '2014-07-04 11:20:35', '4416', '001.264.142/0002-00'),
+('recadastramento.gov.br', '2013-02-18 10:59:04', '2015-02-13 13:12:37', '11080147', '000.489.828/0001-55'),
+('cnrh.gov.br', '2008-09-09 13:05:26', '2011-03-11 19:49:31', '4837697', '037.115.375/0003-79'),
+('cartaobndes.gov.br', '2002-05-02 13:40:46', '2014-11-17 15:59:41', '810139', '033.657.248/0001-89'),
+('cprm-ma.gov.br', '2001-01-23 12:07:05', '2002-12-30 14:57:15', '500371', '000.091.652/0004-21'),
+('caupb.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:58:15', '10046027', '014.702.767/0001-77'),
+('amazoniafundo-bndes.gov.br', '2009-03-17 14:38:39', '2014-02-13 23:08:56', '5310091', '033.657.248/0001-89'),
+('cgna.gov.br', '2001-12-26 18:40:12', '2015-09-14 17:29:59', '701713', '000.394.429/0048-74'),
+('xn--assistnciasocial-xqb.gov.br', '2005-09-09 13:06:14', '2005-09-09 12:00:00', '2340762', '042.422.253/0014-18'),
+('to.gov.br', '1998-02-02 11:00:00', '2015-08-17 20:42:50', '84697', '001.786.011/0001-01'),
+('justica.gov.br', '2002-02-01 13:49:06', '2013-04-04 14:36:08', '724843', '000.394.494/0013-70'),
+('desenvolvimentosocial.gov.br', '2004-03-23 15:06:49', '2014-06-13 13:28:12', '1580366', '005.756.246/0001-01'),
+('hpiedade.gov.br', '1998-10-02 13:50:08', '2001-08-14 19:17:07', '117547', '000.394.544/0209-68'),
+('trt13.gov.br', '1998-01-16 12:25:33', '2013-05-14 17:22:30', '82541', '000.509.968/0014-62'),
+('sg.gov.br', '2010-01-13 14:04:12', '2016-05-02 14:55:38', '6426184', '010.366.249/0001-79'),
+('prove.gov.br', '1998-07-16 12:12:51', '2001-08-16 14:55:37', '104260', '000.509.612/0001-04'),
+('abgf.gov.br', '2013-12-26 09:38:27', '2015-08-17 21:31:49', '12374398', '017.909.518/0001-45'),
+('brazilglobalnet.gov.br', '2011-05-05 16:07:36', '2014-07-10 14:19:59', '8249899', '000.394.536/0009-96'),
+('trt-pe.gov.br', '1997-11-14 11:00:00', '2013-01-05 14:46:04', '69522', '000.509.968/0007-33'),
+('condraf.gov.br', '2016-06-01 19:43:51', '2016-06-01 19:43:51', '15654749', '001.612.452/0001-97'),
+('cultura.gov.br', '1996-08-16 12:00:00', '2014-05-12 22:56:29', '14100', '001.264.142/0002-00'),
+('cef.gov.br', '1996-01-01 12:00:00', '2015-07-16 20:39:01', '0', '000.360.305/0001-04'),
+('crecito.gov.br', '2016-03-16 19:18:31', '2016-03-16 19:18:31', '15262151', '038.145.157/0001-88'),
+('prt16.gov.br', '1999-01-21 12:40:01', '2005-03-22 23:21:33', '135261', '026.989.715/0047-95'),
+('governancadosolo.gov.br', '2014-09-16 12:10:58', '2014-09-16 12:10:58', '13309483', '000.414.607/0001-18'),
+('trf4.gov.br', '1998-06-19 20:44:29', '2015-11-05 11:55:59', '102774', '092.518.737/0001-19'),
+('lotofacil.gov.br', '2000-08-04 21:17:56', '2015-07-16 21:22:23', '399433', '000.360.305/2399-13'),
+('matopiba.gov.br', '2015-08-21 19:31:25', '2015-08-21 19:31:25', '14547161', '000.396.895/0011-05'),
+('dtceamt.gov.br', '2009-09-30 13:36:06', '2015-10-01 17:37:21', '5995666', '000.394.429/0094-00'),
+('maranhao.gov.br', '1999-04-19 19:41:34', '2014-09-17 22:35:23', '155160', '063.574.479/0001-90'),
+('cft.gov.br', '2011-09-27 18:22:43', '2011-09-27 18:22:43', '8860780', '005.032.746/0001-09'),
+('projovem.gov.br', '2006-06-09 19:57:18', '2015-06-08 15:11:53', '2844020', '007.490.910/0001-49'),
+('aeroportoindustrial.gov.br', '2002-01-29 18:45:44', '2013-01-09 11:34:28', '719697', '000.352.294/0001-10'),
+('congresso.gov.br', '1997-04-17 12:00:00', '2014-01-24 19:37:52', '36816', '000.530.279/0004-68'),
+('planalto.gov.br', '1996-04-16 12:00:00', '2016-04-21 17:28:45', '6787', '000.394.411/0001-09'),
+('prodemge.gov.br', '1996-01-01 12:00:00', '2013-08-13 15:28:48', '0', '016.636.540/0001-04'),
+('crm-rj.gov.br', '2008-12-01 12:46:33', '2015-07-04 13:49:37', '5089377', '031.027.527/0001-33'),
+('integracao.gov.br', '2000-02-16 17:16:56', '2013-09-25 17:50:14', '258232', '003.353.358/0001-96'),
+('creci-al.gov.br', '2001-05-03 12:03:35', '2014-10-17 14:09:41', '555205', '012.475.711/0001-00'),
+('pronera.gov.br', '2000-06-27 20:05:53', '2010-11-16 13:07:52', '371259', '001.612.452/0001-97'),
+('e-stj.gov.br', '2004-04-28 18:40:10', '2015-11-03 18:03:40', '1617198', '000.488.478/0001-02'),
+('ppsa.gov.br', '2014-03-11 13:13:17', '2014-03-11 13:13:17', '12625848', '018.738.727/0001-36'),
+('dpr.gov.br', '2014-12-11 09:19:35', '2014-12-11 09:19:35', '13644210', '000.394.536/0009-96'),
+('mpt.gov.br', '1995-11-13 12:00:00', '2014-07-05 17:50:52', '4515', '026.989.715/0005-36'),
+('sepm.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:21:25', '6426170', '005.510.958/0001-46'),
+('energiaboavista.gov.br', '2000-09-12 12:00:20', '2008-12-10 12:11:46', '414887', '000.357.038/0001-16'),
+('sipia.gov.br', '2011-09-30 16:35:51', '2013-02-26 15:50:22', '8862007', '005.478.625/0001-87'),
+('xn--servios-yxa.gov.br', '2012-02-23 09:53:25', '2014-01-22 17:29:15', '9507560', '000.489.828/0001-55'),
+('eaf-sbf.gov.br', '1998-04-15 13:14:19', '2007-10-12 14:17:43', '93030', '000.853.966/0001-71'),
+('jfrn.gov.br', '1998-01-16 12:22:14', '2010-09-05 05:20:41', '80611', '000.508.903/0020-40'),
+('varadafazenda.gov.br', '2004-07-22 18:15:37', '2016-02-11 13:27:03', '1734201', '000.488.478/0001-02'),
+('maerj.gov.br', '1997-03-14 12:00:00', '2005-03-19 10:04:05', '33239', '000.394.429/0129-74'),
+('florestal.gov.br', '2007-07-23 13:51:07', '2013-04-24 18:34:41', '3751211', '037.115.375/0002-98'),
+('causc.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:01:01', '10258008', '014.702.767/0001-77'),
+('coredopiaui.gov.br', '2014-09-01 17:26:31', '2014-09-01 17:26:31', '13238042', '006.518.666/0001-12'),
+('ctir.gov.br', '2004-12-17 17:03:07', '2013-02-22 18:56:02', '1940214', '000.394.411/0001-09'),
+('trtes.gov.br', '2007-08-07 17:07:39', '2015-08-15 04:46:10', '3761923', '002.488.507/0001-61'),
+('e-jus.gov.br', '2004-05-11 12:04:16', '2016-02-11 13:26:11', '1608962', '000.488.478/0001-02'),
+('pgi.gov.br', '2013-12-04 19:39:17', '2014-01-22 17:28:12', '12303676', '000.489.828/0001-55'),
+('cfbm.gov.br', '2015-11-17 12:39:52', '2015-11-17 12:39:52', '14932442', '052.391.703/0001-91'),
+('tjdf.gov.br', '1997-10-09 11:00:00', '2016-02-25 22:10:43', '62157', '000.531.954/0001-20'),
+('reformapostal.gov.br', '2000-01-17 13:47:32', '2016-06-04 00:51:19', '240586', '034.028.316/0001-03'),
+('cofeci.gov.br', '2001-05-04 22:26:09', '2014-02-05 16:28:15', '549534', '062.658.737/0001-53'),
+('aleam.gov.br', '2000-11-13 17:30:54', '2000-11-13 15:30:54', '453845', '004.530.820/0001-46'),
+('caumg.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:58:07', '10046005', '014.702.767/0001-77'),
+('mme.gov.br', '1996-07-17 12:00:00', '2012-09-18 12:45:52', '11916', '037.115.383/0005-87'),
+('hrps.gov.br', '1998-08-25 14:05:37', '2001-08-14 19:16:43', '110087', '000.394.544/0065-40'),
+('metrobh.gov.br', '2003-02-05 13:19:03', '2015-06-20 01:18:16', '1082083', '042.357.483/0005-50'),
+('crmvpaap.gov.br', '2001-02-06 19:19:33', '2012-11-07 14:27:16', '498670', '004.798.070/0001-98'),
+('tre-ac.gov.br', '1998-08-12 12:39:07', '2015-01-08 20:20:40', '109494', '000.509.018/0023-29'),
+('crq13.gov.br', '2010-05-12 19:15:00', '2014-07-26 02:54:43', '6834102', '079.887.659/0001-61'),
+('ibama.gov.br', '1996-01-01 12:00:00', '2006-03-31 22:35:07', '0', '003.659.166/0001-02'),
+('coren-ba.gov.br', '2014-05-13 01:55:08', '2016-03-11 22:19:59', '12865901', '015.679.277/0001-60'),
+('crbio06.gov.br', '2010-01-26 13:24:20', '2010-01-26 13:24:20', '6457619', '007.934.511/0001-20'),
+('ceturb.gov.br', '2000-05-29 19:31:32', '2008-08-27 12:16:52', '346479', '028.503.894/0001-51'),
+('rrc.gov.br', '2015-10-27 11:26:54', '2015-10-27 11:26:54', '14852395', '001.263.896/0021-08'),
+('eletronorte.gov.br', '2000-08-09 22:35:19', '2013-01-02 16:51:12', '396358', '000.357.038/0001-16'),
+('eafmanaus.gov.br', '2003-05-21 18:20:39', '2009-01-27 15:39:20', '1192881', '084.490.572/0001-96'),
+('defesaagropecuaria.gov.br', '1998-07-06 14:21:56', '2000-05-03 18:21:19', '104435', '000.396.895/0042-01'),
+('eafsertao.gov.br', '2001-08-22 19:18:41', '2009-08-31 19:00:24', '617601', '073.878.324/0001-09'),
+('ceplacpa.gov.br', '2001-07-11 19:40:32', '2007-10-09 17:05:41', '599550', '033.004.300/0101-60'),
+('caudf.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:56:59', '10045995', '014.702.767/0001-77'),
+('bioform.gov.br', '2013-04-01 12:23:27', '2013-04-01 12:23:27', '11267724', '033.683.111/0001-07'),
+('dominiopublico.gov.br', '2004-10-28 19:29:27', '2014-01-23 12:08:06', '1865552', '000.394.445/0003-65'),
+('humanizaredes.gov.br', '2015-03-30 17:35:13', '2015-03-30 17:35:13', '14006177', '005.478.625/0001-87'),
+('eafst.gov.br', '2003-05-26 18:32:22', '2012-04-19 11:38:39', '1205521', '032.405.268/0001-08'),
+('pgr.gov.br', '2005-07-14 12:39:21', '2012-09-06 22:16:17', '2236217', '026.989.715/0050-90'),
+('tre-ro.gov.br', '1998-08-05 19:21:59', '2015-01-08 21:17:03', '108620', '004.565.735/0001-13'),
+('prt4.gov.br', '2000-12-15 12:49:51', '2006-11-24 14:50:45', '480574', '026.989.715/0035-51'),
+('pac.gov.br', '2007-05-04 18:08:04', '2015-05-15 20:09:41', '3544303', '033.683.111/0001-07'),
+('desafios.gov.br', '2015-07-28 11:40:34', '2015-07-28 11:40:34', '14461468', '000.489.828/0001-55'),
+('servicoflorestal.gov.br', '2006-10-16 18:00:06', '2013-02-15 21:01:30', '3069138', '037.115.375/0002-98'),
+('trt10.gov.br', '1996-01-23 12:00:00', '2006-08-29 19:51:29', '5134', '002.011.574/0001-90'),
+('cenpra.gov.br', '2002-01-11 12:47:29', '2015-01-08 12:16:41', '703453', '004.822.500/0001-60'),
+('funpresp.gov.br', '2013-09-05 18:03:50', '2016-04-11 17:27:50', '11875493', '017.312.597/0001-02'),
+('servicos.gov.br', '2010-05-18 17:59:45', '2014-01-22 17:29:04', '6803183', '000.489.828/0001-55'),
+('renaqua.gov.br', '2014-09-17 20:40:37', '2014-09-17 20:40:37', '13294206', '005.482.692/0001-75'),
+('aeroportodebrasilia.gov.br', '2002-11-12 10:56:02', '2013-01-09 11:34:42', '1008124', '000.352.294/0001-10'),
+('cremesp.gov.br', '2011-01-17 13:19:16', '2013-10-20 21:04:57', '7771407', '063.106.843/0001-97'),
+('crq12.gov.br', '2014-10-24 12:58:01', '2016-02-17 10:03:44', '13405959', '001.759.984/0001-51'),
+('selic.gov.br', '2010-07-28 12:18:08', '2011-03-30 02:25:07', '7082360', '000.038.166/0010-98'),
+('previc.gov.br', '2013-11-05 09:41:27', '2015-08-17 16:29:00', '12172583', '007.290.290/0001-02'),
+('trt11.gov.br', '1997-12-11 11:00:00', '2011-04-13 16:17:59', '74971', '001.671.187/0001-18'),
+('cauto.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:04:28', '10257986', '014.702.767/0001-77'),
+('amazoniafundo.gov.br', '2009-03-17 14:54:06', '2014-02-13 23:09:13', '5310130', '033.657.248/0001-89'),
+('ministeriodomeioambiente.gov.br', '2001-08-13 20:13:15', '2016-04-11 13:25:33', '615402', '037.115.375/0002-98'),
+('dtceatmrj.gov.br', '2010-03-17 19:11:32', '2015-10-01 18:11:04', '6644696', '000.394.429/0094-00'),
+('proinfa.gov.br', '2002-04-18 14:55:25', '2013-04-15 21:36:41', '784297', '000.001.180/0002-07'),
+('copa2014.gov.br', '2010-05-25 19:48:36', '2013-12-11 13:45:12', '6904353', '002.961.362/0001-74'),
+('cop15brasil.gov.br', '2009-11-19 17:31:34', '2014-09-22 17:06:01', '6289632', '009.234.494/0001-43'),
+('abrasil.gov.br', '1999-08-20 11:50:34', '2014-01-22 17:24:26', '190313', '000.489.828/0001-55'),
+('transparencia.gov.br', '2004-12-07 13:21:31', '2016-04-15 19:08:10', '1904753', '005.914.685/0001-03'),
+('federalcap.gov.br', '2000-08-04 21:17:50', '2015-07-16 20:56:48', '399404', '000.360.305/0674-46'),
+('avozdobrasil.gov.br', '2016-01-18 13:07:22', '2016-01-18 13:07:22', '15079605', '009.168.704/0001-42'),
+('ctis.gov.br', '2000-06-01 18:50:25', '2010-11-16 13:07:45', '345437', '001.612.452/0001-97'),
+('justicaeleitoral.gov.br', '2001-08-01 17:09:46', '2015-02-03 17:46:27', '614308', '000.509.018/0001-13'),
+('sisbacen.gov.br', '1998-12-31 00:24:19', '2016-05-18 21:19:24', '135007', '000.038.166/0001-05'),
+('vicepresidenciadarepublica.gov.br', '2000-04-10 16:46:11', '2007-07-10 23:18:08', '303886', '000.894.355/0001-71'),
+('agriculturafamiliar.gov.br', '2000-06-27 20:05:34', '2015-03-10 17:24:52', '369570', '001.612.452/0001-97'),
+('anapost.gov.br', '2000-02-01 18:09:06', '2015-04-02 17:15:52', '246117', '034.028.316/0001-03'),
+('crbio03.gov.br', '2009-01-28 18:46:22', '2016-04-01 14:50:07', '5209812', '004.053.157/0001-36'),
+('infopen.gov.br', '2010-06-07 12:00:46', '2013-04-04 14:38:18', '6924089', '000.394.494/0013-70'),
+('profae.gov.br', '2001-11-21 17:47:24', '2006-02-01 20:10:19', '682101', '003.009.608/0001-75'),
+('pessoacomdeficiencia.gov.br', '2010-10-29 18:04:08', '2015-03-30 18:31:41', '7492842', '005.478.625/0001-87'),
+('relacoesexteriores.gov.br', '2013-05-02 18:48:19', '2013-05-08 14:38:51', '11413282', '000.394.536/0006-43'),
+('itaipu.gov.br', '1996-10-15 11:00:00', '2014-10-09 19:33:58', '18930', '000.395.988/0014-50'),
+('aneel.gov.br', '1998-01-16 12:21:47', '2011-09-20 21:11:59', '80028', '002.270.669/0001-29'),
+('crecidf.gov.br', '2012-01-12 13:23:50', '2015-10-14 17:07:34', '9323584', '000.105.650/0001-00'),
+('juntoscontracorrupcao.gov.br', '2015-12-03 16:42:13', '2016-04-15 19:07:09', '14981141', '005.914.685/0001-03'),
+('certics.gov.br', '2012-09-17 10:37:17', '2015-01-08 12:17:16', '10433403', '004.822.500/0001-60'),
+('portodevitoria.gov.br', '2004-04-19 13:37:14', '2015-12-31 21:36:19', '1600188', '027.316.538/0001-66'),
+('brasilsemmiseria.gov.br', '2011-05-26 16:59:26', '2013-10-14 11:21:34', '8329582', '033.683.111/0001-07'),
+('portosrio.gov.br', '1998-02-27 18:13:54', '2014-08-15 21:24:50', '87552', '042.266.890/0001-28'),
+('premioconservacaoenergia.gov.br', '2009-03-24 20:07:14', '2013-04-15 21:36:17', '5379045', '000.001.180/0002-07'),
+('consegi.gov.br', '2008-04-30 19:14:28', '2011-05-02 12:07:57', '4409079', '033.683.111/0001-07'),
+('labcluster.gov.br', '2012-10-26 09:30:37', '2014-01-22 17:27:24', '10664867', '000.489.828/0001-55'),
+('brasiltransparente.gov.br', '2000-08-21 15:35:49', '2011-05-02 12:07:11', '410725', '033.683.111/0001-07'),
+('jfsc.gov.br', '2000-01-27 13:13:23', '2014-10-16 23:50:19', '245517', '005.427.319/0001-11'),
+('rap.gov.br', '2012-11-28 13:56:45', '2014-02-17 13:32:14', '10744654', '028.305.936/0001-40'),
+('mls.gov.br', '2000-06-08 13:12:51', '2010-08-17 20:59:55', '345374', '026.474.056/0017-39'),
+('fundacentro-ba.gov.br', '1998-05-12 20:49:40', '2006-06-08 14:20:16', '95208', '062.428.073/0017-01'),
+('srpv-sp.gov.br', '2008-10-06 17:13:09', '2016-06-02 18:24:00', '4917000', '000.394.429/0094-00'),
+('xn--guiadeservios-sgb.gov.br', '2012-02-23 09:58:26', '2014-01-22 17:26:27', '9507597', '000.489.828/0001-55'),
+('eafa-to.gov.br', '2002-06-03 15:48:12', '2008-05-14 16:57:50', '855933', '025.064.890/0001-26'),
+('fab.gov.br', '2003-02-05 12:48:57', '2014-02-04 15:56:58', '1072309', '000.394.429/0122-06'),
+('crbio-7.gov.br', '2009-05-15 16:07:48', '2012-03-21 19:39:51', '5558288', '007.863.214/0001-30'),
+('servir.gov.br', '2013-02-05 13:24:36', '2014-01-22 17:29:24', '10991591', '000.489.828/0001-55'),
+('trtwap.gov.br', '2000-10-25 12:50:28', '2016-02-15 21:16:53', '442480', '003.241.738/0001-39'),
+('meioambientedobrasil.gov.br', '2001-08-13 20:13:16', '2016-04-11 13:23:52', '615403', '037.115.375/0002-98'),
+('ahinor.gov.br', '2007-11-09 15:07:23', '2007-11-09 15:07:23', '4051221', '006.347.892/0002-69'),
+('tradeandinvestment.gov.br', '2012-08-10 12:59:50', '2014-07-10 14:16:04', '10309351', '000.394.536/0009-96'),
+('obscriancaeadolescente.gov.br', '2010-05-11 19:47:19', '2015-01-13 12:48:40', '6846842', '005.478.625/0001-87'),
+('trt8.gov.br', '1996-10-29 11:00:00', '2015-05-20 16:09:08', '20714', '001.547.343/0001-33'),
+('convergenciademidias.gov.br', '2010-10-29 19:16:39', '2014-09-22 17:05:34', '7498154', '009.234.494/0001-43'),
+('investexportbrasil.gov.br', '2015-08-31 19:23:23', '2015-08-31 19:23:23', '14538608', '000.394.536/0009-96'),
+('mb.gov.br', '2009-08-07 13:48:46', '2016-01-26 12:13:59', '5858626', '000.394.502/0394-31'),
+('trt22.gov.br', '1997-06-25 12:00:00', '2014-09-27 14:23:01', '44732', '000.509.968/0087-18'),
+('portalpadrao.gov.br', '2014-09-18 11:26:31', '2016-05-10 21:01:34', '13338190', '009.234.494/0001-43'),
+('prsc.gov.br', '1996-08-12 12:00:00', '1999-08-26 12:00:00', '13786', '026.989.715/0029-03'),
+('redecontrole.gov.br', '2010-03-09 14:07:38', '2012-03-06 20:43:57', '6561807', '000.414.607/0001-18'),
+('e-pagamentoscaixa.gov.br', '2001-12-17 19:18:38', '2002-12-18 15:54:12', '685790', '000.360.305/2714-85'),
+('querovercultura.gov.br', '2015-12-15 13:08:02', '2015-12-15 13:08:02', '15015025', '001.264.142/0002-00'),
+('relacoesinstitucionais.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:09:17', '6426191', '011.475.667/0001-67'),
+('brazilenvironment-mobile.gov.br', '2001-08-13 20:13:18', '2016-04-11 13:09:33', '615408', '037.115.375/0002-98'),
+('invexbrasil.gov.br', '2015-06-18 17:46:43', '2015-06-18 17:46:43', '14289360', '000.394.536/0009-96'),
+('qualidadedealimentos.gov.br', '2008-06-16 12:20:09', '2013-04-04 14:36:13', '4527913', '000.394.494/0013-70'),
+('xn--notcias-9ya.gov.br', '2013-03-26 12:27:03', '2014-01-22 17:28:04', '11252298', '000.489.828/0001-55'),
+('correio.gov.br', '2000-02-01 18:09:22', '2016-01-19 17:46:40', '246912', '034.028.316/0001-03'),
+('enap.gov.br', '1997-09-10 12:00:00', '2016-04-05 19:35:19', '56937', '000.627.612/0001-09'),
+('museudoindio.gov.br', '2003-10-23 16:28:14', '2016-05-11 12:47:47', '1373769', '000.059.311/0002-07'),
+('crbm5.gov.br', '2013-03-25 12:18:05', '2013-03-25 12:18:05', '11259290', '013.738.204/0001-76'),
+('fundacentro.gov.br', '1997-02-03 11:00:00', '2013-07-15 18:04:03', '29635', '062.428.073/0001-36'),
+('acessoainformacao.gov.br', '2012-02-28 10:43:00', '2016-04-15 19:05:49', '9416110', '005.914.685/0001-03'),
+('cd.gov.br', '2010-06-15 10:33:14', '2015-06-08 17:33:22', '6952893', '000.530.352/0001-59'),
+('desenvolvimentoagrario.gov.br', '2000-05-22 18:31:50', '2015-09-02 21:18:12', '339594', '001.612.452/0001-97'),
+('segov.gov.br', '2016-02-17 12:37:44', '2016-02-17 12:37:44', '15186838', '010.366.249/0001-79'),
+('empresasimples.gov.br', '2013-11-11 18:31:44', '2013-11-11 18:31:44', '12212540', '033.683.111/0001-07'),
+('nordesteeletronico.gov.br', '2001-11-19 18:18:10', '2011-05-30 18:47:23', '663204', '007.237.373/0001-20'),
+('tre-rr.gov.br', '1998-08-05 19:21:58', '2015-01-08 21:17:31', '108319', '000.509.018/0026-71'),
+('faroldodesenvolvimento.gov.br', '2000-06-13 20:26:58', '2011-05-30 18:48:06', '362318', '007.237.373/0001-20'),
+('trtms.gov.br', '2003-10-17 19:31:51', '2016-01-14 23:10:28', '1399086', '037.115.409/0001-63'),
+('wikilegis.gov.br', '2009-06-15 18:47:42', '2015-06-15 14:55:51', '5587856', '000.530.352/0001-59'),
+('redefloresta.gov.br', '2004-03-05 12:48:15', '2010-05-12 11:22:33', '1546935', '000.357.038/0001-16'),
+('caues.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:57:00', '10045998', '014.702.767/0001-77'),
+('bolaofederal.gov.br', '2000-05-02 13:26:04', '2015-07-16 18:31:09', '323563', '000.360.305/0688-41'),
+('br.gov.br', '2013-11-18 18:20:41', '2013-11-18 18:20:41', '12262544', '033.683.111/0001-07'),
+('fnde.gov.br', '1998-11-17 15:57:35', '2016-02-24 12:06:54', '124561', '000.378.257/0001-81'),
+('ruralminas.gov.br', '1998-02-19 11:49:55', '2009-02-19 13:08:07', '86393', '017.291.105/0001-40'),
+('cepesc.gov.br', '1996-01-01 12:00:00', '2014-11-18 13:16:10', '0', '001.175.497/0001-41'),
+('eusoumaismedicos.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:37:29', '11933032', '015.126.437/0001-43'),
+('esamur.gov.br', '2000-05-23 13:26:52', '2006-08-28 19:15:06', '326150', '039.750.948/0001-08'),
+('creci-rs.gov.br', '2008-06-03 12:19:13', '2013-03-08 03:51:29', '4480248', '092.966.159/0001-83'),
+('fomezero.gov.br', '2003-01-22 18:05:33', '2013-10-23 20:18:24', '1073518', '000.394.411/0001-09'),
+('acessoajustica.gov.br', '2013-06-04 14:01:03', '2013-06-04 14:01:03', '11519349', '000.394.494/0013-70'),
+('interlegis.gov.br', '1997-07-07 12:00:00', '2014-09-16 18:25:50', '46196', '000.530.279/0004-68'),
+('lapa-pe.gov.br', '2001-03-27 17:19:12', '2001-03-27 14:19:12', '532987', '000.396.895/0021-79'),
+('car.gov.br', '2012-12-06 12:40:07', '2012-12-06 12:40:07', '10813198', '003.659.166/0001-02'),
+('traficodepessoas.gov.br', '2013-06-11 11:56:50', '2013-06-11 11:56:50', '11572672', '000.394.494/0013-70'),
+('tre-es.gov.br', '1998-07-23 20:25:15', '2015-01-08 21:08:38', '106347', '000.509.018/0007-09'),
+('fat.gov.br', '2010-03-17 18:09:28', '2016-02-05 20:41:46', '6639489', '037.115.367/0033-48'),
+('comercioeinvestimento.gov.br', '2012-05-11 12:36:20', '2014-07-10 14:17:18', '9837264', '000.394.536/0009-96'),
+('convenios.gov.br', '2008-04-14 11:55:04', '2014-01-22 17:35:46', '4388176', '000.489.828/0003-17'),
+('eafco.gov.br', '2000-10-26 19:18:03', '2012-05-18 19:44:43', '443829', '084.568.336/0001-45'),
+('dtceaaf.gov.br', '2009-10-01 19:28:22', '2015-10-01 17:51:34', '5995649', '000.394.429/0094-00'),
+('eafuberaba.gov.br', '2000-11-24 17:42:01', '2005-11-14 16:03:36', '469349', '073.925.414/0001-03'),
+('secretaria-geral.gov.br', '2010-01-13 14:19:41', '2016-05-02 14:58:06', '6426178', '010.366.249/0001-79'),
+('museuvictormeirelles.gov.br', '2010-08-19 13:17:50', '2012-09-03 18:38:52', '7123957', '010.898.596/0001-42'),
+('dnpm.gov.br', '1997-04-02 12:00:00', '2015-02-04 17:05:05', '35177', '000.381.056/0001-33'),
+('vozdobrasil.gov.br', '2016-01-18 13:07:22', '2016-01-18 13:07:22', '15079616', '009.168.704/0001-42'),
+('mct.gov.br', '1996-01-01 12:00:00', '2016-01-22 20:08:02', '0', '001.263.896/0003-26'),
+('funag.gov.br', '1998-05-21 20:01:01', '2011-12-21 12:52:11', '98256', '000.662.197/0001-24'),
+('brasilexport.gov.br', '2013-09-12 12:24:44', '2014-07-10 14:21:14', '11946792', '000.394.536/0009-96'),
+('esic.gov.br', '2014-04-08 18:14:52', '2016-04-15 19:06:47', '12756167', '005.914.685/0001-03'),
+('funai.gov.br', '1998-02-10 13:07:35', '2013-07-24 16:20:58', '83785', '000.059.311/0001-26'),
+('chesf.gov.br', '1996-04-17 12:00:00', '2015-05-27 18:40:12', '6832', '033.541.368/0001-16'),
+('trensurb.gov.br', '2002-01-21 20:35:04', '2014-11-27 14:26:53', '721838', '037.115.342/0001-67'),
+('dtceasj.gov.br', '2009-09-30 13:36:06', '2015-10-01 18:03:16', '5995680', '000.394.429/0094-00'),
+('diariodajustica.gov.br', '2006-05-19 12:22:53', '2014-10-08 15:32:12', '2804653', '000.531.640/0001-28'),
+('hcl.gov.br', '1998-07-02 19:06:02', '2006-07-31 14:49:00', '104334', '000.394.544/0213-44'),
+('monumenta.gov.br', '2001-06-25 18:04:03', '2015-01-07 17:03:16', '578452', '001.264.142/0002-00'),
+('trt15.gov.br', '1996-07-15 12:00:00', '2015-04-06 18:18:51', '11736', '000.509.968/0016-24'),
+('trevofederal.gov.br', '2000-05-02 13:26:24', '2015-07-16 21:40:29', '323580', '000.360.305/0688-41'),
+('portalambiental.gov.br', '2000-03-21 20:30:49', '2016-04-11 13:35:27', '285789', '037.115.375/0002-98'),
+('susep.gov.br', '1998-01-16 12:25:06', '2013-06-05 17:34:01', '82347', '042.354.068/0001-19'),
+('ibc.gov.br', '2004-06-08 20:28:32', '2016-06-19 17:16:07', '1675115', '000.394.445/0272-12'),
+('ac-jus.gov.br', '2005-01-05 10:25:29', '2014-03-25 13:11:16', '1943824', '000.508.903/0001-88'),
+('caixaresolve.gov.br', '2000-08-04 20:46:55', '2015-07-16 19:41:37', '399386', '000.360.305/0674-46'),
+('tre-ma.gov.br', '1998-08-31 13:27:02', '2015-01-08 21:11:31', '111330', '000.509.018/0009-70'),
+('telepar.gov.br', '1995-07-03 12:00:00', '2015-08-03 19:10:30', '0', '076.535.764/0001-43'),
+('tre-pa.gov.br', '1998-08-03 14:01:15', '2015-01-08 21:13:38', '106204', '000.509.018/0012-76'),
+('expresso.gov.br', '2010-11-04 13:02:45', '2011-05-02 12:08:23', '7502175', '033.683.111/0001-07'),
+('educacaofiscal.gov.br', '2001-12-20 18:58:26', '2001-12-20 16:58:26', '699467', '002.317.176/0001-05'),
+('environment.gov.br', '2001-08-13 20:13:13', '2016-04-11 13:22:02', '615399', '037.115.375/0002-98'),
+('fimdotrabalhoinfantil.gov.br', '2012-05-17 20:17:14', '2014-06-13 13:26:11', '9892296', '005.756.246/0001-01'),
+('comexresponde.gov.br', '2014-07-29 10:45:30', '2014-07-29 11:35:04', '13158446', '000.394.478/0002-24'),
+('ibge.gov.br', '1996-01-01 12:00:00', '2014-07-11 20:43:43', '0', '033.787.094/0001-40'),
+('eafrs.gov.br', '2002-05-29 12:29:48', '2011-10-13 21:38:16', '866902', '000.147.606/0001-54'),
+('chicomendes.gov.br', '2011-04-29 14:47:46', '2013-04-19 12:32:37', '8208630', '008.829.974/0001-94'),
+('coren-mt.gov.br', '2002-05-10 15:55:47', '2009-01-05 16:17:55', '820407', '008.336.841/0001-86'),
+('stm.gov.br', '1997-01-06 11:00:00', '2012-09-24 15:57:40', '27285', '000.497.560/0001-01'),
+('crbio3.gov.br', '2009-01-29 17:39:38', '2009-01-29 17:39:38', '5209815', '004.053.157/0001-36'),
+('irbbrasilre.gov.br', '2009-06-16 14:35:08', '2015-08-18 16:49:43', '5575522', '033.376.989/0001-91'),
+('cidadesdigitais.gov.br', '2013-08-28 14:37:05', '2013-08-28 14:37:05', '11909114', '033.683.111/0001-07'),
+('fiscalizacopa2014.gov.br', '2010-05-04 19:08:21', '2010-05-04 19:08:21', '6777584', '000.414.607/0001-18'),
+('tre-ms.gov.br', '1998-01-16 12:21:46', '2015-01-08 21:12:16', '80021', '000.509.018/0024-00'),
+('simulaminhacasaminhavida.gov.br', '2016-02-11 18:48:54', '2016-02-11 18:48:54', '15187580', '005.465.986/0001-99'),
+('rs.gov.br', '1996-09-06 12:00:00', '2014-12-16 11:11:41', '15966', '087.124.582/0001-04'),
+('infosoc.gov.br', '2000-07-20 14:02:14', '2014-08-05 23:16:38', '388869', '004.082.993/0001-49'),
+('caminhaofederal.gov.br', '2000-05-02 13:26:04', '2015-07-16 19:44:03', '323559', '000.360.305/0643-40'),
+('tjrn.gov.br', '1999-04-09 20:20:45', '2012-12-27 11:24:57', '147831', '008.546.459/0001-05'),
+('mtur.gov.br', '2003-01-16 11:26:33', '2014-09-20 22:07:14', '1066494', '033.741.794/0001-01'),
+('officebankingsocial.gov.br', '2000-08-04 21:17:59', '2015-07-16 21:26:37', '399409', '000.360.305/0674-46'),
+('portalgoverno.gov.br', '2002-07-15 11:48:25', '2011-09-14 14:42:24', '907366', '033.683.111/0001-07'),
+('mtbauru.gov.br', '2002-07-16 18:04:35', '2002-07-16 15:04:35', '913109', '037.115.367/0041-58'),
+('crmrj.gov.br', '2008-12-01 12:31:03', '2010-12-17 19:38:23', '5057878', '031.027.527/0001-33'),
+('censo2000.gov.br', '2000-07-26 13:34:48', '2011-07-30 22:00:36', '386036', '033.787.094/0001-40'),
+('caupr.gov.br', '2012-07-06 12:46:00', '2015-04-29 13:59:28', '10046051', '014.702.767/0001-77'),
+('finep.gov.br', '1996-01-01 12:00:00', '2014-11-05 18:05:17', '0', '033.749.086/0002-90'),
+('minhacasaminhavida.gov.br', '2009-04-08 00:23:47', '2009-04-08 00:23:47', '5419701', '000.394.411/0001-09'),
+('aeroshopping.gov.br', '2002-01-29 18:45:38', '2013-01-09 11:34:13', '719666', '000.352.294/0001-10'),
+('sptrt.gov.br', '1999-06-11 19:34:36', '2016-02-15 21:10:52', '168325', '003.241.738/0001-39'),
+('rapidinha.gov.br', '2000-08-04 21:18:00', '2015-07-16 21:31:10', '399421', '000.360.305/0655-83'),
+('tjap.gov.br', '1998-05-14 12:57:56', '2012-08-02 02:49:47', '97640', '034.870.576/0001-21'),
+('mestradoprofissional.gov.br', '2015-12-02 18:44:16', '2015-12-02 18:44:16', '14934291', '033.892.175/0001-00'),
+('datasus.gov.br', '1995-10-31 12:00:00', '2016-06-06 13:35:52', '4437', '000.394.544/0271-13'),
+('inmetro.gov.br', '1996-04-16 12:00:00', '2015-11-16 17:36:39', '6763', '000.662.270/0003-20'),
+('snis.gov.br', '2001-09-10 11:14:55', '2014-09-24 17:35:31', '624275', '005.465.986/0001-99'),
+('historiasdobrasil.gov.br', '2015-08-12 17:17:06', '2015-08-12 17:17:06', '14509106', '009.234.494/0001-43'),
+('eproc-rs.gov.br', '2003-08-05 11:52:44', '2012-04-24 14:55:50', '1289185', '005.442.380/0001-38'),
+('redesim.gov.br', '2014-09-02 19:04:42', '2014-09-02 19:04:42', '13280319', '033.683.111/0001-07'),
+('duplasena.gov.br', '2003-09-30 19:48:18', '2015-07-16 20:50:44', '1342309', '000.360.305/2399-13'),
+('trt01.gov.br', '2007-06-05 11:32:00', '2016-03-17 20:31:56', '3639141', '002.578.421/0001-20'),
+('nuclep.gov.br', '1998-12-04 18:37:33', '2012-03-29 19:41:13', '129198', '042.515.882/0003-30'),
+('brazilexport.gov.br', '2013-08-14 18:48:06', '2014-07-10 14:20:10', '11823944', '000.394.536/0009-96'),
+('tjmg.gov.br', '1997-12-04 11:00:00', '2016-06-17 19:15:43', '72924', '021.154.554/0001-13'),
+('ceagesp.gov.br', '2003-10-01 11:20:18', '2015-12-30 13:49:10', '1357071', '062.463.005/0001-08'),
+('hemobras.gov.br', '2006-09-27 13:20:48', '2016-03-31 21:39:10', '3062780', '007.607.851/0001-46'),
+('portalcoren-rs.gov.br', '2001-08-02 17:54:49', '2015-01-28 12:23:32', '607190', '087.088.670/0001-90'),
+('redebrasil.gov.br', '2003-07-21 13:31:42', '2013-02-04 17:39:27', '1275952', '001.263.896/0003-26'),
+('conter.gov.br', '2000-10-24 18:33:55', '2011-09-21 23:34:04', '440700', '003.635.323/0001-40'),
+('gsi.gov.br', '2010-05-10 12:53:36', '2016-05-16 19:59:21', '6837292', '009.399.736/0001-59'),
+('crmvmg.gov.br', '2015-01-09 18:42:27', '2015-01-09 18:42:27', '13697332', '016.539.173/0001-12'),
+('ctnbio.gov.br', '2000-06-19 19:05:06', '2013-02-04 17:39:06', '354889', '001.263.896/0003-26'),
+('xn--previdnciasocial-xqb.gov.br', '2006-10-27 13:20:12', '2006-10-27 13:20:12', '3165465', '042.422.253/0014-18'),
+('caixaeconomica.gov.br', '1997-08-20 12:00:00', '2015-07-16 19:03:08', '53141', '000.360.305/0001-04'),
+('apec.gov.br', '2002-03-11 19:35:42', '2005-04-15 23:02:33', '738555', '026.989.350/0001-16'),
+('ipp.gov.br', '1998-12-08 12:29:55', '1998-12-28 12:00:00', '129608', '000.394.544/0056-59'),
+('a2000.gov.br', '1999-01-15 17:39:03', '2011-05-02 12:06:48', '137067', '033.683.111/0001-07'),
+('tre-pe.gov.br', '1998-08-10 14:18:51', '2015-01-08 21:14:11', '108167', '000.509.018/0015-19'),
+('eixos.gov.br', '2000-05-09 14:02:58', '2014-01-22 17:25:26', '334520', '000.489.828/0001-55'),
+('direitosdacrianca.gov.br', '2014-05-19 13:12:00', '2014-05-19 13:12:00', '12854581', '005.478.625/0001-87'),
+('deputado.gov.br', '2007-07-04 12:32:00', '2015-06-12 17:17:37', '3725132', '000.530.352/0001-59'),
+('goias.gov.br', '2000-06-12 20:19:01', '2015-07-16 20:28:50', '362555', '003.517.631/0001-70'),
+('dinheiroaqui.gov.br', '2000-08-04 21:17:46', '2015-07-16 20:49:08', '399427', '000.360.305/2399-13'),
+('rfb.gov.br', '2010-05-12 18:28:34', '2014-11-21 13:10:14', '6834837', '000.394.460/0008-18'),
+('creci-rj.gov.br', '2008-06-10 18:35:21', '2013-08-26 21:04:58', '4530323', '033.345.109/0001-10'),
+('tre-go.gov.br', '1998-08-14 16:54:00', '2015-01-08 21:09:51', '108492', '000.509.018/0008-90'),
+('eafsi.gov.br', '2005-06-15 04:25:04', '2012-05-18 19:45:02', '2190774', '000.855.923/0001-25'),
+('redebrasildigital.gov.br', '2015-11-16 15:23:00', '2015-11-16 15:23:00', '14886239', '033.683.111/0001-07'),
+('ceplacdf.gov.br', '1998-05-06 18:25:15', '2008-07-29 00:24:45', '95516', '033.004.300/0001-06'),
+('epamigcaldas.gov.br', '2000-05-30 19:38:26', '2014-02-20 18:25:21', '333722', '017.138.140/0006-38'),
+('vidaedinheiro.gov.br', '2008-08-01 16:55:20', '2014-04-17 20:00:13', '4719790', '029.507.878/0001-08'),
+('caupa.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:58:13', '10046017', '014.702.767/0001-77'),
+('mj.gov.br', '1996-05-17 12:00:00', '2015-09-09 19:28:13', '7908', '000.394.494/0013-70'),
+('crearo.gov.br', '2009-09-14 14:14:42', '2009-09-14 14:14:42', '5954372', '004.920.948/0001-16'),
+('cancer.gov.br', '2005-03-22 12:12:19', '2016-05-24 13:03:53', '2040942', '000.394.544/0171-50'),
+('pbqp-h.gov.br', '1998-06-04 16:41:37', '2014-09-24 17:34:24', '100651', '000.489.828/0006-60'),
+('cnater.gov.br', '2015-09-15 14:41:05', '2015-09-15 14:41:05', '14619667', '001.612.452/0001-97'),
+('mpdft.gov.br', '1996-05-21 12:00:00', '2015-12-22 20:17:53', '8005', '026.989.715/0002-93'),
+('confiancanobrasil.gov.br', '2008-12-26 12:22:25', '2008-12-26 12:22:25', '5148848', '000.394.411/0001-09'),
+('agronet-pe.gov.br', '2002-04-11 11:56:47', '2011-07-11 11:05:13', '786648', '035.672.054/0001-88'),
+('disque100.gov.br', '2010-06-07 12:00:46', '2015-03-30 18:31:41', '6924086', '005.478.625/0001-87'),
+('cenad.gov.br', '2006-03-28 15:27:52', '2015-06-08 17:45:59', '2687107', '003.353.358/0001-96'),
+('bancodonordeste.gov.br', '2002-03-18 13:34:47', '2016-06-07 13:06:00', '756331', '007.237.373/0016-06'),
+('tre-rs.gov.br', '1998-07-15 12:04:53', '2015-02-03 18:19:30', '105897', '000.509.018/0019-42'),
+('mte.gov.br', '1999-02-11 18:24:28', '2016-02-05 19:35:43', '141353', '037.115.367/0033-48'),
+('trt-02.gov.br', '1999-06-11 19:34:38', '2016-02-15 21:12:06', '168328', '003.241.738/0001-39'),
+('cnis.gov.br', '2002-10-08 18:27:09', '2004-11-26 12:13:13', '987612', '042.422.253/0027-32'),
+('censo.gov.br', '2000-07-26 13:34:48', '2011-07-30 21:57:08', '386034', '033.787.094/0001-40'),
+('computadoresparainclusao.gov.br', '2008-04-18 13:17:49', '2014-01-22 17:35:37', '4395624', '000.489.828/0003-17'),
+('eafs.gov.br', '1999-12-07 13:03:55', '2008-06-26 13:48:30', '226362', '069.978.468/0001-51'),
+('megasena.gov.br', '2003-09-22 12:32:38', '2015-07-16 21:23:55', '1337598', '000.360.305/0655-83'),
+('educacao.gov.br', '2000-04-19 20:43:11', '2014-01-23 12:08:47', '308354', '000.394.445/0030-38'),
+('portaltransparencia.gov.br', '2004-11-24 17:43:10', '2016-04-15 19:07:43', '1884690', '005.914.685/0001-03'),
+('idbrasil.gov.br', '2003-12-02 14:53:31', '2015-03-25 13:01:21', '1440118', '000.394.437/0001-57'),
+('inmet.gov.br', '1996-06-11 12:00:00', '2016-01-04 11:39:34', '0', '000.396.895/0010-16'),
+('economizar.gov.br', '2002-06-21 17:10:11', '2012-12-05 17:20:29', '888871', '033.000.167/0001-01'),
+('cemave.gov.br', '2013-04-18 18:37:54', '2013-04-19 12:32:20', '11330434', '008.829.974/0001-94'),
+('tre-se.gov.br', '1998-08-24 17:26:44', '2015-01-08 21:18:21', '110572', '000.509.018/0022-48'),
+('boavistaenergia.gov.br', '2000-09-12 12:00:19', '2016-06-15 01:15:39', '414884', '000.357.038/0001-16'),
+('eafajt.gov.br', '2003-03-24 15:00:09', '2009-09-28 12:00:47', '1136184', '042.709.402/0001-00'),
+('conarq.gov.br', '2011-09-06 12:42:49', '2015-05-21 20:19:42', '8724458', '004.374.067/0001-47'),
+('sibbr.gov.br', '2012-10-10 19:30:05', '2012-10-10 19:30:05', '10488859', '004.079.233/0001-82'),
+('rsbr.gov.br', '2014-05-09 12:28:21', '2014-05-13 13:56:55', '12838688', '004.053.755/0001-05'),
+('funarte.gov.br', '1997-07-31 12:00:00', '2010-01-19 19:50:05', '49537', '026.963.660/0002-42'),
+('combateafome.gov.br', '2012-09-28 17:27:21', '2014-06-13 13:28:01', '10499645', '005.756.246/0001-01'),
+('jfes.gov.br', '2007-06-04 17:32:14', '2014-07-23 14:08:55', '3637470', '005.424.467/0001-82'),
+('energiabv.gov.br', '2000-09-12 12:00:21', '2008-12-10 12:11:56', '414889', '000.357.038/0001-16'),
+('conab.gov.br', '1997-01-06 11:00:00', '2015-08-28 17:12:48', '27275', '026.461.699/0001-80'),
+('eletrofurnas.gov.br', '2000-06-30 19:29:40', '2002-08-12 14:21:09', '366449', '023.274.194/0001-19'),
+('trt-ma.gov.br', '2007-06-05 11:32:00', '2009-12-10 18:48:54', '3639585', '023.608.631/0001-93'),
+('netminas.gov.br', '1998-01-16 12:23:41', '2016-05-04 14:49:22', '81512', '016.636.540/0001-04'),
+('dfasp.gov.br', '2002-02-19 11:23:08', '2002-02-19 12:00:00', '730786', '000.396.895/0028-45'),
+('obrasnet.gov.br', '2002-05-03 14:37:25', '2015-07-16 21:26:07', '810227', '033.683.111/0001-07'),
+('aeroportodesalvador.gov.br', '2002-11-12 10:56:02', '2013-01-09 11:34:38', '1012775', '000.352.294/0001-10'),
+('pronaf.gov.br', '1998-03-19 17:52:16', '2015-06-08 22:28:37', '89536', '000.396.895/0069-13'),
+('ac.gov.br', '1998-10-21 11:00:00', '2016-06-28 17:46:08', '122623', '004.034.468/0001-58'),
+('crbio-03.gov.br', '2009-01-29 17:24:15', '2009-01-29 17:24:15', '5229737', '004.053.157/0001-36'),
+('trf2.gov.br', '1997-10-02 12:00:00', '2015-10-30 13:19:55', '61185', '032.243.347/0001-51'),
+('sae.gov.br', '1997-10-09 11:00:00', '2009-05-18 19:09:09', '62181', '000.394.411/0001-09'),
+('paranaeleitoral.gov.br', '2002-08-08 17:34:59', '2012-03-20 15:01:11', '930037', '003.985.113/0001-81'),
+('exercito.gov.br', '1998-01-29 11:00:00', '2015-11-05 11:32:25', '84429', '000.394.452/0001-03'),
+('pb.gov.br', '1996-11-01 12:00:00', '2015-12-22 21:29:00', '0', '009.189.499/0001-00'),
+('capes.gov.br', '1996-01-01 12:00:00', '2015-09-29 21:14:40', '0', '000.889.834/0001-08'),
+('tesouro.gov.br', '2009-08-11 11:52:18', '2016-04-29 13:42:37', '5830730', '000.394.460/0409-50'),
+('governo.gov.br', '2016-02-17 12:37:44', '2016-02-17 12:37:44', '15186843', '010.366.249/0001-79'),
+('portaldatransparencia.gov.br', '2004-11-24 17:43:10', '2016-04-15 19:07:32', '1884669', '005.914.685/0001-03'),
+('denatran.gov.br', '2002-04-12 19:30:38', '2014-09-24 17:33:38', '768317', '000.394.494/0013-70'),
+('participa.gov.br', '2013-10-16 18:38:59', '2013-10-16 18:38:59', '12086744', '010.366.249/0001-79'),
+('splp.gov.br', '2007-07-16 13:37:22', '2007-07-16 13:37:22', '3746202', '000.394.411/0001-09'),
+('stj.gov.br', '1995-08-29 12:00:00', '2016-02-11 13:26:32', '0', '000.488.478/0001-02'),
+('coren-mg.gov.br', '2009-01-22 10:18:04', '2013-08-13 23:00:03', '5169547', '021.699.889/0001-17'),
+('convivio.gov.br', '2001-07-18 19:21:15', '2010-11-16 13:07:41', '602728', '001.612.452/0001-97'),
+('observatoriodaindustria.gov.br', '2012-05-10 13:20:53', '2013-02-15 15:33:45', '9790097', '000.394.478/0002-24'),
+('dnpm-pe.gov.br', '2002-10-01 12:12:23', '2013-08-16 12:43:47', '957607', '000.381.056/0005-67'),
+('mpu.gov.br', '1999-10-15 19:03:24', '2012-09-06 22:21:26', '206380', '026.989.715/0001-02'),
+('prt3.gov.br', '1998-07-01 21:35:21', '2006-05-30 21:04:15', '103590', '026.989.715/0034-70'),
+('gdfaz.gov.br', '2001-12-20 18:58:27', '2001-12-20 16:58:27', '699472', '002.317.176/0001-05'),
+('cbh.gov.br', '2008-02-26 13:33:09', '2008-02-26 13:33:09', '4258477', '004.204.444/0001-08'),
+('ba.gov.br', '1995-12-27 12:00:00', '2015-09-11 02:36:58', '4932', '013.579.586/0001-32'),
+('inovaif.gov.br', '2015-04-24 13:29:00', '2015-04-24 13:29:00', '13997050', '010.791.831/0001-82'),
+('copatransparente.gov.br', '2011-07-12 16:17:24', '2014-01-24 20:14:17', '8550844', '000.530.279/0004-68'),
+('sjrs.gov.br', '1998-10-26 17:07:51', '2013-09-24 21:48:04', '121928', '005.442.380/0001-38'),
+('amazul.gov.br', '2014-07-16 14:06:03', '2014-07-16 14:06:03', '13103073', '018.910.028/0001-21'),
+('ebndes.gov.br', '2002-05-02 13:40:48', '2016-02-12 20:54:26', '810174', '033.657.248/0001-89'),
+('dpu.gov.br', '2007-10-05 17:05:55', '2012-08-02 16:23:26', '3957938', '000.375.114/0001-16'),
+('crtrrj.gov.br', '2002-08-13 12:44:56', '2011-12-28 18:33:04', '937205', '032.095.317/0001-45'),
+('cauba.gov.br', '2014-06-26 11:17:34', '2015-04-29 13:54:02', '13050742', '014.702.767/0001-77'),
+('crbio-sc.gov.br', '2009-01-29 17:24:13', '2009-01-29 17:24:13', '5209810', '004.053.157/0001-36'),
+('ctac.gov.br', '1997-09-02 12:00:00', '2010-01-20 00:02:04', '55302', '026.963.660/0002-42'),
+('cprmpa.gov.br', '1998-07-18 13:55:22', '1999-11-17 18:49:59', '104099', '000.091.652/0009-36'),
+('sipam.gov.br', '2001-04-12 19:56:37', '2013-10-21 19:22:25', '545274', '007.129.796/0001-26'),
+('pdp.gov.br', '2010-02-01 17:00:34', '2011-10-25 11:07:41', '6487325', '000.394.478/0002-24'),
+('e-jud.gov.br', '2004-05-11 12:04:16', '2015-11-03 18:02:30', '1607240', '000.488.478/0001-02'),
+('aiaf2014.gov.br', '2014-02-18 14:41:46', '2015-06-08 22:26:30', '12510135', '001.612.452/0001-97'),
+('education.gov.br', '2000-04-19 20:43:14', '2014-01-23 12:08:18', '308387', '000.394.445/0030-38'),
+('portaldoexportador.gov.br', '2001-11-26 11:35:25', '2013-02-15 15:38:29', '687964', '000.394.478/0002-24'),
+('mdic.gov.br', '1999-03-15 14:56:43', '2013-02-15 16:49:52', '146981', '000.394.478/0002-24'),
+('eafguanambi.gov.br', '2005-07-07 14:11:32', '2009-09-28 12:00:54', '2222962', '042.709.402/0001-00'),
+('cbee.gov.br', '2002-01-24 14:02:30', '2006-02-22 13:46:52', '714185', '000.357.038/0001-16'),
+('businessbrasil.gov.br', '2013-06-24 14:44:28', '2014-07-10 14:17:53', '11592370', '000.394.536/0009-96'),
+('c-brazil.gov.br', '2000-05-08 20:09:22', '2011-05-02 12:14:59', '324581', '033.683.111/0009-56'),
+('vispublica.gov.br', '2012-11-21 18:08:24', '2014-01-22 17:30:10', '10667427', '000.489.828/0001-55'),
+('niteroi-artes.gov.br', '1997-10-10 11:00:00', '2013-05-30 02:21:06', '62299', '028.550.176/0001-36'),
+('trt7.gov.br', '1998-01-16 12:23:40', '2012-02-24 11:09:22', '81487', '000.509.968/0008-14'),
+('creci-pb.gov.br', '2002-10-01 20:16:49', '2016-05-21 02:21:03', '978225', '009.292.194/0001-10'),
+('cnpd.gov.br', '2001-05-08 19:39:23', '2016-04-04 19:24:03', '548050', '033.892.175/0001-00'),
+('portaldoconsumidor.gov.br', '2001-12-11 18:30:14', '2015-05-20 12:18:51', '683263', '000.662.270/0003-20'),
+('bndespar.gov.br', '2006-05-17 17:29:51', '2014-11-11 20:48:56', '2800307', '000.383.281/0001-09'),
+('agu.gov.br', '1999-01-21 19:17:15', '2014-07-31 20:50:35', '135851', '026.994.558/0001-23'),
+('justicafederal.gov.br', '2005-01-11 12:43:56', '2014-03-25 13:13:04', '1965153', '000.508.903/0001-88'),
+('jfal.gov.br', '2000-03-17 20:31:23', '2016-06-02 15:05:30', '286462', '000.508.903/0019-07'),
+('processoeletronico.gov.br', '2014-10-15 09:44:27', '2014-10-15 09:44:27', '13442571', '002.927.863/0001-34'),
+('casadamoeda.gov.br', '1997-05-01 12:00:00', '2016-04-25 15:54:21', '38379', '034.164.319/0005-06'),
+('informacao.gov.br', '2014-04-08 19:15:07', '2016-04-15 19:07:03', '12773610', '005.914.685/0001-03'),
+('prodepa.gov.br', '1996-05-08 12:00:00', '2013-10-10 01:08:25', '7566', '005.059.613/0001-18'),
+('receita.gov.br', '1998-04-17 18:43:14', '2014-10-17 18:58:42', '93848', '033.683.111/0001-07'),
+('manausenergia.gov.br', '2006-05-10 13:29:16', '2008-05-08 14:13:52', '2754242', '002.341.467/0003-92'),
+('eafsb.gov.br', '2006-08-10 13:46:00', '2009-12-16 17:42:34', '2981571', '000.853.966/0001-71'),
+('dnrc.gov.br', '1997-09-18 12:00:00', '2013-05-10 19:23:14', '58455', '000.394.494/0103-60'),
+('mulhergoverno.gov.br', '2003-02-18 15:43:16', '2014-01-22 17:27:48', '1095512', '000.489.828/0001-55'),
+('eafb.gov.br', '2001-10-19 12:27:47', '2014-04-22 11:11:19', '656702', '073.946.741/0001-33'),
+('agricultura.gov.br', '1997-04-15 12:00:00', '2013-06-11 22:54:21', '36630', '000.396.895/0001-25'),
+('cprm.gov.br', '1996-02-16 12:00:00', '2015-11-25 15:20:16', '5443', '000.091.652/0002-60'),
+('fjp.gov.br', '1996-06-28 12:00:00', '2016-06-03 18:49:04', '10659', '017.464.652/0001-80'),
+('brasildigital.gov.br', '2015-03-02 19:51:54', '2015-03-02 19:51:54', '13890186', '000.414.607/0001-18'),
+('jfsp.gov.br', '2001-03-16 20:44:33', '2012-05-17 21:52:34', '526406', '000.508.903/0009-35'),
+('crfa1.gov.br', '2009-07-03 13:35:02', '2015-09-25 10:46:53', '5697830', '032.243.313/0001-67'),
+('caurn.gov.br', '2012-07-06 12:46:00', '2015-04-29 13:59:31', '10046062', '014.702.767/0001-77'),
+('dpf.gov.br', '1996-07-16 12:00:00', '2016-01-29 18:38:30', '11801', '000.394.494/0080-30'),
+('funasa.gov.br', '2000-05-31 19:14:41', '2007-08-21 23:13:04', '348663', '026.989.350/0001-16'),
+('cetem.gov.br', '1996-01-01 12:00:00', '2013-10-02 21:24:00', '0', '004.074.457/0001-00'),
+('mpa.gov.br', '2009-11-09 12:45:46', '2015-12-09 12:08:52', '6243968', '005.482.692/0001-75'),
+('se.gov.br', '1997-08-18 12:00:00', '2014-02-18 10:47:20', '52525', '013.164.959/0001-04'),
+('prap.gov.br', '1998-01-16 12:24:38', '2003-02-18 21:06:36', '82021', '026.989.715/0009-60'),
+('portaljt.gov.br', '2001-05-14 20:13:33', '2015-03-04 19:10:05', '562730', '000.509.968/0001-48'),
+('e-parana.gov.br', '2000-09-21 15:29:01', '2009-12-08 13:44:33', '414002', '076.545.011/0001-19'),
+('peticaoeletronica.gov.br', '2003-01-02 12:17:30', '2013-09-24 22:27:53', '1044451', '005.442.380/0001-38'),
+('mtb.gov.br', '1996-01-08 12:00:00', '2016-02-05 20:42:31', '5021', '037.115.367/0033-48'),
+('tre-ap.gov.br', '1998-08-05 19:21:57', '2015-01-08 21:03:47', '106206', '034.927.343/0001-18'),
+('bid2002brasil.gov.br', '2001-11-14 17:57:46', '2014-01-22 17:32:07', '680509', '002.927.863/0001-34'),
+('tre-mt.gov.br', '1998-08-07 17:06:35', '2015-01-08 21:12:35', '106451', '005.901.308/0001-21'),
+('nossoambiente.gov.br', '2001-08-13 20:13:18', '2016-04-11 13:26:59', '615405', '037.115.375/0002-98'),
+('ana.gov.br', '2001-03-20 21:24:48', '2012-10-19 20:11:27', '530908', '004.204.444/0001-08'),
+('spm.gov.br', '2010-05-26 13:50:57', '2014-09-22 17:10:52', '6887059', '005.510.958/0001-46'),
+('prr4.gov.br', '1996-07-30 12:00:00', '2014-02-10 16:42:04', '12880', '094.953.767/0001-89'),
+('sivam.gov.br', '1997-05-16 12:00:00', '2002-12-02 13:06:11', '39757', '000.394.429/0133-50'),
+('redegoverno.gov.br', '1998-04-17 18:43:06', '2011-05-02 12:10:04', '93845', '033.683.111/0001-07'),
+('creci-ce.gov.br', '2001-11-06 19:51:09', '2013-11-15 01:29:55', '660888', '009.420.282/0001-50'),
+('pgfn.gov.br', '2007-06-26 19:28:37', '2011-05-02 12:09:30', '3656427', '033.683.111/0001-07'),
+('investidor.gov.br', '2008-08-01 16:55:20', '2014-04-05 16:59:53', '4720366', '029.507.878/0001-08'),
+('ancine.gov.br', '2002-02-27 17:38:26', '2015-05-28 20:56:47', '739426', '004.884.574/0001-20'),
+('desenvolvimentorural.gov.br', '2013-06-20 18:03:30', '2015-06-08 22:41:19', '11588729', '001.612.452/0001-97'),
+('crecimg.gov.br', '2010-03-24 14:03:38', '2011-03-15 18:21:27', '6668616', '017.481.268/0001-95'),
+('dnit.gov.br', '2002-04-10 17:42:58', '2010-01-22 00:47:01', '761929', '004.892.707/0001-00'),
+('crmvsp.gov.br', '2011-08-01 10:57:05', '2011-08-01 10:57:05', '8561217', '050.052.885/0001-40'),
+('tre-df.gov.br', '1998-07-31 18:20:32', '2015-01-08 21:07:24', '106173', '000.509.018/0006-28'),
+('gdf.gov.br', '1995-04-07 12:00:00', '2014-06-23 14:13:51', '0', '003.230.476/0001-07'),
+('eproc-pr.gov.br', '2003-08-05 11:52:44', '2012-04-24 14:55:29', '1289181', '005.442.380/0001-38'),
+('nead.gov.br', '1999-04-07 11:58:19', '2011-08-03 15:57:51', '146549', '000.375.972/0002-41'),
+('tesourodireto.gov.br', '2003-05-08 14:03:24', '2011-05-02 12:11:21', '1178358', '033.683.111/0001-07'),
+('jfceara.gov.br', '2003-09-22 14:18:13', '2010-04-10 19:58:12', '1368198', '005.424.487/0001-53'),
+('sivnet.gov.br', '2002-01-29 18:45:39', '2013-01-09 11:34:23', '719669', '000.352.294/0001-10'),
+('ce.gov.br', '1996-05-27 12:00:00', '2013-01-18 12:21:47', '8516', '003.773.788/0001-67'),
+('serac4.gov.br', '2005-07-12 16:00:47', '2006-11-30 13:18:46', '2228294', '000.394.429/0086-08'),
+('caixainveste.gov.br', '2001-10-25 19:55:48', '2015-07-16 19:34:57', '650495', '000.360.305/2714-85'),
+('eafcrato.gov.br', '2005-05-30 15:08:41', '2014-10-09 23:17:28', '2139432', '041.338.161/0001-77'),
+('epost.gov.br', '2001-09-21 18:29:56', '2016-06-04 00:32:19', '637030', '034.028.316/0001-03'),
+('cenipa.gov.br', '2006-09-06 19:54:06', '2016-04-06 14:03:50', '2998740', '000.394.429/0131-99'),
+('cndrs.gov.br', '2000-06-27 20:05:41', '2010-11-16 13:07:30', '371258', '001.612.452/0001-97'),
+('caixa.gov.br', '1997-08-20 12:00:00', '2016-01-17 04:49:56', '53140', '000.360.305/0001-04'),
+('torcidalegal.gov.br', '2011-05-26 18:17:09', '2011-05-26 18:17:09', '8254264', '002.961.362/0001-74'),
+('scnet.gov.br', '1999-05-11 12:01:46', '2006-02-08 15:10:34', '160206', '083.043.745/0001-65'),
+('eproc.gov.br', '2003-08-05 11:52:44', '2012-04-24 15:20:57', '1289174', '005.442.380/0001-38'),
+('sp.gov.br', '1995-07-06 12:00:00', '2015-06-08 12:13:00', '0', '062.577.929/0001-35'),
+('eafudi.gov.br', '2001-06-07 20:57:29', '2007-06-06 12:25:48', '576210', '073.875.502/0001-30'),
+('inss.gov.br', '1998-07-27 13:47:15', '2004-11-29 11:53:43', '108377', '042.422.253/0014-18'),
+('tesourotransparente.gov.br', '2015-05-26 13:34:23', '2016-04-29 13:42:50', '14171768', '000.394.460/0409-50'),
+('voluntariado.gov.br', '2013-10-24 10:06:30', '2013-10-24 10:06:30', '12162272', '002.961.362/0001-74'),
+('acraiz.gov.br', '2001-07-25 14:43:49', '2015-08-20 12:58:36', '609551', '004.039.532/0001-93'),
+('vice-presidencia.gov.br', '2000-04-10 16:46:09', '2007-07-10 23:17:49', '303852', '000.894.355/0001-71'),
+('frp.gov.br', '1997-03-06 12:00:00', '1998-03-18 12:00:00', '32360', '033.868.639/0001-42'),
+('cref4.gov.br', '2012-09-28 15:21:47', '2012-09-28 15:21:47', '10501422', '003.676.803/0001-59'),
+('mc.gov.br', '1996-03-12 12:00:00', '2015-03-25 13:01:38', '5863', '000.394.437/0001-57'),
+('portaldaexportacao.gov.br', '2002-01-02 17:49:09', '2013-02-15 15:37:50', '709116', '000.394.478/0003-05'),
+('dner1drf.gov.br', '2000-01-10 12:29:17', '2000-01-10 12:00:00', '235023', '033.628.777/0002-35'),
+('trt14.gov.br', '1999-10-14 18:13:50', '2014-11-22 20:38:06', '207068', '003.326.815/0001-53'),
+('cdv.gov.br', '2010-12-20 18:17:24', '2014-05-09 20:39:51', '7696548', '005.478.625/0001-87'),
+('dpf-ce.gov.br', '1997-02-23 12:00:00', '2004-03-24 14:19:36', '31061', '000.394.494/0023-41'),
+('info.gov.br', '2014-04-08 18:09:51', '2016-04-15 19:06:56', '12756172', '005.914.685/0001-03'),
+('trt4.gov.br', '1997-05-15 12:00:00', '2014-03-22 23:06:59', '39445', '002.520.619/0001-52'),
+('loterias.gov.br', '2000-08-04 21:17:55', '2015-07-16 21:21:07', '399407', '000.360.305/0674-46'),
+('lojacaixa.gov.br', '2004-10-19 18:53:37', '2015-07-16 21:19:12', '1850408', '000.360.305/0688-41'),
+('logisticabrasil.gov.br', '2013-05-08 14:03:54', '2014-04-02 17:55:05', '11353074', '015.763.423/0001-30'),
+('cvm.gov.br', '1996-06-04 12:00:00', '2014-04-05 17:06:36', '8975', '029.507.878/0001-08'),
+('emquestao.gov.br', '2010-09-30 17:49:42', '2014-09-22 17:06:22', '7370703', '009.234.494/0001-43'),
+('caisan.gov.br', '2014-05-14 15:19:06', '2014-06-13 13:27:44', '12820961', '005.756.246/0001-01'),
+('tre-sc.gov.br', '1998-08-05 12:49:05', '2015-01-08 21:17:52', '106213', '000.509.018/0020-86'),
+('cienciasemfronteiras.gov.br', '2011-12-01 16:19:29', '2014-03-11 21:45:04', '9160529', '000.889.834/0001-08'),
+('sri.gov.br', '2010-05-10 13:09:05', '2014-09-22 17:11:03', '6836616', '011.475.667/0001-67'),
+('cetene.gov.br', '2007-06-26 19:28:37', '2015-08-05 13:00:24', '3636218', '001.263.896/0021-08'),
+('int.gov.br', '1998-11-11 16:07:16', '2012-12-05 13:49:58', '123432', '001.263.896/0004-07'),
+('orcamentofederal.gov.br', '2010-12-06 17:42:44', '2011-05-02 12:09:01', '7603108', '033.683.111/0001-07'),
+('caubr.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:54:04', '10045983', '014.702.767/0001-77'),
+('itamaraty.gov.br', '1999-02-12 11:00:00', '2014-09-10 00:03:38', '141521', '000.394.536/0006-43'),
+('memoriasreveladas.gov.br', '2009-07-24 16:13:23', '2015-05-21 20:20:07', '5817079', '004.374.067/0001-47'),
+('bemrecebercopa.gov.br', '2010-05-26 13:50:56', '2013-04-08 20:44:52', '6815823', '033.741.794/0001-01'),
+('dtceasp.gov.br', '2009-09-30 13:36:06', '2015-10-01 18:05:21', '5995687', '000.394.429/0094-00'),
+('caixadasorte.gov.br', '2000-08-04 21:17:42', '2015-07-16 18:56:03', '399423', '000.360.305/2399-13'),
+('caums.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:58:09', '10046007', '014.702.767/0001-77'),
+('projovemurbano.gov.br', '2008-08-14 13:51:23', '2015-06-08 15:12:07', '4751512', '007.490.910/0001-49'),
+('ccom.gov.br', '1999-12-16 10:49:25', '2014-11-18 13:15:42', '232839', '001.175.497/0001-41'),
+('crediamigo.gov.br', '2001-05-18 19:45:53', '2013-04-01 19:09:06', '566336', '007.237.373/0001-20'),
+('entespublicos.gov.br', '2014-11-04 11:21:11', '2014-11-04 11:21:11', '13512112', '033.683.111/0001-07'),
+('fns-es.gov.br', '1999-06-02 20:20:31', '2006-01-10 14:35:53', '163059', '026.989.350/0019-45'),
+('cbtu-sturec.gov.br', '2011-06-01 12:34:02', '2016-04-11 18:28:08', '8249316', '042.357.483/0006-30'),
+('dialogosfederativos.gov.br', '2013-01-08 14:32:06', '2013-01-08 14:32:06', '10896318', '011.475.658/0001-76'),
+('ap.gov.br', '1998-10-21 11:00:00', '2016-03-10 18:07:18', '122622', '001.591.392/0001-73'),
+('ahipar.gov.br', '1997-11-25 11:00:00', '2010-04-07 17:56:44', '71033', '044.837.524/0006-11'),
+('caixainvest.gov.br', '2001-10-25 19:55:47', '2015-07-16 19:34:29', '650493', '000.360.305/2714-85'),
+('seade.gov.br', '1996-01-01 12:00:00', '2015-02-09 12:10:01', '0', '051.169.555/0001-00'),
+('crq9.gov.br', '2016-05-13 18:00:08', '2016-05-13 18:00:08', '15485657', '076.471.358/0001-64'),
+('vlibras.gov.br', '2015-12-04 20:14:41', '2015-12-04 20:14:41', '14978448', '000.489.828/0001-55'),
+('ambiente.gov.br', '2001-08-13 20:13:13', '2016-04-11 13:05:49', '615398', '037.115.375/0002-98'),
+('participo.gov.br', '2013-10-16 18:38:59', '2013-10-16 18:38:59', '12089314', '010.366.249/0001-79'),
+('unasus.gov.br', '2011-10-25 13:52:35', '2012-04-22 05:28:59', '8923771', '033.781.055/0009-92'),
+('certidaodenascimento.gov.br', '2009-08-20 19:25:47', '2015-01-13 12:49:10', '5868501', '005.478.625/0001-87'),
+('prt8.gov.br', '1998-01-16 12:25:25', '2001-08-02 15:40:13', '82513', '026.989.715/0039-85'),
+('decine.gov.br', '1999-03-04 20:56:50', '2007-12-12 11:40:34', '145017', '026.963.660/0002-42'),
+('saemec.gov.br', '1998-10-13 19:10:28', '1998-11-25 12:00:00', '121239', '001.678.363/0001-43'),
+('bc.gov.br', '1998-12-30 18:22:39', '2015-06-17 22:20:33', '133801', '000.038.166/0001-05'),
+('cp2.gov.br', '2009-07-10 16:17:13', '2013-03-08 19:47:15', '5737217', '042.414.284/0001-02'),
+('assistenciasocial.gov.br', '2002-11-18 12:32:35', '2014-06-13 13:26:46', '1005833', '005.756.246/0001-01'),
+('solucoestipublica.gov.br', '2003-02-27 18:44:28', '2011-05-02 12:11:07', '1121051', '033.683.111/0001-07'),
+('ahsul.gov.br', '2014-02-27 14:21:33', '2015-08-24 12:42:12', '12568279', '006.347.892/0010-79'),
+('mre.gov.br', '1996-01-01 12:00:00', '2011-09-06 22:43:29', '0', '000.394.536/0006-43'),
+('cernai.gov.br', '2004-07-22 18:15:37', '2014-01-24 11:53:09', '1735827', '000.394.429/0048-74'),
+('sudam.gov.br', '1997-08-13 12:00:00', '2013-04-13 03:13:26', '51749', '004.931.713/0001-20'),
+('fatoseboatos.gov.br', '2015-09-04 16:52:44', '2015-09-04 16:52:44', '14633244', '009.234.494/0001-43'),
+('eafvsa.gov.br', '2004-09-28 12:04:03', '2011-01-11 17:10:01', '1817818', '041.008.699/0001-13'),
+('crbio04.gov.br', '2008-11-25 12:27:44', '2014-12-09 14:04:09', '5076779', '002.505.297/0001-72'),
+('linea.gov.br', '2010-05-13 14:34:36', '2015-01-22 02:52:40', '6832432', '004.079.233/0001-82'),
+('brasil2016.gov.br', '2013-10-23 13:42:11', '2013-10-23 13:42:11', '12121014', '002.961.362/0001-74'),
+('comunicacoes.gov.br', '2012-06-13 13:46:43', '2015-03-25 13:00:13', '10001332', '000.394.437/0003-19'),
+('etfto.gov.br', '2003-06-05 19:12:50', '2015-12-09 20:16:42', '1227133', '005.095.151/0001-94'),
+('ibama-pi.gov.br', '2002-06-27 18:19:58', '2002-06-27 15:19:58', '899914', '003.659.166/0030-47'),
+('trt05.gov.br', '1997-11-13 11:00:00', '2015-11-04 13:33:35', '69435', '000.509.968/0006-52'),
+('amapa.gov.br', '1998-01-16 12:26:24', '2016-03-09 18:40:19', '82660', '001.591.392/0001-73'),
+('trt9.gov.br', '1999-04-13 13:45:04', '2016-05-06 14:43:14', '151987', '000.509.968/0010-39'),
+('ceasa.gov.br', '2006-02-01 13:41:34', '2015-08-28 17:09:51', '2591389', '026.461.699/0001-80'),
+('projetobrasilmunicipios.gov.br', '2009-02-04 10:56:44', '2014-01-22 17:35:54', '5186358', '000.489.828/0003-17'),
+('codevasf.gov.br', '1996-01-01 12:00:00', '2016-03-22 19:43:34', '0', '000.399.857/0001-26'),
+('mpf.gov.br', '1996-01-01 12:00:00', '2012-09-06 21:47:01', '0', '026.989.715/0050-90'),
+('casadoscontos.gov.br', '2001-09-20 14:11:10', '2009-11-14 14:18:00', '639747', '000.394.460/0263-70'),
+('loteriascaixa.gov.br', '2000-08-04 21:17:56', '2015-07-16 21:21:50', '399432', '000.360.305/2399-13'),
+('atlasdeacessoajustica.gov.br', '2013-06-04 14:01:03', '2013-06-04 14:01:03', '11519414', '000.394.494/0013-70'),
+('pncda.gov.br', '1999-10-27 19:53:43', '2014-09-24 17:35:05', '213199', '000.489.828/0006-60'),
+('turismobrasil.gov.br', '2007-12-24 11:29:17', '2014-09-20 22:11:28', '4131446', '033.741.794/0001-01'),
+('dnpmma.gov.br', '2002-09-04 17:28:42', '2002-09-04 14:28:42', '944603', '000.381.056/0023-49'),
+('infojus.gov.br', '2000-08-09 14:21:41', '2014-10-08 15:32:43', '400199', '000.531.640/0001-28'),
+('simples.gov.br', '2013-11-11 18:31:44', '2013-11-11 18:31:44', '12212554', '033.683.111/0001-07'),
+('cofen.gov.br', '2002-05-28 15:35:31', '2016-06-10 21:25:54', '854945', '047.217.146/0001-57'),
+('plenarinho.gov.br', '2003-09-22 13:17:52', '2015-06-11 14:00:27', '1342021', '000.530.352/0001-59'),
+('funasa-sc.gov.br', '2001-05-11 20:02:41', '2001-12-07 17:22:05', '555543', '026.989.350/0024-02'),
+('crqxx.gov.br', '2010-09-14 19:57:22', '2015-02-19 13:30:50', '7307573', '009.558.631/0001-03'),
+('consultaprotocolo.gov.br', '2014-11-05 16:30:10', '2014-11-05 16:30:10', '13521910', '000.489.828/0001-55'),
+('mulheres.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:07:11', '6426224', '005.510.958/0001-46'),
+('raspadinhadacaixa.gov.br', '2000-05-02 13:26:18', '2015-07-16 21:32:03', '323570', '000.360.305/0688-41'),
+('semanaenef.gov.br', '2014-02-27 20:48:17', '2014-02-27 20:48:17', '12598009', '029.507.878/0001-08'),
+('microepequenaempresa.gov.br', '2013-11-06 13:41:09', '2013-11-06 13:41:09', '12212573', '033.683.111/0001-07'),
+('cjf.gov.br', '1997-01-29 11:00:00', '2014-03-25 13:12:12', '29162', '000.508.903/0001-88'),
+('defesa.gov.br', '1999-06-22 13:18:34', '2014-12-18 13:10:53', '171030', '000.894.356/0001-16'),
+('eafigt.gov.br', '2002-02-22 19:32:54', '2007-12-28 14:16:05', '737396', '041.339.771/0001-95'),
+('centrodememoriabndes.gov.br', '2014-12-11 09:24:35', '2014-12-11 09:24:35', '13643576', '033.657.248/0001-89'),
+('cref-sp.gov.br', '2008-10-09 16:11:07', '2010-02-10 13:56:19', '4915683', '003.676.803/0001-59'),
+('incrarn.gov.br', '1998-06-17 12:30:34', '2003-09-04 12:27:34', '99023', '000.375.972/0018-09'),
+('secretariadegoverno.gov.br', '2016-02-17 12:37:44', '2016-02-17 12:37:44', '15186834', '010.366.249/0001-79'),
+('museus.gov.br', '2006-10-19 14:12:11', '2015-01-22 17:50:38', '3133715', '010.898.596/0001-42'),
+('cmb.gov.br', '2007-08-22 11:39:06', '2016-04-25 15:54:35', '3770042', '034.164.319/0005-06'),
+('focco-pb.gov.br', '2009-03-26 16:20:30', '2010-07-08 00:26:42', '5342346', '026.989.715/0020-75'),
+('venturecapital.gov.br', '2000-04-04 17:18:46', '2011-05-04 18:56:36', '290586', '033.749.086/0002-90'),
+('ministeriopublicodf.gov.br', '2008-08-21 18:36:21', '2015-04-20 19:02:04', '4725433', '026.989.715/0002-93'),
+('supercaminhaodasorte.gov.br', '2000-05-02 13:26:20', '2015-07-16 21:35:42', '323561', '000.360.305/0643-40'),
+('redeagentes.gov.br', '2001-04-18 12:51:00', '2013-05-10 19:41:50', '548814', '000.394.478/0002-24'),
+('tre-ba.gov.br', '1998-07-24 20:05:07', '2015-01-08 21:05:03', '106344', '000.509.018/0004-66'),
+('ahrana.gov.br', '2002-10-21 19:02:43', '2006-05-17 16:35:21', '997263', '044.837.524/0005-30'),
+('eafi.gov.br', '2003-05-16 13:38:23', '2013-08-08 10:52:14', '1199829', '073.920.001/0001-28'),
+('culturaviva.gov.br', '2015-09-17 17:46:29', '2015-09-17 17:46:29', '14669233', '001.264.142/0002-00'),
+('rededojudiciario.gov.br', '1999-03-17 19:20:59', '2014-10-08 15:33:35', '147659', '000.531.640/0001-28'),
+('gespublica.gov.br', '2005-09-26 13:13:58', '2011-05-02 12:08:42', '2379916', '033.683.111/0001-07'),
+('crmvrs.gov.br', '2000-04-28 14:21:26', '2008-10-14 16:07:14', '325983', '093.009.116/0001-72'),
+('cprmba.gov.br', '2001-03-09 12:12:55', '2002-06-22 14:25:00', '523307', '000.091.652/0007-74'),
+('sitedoconsumidor.gov.br', '2000-10-30 16:12:35', '2015-05-20 12:19:25', '453947', '000.662.270/0003-20'),
+('crbio02.gov.br', '2009-02-16 11:18:53', '2009-02-16 11:18:53', '5228657', '002.452.608/0001-82'),
+('secgeral.gov.br', '2010-01-13 14:04:12', '2016-05-02 14:57:16', '6426174', '010.366.249/0001-79'),
+('icea.gov.br', '2003-12-17 18:50:46', '2016-03-01 12:52:36', '1463809', '000.394.429/0048-74'),
+('corenam.gov.br', '2015-03-16 14:37:42', '2016-06-14 18:38:10', '13948456', '004.667.846/0001-30'),
+('brazilrounds.gov.br', '2000-10-10 17:47:22', '2015-08-18 11:57:37', '436444', '002.313.673/0002-08'),
+('arquivonacional.gov.br', '1999-11-29 13:55:28', '2015-05-22 04:14:30', '225434', '004.374.067/0001-47'),
+('tjpe.gov.br', '1997-10-10 11:00:00', '2013-02-06 15:53:01', '62308', '011.431.327/0001-34'),
+('mict.gov.br', '1996-01-01 12:00:00', '2013-05-10 19:41:42', '0', '000.394.478/0002-24'),
+('loteriafederal.gov.br', '2000-05-02 13:26:13', '2015-07-16 21:20:48', '323556', '000.360.305/0643-40'),
+('pimentalonga.gov.br', '2000-10-25 12:50:34', '2000-11-27 14:39:49', '449661', '000.348.003/0068-28'),
+('pmss.gov.br', '2001-09-10 11:14:56', '2014-09-24 17:34:41', '627941', '005.465.986/0001-99'),
+('crecipr.gov.br', '2009-04-07 12:02:35', '2014-05-23 19:23:40', '5417469', '076.693.910/0001-69'),
+('inb.gov.br', '1998-03-17 19:26:24', '2015-06-26 18:59:43', '89158', '000.322.818/0020-93'),
+('abin.gov.br', '1997-11-08 11:00:00', '2014-11-18 13:15:11', '68327', '001.175.497/0001-41'),
+('vigilanciasanitaria.gov.br', '2000-08-22 11:36:27', '2015-11-19 18:22:04', '404720', '003.112.386/0001-11'),
+('apostasurpresa.gov.br', '2000-08-04 20:46:54', '2015-07-16 18:28:44', '399383', '000.360.305/0674-46'),
+('nex.gov.br', '2002-01-10 17:11:12', '2002-01-10 15:11:12', '714718', '000.394.536/0065-01'),
+('trt3.gov.br', '2007-08-29 15:41:38', '2015-03-18 15:43:42', '3863807', '001.298.583/0001-41'),
+('processoeletroniconacional.gov.br', '2014-10-15 09:44:27', '2014-10-15 09:44:27', '13442554', '002.927.863/0001-34'),
+('amazonasenergia.gov.br', '2001-09-28 20:14:55', '2015-10-16 20:59:14', '639230', '000.357.038/0001-16'),
+('caixaaqui.gov.br', '2001-09-05 20:08:24', '2015-07-16 18:51:27', '628476', '000.360.305/2714-85'),
+('vitrinedoexportador.gov.br', '2004-08-19 12:27:39', '2013-02-15 15:40:30', '1774074', '000.394.478/0002-24'),
+('caixamaisqueumbanco.gov.br', '2011-09-12 18:52:35', '2015-07-16 19:35:35', '8785977', '000.360.305/0001-04'),
+('crefsp.gov.br', '2008-09-24 18:07:55', '2010-02-10 13:56:19', '4810156', '003.676.803/0001-59'),
+('suframa.gov.br', '1998-01-28 21:39:44', '2015-01-12 19:02:47', '82825', '004.407.029/0001-43'),
+('rb.gov.br', '2000-05-03 12:59:05', '2014-06-27 16:50:39', '314451', '042.519.488/0001-08'),
+('cadastrominhacasaminhavida.gov.br', '2016-03-25 20:12:18', '2016-03-29 19:56:52', '15397059', '000.360.305/0001-04'),
+('acre.gov.br', '2010-01-26 13:24:19', '2015-05-25 16:53:55', '6434360', '004.034.468/0001-58'),
+('ic-brazil.gov.br', '2007-12-05 18:49:00', '2015-01-08 12:18:02', '4101337', '004.822.500/0001-60'),
+('fundoamazonia.gov.br', '2009-03-17 14:54:06', '2014-02-27 23:18:04', '5352022', '033.657.248/0001-89'),
+('migrantes.gov.br', '2013-11-14 13:06:11', '2013-11-14 13:06:11', '12187693', '000.394.494/0013-70'),
+('preps.gov.br', '2006-05-29 17:17:58', '2012-12-19 11:28:34', '2820376', '005.482.692/0001-75'),
+('dner-ms.gov.br', '1999-05-25 14:09:45', '2006-02-01 13:54:54', '162874', '033.628.777/0022-89'),
+('ouvidoriadoservidor.gov.br', '2003-10-24 14:45:06', '2011-05-02 12:09:15', '1404373', '033.683.111/0001-07'),
+('cbtujp.gov.br', '2000-09-27 17:05:57', '2001-06-18 20:26:42', '430223', '042.357.483/0010-17'),
+('linuxseguro.gov.br', '2004-04-29 23:58:17', '2014-11-18 13:18:13', '1611339', '001.175.497/0001-41'),
+('mps.gov.br', '2003-02-12 18:31:27', '2006-09-18 16:20:36', '1097821', '000.394.528/0005-16'),
+('eafbambui.gov.br', '1999-08-06 18:56:01', '2010-01-15 16:29:04', '183523', '070.915.798/0001-87'),
+('poupeenergia.gov.br', '2001-05-09 19:37:06', '2009-02-14 13:47:25', '563081', '037.115.383/0005-87'),
+('fiscopa2014.gov.br', '2010-05-04 19:08:21', '2010-05-04 19:08:21', '6777556', '000.414.607/0001-18'),
+('anatel.gov.br', '1997-07-22 12:00:00', '2015-11-26 17:36:39', '48284', '002.030.715/0001-12'),
+('trt24.gov.br', '1997-06-13 12:00:00', '2016-01-14 23:09:18', '42809', '037.115.409/0001-63'),
+('presidenciadarepublica.gov.br', '2000-05-11 21:20:23', '2006-03-29 18:27:45', '337135', '000.394.411/0001-09'),
+('protocolo.gov.br', '2014-11-05 17:45:26', '2014-11-05 17:45:26', '13521904', '000.489.828/0001-55'),
+('soumaismedico.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:38:06', '11932831', '015.126.437/0001-43'),
+('caged.gov.br', '2005-04-29 18:22:22', '2016-02-05 20:41:17', '2088808', '037.115.367/0033-48'),
+('trt02.gov.br', '1996-08-08 12:00:00', '2016-02-15 21:13:48', '13553', '003.241.738/0001-39'),
+('data.gov.br', '2011-10-21 17:04:27', '2014-01-22 17:25:15', '8893230', '000.489.828/0001-55'),
+('sigepe.gov.br', '2011-07-11 11:29:00', '2014-01-22 17:29:46', '8552320', '000.489.828/0001-55'),
+('stn.gov.br', '2009-08-11 11:36:52', '2016-04-29 13:41:41', '5830758', '000.394.460/0409-50'),
+('logisticsbrazil.gov.br', '2013-05-08 14:03:54', '2014-04-02 17:55:20', '11353072', '015.763.423/0001-30'),
+('cidades.gov.br', '2003-02-19 18:46:24', '2014-09-24 17:32:21', '1110118', '005.465.986/0001-99'),
+('institutochicomendes.gov.br', '2011-04-29 14:52:56', '2013-04-19 12:32:25', '8208640', '008.829.974/0001-94'),
+('promocaocomercial.gov.br', '2012-06-27 14:17:20', '2014-07-10 14:16:24', '9976315', '000.394.536/0009-96'),
+('cause.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:01:03', '10258002', '014.702.767/0001-77'),
+('tre-rn.gov.br', '1998-08-05 12:18:49', '2015-01-08 21:16:45', '108318', '000.509.018/0018-61'),
+('trevodaloteria.gov.br', '2000-05-02 13:26:23', '2015-07-16 21:39:08', '323553', '000.360.305/0643-40'),
+('sinir.gov.br', '2012-12-06 18:47:05', '2016-04-11 13:42:07', '10795307', '037.115.375/0002-98'),
+('cra-amrr.gov.br', '2001-07-19 20:07:59', '2002-10-01 15:46:54', '601733', '014.189.856/0001-61'),
+('redejudiciario.gov.br', '1999-03-17 18:50:31', '2014-10-08 15:33:51', '147655', '000.531.640/0001-28'),
+('jef-sc.gov.br', '2003-08-05 12:07:46', '2012-04-24 15:02:52', '1289171', '005.442.380/0001-38'),
+('mpdf.gov.br', '2008-08-21 18:51:45', '2015-04-20 19:02:57', '4725445', '026.989.715/0002-93'),
+('eafsgc.gov.br', '2005-02-21 14:52:27', '2015-01-07 15:51:30', '1994498', '084.490.564/0001-40'),
+('cemaden.gov.br', '2011-09-30 13:19:41', '2013-09-12 14:35:50', '8851138', '001.263.896/0005-98'),
+('crbio-4.gov.br', '2008-11-27 11:36:42', '2014-12-09 14:04:48', '5076795', '002.505.297/0001-72'),
+('previdenciasocial.gov.br', '1999-12-27 12:41:21', '2004-11-29 11:54:20', '234838', '042.422.253/0014-18'),
+('caurj.gov.br', '2012-08-01 11:59:02', '2015-04-29 13:59:30', '10218298', '014.702.767/0001-77'),
+('planejamentoterritorial.gov.br', '2008-09-29 18:24:50', '2014-01-22 17:28:21', '4895048', '000.489.828/0001-55'),
+('crqpr.gov.br', '2016-05-13 18:00:08', '2016-05-13 18:00:08', '15485681', '076.471.358/0001-64'),
+('bolsadacaixa.gov.br', '2000-08-04 21:17:42', '2015-07-16 18:31:57', '399411', '000.360.305/0655-83'),
+('turismoacessivel.gov.br', '2014-02-27 14:36:40', '2014-02-27 14:36:40', '12566429', '005.457.283/0002-08'),
+('softwarepublico.gov.br', '2005-11-24 12:23:25', '2016-01-22 20:28:46', '2483279', '033.683.111/0001-07'),
+('colabora.gov.br', '2015-01-05 13:06:40', '2015-01-05 13:06:40', '13676469', '000.489.828/0001-55'),
+('policiafederal.gov.br', '2009-01-22 10:18:04', '2016-01-29 21:39:00', '5189653', '000.394.494/0080-30'),
+('trf5.gov.br', '1998-01-16 12:24:16', '2013-12-10 02:57:42', '81744', '024.130.072/0001-11'),
+('bvenergia.gov.br', '2000-09-12 12:00:20', '2010-01-09 16:52:25', '414885', '000.357.038/0001-16'),
+('caminhaodasorte.gov.br', '2000-05-02 13:26:04', '2015-07-16 19:43:47', '323560', '000.360.305/0643-40'),
+('sus.gov.br', '2011-08-22 13:52:29', '2016-06-06 13:40:44', '8672213', '000.394.544/0271-13'),
+('crfsc.gov.br', '2015-03-09 17:29:15', '2015-11-10 10:39:46', '13922961', '083.900.969/0001-46'),
+('rj.gov.br', '1996-01-29 12:00:00', '2016-01-13 17:39:23', '5200', '030.121.578/0001-67'),
+('cnir.gov.br', '2001-10-18 19:19:39', '2010-11-16 13:07:37', '654887', '001.612.452/0001-97'),
+('saofrancisco.gov.br', '1999-10-13 16:52:31', '2016-04-13 16:16:32', '204971', '000.091.652/0010-70'),
+('fundacentroms.gov.br', '1999-05-25 14:09:48', '2006-02-01 14:28:45', '162875', '062.428.073/0023-41'),
+('jfpe.gov.br', '1999-12-07 20:12:37', '2014-08-29 15:56:56', '227076', '000.508.903/0014-00'),
+('cgu.gov.br', '2002-05-24 12:30:14', '2016-04-15 19:24:07', '857794', '005.914.685/0001-03'),
+('trtsp.gov.br', '1999-06-10 20:59:44', '2016-02-15 21:15:41', '168099', '003.241.738/0001-39'),
+('rais.gov.br', '2000-01-26 16:48:49', '2011-05-02 12:15:15', '245082', '033.683.111/0009-56'),
+('inde.gov.br', '2010-02-23 17:18:01', '2011-07-30 22:02:20', '6581510', '033.787.094/0001-40'),
+('jf.gov.br', '2005-01-07 10:29:51', '2014-03-25 13:12:40', '1960548', '000.508.903/0001-88'),
+('trincadasorte.gov.br', '2000-05-02 13:26:25', '2015-07-16 21:41:15', '323562', '000.360.305/0643-40'),
+('abcd.gov.br', '2012-07-17 14:52:47', '2012-07-17 14:52:47', '10111463', '002.961.362/0001-74'),
+('jmpi2015.gov.br', '2015-06-18 20:12:16', '2015-06-18 20:12:16', '14301957', '002.961.362/0001-74'),
+('caixaforte.gov.br', '2000-08-04 21:17:43', '2015-07-16 19:31:54', '399425', '000.360.305/2399-13'),
+('crcn.gov.br', '1999-10-28 17:18:23', '2009-02-19 11:48:46', '204322', '000.402.552/0014-40'),
+('arquitetura.gov.br', '2015-07-28 10:55:31', '2015-07-28 10:55:31', '14444330', '014.702.767/0001-77'),
+('emdefesadademocracia.gov.br', '2016-04-12 15:25:31', '2016-04-12 15:25:31', '15430403', '000.394.411/0001-09'),
+('crtr19.gov.br', '2011-06-15 19:17:25', '2013-01-07 12:02:39', '8307335', '011.899.162/0001-20'),
+('iti.gov.br', '2001-02-15 13:23:12', '2016-05-05 13:50:39', '514186', '004.039.532/0001-93'),
+('tribunaiscplp.gov.br', '2000-09-05 11:58:56', '2012-03-06 20:44:23', '415628', '000.414.607/0001-18'),
+('scdl.gov.br', '2000-06-15 19:35:42', '2010-01-26 14:44:23', '353149', '000.394.536/0017-04'),
+('educacion.gov.br', '2000-04-19 20:43:12', '2014-01-23 12:09:17', '308380', '000.394.445/0030-38'),
+('jfrs.gov.br', '1999-12-14 17:36:02', '2015-09-16 12:43:21', '224620', '005.442.380/0001-38'),
+('sena.gov.br', '2000-05-02 13:26:19', '2015-07-16 21:35:04', '323554', '000.360.305/0643-40'),
+('c-brasil.gov.br', '2000-05-08 20:09:22', '2011-05-02 12:14:52', '324512', '033.683.111/0009-56'),
+('anac.gov.br', '2006-04-26 20:30:46', '2016-01-22 21:02:22', '2762327', '007.947.821/0001-89'),
+('spmulheres.gov.br', '2003-04-03 16:24:04', '2005-06-29 16:42:12', '1156300', '005.510.958/0001-46'),
+('eafcol.gov.br', '2004-03-17 19:11:27', '2016-02-19 10:47:05', '1572501', '036.351.658/0001-95'),
+('radiobras.gov.br', '1996-08-13 12:00:00', '2015-05-23 01:55:11', '13827', '009.168.704/0001-42'),
+('cnj.gov.br', '2005-04-20 14:56:08', '2015-02-05 17:44:45', '2111539', '007.421.906/0001-29'),
+('defesacivil.gov.br', '2000-04-28 13:50:20', '2015-06-08 17:46:09', '303547', '003.353.358/0001-96'),
+('brasilre.gov.br', '2009-06-16 14:19:39', '2015-08-18 16:45:08', '5608210', '033.376.989/0001-91'),
+('eletrosul.gov.br', '1996-07-27 12:00:00', '2014-12-29 18:59:18', '12785', '000.073.957/0001-68'),
+('sigabrasil.gov.br', '2009-02-26 12:25:28', '2014-01-24 20:04:27', '5296790', '000.530.279/0004-68'),
+('biodiesel.gov.br', '2005-02-04 10:33:20', '2014-08-05 23:15:41', '1986365', '004.082.993/0001-49'),
+('crbio2.gov.br', '2015-01-16 13:03:10', '2015-01-16 13:03:10', '13717675', '002.452.608/0001-82'),
+('fiscalizacaorio2016.gov.br', '2013-11-27 16:58:21', '2013-11-27 16:58:21', '12266738', '000.414.607/0001-18'),
+('tjdft.gov.br', '1998-07-20 17:34:38', '2016-02-25 22:10:55', '107450', '000.531.954/0001-20'),
+('tribunaisdotrabalho.gov.br', '2001-03-23 12:50:33', '2015-03-04 19:04:42', '536774', '000.509.968/0001-48'),
+('territoriosrurais.gov.br', '2016-03-08 17:43:45', '2016-03-08 17:43:45', '15316288', '001.612.452/0001-97'),
+('xn--oramentofederal-fmb.gov.br', '2010-12-17 16:25:33', '2011-05-02 12:09:09', '7658293', '033.683.111/0001-07'),
+('mpm.gov.br', '1997-09-11 12:00:00', '2014-06-21 17:19:28', '57113', '026.989.715/0004-55'),
+('ticontrole.gov.br', '2008-10-08 13:41:43', '2014-07-18 18:01:09', '4916917', '000.414.607/0001-18'),
+('fns.gov.br', '1996-08-19 12:00:00', '1999-07-19 12:00:00', '14283', '026.989.350/0001-16'),
+('cbtu-natal.gov.br', '1998-08-28 14:59:07', '2001-07-06 15:34:00', '112905', '042.357.483/0009-83'),
+('trinka.gov.br', '2000-05-02 13:26:26', '2015-07-16 21:41:46', '323565', '000.360.305/0688-41'),
+('cmrj.gov.br', '1995-12-15 12:00:00', '2000-04-26 11:55:46', '4853', '030.467.039/0001-84'),
+('fiscalizario2016.gov.br', '2013-11-27 16:58:21', '2013-11-27 16:58:21', '12266757', '000.414.607/0001-18'),
+('comunicacaosocial.gov.br', '2010-01-13 14:04:12', '2016-05-12 13:34:03', '6425018', '009.234.494/0001-43'),
+('pcdl.gov.br', '2002-09-03 11:55:50', '2002-09-03 12:00:00', '951810', '000.394.536/0016-15'),
+('enamat.gov.br', '2006-09-06 19:39:02', '2015-03-04 19:16:57', '3046336', '000.509.968/0001-48'),
+('caixaeconomicafederal.gov.br', '1998-10-20 13:51:47', '2015-07-16 19:08:55', '120970', '000.360.305/0001-04'),
+('agronet.gov.br', '2001-03-26 18:16:14', '2012-05-02 16:47:10', '537300', '073.895.294/0001-30'),
+('adene.gov.br', '2002-08-23 20:19:58', '2005-12-01 20:37:59', '943225', '005.193.279/0001-90'),
+('mercosul.gov.br', '2001-01-05 20:56:59', '2011-09-07 00:45:03', '494320', '000.394.536/0006-43'),
+('dados.gov.br', '2011-07-29 13:40:32', '2016-02-02 17:15:47', '8552337', '000.489.828/0001-55'),
+('abcnaidadecerta.gov.br', '2012-08-09 13:49:35', '2014-01-23 12:09:42', '10265256', '000.394.445/0139-39'),
+('simecpr.gov.br', '2011-08-10 12:26:06', '2014-01-23 12:09:04', '8651955', '000.394.445/0139-39'),
+('jfce.gov.br', '2000-03-13 21:12:29', '2015-03-07 12:32:53', '283761', '000.508.903/0016-64'),
+('caupe.gov.br', '2012-07-06 12:46:00', '2015-04-29 13:59:22', '10046034', '014.702.767/0001-77'),
+('siga.gov.br', '2009-06-03 15:03:40', '2014-01-24 20:13:20', '5623057', '000.530.279/0004-68'),
+('transparenciapublica.gov.br', '2005-10-05 19:21:02', '2016-04-15 19:08:19', '2401048', '005.914.685/0001-03'),
+('jef-rs.gov.br', '2003-08-05 12:07:46', '2012-04-24 14:56:54', '1289172', '005.442.380/0001-38'),
+('reluz.gov.br', '2000-11-06 18:41:04', '2009-10-05 18:35:49', '453442', '000.001.180/0002-07'),
+('e-pagamentos.gov.br', '2001-12-17 19:18:38', '2002-12-18 15:53:57', '685791', '000.360.305/2714-85'),
+('hasp.gov.br', '1998-09-16 17:54:16', '2007-01-16 23:31:40', '116858', '000.394.429/0106-88'),
+('crea-ro.gov.br', '2009-10-02 19:55:50', '2009-10-02 19:55:50', '6002407', '004.920.948/0001-16'),
+('iufro2019.gov.br', '2015-02-11 19:11:57', '2015-02-11 19:11:57', '13825876', '037.115.375/0002-98'),
+('dfa-pe.gov.br', '1998-03-26 19:38:11', '2003-02-18 14:24:47', '90348', '000.396.895/0021-79'),
+('agespacial.gov.br', '1998-05-25 17:57:00', '2015-08-19 18:51:17', '98443', '086.900.545/0001-70'),
+('maismedicos.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:37:54', '11932824', '015.126.437/0001-43'),
+('casamilitar.gov.br', '2015-11-04 18:09:01', '2015-11-04 18:09:01', '14879374', '010.366.249/0001-79'),
+('seppir.gov.br', '2010-05-10 13:09:05', '2014-09-22 17:10:24', '6837324', '006.064.438/0001-10'),
+('capoeira.gov.br', '2016-03-01 11:06:47', '2016-03-01 11:06:47', '15274658', '026.474.056/0008-48'),
+('trt19.gov.br', '1999-06-30 14:23:33', '2008-02-27 22:18:37', '169924', '035.734.318/0001-80'),
+('trt23.gov.br', '1996-10-21 11:00:00', '2016-01-19 18:11:26', '19718', '037.115.425/0001-56'),
+('trt6.gov.br', '1996-10-16 11:00:00', '2016-02-21 14:39:36', '19093', '000.509.968/0007-33'),
+('finame.gov.br', '2006-05-17 17:29:51', '2014-11-11 20:50:02', '2800317', '033.660.564/0001-00'),
+('conferenciameioambiente.gov.br', '2013-02-27 19:43:59', '2016-04-11 13:19:08', '11119091', '037.115.375/0002-98'),
+('ect.gov.br', '1996-02-08 12:00:00', '2016-01-19 18:43:37', '5310', '034.028.316/0001-03'),
+('reformaagraria.gov.br', '2000-05-22 18:31:59', '2010-11-16 13:07:55', '339590', '001.612.452/0001-97'),
+('laracps.gov.br', '1999-04-13 19:24:14', '1999-04-13 16:24:14', '152221', '000.396.895/0047-08'),
+('ibge2.gov.br', '1999-08-06 12:21:05', '2004-09-13 22:02:10', '184965', '033.787.094/0043-07'),
+('senadora.gov.br', '2002-11-07 12:50:27', '2014-01-27 13:56:40', '1009330', '000.530.279/0004-68'),
+('brasilcentral.gov.br', '2015-09-16 19:09:24', '2015-09-16 19:09:24', '14653175', '003.230.476/0001-07'),
+('creditoruralcaixa.gov.br', '2014-09-17 15:09:31', '2015-07-16 20:48:44', '13323025', '000.360.305/0001-04'),
+('baciadoprata.gov.br', '1999-03-23 18:05:37', '2011-12-15 20:15:46', '149111', '002.270.669/0001-29'),
+('crasp.gov.br', '2008-04-28 17:41:14', '2011-08-31 12:16:45', '4395208', '043.060.078/0001-04'),
+('cepec.gov.br', '1999-05-24 13:18:32', '2016-04-01 16:26:23', '160998', '033.004.300/0007-93'),
+('excelenciaemturismo.gov.br', '2008-07-08 17:55:38', '2014-10-14 18:12:16', '4644824', '033.741.794/0001-01'),
+('trt2.gov.br', '1999-06-11 19:34:38', '2016-02-15 21:14:35', '168327', '003.241.738/0001-39'),
+('jfrj.gov.br', '1997-09-19 12:00:00', '2014-11-24 18:33:51', '58721', '005.424.540/0001-16'),
+('observatoriodegenero.gov.br', '2009-01-22 10:18:04', '2009-01-22 10:18:04', '5206019', '000.394.411/0001-09'),
+('eafsc.gov.br', '2005-02-21 14:52:28', '2005-03-23 17:41:42', '2017005', '073.883.027/0001-43'),
+('trabalho.gov.br', '2000-07-28 21:30:21', '2016-02-05 20:45:42', '394684', '037.115.367/0033-48'),
+('eafmachado.gov.br', '2002-06-05 17:28:52', '2013-06-28 00:27:31', '876624', '073.926.602/0001-48'),
+('bcdam.gov.br', '1999-03-22 18:29:36', '2015-08-05 18:20:34', '145756', '000.091.652/0002-60'),
+('tse.gov.br', '1996-06-17 12:00:00', '2015-01-08 20:19:43', '9718', '000.509.018/0001-13'),
+('crecipe.gov.br', '2008-05-02 18:08:17', '2016-02-29 19:38:45', '4380107', '011.005.444/0001-36'),
+('aids.gov.br', '1997-06-02 12:00:00', '2016-04-06 17:53:35', '41832', '000.530.493/0001-71'),
+('snisb.gov.br', '2016-01-21 18:23:20', '2016-01-21 18:23:20', '15125034', '004.204.444/0001-08'),
+('crbio5.gov.br', '2011-11-28 18:31:45', '2016-05-11 19:19:33', '9123872', '003.662.446/0001-70'),
+('reste.gov.br', '1998-02-10 12:07:21', '1998-02-10 12:00:00', '85216', '000.091.652/0015-84'),
+('rio20.gov.br', '2011-05-13 10:23:55', '2012-10-02 11:48:51', '8216116', '000.394.536/0004-81'),
+('caixaqui.gov.br', '2000-08-04 21:17:44', '2015-07-16 19:41:19', '399412', '000.360.305/0655-83'),
+('mercadopublico.gov.br', '2008-04-15 18:45:28', '2015-07-06 18:41:01', '4382710', '000.489.828/0001-55'),
+('maisambiente.gov.br', '2011-09-28 18:14:20', '2011-09-28 18:14:20', '8786862', '003.659.166/0001-02'),
+('energiaheliotermica.gov.br', '2015-02-06 09:05:24', '2015-02-06 09:05:24', '13791642', '004.082.993/0001-49'),
+('brasilglobalnet.gov.br', '2010-12-29 12:59:40', '2014-07-10 14:21:04', '7725667', '000.394.536/0009-96'),
+('radiojustica.gov.br', '2004-03-15 11:50:32', '2014-10-08 15:33:16', '1559406', '000.531.640/0001-28'),
+('enccla.gov.br', '2007-03-28 17:43:20', '2014-03-13 15:08:15', '3446190', '000.394.494/0013-70'),
+('cidadaniafinanceira.gov.br', '2015-03-31 16:27:25', '2015-06-17 22:21:48', '13971449', '000.038.166/0001-05'),
+('federalcard.gov.br', '2000-08-04 21:17:50', '2015-07-16 20:57:31', '399405', '000.360.305/0674-46'),
+('caurr.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:00:46', '10258052', '014.702.767/0001-77'),
+('pame.gov.br', '2004-12-14 12:24:14', '2015-03-23 18:13:17', '1924674', '000.394.429/0069-07'),
+('portalexporta.gov.br', '2002-01-02 17:49:10', '2013-02-15 15:39:45', '709140', '000.394.478/0003-05'),
+('igualdaderacial.gov.br', '2010-05-10 12:53:36', '2014-09-22 17:06:43', '6837299', '006.064.438/0001-10'),
+('eproc-sc.gov.br', '2003-08-05 11:52:44', '2012-04-24 14:56:02', '1289184', '005.442.380/0001-38'),
+('ouvidoria.gov.br', '2016-06-02 18:54:04', '2016-06-02 18:54:04', '15610129', '005.914.685/0001-03'),
+('palmares.gov.br', '2000-03-24 12:36:01', '2008-08-13 13:29:54', '276431', '032.901.688/0001-77'),
+('tre-to.gov.br', '1998-08-12 12:39:08', '2015-01-08 21:18:52', '109495', '000.509.018/0025-90'),
+('pe.gov.br', '1996-07-10 12:00:00', '2007-02-08 13:58:14', '11446', '006.067.608/0001-10'),
+('caugo.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:57:02', '10046001', '014.702.767/0001-77'),
+('siapenet.gov.br', '1999-10-22 11:32:01', '2011-05-02 12:10:32', '212040', '033.683.111/0001-07'),
+('museudainconfidencia.gov.br', '2009-08-28 19:40:50', '2009-08-28 19:40:50', '5883869', '026.474.056/0022-04'),
+('dialogabrasil.gov.br', '2015-08-03 15:22:25', '2015-08-03 15:22:25', '14494864', '010.366.249/0001-79'),
+('brasilmaisprodutivo.gov.br', '2016-03-30 13:03:41', '2016-03-30 13:03:41', '15403365', '000.394.478/0002-24'),
+('juventude.gov.br', '2007-10-17 19:13:26', '2011-10-03 20:09:30', '3962921', '000.394.411/0001-09'),
+('dadosabertos.gov.br', '2011-07-29 13:40:32', '2014-01-22 17:23:37', '8552341', '000.489.828/0001-55'),
+('instantanea.gov.br', '2000-08-04 21:17:54', '2015-07-16 21:07:40', '399419', '000.360.305/0655-83'),
+('crefono8.gov.br', '2011-10-26 10:28:36', '2011-10-28 11:33:28', '8918873', '008.077.490/0001-36'),
+('xn--previdncia-r7a.gov.br', '2005-08-31 13:55:29', '2013-06-07 22:40:54', '2322262', '042.422.253/0027-32'),
+('dou.gov.br', '1997-01-07 11:00:00', '2007-11-30 17:40:56', '27356', '000.394.494/0016-12'),
+('antt.gov.br', '2002-04-15 11:34:13', '2014-01-31 13:14:49', '783416', '004.898.488/0001-77'),
+('jt.gov.br', '2001-03-23 12:50:34', '2015-03-04 19:18:42', '536775', '000.509.968/0001-48'),
+('inpi.gov.br', '1997-02-28 12:00:00', '2015-09-18 23:00:35', '31664', '042.521.088/0001-37'),
+('caumt.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:58:11', '10046011', '014.702.767/0001-77'),
+('tvjustica.gov.br', '2002-03-22 12:13:03', '2014-10-08 15:34:31', '746725', '000.531.640/0001-28'),
+('bcb.gov.br', '1996-01-24 12:00:00', '2015-06-17 22:20:50', '5153', '000.038.166/0001-05'),
+('cefetbg.gov.br', '2002-12-11 11:10:41', '2016-03-16 18:39:07', '1038981', '094.728.821/0001-92'),
+('pracas.gov.br', '2011-05-23 15:06:19', '2013-03-21 19:26:59', '8268448', '001.264.142/0002-00'),
+('teleceara.gov.br', '1996-01-01 12:00:00', '2015-08-03 19:03:47', '0', '002.558.134/0001-58'),
+('serpro.gov.br', '1996-01-01 12:00:00', '2015-07-06 20:13:15', '0', '033.683.111/0001-07'),
+('camex.gov.br', '2012-09-26 15:55:49', '2013-02-15 15:29:26', '10380069', '000.394.478/0002-24'),
+('cprm-sp.gov.br', '1998-05-04 17:43:41', '1998-05-05 12:00:00', '95976', '000.091.652/0008-55'),
+('codomar.gov.br', '2012-04-03 18:58:13', '2015-12-14 17:35:58', '9708122', '006.347.892/0001-88'),
+('seap.gov.br', '2004-03-01 14:21:14', '2012-12-19 10:00:36', '1526492', '005.482.692/0001-75'),
+('cinemateca.gov.br', '2004-05-20 15:53:37', '2015-04-14 19:44:18', '1641397', '003.221.904/0001-35'),
+('exportadoresbrasileiros.gov.br', '2002-10-22 15:54:13', '2011-11-04 09:59:21', '985223', '000.394.478/0002-24'),
+('novoaeroportorecife.gov.br', '2001-07-10 11:41:34', '2013-02-15 12:12:41', '596093', '000.352.294/0014-35'),
+('cbtu.gov.br', '1998-02-20 12:15:14', '2002-02-21 23:25:18', '86585', '042.357.483/0001-26'),
+('portaldoinvestidor.gov.br', '2006-12-20 15:46:49', '2014-04-05 17:03:56', '3236285', '029.507.878/0001-08'),
+('sgi.gov.br', '2011-09-02 14:15:58', '2014-01-22 17:29:35', '8771412', '000.489.828/0001-55'),
+('seliganacaixa.gov.br', '2014-09-17 15:09:31', '2015-07-16 21:34:41', '13323021', '000.360.305/0001-04'),
+('todoscontracorrupcao.gov.br', '2015-12-03 16:42:13', '2016-04-15 19:07:58', '14981140', '005.914.685/0001-03'),
+('esportiva.gov.br', '2000-08-04 21:17:49', '2015-07-16 20:56:09', '399414', '000.360.305/0655-83'),
+('crbm3.gov.br', '2015-05-15 13:52:54', '2015-05-15 13:52:54', '14147040', '026.619.841/0001-75'),
+('dte.gov.br', '1999-02-23 00:23:28', '2014-11-18 13:17:24', '142726', '001.175.497/0001-41'),
+('portalexportacao.gov.br', '2001-11-23 15:48:17', '2013-05-10 19:46:36', '684404', '000.394.478/0002-24'),
+('iec.gov.br', '2013-10-14 14:42:41', '2013-12-04 18:33:39', '12108828', '000.394.544/0025-52'),
+('ahimor.gov.br', '1998-06-15 17:24:52', '2011-07-11 17:38:11', '100243', '004.933.552/0010-02'),
+('quina.gov.br', '2000-05-02 13:26:17', '2015-07-16 21:30:16', '323557', '000.360.305/0643-40'),
+('eletronuclear.gov.br', '1998-05-07 14:38:53', '2015-08-05 14:33:15', '95963', '042.540.211/0001-67'),
+('sisp.gov.br', '2010-12-10 23:52:45', '2016-02-02 17:13:34', '7635221', '000.489.828/0003-17'),
+('corenpb.gov.br', '2009-06-30 13:50:17', '2016-06-14 13:50:48', '5654571', '007.647.181/0001-91'),
+('coren-pe.gov.br', '2012-02-09 10:37:41', '2015-10-21 22:58:14', '9411912', '011.674.777/0001-58'),
+('crtr17.gov.br', '2011-05-04 17:08:20', '2012-05-14 16:47:04', '8241651', '010.622.423/0001-05'),
+('creci-se.gov.br', '2015-11-04 12:17:53', '2015-11-26 20:28:28', '14866141', '013.171.970/0001-00'),
+('inclusaodigital.gov.br', '2005-08-05 20:10:25', '2014-01-22 17:27:02', '2269476', '000.489.828/0001-55'),
+('creci-sc.gov.br', '2008-05-14 16:12:42', '2014-11-02 00:49:22', '4455993', '082.894.098/0001-32'),
+('corenms.gov.br', '2011-04-25 14:23:05', '2016-06-14 13:39:03', '8168920', '024.630.212/0001-10'),
+('d.gov.br', '2000-03-16 22:35:17', '2014-01-22 17:32:16', '288085', '002.927.863/0001-34'),
+('pescabrasil.gov.br', '2003-03-26 18:06:17', '2012-12-19 10:00:31', '1144496', '005.482.692/0001-75'),
+('museulasarsegall.gov.br', '2010-07-27 19:37:19', '2012-09-03 18:39:09', '7113884', '010.898.596/0001-42'),
+('soumaismedicos.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:38:18', '11932840', '015.126.437/0001-43'),
+('dtpdf.gov.br', '1997-02-27 12:00:00', '2013-09-20 00:07:46', '31562', '042.422.253/0014-18'),
+('celepar.gov.br', '1996-03-18 12:00:00', '2009-12-08 13:41:49', '5966', '076.545.011/0001-19'),
+('quiosqueredegoverno.gov.br', '2002-07-15 11:48:24', '2011-05-02 12:09:51', '907317', '033.683.111/0001-07'),
+('gcth-sida.gov.br', '1999-03-31 17:52:03', '2002-11-13 14:04:39', '149799', '000.394.544/0001-85'),
+('inep.gov.br', '1995-06-07 12:00:00', '2011-08-30 20:04:48', '0', '001.678.363/0001-43'),
+('corenma.gov.br', '2012-04-11 12:47:11', '2012-04-11 12:47:11', '9641565', '006.272.868/0001-27'),
+('ceplac.gov.br', '1997-09-27 12:00:00', '2016-03-07 18:59:26', '60228', '033.004.300/0003-60'),
+('inmetro-sc.gov.br', '2001-07-13 13:36:23', '2008-02-06 17:38:40', '599347', '000.662.270/0004-00'),
+('businessbrazil.gov.br', '2013-06-24 14:44:28', '2014-07-10 14:17:33', '11592380', '000.394.536/0009-96'),
+('mp.gov.br', '1999-08-20 11:50:33', '2014-01-22 17:27:40', '186926', '000.489.828/0001-55'),
+('investinbrazil.gov.br', '2000-03-17 18:55:01', '2014-01-22 17:33:28', '288574', '002.927.863/0001-34'),
+('mp-df.gov.br', '2008-08-21 18:36:21', '2015-04-20 19:02:38', '4725404', '026.989.715/0002-93'),
+('separeolixo.gov.br', '2011-07-26 11:14:03', '2016-04-11 13:41:12', '8572182', '037.115.375/0002-98'),
+('voz.gov.br', '2016-01-18 13:07:22', '2016-01-18 13:07:22', '15079583', '009.168.704/0001-42'),
+('cop15brazil.gov.br', '2009-11-19 17:31:34', '2014-09-22 17:06:13', '6289641', '009.234.494/0001-43'),
+('ipsm.gov.br', '1996-04-15 12:00:00', '2015-11-27 12:14:32', '6707', '017.444.779/0001-37'),
+('mg.gov.br', '1995-07-27 12:00:00', '2013-08-13 15:28:27', '0', '016.636.540/0001-04'),
+('fundacentro-pe.gov.br', '1997-12-12 11:00:00', '2011-06-13 13:17:30', '75337', '062.428.073/0006-40'),
+('e-post.gov.br', '2001-09-21 19:00:54', '2016-06-04 00:33:32', '637040', '034.028.316/0001-03'),
+('creci-sp.gov.br', '2008-06-12 21:45:18', '2015-09-24 18:37:41', '4543146', '062.655.246/0001-59'),
+('cauro.gov.br', '2012-08-01 18:51:27', '2015-04-29 13:59:33', '10257996', '014.702.767/0001-77'),
+('ahsfra.gov.br', '2002-07-29 14:12:18', '2010-09-08 19:59:38', '907060', '014.372.148/0005-95'),
+('justra.gov.br', '2001-03-23 12:50:32', '2015-03-04 19:16:20', '536770', '000.509.968/0001-48'),
+('crbio8.gov.br', '2015-04-13 18:32:10', '2016-01-27 13:57:22', '14022776', '022.165.071/0001-87'),
+('guiadeservicos.gov.br', '2012-02-23 09:53:25', '2014-01-22 17:26:17', '9507584', '000.489.828/0001-55'),
+('premio-e.gov.br', '2002-09-10 15:02:45', '2015-07-14 14:26:57', '963854', '002.927.863/0001-34'),
+('brasilsemiseria.gov.br', '2011-05-26 16:59:26', '2013-10-14 11:21:21', '8329623', '033.683.111/0001-07'),
+('mnba.gov.br', '2000-12-04 18:35:24', '2015-09-11 15:19:37', '471179', '026.474.056/0019-09'),
+('prt6.gov.br', '1998-05-11 14:12:06', '2009-02-11 20:07:41', '96814', '026.989.715/0037-13'),
+('ada.gov.br', '2002-09-14 15:11:29', '2009-02-08 20:32:28', '958769', '005.165.423/0001-85'),
+('ceitec.gov.br', '2013-11-13 16:08:27', '2013-11-13 16:08:27', '12219808', '010.770.641/0001-89'),
+('trinca.gov.br', '2000-05-02 13:26:25', '2015-07-16 21:40:49', '323568', '000.360.305/0688-41'),
+('pf.gov.br', '2009-01-22 10:18:04', '2016-01-29 18:38:00', '5189629', '000.394.494/0080-30'),
+('jfse.gov.br', '1999-01-12 20:17:22', '2016-06-20 14:18:48', '134712', '000.508.903/0018-26'),
+('almg.gov.br', '1996-01-01 12:00:00', '2014-08-21 13:55:52', '0', '017.516.113/0001-47'),
+('ctav.gov.br', '2006-03-10 13:14:15', '2015-01-07 17:02:09', '2663201', '003.221.904/0001-35'),
+('creci-pr.gov.br', '2008-04-29 11:40:02', '2014-05-23 19:24:31', '4386338', '076.693.910/0001-69'),
+('acs.gov.br', '2007-12-03 16:12:20', '2015-06-16 19:43:40', '4108303', '007.752.497/0001-43'),
+('coracaoazul.gov.br', '2013-06-11 11:56:50', '2013-06-11 11:56:50', '11572636', '000.394.494/0013-70'),
+('sei.gov.br', '2014-10-15 09:44:27', '2014-10-15 09:44:27', '13442575', '002.927.863/0001-34'),
+('mec.gov.br', '1995-12-14 12:00:00', '2014-01-23 11:54:52', '4823', '000.394.445/0139-39'),
+('al.gov.br', '1996-04-04 12:00:00', '2016-03-04 20:57:23', '6462', '035.562.321/0001-64'),
+('conpet.gov.br', '2001-08-15 13:07:31', '2012-12-05 17:20:25', '619358', '033.000.167/0147-57'),
+('portalfederativo.gov.br', '2006-03-21 15:28:43', '2012-11-20 19:14:34', '2696932', '033.892.175/0001-00'),
+('pracasdopac.gov.br', '2010-09-10 13:53:58', '2014-01-23 12:09:28', '7294520', '000.394.445/0139-39'),
+('sic.gov.br', '2014-04-08 19:15:07', '2016-04-15 19:07:49', '12773558', '005.914.685/0001-03'),
+('mtecbo.gov.br', '2002-10-17 11:25:31', '2016-02-05 20:43:14', '982440', '037.115.367/0033-48'),
+('caixaoperadoradeseguros.gov.br', '2015-07-16 17:39:31', '2015-07-16 19:38:13', '14436705', '000.360.305/0001-04'),
+('orint.gov.br', '1999-12-02 19:22:41', '2014-11-18 13:19:01', '224288', '001.175.497/0001-41'),
+('fundacentro-es.gov.br', '1998-02-26 18:05:59', '2005-10-31 18:07:34', '86056', '062.428.073/0014-50'),
+('aeb.gov.br', '2002-04-04 14:27:06', '2014-08-19 12:52:23', '774705', '086.900.545/0001-70'),
+('nordestedigital.gov.br', '2001-11-19 18:18:11', '2011-05-30 18:46:20', '663208', '007.237.373/0001-20'),
+('siscomex.gov.br', '1998-06-24 19:32:39', '2011-05-02 12:10:46', '104131', '033.683.111/0001-07'),
+('go.gov.br', '1996-06-18 12:00:00', '2015-08-04 17:50:47', '0', '003.517.631/0001-70'),
+('coletapilotocnae.gov.br', '2008-12-01 12:15:35', '2011-05-02 12:30:32', '5059501', '000.394.460/0008-18'),
+('computadorparaprofessores.gov.br', '2008-07-07 13:37:19', '2011-04-29 17:42:18', '4639088', '033.683.111/0001-07'),
+('convensi.gov.br', '2014-05-05 13:54:04', '2014-05-06 19:09:20', '12844980', '062.658.737/0001-53'),
+('cra-pr.gov.br', '2016-03-31 13:08:32', '2016-03-31 13:08:32', '15401084', '078.348.059/0001-62'),
+('ien.gov.br', '2000-11-22 17:22:12', '2010-01-19 16:52:57', '454275', '000.402.552/0003-98'),
+('riocmsi.gov.br', '2005-04-04 18:47:26', '2011-05-02 12:10:11', '2080875', '033.683.111/0001-07'),
+('imprensanacional.gov.br', '2008-02-22 18:21:08', '2008-02-22 18:51:45', '4225046', '004.196.645/0001-00'),
+('eleicoes.gov.br', '2001-08-02 18:49:44', '2013-10-02 17:06:46', '615171', '000.509.018/0001-13'),
+('aviacao.gov.br', '2015-07-28 10:55:31', '2015-07-28 10:55:31', '14431227', '013.564.476/0001-05'),
+('petrobras.gov.br', '1996-01-01 12:00:00', '2012-12-05 17:21:48', '0', '033.000.167/0819-42'),
+('inmetro-es.gov.br', '1998-11-18 18:44:48', '2007-04-11 14:26:58', '123973', '000.662.270/0010-59'),
+('senad.gov.br', '1998-10-29 13:09:47', '2012-01-04 13:47:35', '123648', '000.394.411/0001-09'),
+('presidencia.gov.br', '2000-03-03 13:28:22', '2011-09-19 00:22:20', '276235', '000.394.411/0001-09'),
+('brmcc.gov.br', '2005-07-08 20:03:00', '2005-07-08 17:03:00', '2215475', '000.394.429/0048-74'),
+('scdp.gov.br', '2005-10-26 16:30:29', '2011-05-02 12:10:17', '2416257', '033.683.111/0001-07'),
+('bancodeconteudos.gov.br', '2010-02-12 17:00:59', '2015-04-14 19:40:07', '6496733', '003.221.904/0001-35'),
+('govbankingcaixa.gov.br', '2000-08-04 21:17:52', '2015-07-16 21:02:57', '399416', '000.360.305/0655-83'),
+('olaturista.gov.br', '2009-09-29 12:23:26', '2014-09-20 22:08:54', '6006082', '033.741.794/0001-01'),
+('saude.gov.br', '1996-08-04 12:00:00', '2016-06-06 13:30:28', '13340', '000.394.544/0008-51'),
+('cop.gov.br', '2009-11-18 17:03:04', '2014-09-22 17:05:44', '6275817', '009.234.494/0001-43'),
+('registrocivil.gov.br', '2013-07-08 12:30:29', '2013-07-08 12:30:29', '11698736', '005.478.625/0001-87'),
+('rr.gov.br', '1998-10-21 11:00:00', '2016-05-19 22:15:27', '122624', '084.012.012/0001-26'),
+('transparencianacopa.gov.br', '2011-07-12 16:17:24', '2014-01-24 20:06:42', '8550859', '000.530.279/0004-68'),
+('mpes.gov.br', '2001-09-14 16:51:17', '2010-01-28 20:20:41', '640020', '002.304.470/0001-74'),
+('fonoaudiologia-rj.gov.br', '2009-07-08 20:34:26', '2015-03-19 20:11:13', '5729289', '032.243.313/0001-67'),
+('noticias.gov.br', '2013-03-26 12:22:02', '2014-01-22 17:27:55', '11251642', '000.489.828/0001-55'),
+('anp.gov.br', '1998-02-02 11:14:20', '2015-08-18 12:31:01', '84599', '002.313.673/0001-27'),
+('portalconsular.gov.br', '2012-02-08 12:47:57', '2012-02-08 12:47:57', '9391847', '000.394.536/0004-81'),
+('ipardes.gov.br', '1996-01-01 12:00:00', '2009-12-08 13:11:34', '0', '075.954.891/0001-14'),
+('sinesp.gov.br', '2012-04-20 15:44:26', '2012-12-03 20:14:50', '9754732', '000.394.494/0013-70'),
+('cfmv.gov.br', '2010-12-29 12:54:29', '2010-12-29 12:54:29', '7629594', '000.119.784/0001-71'),
+('catir.gov.br', '2010-12-10 23:52:45', '2014-01-22 17:35:26', '7635212', '000.489.828/0003-17'),
+('comexbrazil.gov.br', '2011-07-04 13:06:55', '2013-05-10 19:23:04', '8496779', '000.394.478/0002-24'),
+('comiteamazonia.gov.br', '2000-10-24 11:17:51', '2002-11-19 20:19:04', '440868', '004.931.713/0001-20'),
+('trt18.gov.br', '1998-05-13 12:21:05', '2011-12-08 03:59:14', '95194', '002.395.868/0001-63'),
+('redecidadao.gov.br', '1999-03-04 20:26:05', '2009-12-08 13:42:49', '144997', '076.545.011/0001-19'),
+('sispac.gov.br', '2011-08-30 18:34:05', '2014-01-22 17:29:55', '8747901', '000.489.828/0001-55'),
+('oconsumidor.gov.br', '2000-10-30 16:12:34', '2015-05-20 12:18:15', '453939', '000.662.270/0003-20'),
+('portaldoempreendedor.gov.br', '2009-06-30 13:50:18', '2010-02-05 19:41:52', '5695847', '000.394.478/0002-24'),
+('correios.gov.br', '1997-10-16 11:00:00', '2015-04-02 17:59:12', '63697', '034.028.316/0001-03'),
+('crefito-sp.gov.br', '2008-07-11 16:22:23', '2008-07-11 16:22:23', '4666492', '049.781.479/0001-30'),
+('mtecbo2000.gov.br', '2001-06-27 13:07:25', '2010-12-15 11:21:57', '586428', '037.115.367/0033-48'),
+('trt20.gov.br', '1997-12-06 11:00:00', '2007-09-13 13:51:01', '73545', '001.445.033/0001-08'),
+('concar.gov.br', '2010-09-23 19:02:45', '2011-07-30 22:03:43', '7353286', '033.787.094/0001-40'),
+('secom.gov.br', '2009-09-29 12:54:20', '2016-05-11 17:27:58', '6041433', '009.234.494/0001-43'),
+('amazonianfund.gov.br', '2009-03-17 14:54:06', '2014-02-13 23:09:39', '5310136', '033.657.248/0001-89'),
+('coren-sp.gov.br', '2008-09-18 18:09:57', '2015-05-19 15:33:58', '4868212', '044.413.680/0001-40'),
+('parana.gov.br', '2000-08-24 11:57:17', '2009-12-08 15:04:09', '406928', '076.545.011/0001-19'),
+('telebrasilia.gov.br', '1996-01-01 12:00:00', '2009-07-22 12:57:22', '0', '576'),
+('ciscea.gov.br', '2005-03-17 20:01:07', '2005-07-12 11:02:02', '2044738', '000.394.429/0133-50'),
+('crtr18.gov.br', '2012-03-29 14:12:27', '2012-03-29 14:12:27', '9658942', '010.765.721/0001-46'),
+('snirh.gov.br', '1999-10-26 13:51:32', '2014-01-28 12:25:26', '213127', '004.204.444/0001-08'),
+('redesocial.gov.br', '2001-06-25 19:13:20', '2014-01-22 17:34:18', '591267', '002.927.863/0001-34'),
+('renapi.gov.br', '2011-02-04 13:38:34', '2015-07-08 04:12:01', '7805309', '009.266.912/0001-84'),
+('cartelafederal.gov.br', '2000-05-02 13:26:05', '2015-07-16 19:54:46', '323555', '000.360.305/0643-40'),
+('ctlivre.gov.br', '2004-11-16 10:22:49', '2013-02-04 17:38:59', '1875160', '003.132.745/0001-00'),
+('trtrio.gov.br', '1997-08-12 12:00:00', '2016-03-17 20:32:36', '51508', '002.578.421/0001-20'),
+('dtceagw.gov.br', '2009-09-30 13:51:34', '2015-10-01 17:55:34', '5995664', '000.394.429/0094-00'),
+('caurs.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:00:48', '10258017', '014.702.767/0001-77'),
+('irb.gov.br', '1995-11-27 12:00:00', '2015-08-18 16:47:14', '4611', '033.376.989/0001-91'),
+('crimecongress2010.gov.br', '2009-10-02 19:40:18', '2013-04-04 14:37:51', '6034773', '000.394.494/0013-70'),
+('cti.gov.br', '2008-07-22 11:07:44', '2015-01-08 12:17:47', '4633687', '004.822.500/0001-60'),
+('defensoriapublica.gov.br', '2002-04-12 19:30:39', '2013-04-04 14:35:43', '768323', '000.394.494/0013-70'),
+('brasilemcidades.gov.br', '2011-10-11 12:59:26', '2014-09-24 17:31:07', '8912744', '000.489.828/0006-60'),
+('cindacta2.gov.br', '2010-07-28 11:05:52', '2014-06-04 00:30:59', '7100525', '000.394.429/0055-01'),
+('df.gov.br', '1996-08-15 12:00:00', '2016-06-17 01:08:45', '14006', '003.230.476/0001-07'),
+('promocaodaigualdaderacial.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:09:04', '6426201', '006.064.438/0001-10'),
+('tecanet.gov.br', '2002-01-29 18:45:41', '2013-01-09 11:34:18', '719687', '000.352.294/0001-10'),
+('brasilcultura.gov.br', '2001-10-03 14:45:26', '2011-09-06 22:47:32', '652566', '000.394.536/0004-81'),
+('brasiltradenet.gov.br', '2000-02-01 11:26:44', '2014-07-10 14:20:47', '251694', '000.394.536/0009-96'),
+('memoriabndes.gov.br', '2014-12-10 15:38:29', '2014-12-10 15:38:29', '13601169', '033.657.248/0001-89'),
+('bancodaterra.gov.br', '2000-06-27 20:05:35', '2010-11-16 13:08:05', '371252', '001.612.452/0001-97'),
+('nuclebras.gov.br', '2009-03-03 16:28:09', '2009-03-03 16:28:09', '5287038', '042.515.882/0002-59'),
+('ibram.gov.br', '2009-09-04 14:20:56', '2015-01-18 13:01:47', '5963433', '010.898.596/0001-42'),
+('fibge.gov.br', '2011-05-16 18:33:40', '2011-11-11 19:22:01', '8261997', '033.787.094/0001-40'),
+('camaradosdeputados.gov.br', '2005-05-27 11:43:57', '2015-06-08 19:42:10', '2151224', '000.530.352/0001-59'),
+('sacoeumsaco.gov.br', '2009-12-16 11:43:11', '2016-04-11 13:40:01', '6283396', '037.115.375/0002-98'),
+('crbio08.gov.br', '2016-01-28 15:44:11', '2016-01-28 15:44:11', '15135681', '022.165.071/0001-87'),
+('sirc.gov.br', '2013-09-19 22:13:38', '2013-09-19 22:13:38', '11967324', '042.422.253/0027-32'),
+('jbrj.gov.br', '1997-09-10 12:00:00', '2015-08-20 17:37:55', '57014', '037.115.375/0007-00'),
+('sigplan.gov.br', '2001-08-20 19:14:37', '2014-01-22 17:34:42', '626302', '002.927.863/0001-34'),
+('guiafacilgps.gov.br', '2000-08-04 21:17:53', '2015-07-16 21:06:06', '399406', '000.360.305/0674-46'),
+('pru5.gov.br', '2008-05-21 19:00:52', '2008-05-21 19:00:52', '4464454', '026.994.558/0008-08'),
+('inmetrogo.gov.br', '2002-09-27 14:12:12', '2010-06-22 13:37:19', '966348', '000.662.270/0002-49'),
+('eafsombrio.gov.br', '2000-11-08 16:37:38', '2016-05-11 16:35:59', '455139', '073.955.064/0001-10'),
+('crefono1.gov.br', '2010-09-03 13:49:48', '2015-09-25 10:46:43', '7275234', '032.243.313/0001-67'),
+('cnen.gov.br', '1996-02-16 12:00:00', '2015-03-04 12:56:49', '5454', '000.402.552/0001-26'),
+('maismedico.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:37:41', '11932833', '015.126.437/0001-43'),
+('cgtee.gov.br', '2000-07-11 13:28:55', '2013-09-14 15:23:39', '377572', '002.016.507/0004-01'),
+('camara.gov.br', '1997-04-26 12:00:00', '2016-02-29 15:11:36', '37928', '000.530.352/0001-59'),
+('versionamento.gov.br', '2013-03-21 14:37:52', '2014-01-22 17:30:04', '11248869', '000.489.828/0001-55'),
+('inca.gov.br', '2002-02-21 17:19:49', '2016-05-24 13:02:35', '739564', '000.394.544/0171-50'),
+('dom.gov.br', '2003-07-14 14:45:18', '2013-06-04 13:08:27', '1265509', '004.224.785/0001-37'),
+('dnocs.gov.br', '1999-02-10 19:09:57', '2015-09-04 14:09:16', '139185', '000.043.711/0001-43'),
+('casaruibarbosa.gov.br', '1998-03-02 19:21:32', '2014-06-27 16:50:21', '87512', '042.519.488/0001-08'),
+('aplicativos.gov.br', '2013-08-26 12:54:00', '2013-08-26 12:54:00', '11895940', '000.394.411/0001-09'),
+('ibamanet.gov.br', '2001-05-04 19:46:45', '2006-03-31 22:37:16', '550947', '003.659.166/0001-02'),
+('crecies.gov.br', '2008-07-31 14:26:14', '2016-06-24 01:25:00', '4720440', '027.239.854/0001-81'),
+('cfbio.gov.br', '2009-08-07 15:06:09', '2015-05-07 13:11:56', '5859295', '000.720.532/0001-01'),
+('csjt.gov.br', '2001-03-02 21:18:28', '2015-03-04 19:11:40', '520691', '000.509.968/0001-48'),
+('veracruz-rs.gov.br', '2000-06-02 19:29:20', '2014-07-18 15:23:12', '352374', '098.661.366/0001-06'),
+('tecnojusc.gov.br', '2001-08-20 18:42:35', '2003-11-18 11:41:56', '626127', '002.482.005/0001-23'),
+('abc.gov.br', '2001-09-24 19:40:12', '2013-05-06 22:51:47', '642972', '000.394.536/0065-01'),
+('crefitosp.gov.br', '2008-07-11 13:32:26', '2012-03-30 12:36:29', '4644585', '049.781.479/0001-30'),
+('forumsocinfo.gov.br', '2004-11-11 12:43:46', '2011-05-02 12:08:29', '1882454', '033.683.111/0001-07'),
+('valec.gov.br', '2005-09-15 14:51:35', '2012-03-10 09:41:32', '2346471', '042.150.664/0007-72'),
+('infraestruturabrasil.gov.br', '2000-09-01 15:25:11', '2014-01-22 17:33:06', '411465', '002.927.863/0001-34'),
+('portalcofen.gov.br', '2000-08-29 18:29:52', '2016-06-10 21:43:54', '410071', '047.217.146/0001-57'),
+('cquali.gov.br', '2008-06-16 18:30:31', '2013-04-04 14:37:05', '4572666', '000.394.494/0013-70'),
+('nordestenegocios.gov.br', '2001-11-19 18:18:09', '2011-05-30 18:48:27', '663199', '007.237.373/0001-20'),
+('frameworkdemoiselle.gov.br', '2009-01-12 13:08:00', '2011-05-02 12:08:35', '5134631', '033.683.111/0001-07'),
+('cprmbh.gov.br', '2000-11-17 14:03:42', '2003-08-06 21:07:10', '460087', '000.091.652/0010-70'),
+('brazilianexporters.gov.br', '2002-10-22 15:54:13', '2013-02-15 15:29:11', '990005', '000.394.478/0002-24'),
+('consorciobdjur.gov.br', '2004-10-08 15:57:04', '2016-02-11 13:25:56', '1833739', '000.488.478/0001-02'),
+('cnenpc.gov.br', '2001-03-26 12:28:32', '2015-02-11 12:33:49', '532132', '000.402.552/0007-11'),
+('dner.gov.br', '1998-11-06 16:40:45', '2010-01-22 00:48:03', '124781', '033.628.777/0001-54'),
+('supersenaduplachance.gov.br', '2000-08-04 21:18:01', '2015-07-16 21:36:07', '399422', '000.360.305/0655-83'),
+('jfpb.gov.br', '1999-09-14 14:14:51', '2011-11-25 01:42:16', '194147', '000.508.903/0021-21'),
+('todosjuntoscontracorrupcao.gov.br', '2015-12-03 16:42:13', '2016-04-15 19:08:04', '14981136', '005.914.685/0001-03'),
+('coegv.gov.br', '1998-11-12 19:22:22', '2008-05-08 14:13:21', '122146', '000.357.038/0001-16'),
+('sdh.gov.br', '2010-12-01 18:41:08', '2015-09-30 14:31:44', '7553676', '005.478.625/0001-87'),
+('previdencia.gov.br', '2003-05-28 19:23:35', '2013-09-20 00:06:05', '1203703', '042.422.253/0027-32'),
+('jfms.gov.br', '2002-07-16 13:30:52', '2012-05-17 21:52:51', '899650', '000.508.903/0024-74'),
+('federativo.gov.br', '2006-03-21 15:28:43', '2012-11-20 19:14:24', '2696926', '033.892.175/0001-00'),
+('institutodamataatlantica.gov.br', '2014-09-08 14:57:20', '2016-02-26 13:29:50', '13289046', '010.898.596/0010-33'),
+('tre-al.gov.br', '1998-11-11 16:07:14', '2015-01-08 20:21:32', '123231', '000.509.018/0002-02'),
+('olacefs.gov.br', '2000-05-15 20:25:43', '2012-03-06 20:43:46', '336640', '000.414.607/0001-18'),
+('dnocspb.gov.br', '1999-06-14 16:47:03', '2016-03-11 13:47:39', '165937', '000.043.711/0008-10'),
+('pbqp.gov.br', '1999-11-09 18:54:27', '2009-12-21 14:54:53', '215563', '000.662.270/0003-20'),
+('controladoria.gov.br', '2006-12-27 13:03:33', '2016-04-15 19:06:26', '3279595', '005.914.685/0001-03'),
+('agritempo.gov.br', '2003-06-05 18:42:46', '2015-07-29 18:33:32', '1236028', '000.348.003/0001-10'),
+('uca.gov.br', '2007-06-14 17:47:35', '2011-05-02 12:11:44', '3656440', '033.683.111/0001-07'),
+('insa.gov.br', '2006-10-23 12:53:35', '2009-06-26 11:52:39', '3113287', '001.263.896/0019-93'),
+('empresa.gov.br', '2013-11-11 18:31:45', '2013-11-11 18:31:45', '12212565', '033.683.111/0001-07'),
+('embratur.gov.br', '1995-06-26 12:00:00', '2016-04-15 13:16:53', '0', '033.741.794/0001-01'),
+('crt.gov.br', '1996-05-06 12:00:00', '2009-07-22 12:43:21', '7505', '092.794.486/0001-03'),
+('fundaj.gov.br', '1995-06-30 12:00:00', '2015-01-31 19:04:53', '0', '009.773.169/0001-59'),
+('raspadinhafederal.gov.br', '2000-05-02 13:26:18', '2015-07-16 21:32:23', '323571', '000.360.305/0688-41'),
+('creciro.gov.br', '2015-02-24 14:42:47', '2016-05-11 14:51:59', '13884579', '005.968.813/0001-93'),
+('proagua.gov.br', '1997-08-21 12:00:00', '2002-11-12 18:40:24', '53330', '037.115.375/0003-79'),
+('e-sic.gov.br', '2014-04-08 18:09:51', '2016-04-15 19:06:41', '12756158', '005.914.685/0001-03'),
+('bn.gov.br', '2013-01-31 13:39:16', '2016-04-18 11:58:33', '10957465', '040.176.679/0001-99'),
+('gra.gov.br', '2000-08-29 17:26:49', '2011-05-02 12:15:08', '408759', '033.683.111/0009-56'),
+('construcard.gov.br', '2000-08-04 20:46:58', '2015-07-16 20:44:20', '399390', '000.360.305/0674-46'),
+('cnmp.gov.br', '2005-07-14 12:39:20', '2015-03-29 22:07:43', '2236197', '011.439.520/0001-11'),
+('clicksaudavel.gov.br', '2015-01-28 13:42:48', '2015-11-19 18:21:51', '13764271', '003.112.386/0001-11'),
+('pen.gov.br', '2014-10-15 09:44:27', '2014-10-15 09:44:27', '13442429', '002.927.863/0001-34'),
+('ciasc.gov.br', '1996-01-01 12:00:00', '2016-01-05 17:28:14', '0', '083.043.745/0001-65'),
+('sisgen.gov.br', '2015-10-14 19:25:25', '2016-04-11 13:42:42', '14786814', '037.115.375/0002-98'),
+('marinha.gov.br', '2009-08-17 18:25:35', '2016-01-26 12:12:32', '5899323', '000.394.502/0394-31'),
+('tre-pr.gov.br', '1998-08-13 14:47:29', '2015-01-08 21:14:53', '108165', '003.985.113/0001-81'),
+('pormin.gov.br', '2008-01-11 19:24:38', '2015-02-04 17:05:28', '4136215', '000.381.056/0001-33'),
+('trf1.gov.br', '1997-02-26 12:00:00', '2014-10-31 19:07:15', '31411', '003.658.507/0001-25'),
+('crbm1.gov.br', '2008-09-19 13:29:32', '2008-09-19 13:29:32', '4806281', '062.021.837/0001-74'),
+('telesc.gov.br', '1996-01-01 12:00:00', '2015-08-03 19:11:10', '0', '076.535.764/0001-43'),
+('portaldajustica.gov.br', '2004-06-07 17:10:18', '2016-02-11 13:26:23', '1644624', '000.488.478/0001-02'),
+('pronasci.gov.br', '2009-08-26 20:22:49', '2013-04-04 14:38:24', '5888828', '000.394.494/0013-70'),
+('eafc-pa.gov.br', '1998-09-22 14:28:55', '2007-05-22 23:53:33', '115409', '034.823.237/0001-94'),
+('consumosustentavel.gov.br', '2012-02-01 17:26:02', '2016-04-11 13:21:12', '9373581', '037.115.375/0002-98'),
+('cdes.gov.br', '2003-02-12 14:00:50', '2003-02-12 12:00:50', '1105216', '000.394.411/0001-09'),
+('ines.gov.br', '2007-01-31 10:12:17', '2015-03-26 19:52:30', '3327564', '000.394.445/0273-01'),
+('belomonte.gov.br', '2002-05-08 14:33:37', '2008-05-08 13:59:24', '810126', '000.357.038/0001-16'),
+('crtr14.gov.br', '2015-03-20 14:57:10', '2015-03-20 14:57:10', '13952375', '002.873.120/0001-29'),
+('geres.gov.br', '2000-08-24 11:57:15', '2006-03-04 19:36:04', '404029', '001.206.116/0001-44'),
+('sudeco.gov.br', '2011-07-29 12:22:58', '2016-01-04 11:45:11', '8570053', '013.802.028/0001-94'),
+('copadacultura.gov.br', '2005-12-30 18:02:09', '2015-01-07 17:02:34', '2539441', '001.264.142/0002-00'),
+('biodiversidade.gov.br', '2011-01-06 18:04:02', '2013-04-19 12:32:05', '7708202', '008.829.974/0001-94'),
+('ensaiosclinicos.gov.br', '2010-07-13 18:21:21', '2012-11-23 15:57:37', '7050969', '000.394.544/0008-51'),
+('confecom.gov.br', '2009-10-23 20:58:07', '2014-09-22 17:05:26', '6132259', '009.234.494/0001-43'),
+('turismo.gov.br', '2003-01-15 17:48:29', '2015-09-14 18:25:50', '1070851', '033.741.794/0001-01'),
+('viajamais.gov.br', '2013-07-29 18:30:21', '2014-09-20 22:12:36', '11775765', '005.457.283/0002-08'),
+('rededopoderjudiciario.gov.br', '1999-03-17 19:21:05', '2014-10-08 15:33:42', '147662', '000.531.640/0001-28'),
+('aviacaocivil.gov.br', '2011-06-01 14:02:09', '2011-06-01 14:02:09', '8349031', '013.564.476/0001-05'),
+('tre-rj.gov.br', '1998-08-11 20:30:19', '2013-10-26 11:55:20', '108617', '000.509.018/0017-80'),
+('crbio-3.gov.br', '2009-01-29 17:24:13', '2009-01-29 17:24:13', '5209806', '004.053.157/0001-36'),
+('comexbrasil.gov.br', '2011-07-04 13:06:54', '2013-05-10 19:22:55', '8496772', '000.394.478/0002-24'),
+('eafspb.gov.br', '2005-09-08 11:29:48', '2011-05-31 17:37:45', '2314476', '012.724.340/0001-44'),
+('infoconsumo.gov.br', '2000-10-30 16:12:33', '2015-05-20 12:17:14', '453931', '000.662.270/0003-20'),
+('mma.gov.br', '1995-07-10 12:00:00', '2016-04-11 13:26:14', '0', '037.115.375/0002-98'),
+('emprel.gov.br', '1996-01-01 12:00:00', '2015-11-06 19:44:21', '0', '011.006.269/0001-00'),
+('museudebiologiamelloleitao.gov.br', '2011-09-06 13:38:09', '2016-02-26 13:30:20', '8742984', '010.898.596/0010-33'),
+('crq-9.gov.br', '2016-05-13 18:05:11', '2016-05-13 18:05:11', '15485691', '076.471.358/0001-64'),
+('e-car.gov.br', '2010-11-08 09:30:01', '2011-05-02 12:08:04', '7484850', '033.683.111/0001-07'),
+('diesporte.gov.br', '2015-06-18 17:31:40', '2015-06-18 19:13:20', '14301400', '002.961.362/0001-74'),
+('ls.gov.br', '2004-04-29 23:58:17', '2014-11-18 13:18:37', '1611341', '001.175.497/0001-41'),
+('edufinanceiranaescola.gov.br', '2014-05-20 09:39:26', '2014-05-20 09:39:26', '12841005', '029.507.878/0001-08'),
+('justicadotrabalho.gov.br', '2001-03-23 12:50:32', '2015-03-04 19:06:29', '536773', '000.509.968/0001-48'),
+('dinheirovivo.gov.br', '2000-08-04 21:17:48', '2015-07-16 20:50:12', '399431', '000.360.305/2399-13'),
+('pnll.gov.br', '2006-03-07 17:17:30', '2015-01-07 17:03:34', '2666037', '001.264.142/0007-14'),
+('epe.gov.br', '2005-01-06 16:43:35', '2008-09-18 19:42:37', '1958251', '006.977.747/0001-80'),
+('trt17.gov.br', '1996-10-29 11:00:00', '2015-08-15 04:45:44', '20723', '000.509.968/0023-53'),
+('lexml.gov.br', '2005-12-19 10:44:20', '2012-11-01 13:14:55', '2518511', '000.530.279/0004-68'),
+('defesadoconsumidor.gov.br', '2016-04-04 15:06:50', '2016-04-04 15:06:50', '15427301', '000.394.494/0013-70'),
+('bndes.gov.br', '1995-10-30 12:00:00', '2016-05-27 23:04:52', '4412', '033.657.248/0001-89'),
+('informacaoecidadania.gov.br', '2009-11-24 12:33:07', '2014-01-22 17:27:12', '6298645', '000.489.828/0001-55'),
+('senador.gov.br', '2002-11-07 12:50:27', '2014-01-24 19:53:27', '1010027', '000.530.279/0004-68'),
+('mds.gov.br', '2004-05-06 14:40:29', '2014-06-13 13:24:47', '1630325', '005.756.246/0001-01'),
+('esocial.gov.br', '2013-05-31 17:21:53', '2013-05-31 17:21:53', '11523942', '033.683.111/0001-07'),
+('dnpmsc.gov.br', '2002-05-07 19:05:37', '2007-05-07 21:38:38', '825078', '000.381.056/0012-96'),
+('creci-pe.gov.br', '2008-05-02 18:23:45', '2012-03-09 13:37:38', '4380454', '011.005.444/0001-36'),
+('fundacentrorj.gov.br', '1998-01-16 12:22:06', '2013-08-25 22:07:44', '80592', '062.428.073/0002-17'),
+('casemg.gov.br', '2013-07-17 20:04:57', '2015-11-27 12:18:13', '11729523', '017.186.370/0001-68'),
+('ans-saude.gov.br', '2001-04-02 20:27:13', '2004-07-13 14:13:18', '540699', '003.589.068/0001-46'),
+('butantan.gov.br', '1998-02-09 19:05:53', '2014-04-25 16:30:04', '85080', '061.821.344/0001-56'),
+('redepcs.gov.br', '2012-08-02 13:55:14', '2016-04-11 13:38:44', '10249172', '037.115.375/0002-98'),
+('inpe.gov.br', '1999-08-20 19:24:21', '2010-03-04 19:52:29', '187057', '001.263.896/0016-40'),
+('banconordeste.gov.br', '1998-02-09 12:03:19', '2011-05-30 18:47:36', '83925', '007.237.373/0001-20'),
+('govbrasil.gov.br', '2013-08-26 12:54:00', '2013-08-26 12:54:00', '11895959', '000.394.411/0001-09'),
+('dtceasc.gov.br', '2009-09-30 13:36:06', '2015-10-01 17:59:22', '5995673', '000.394.429/0094-00'),
+('cref4sp.gov.br', '2012-09-28 15:26:49', '2012-09-28 15:26:49', '10501429', '003.676.803/0001-59'),
+('pesquisa.gov.br', '2015-07-28 11:40:34', '2015-07-28 11:40:34', '14461521', '000.489.828/0001-55'),
+('inpa.gov.br', '1997-07-28 12:00:00', '2013-05-21 14:23:57', '49011', '001.263.896/0015-60'),
+('topawa-kaa.gov.br', '2004-03-05 12:48:15', '2010-05-12 11:22:53', '1546938', '000.357.038/0001-16'),
+('eusoumaismedico.gov.br', '2013-09-24 15:56:06', '2014-05-28 13:37:06', '11932922', '015.126.437/0001-43'),
+('ouvidorias.gov.br', '2011-09-02 14:31:04', '2016-04-15 19:07:25', '8780804', '005.914.685/0001-03'),
+('pa.gov.br', '1997-06-02 12:00:00', '2014-06-18 18:37:29', '0', '005.054.861/0001-76'),
+('coletasolidaria.gov.br', '2007-12-13 14:16:42', '2011-05-02 12:29:59', '4117825', '005.756.246/0001-01'),
+('corenpr.gov.br', '2012-02-23 11:13:47', '2014-07-26 16:24:50', '9395488', '075.078.816/0001-37'),
+('errec.gov.br', '1998-02-09 12:03:12', '2002-07-01 18:50:43', '83258', '033.613.332/0019-20'),
+('desenvolvimento.gov.br', '2001-02-21 20:19:54', '2013-05-10 19:21:45', '514117', '000.394.478/0002-24'),
+('dj.gov.br', '2006-05-19 12:22:53', '2014-10-08 15:32:32', '2804648', '000.531.640/0001-28'),
+('brazilsenvironment.gov.br', '2001-08-13 20:13:17', '2016-04-11 13:11:44', '615404', '037.115.375/0002-98'),
+('cauce.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:56:57', '10045990', '014.702.767/0001-77'),
+('altatv.gov.br', '2010-02-01 15:58:41', '2015-01-08 12:16:17', '6477007', '004.822.500/0001-60'),
+('regulacao.gov.br', '2009-06-01 19:37:13', '2009-06-01 19:37:13', '5602143', '000.394.411/0001-09'),
+('contaspublicas.gov.br', '1999-05-06 12:55:40', '2012-03-06 20:43:37', '153234', '000.414.607/0001-18'),
+('apo.gov.br', '2011-10-07 13:16:51', '2013-04-03 19:59:48', '8885678', '014.039.541/0001-38'),
+('projetodomhelder.gov.br', '2003-07-14 15:00:22', '2013-06-04 13:10:21', '1265504', '004.224.785/0001-37'),
+('direitoshumanos.gov.br', '2008-04-10 16:13:02', '2015-01-13 12:47:59', '4331632', '005.478.625/0001-87'),
+('agrolivre.gov.br', '2004-02-03 18:31:07', '2015-07-29 18:33:56', '1480690', '000.348.003/0001-10'),
+('nbr.gov.br', '2016-02-26 17:09:19', '2016-02-26 17:09:19', '15186857', '009.168.704/0001-42'),
+('worldcup2014.gov.br', '2010-05-25 19:48:36', '2014-06-11 18:19:04', '6904342', '002.961.362/0001-74'),
+('mega-sena.gov.br', '2000-08-04 21:17:57', '2015-07-16 21:23:18', '399420', '000.360.305/0655-83'),
+('an.gov.br', '2009-07-24 16:13:24', '2015-05-21 20:18:45', '5817090', '004.374.067/0001-47'),
+('mcti.gov.br', '2011-10-31 11:50:51', '2016-01-25 18:41:24', '8985644', '001.263.896/0003-26'),
+('avancabrasil.gov.br', '1999-08-20 11:50:35', '2014-01-22 17:24:37', '190314', '000.489.828/0001-55'),
+('dtceast.gov.br', '2009-09-30 13:36:06', '2015-10-01 18:08:41', '5995699', '000.394.429/0094-00'),
+('jfpr.gov.br', '1999-07-17 16:48:56', '2013-06-08 12:04:23', '173238', '005.420.123/0001-03'),
+('brazil.gov.br', '1996-12-06 11:00:00', '2010-03-28 17:35:34', '24189', '000.394.411/0001-09'),
+('sgov.gov.br', '2016-02-17 12:37:44', '2016-02-17 12:37:44', '15186841', '010.366.249/0001-79'),
+('museuimperial.gov.br', '2000-09-20 12:31:34', '2016-01-12 16:48:31', '425462', '026.474.056/0018-10'),
+('ahimoc.gov.br', '2012-01-18 13:59:01', '2012-03-21 01:23:18', '9338399', '006.347.892/0004-20'),
+('codesp.gov.br', '2009-03-23 16:05:57', '2009-03-26 00:17:30', '5391404', '044.837.524/0001-07'),
+('eafsl.gov.br', '2008-04-29 11:40:02', '2015-01-07 19:20:22', '4398238', '073.964.538/0001-90'),
+('jef-pr.gov.br', '2003-08-05 12:07:46', '2012-04-24 14:56:27', '1289165', '005.442.380/0001-38'),
+('corensp.gov.br', '2008-09-18 17:54:29', '2015-05-19 15:33:03', '4794739', '044.413.680/0001-40'),
+('consumidor.gov.br', '2001-12-13 18:37:05', '2014-03-12 20:05:49', '697240', '000.394.494/0001-36'),
+('proinfo.gov.br', '1998-07-01 21:35:27', '2014-01-23 12:08:28', '104376', '000.394.445/0540-23'),
+('trevodasorte.gov.br', '2000-05-02 13:26:23', '2015-07-16 21:39:23', '323577', '000.360.305/0688-41'),
+('caixaseguridade.gov.br', '2015-07-16 17:39:31', '2015-07-16 19:42:44', '14436714', '000.360.305/0001-04'),
+('pi.gov.br', '1997-04-16 12:00:00', '2014-06-10 17:09:57', '36663', '008.839.135/0001-57'),
+('prodeb.gov.br', '1996-01-01 12:00:00', '2014-08-01 14:31:07', '0', '013.579.586/0001-32'),
+('vls.gov.br', '1999-09-17 16:41:23', '2014-05-06 18:29:32', '199885', '086.900.545/0001-70'),
+('exportadoresbrasilenos.gov.br', '2012-08-16 14:37:56', '2013-02-15 15:32:22', '10318402', '000.394.478/0002-24'),
+('crmvrn.gov.br', '2011-06-16 17:32:16', '2011-06-16 17:32:16', '8441671', '008.693.822/0001-07'),
+('transportes.gov.br', '1996-12-05 11:00:00', '2014-07-30 19:13:13', '23865', '037.115.342/0001-67'),
+('programaarpa.gov.br', '2013-04-25 14:28:13', '2016-04-11 13:37:00', '11387857', '037.115.375/0002-98'),
+('senado.gov.br', '1996-01-01 12:00:00', '2016-02-05 15:53:19', '0', '000.530.279/0004-68'),
+('coren-pb.gov.br', '2009-07-03 20:01:26', '2014-02-18 14:40:58', '5724636', '007.647.181/0001-91'),
+('governoeletronico.gov.br', '2000-12-11 11:56:03', '2014-01-22 17:32:47', '480986', '002.927.863/0001-34'),
+('causp.gov.br', '2012-08-01 18:51:27', '2015-04-29 14:01:05', '10258005', '014.702.767/0001-77'),
+('creci-pa.gov.br', '2002-08-26 12:50:25', '2012-10-04 08:34:08', '946320', '004.574.646/0001-33'),
+('embrapa.gov.br', '2000-06-09 20:26:57', '2003-08-22 10:38:42', '357901', '000.348.003/0101-83'),
+('qualidadedoleite.gov.br', '2008-06-16 12:20:09', '2013-04-04 14:37:45', '4527897', '000.394.494/0013-70'),
+('dinheiroinstantaneo.gov.br', '2000-08-04 21:17:47', '2015-07-16 20:49:55', '399429', '000.360.305/2399-13'),
+('postal.gov.br', '1999-11-23 16:04:46', '2015-07-16 21:27:26', '223294', '000.360.305/0001-04'),
+('cbnb.gov.br', '2005-10-24 16:34:04', '2014-08-20 13:45:42', '2392361', '000.394.429/0023-16'),
+('es.gov.br', '1996-11-01 12:00:00', '2014-07-18 18:39:32', '0', '028.162.790/0001-20'),
+('ipea.gov.br', '1996-04-29 12:00:00', '2016-05-30 21:23:29', '7297', '033.892.175/0001-00'),
+('servidor.gov.br', '1999-10-28 18:51:13', '2014-01-22 17:34:33', '214379', '002.927.863/0001-34'),
+('entreguesuaarma.gov.br', '2011-05-03 12:52:40', '2013-04-04 14:37:38', '8227908', '000.394.494/0013-70'),
+('integracaosaofrancisco.gov.br', '2013-12-11 18:22:48', '2014-01-28 16:55:57', '12326071', '003.353.358/0001-96'),
+('exportabrasil.gov.br', '2001-11-23 15:48:13', '2013-02-15 16:52:58', '679275', '000.394.478/0002-24'),
+('dataprev.gov.br', '1997-01-28 11:00:00', '2013-06-07 20:16:46', '29076', '042.422.253/0027-32'),
+('correios-ce.gov.br', '1996-02-07 12:00:00', '2013-12-11 13:37:56', '5293', '034.028.316/0010-02'),
+('tavbrasil.gov.br', '2009-06-18 14:08:35', '2016-02-17 12:39:13', '5679250', '004.898.488/0001-77'),
+('brasilsaudavelesustentavel.gov.br', '2015-04-29 19:03:31', '2015-04-29 19:03:31', '14074511', '005.756.246/0001-01'),
+('prt21.gov.br', '1998-07-15 21:10:13', '2013-11-25 12:20:41', '106186', '026.989.715/0061-43'),
+('aerofacil.gov.br', '2013-12-23 18:07:43', '2014-01-15 20:30:54', '12368464', '000.394.411/0001-09'),
+('investidoresinstitucionais.gov.br', '2001-12-13 13:28:42', '2015-07-16 21:17:50', '689142', '000.360.305/0262-51'),
+('citenel.gov.br', '2011-04-08 16:02:21', '2014-10-22 17:24:14', '8140543', '002.270.669/0001-29'),
+('cfa.gov.br', '2009-03-18 19:41:24', '2015-01-14 12:56:58', '5312797', '034.061.135/0001-89'),
+('anvs.gov.br', '2000-08-22 11:36:26', '2015-11-19 18:21:36', '404655', '003.112.386/0001-11'),
+('redegeochronos.gov.br', '2006-05-19 11:22:45', '2014-04-24 17:36:06', '2788606', '000.091.652/0002-60'),
+('casacivil.gov.br', '2009-08-08 18:51:56', '2016-04-28 12:43:56', '5829920', '000.394.411/0001-09'),
+('cnv.gov.br', '2012-07-24 10:50:50', '2016-01-15 14:16:54', '10171985', '000.394.411/0001-09'),
+('bancodeoportunidades.gov.br', '1999-09-10 18:30:30', '2014-01-22 17:24:47', '196982', '000.489.828/0001-55'),
+('tre-sp.gov.br', '1998-08-07 15:04:12', '2015-09-23 16:41:13', '108320', '000.509.018/0021-67'),
+('crbio07.gov.br', '2012-08-28 13:46:01', '2012-08-28 13:46:01', '10335261', '007.863.214/0001-30'),
+('cefetsvs.gov.br', '2002-12-11 19:11:26', '2009-11-27 09:45:33', '1033880', '094.445.673/0001-07'),
+('crbio01.gov.br', '2009-01-22 10:18:04', '2015-02-17 03:12:49', '5161309', '002.366.047/0001-07'),
+('cbtumetrorec.gov.br', '2008-04-10 13:07:49', '2011-12-30 00:46:38', '4350194', '042.357.483/0006-30'),
+('dinheiroemcaixa.gov.br', '2000-08-04 21:17:46', '2015-07-16 20:49:29', '399428', '000.360.305/2399-13'),
+('dtceagl.gov.br', '2009-09-30 13:51:34', '2015-10-01 17:53:21', '5995657', '000.394.429/0094-00'),
+('maisbrasil.gov.br', '2007-10-11 19:08:36', '2014-09-22 17:06:58', '3955204', '000.394.411/0001-09'),
+('bcc.gov.br', '2010-02-12 17:00:59', '2015-04-14 19:40:34', '6496729', '003.221.904/0001-35'),
+('ms.gov.br', '1996-01-01 12:00:00', '2012-04-10 22:20:43', '0', '015.412.257/0001-28'),
+('cade.gov.br', '2001-04-18 20:48:59', '2015-08-20 18:17:22', '546914', '000.418.993/0001-16'),
+('tst.gov.br', '1995-11-30 12:00:00', '2015-03-04 19:19:55', '4671', '000.509.968/0001-48'),
+('governancapublica.gov.br', '2014-08-12 18:30:34', '2014-09-10 19:50:24', '13183970', '000.414.607/0001-18'),
+('participe.gov.br', '2013-10-16 18:38:59', '2013-10-16 18:38:59', '12089290', '010.366.249/0001-79'),
+('ipeadata.gov.br', '2000-02-25 18:46:36', '2016-04-20 20:59:25', '268063', '033.892.175/0001-00'),
+('in.gov.br', '1996-11-20 11:00:00', '2015-06-25 19:44:43', '22790', '000.394.494/0016-12'),
+('dac.gov.br', '1997-04-08 12:00:00', '2012-09-11 17:33:18', '35808', '000.394.429/0043-60'),
+('infra-estruturabrasil.gov.br', '2000-09-01 15:25:16', '2014-01-22 17:32:57', '417422', '002.927.863/0001-34'),
+('crq-pr.gov.br', '2016-05-13 18:05:11', '2016-05-13 18:05:11', '15485688', '076.471.358/0001-64'),
+('retp.gov.br', '2010-12-10 18:32:13', '2016-04-11 13:39:24', '7588661', '037.115.375/0002-98'),
+('fazenda.gov.br', '1995-08-28 12:00:00', '2014-10-01 11:53:45', '0', '000.394.460/0008-18'),
+('ird.gov.br', '1995-12-15 12:00:00', '2014-02-26 18:20:42', '4852', '000.402.552/0004-79'),
+('ecobrancacaixa.gov.br', '2002-04-01 18:33:13', '2002-12-18 15:54:29', '768337', '000.360.305/2714-85'),
+('tre-mg.gov.br', '1998-06-15 17:24:54', '2015-01-08 21:11:54', '100479', '000.509.018/0011-95'),
+('seminariobrasildigital.gov.br', '2015-03-02 19:51:54', '2015-03-02 19:51:54', '13890177', '000.414.607/0001-18'),
+('srpvsp.gov.br', '2008-10-03 19:05:01', '2016-05-13 22:28:16', '4854674', '000.394.429/0094-00'),
+('p2r2.gov.br', '2010-11-04 13:02:45', '2016-04-11 13:30:12', '7525532', '037.115.375/0002-98'),
+('egressos-esaf.gov.br', '2002-11-22 15:09:39', '2002-11-22 13:09:39', '1009312', '002.317.176/0001-05'),
+('coaf.gov.br', '1999-07-20 20:07:02', '2011-05-02 12:07:26', '179648', '033.683.111/0001-07'),
+('bdjur.gov.br', '2004-10-13 14:50:40', '2016-02-11 13:25:40', '1845312', '000.488.478/0001-02'),
+('acessoinformacao.gov.br', '2012-03-09 13:11:06', '2016-04-15 19:05:59', '9582965', '005.914.685/0001-03'),
+('pensesimples.gov.br', '2015-01-30 17:08:54', '2015-01-30 17:08:54', '13766917', '000.489.828/0001-55'),
+('incra-pe.gov.br', '1998-11-25 14:12:52', '2000-08-18 20:33:55', '123516', '000.375.972/0005-94'),
+('sp-trt.gov.br', '1999-06-11 19:04:29', '2016-02-15 21:10:33', '168323', '003.241.738/0001-39'),
+('ahitar.gov.br', '2003-05-30 19:28:44', '2007-10-19 20:07:27', '1221392', '004.933.552/0011-85'),
+('aeroportoindustria.gov.br', '2002-01-29 18:45:42', '2013-01-09 11:34:34', '719691', '000.352.294/0001-10'),
+('antaq.gov.br', '2002-03-12 12:46:43', '2015-01-22 11:49:27', '751032', '004.903.587/0001-08'),
+('mincrj.gov.br', '1998-08-06 16:57:38', '2013-03-21 19:26:34', '109080', '001.264.142/0002-00'),
+('rededecontrole.gov.br', '2010-03-26 10:24:10', '2012-03-06 20:44:05', '6628310', '000.414.607/0001-18'),
+('eafce.gov.br', '2004-10-29 11:15:47', '2007-09-14 23:32:10', '1861027', '073.999.823/0001-46'),
+('caixapostal.gov.br', '1999-11-23 16:04:45', '2015-07-16 19:40:19', '223289', '000.360.305/0001-04'),
+('eufiscalizo.gov.br', '2014-08-11 13:11:46', '2014-09-10 19:49:21', '13148199', '000.414.607/0001-18'),
+('smpe.gov.br', '2013-11-06 13:41:09', '2013-11-06 13:41:09', '12212581', '033.683.111/0001-07'),
+('loteriaesportiva.gov.br', '2000-05-02 13:26:12', '2015-07-16 21:20:13', '323558', '000.360.305/0643-40'),
+('jcdf.gov.br', '2011-11-30 16:48:37', '2013-02-15 15:33:21', '9128256', '000.394.478/0002-24'),
+('depv.gov.br', '2000-03-20 12:08:06', '2014-01-24 11:55:16', '284049', '000.394.429/0048-74'),
+('patrimoniodetodos.gov.br', '2009-09-30 11:01:50', '2010-02-02 11:43:10', '5992626', '000.489.828/0009-02'),
+('geipot.gov.br', '1996-10-31 11:00:00', '2014-07-30 18:42:20', '20961', '000.366.914/0001-70'),
+('sudene.gov.br', '1996-01-01 12:00:00', '2015-11-24 15:20:01', '0', '010.890.804/0001-67'),
+('planejamento.gov.br', '1999-10-28 18:51:08', '2015-07-14 13:46:35', '214372', '002.927.863/0001-34'),
+('acjus.gov.br', '2005-01-05 10:10:27', '2014-03-25 13:11:47', '1943823', '000.508.903/0001-88'),
+('portaldasaguas.gov.br', '2003-12-02 13:23:20', '2007-12-19 17:59:21', '1447844', '004.204.444/0001-08'),
+('pernambuco.gov.br', '1999-03-05 19:45:42', '2008-05-19 13:05:02', '145277', '006.067.608/0001-10'),
+('eafars.gov.br', '2007-01-15 18:07:17', '2014-08-19 17:50:07', '3276440', '091.551.986/0001-43'),
+('lotomania.gov.br', '2003-09-30 19:48:18', '2015-07-16 21:23:03', '1342303', '000.360.305/2399-13'),
+('tcu.gov.br', '1996-04-10 12:00:00', '2016-06-22 20:01:14', '6596', '000.414.607/0001-18'),
+('alemg.gov.br', '1998-12-11 14:10:54', '2014-09-04 11:32:50', '132644', '017.516.113/0001-47'),
+('portodesantos.gov.br', '2009-03-26 00:24:31', '2009-03-26 00:24:31', '5391399', '044.837.524/0001-07'),
+('fns-sc.gov.br', '1997-10-15 11:00:00', '2001-12-07 17:10:51', '63166', '026.989.350/0024-02'),
+('cdb.gov.br', '2005-11-23 19:20:16', '2011-09-07 00:44:51', '2485694', '000.394.536/0012-91'),
+('rn.gov.br', '1996-10-15 11:00:00', '2012-02-13 11:09:08', '18916', '008.241.788/0001-30'),
+('infraero.gov.br', '1996-11-05 11:00:00', '2015-01-20 18:05:47', '21425', '000.352.294/0001-10'),
+('projud.gov.br', '2002-04-15 13:36:56', '2012-12-27 11:25:47', '788233', '008.546.459/0001-05'),
+('seminariodefencil.gov.br', '2009-09-10 19:54:45', '2016-05-04 19:17:48', '5979422', '003.353.358/0001-96'),
+('cauap.gov.br', '2015-05-06 21:00:57', '2015-05-06 21:00:57', '14122581', '014.702.767/0001-77'),
+('segurancaquimica.gov.br', '2011-12-16 12:12:45', '2016-04-11 13:40:32', '9164073', '037.115.375/0002-98'),
+('hgb.gov.br', '1999-05-25 14:09:05', '2001-03-06 12:03:45', '157067', '000.394.544/0202-91'),
+('trt.gov.br', '1996-04-22 12:00:00', '2015-03-18 15:38:37', '7055', '001.298.583/0001-41'),
+('foccopb.gov.br', '2009-03-26 16:05:06', '2010-07-08 00:27:21', '5342334', '026.989.715/0020-75'),
+('brazil-rounds.gov.br', '2000-10-24 22:43:00', '2015-08-18 12:26:05', '446016', '002.313.673/0002-08'),
+('fgts.gov.br', '2009-04-29 16:21:42', '2015-07-16 21:00:13', '5512241', '000.360.305/0001-04'),
+('desaparecidos.gov.br', '2012-02-14 09:55:39', '2013-03-22 20:44:51', '9414210', '005.478.625/0001-87'),
+('cin-sci.gov.br', '1995-10-03 12:00:00', '2014-11-18 13:14:44', '4190', '001.175.497/0001-41'),
+('caupi.gov.br', '2012-07-06 12:46:00', '2015-04-29 13:59:27', '10046041', '014.702.767/0001-77'),
+('fhdf.gov.br', '1996-01-01 12:00:00', '2008-02-19 20:18:44', '0', '000.054.015/0001-32'),
+('braziltradenet.gov.br', '2000-01-28 13:18:18', '2014-07-10 14:19:45', '250008', '000.394.536/0009-96'),
+('pru-pe.gov.br', '2008-05-19 12:29:50', '2008-05-19 12:29:50', '4464504', '026.994.558/0008-08'),
+('defencil.gov.br', '2009-09-10 19:54:45', '2016-05-04 19:17:12', '5979409', '003.353.358/0001-96'),
+('tre-ce.gov.br', '1998-07-30 19:43:39', '2015-02-03 18:46:36', '106325', '000.509.018/0005-47'),
+('crmvto.gov.br', '2013-10-11 16:53:18', '2013-10-11 16:53:18', '12092731', '033.209.263/0001-64'),
+('supertrinca.gov.br', '2000-05-02 13:26:20', '2015-07-16 21:36:25', '323567', '000.360.305/0688-41'),
+('creci-es.gov.br', '2000-08-07 15:05:22', '2015-10-08 11:57:24', '393289', '027.239.854/0001-81'),
+('trt21.gov.br', '1997-06-18 12:00:00', '2015-10-19 13:41:15', '43814', '000.509.968/0086-37'),
+('programadorabrasil.gov.br', '2014-09-30 11:02:53', '2014-09-30 11:02:53', '13358007', '001.264.142/0023-34'),
+('amazoniafund.gov.br', '2009-03-17 14:54:06', '2014-02-13 23:08:43', '5310115', '033.657.248/0001-89'),
+('ci-brasil.gov.br', '2007-12-05 18:49:00', '2015-01-08 12:17:35', '4101340', '004.822.500/0001-60'),
+('capitalderisco.gov.br', '2000-04-04 17:17:35', '2011-05-04 18:55:44', '290583', '033.749.086/0002-90'),
+('confiancabrasil.gov.br', '2008-12-26 12:22:25', '2008-12-26 12:22:25', '5135023', '000.394.411/0001-09'),
+('mmirjdh.gov.br', '2016-04-19 19:53:54', '2016-04-19 19:53:54', '15472384', '023.657.991/0001-85'),
+('dinf.gov.br', '2000-03-23 19:59:28', '2014-11-18 13:16:53', '279803', '001.175.497/0001-41'),
+('secretariageral.gov.br', '2010-01-13 14:04:12', '2016-05-02 14:56:26', '6425828', '010.366.249/0001-79'),
+('computadorparatodos.gov.br', '2005-09-30 14:17:55', '2011-05-02 12:07:48', '2358165', '033.683.111/0001-07'),
+('stfnet.gov.br', '1999-03-17 19:20:51', '2014-10-08 15:34:23', '147657', '000.531.640/0001-28'),
+('loteca.gov.br', '2000-05-02 13:26:11', '2015-07-16 21:19:57', '323569', '000.360.305/0688-41'),
+('agenciacamara.gov.br', '2008-11-19 08:40:04', '2015-06-16 13:33:35', '5034350', '000.530.352/0001-59'),
+('xn--justia-0ua.gov.br', '2013-11-14 13:06:11', '2013-11-14 13:06:11', '12171078', '000.394.494/0013-70'),
+('bancocentral.gov.br', '1998-12-31 00:24:21', '2015-06-17 22:20:15', '135008', '000.038.166/0001-05'),
+('iphan.gov.br', '1997-02-26 12:00:00', '2015-06-16 21:08:23', '31478', '026.474.056/0001-71'),
+('purn.gov.br', '1999-08-19 19:46:49', '2007-10-17 19:28:49', '182963', '026.994.558/0034-91'),
+('presalpetroleo.gov.br', '2015-05-18 19:32:49', '2015-05-18 19:32:49', '14183195', '018.738.727/0001-36'),
+('rbmlq.gov.br', '2010-12-16 11:40:09', '2010-12-16 11:40:09', '7651999', '000.662.270/0009-15'),
+('caixavirtual.gov.br', '2000-08-04 21:17:44', '2015-07-16 19:43:13', '399413', '000.360.305/0655-83'),
+('comprasagriculturafamiliar.gov.br', '2016-02-05 17:57:43', '2016-02-05 17:57:43', '15166912', '005.756.246/0001-01'),
+('brasilpresente.gov.br', '2009-10-27 20:30:23', '2014-09-22 17:04:44', '6132322', '009.234.494/0001-43'),
+('portaldaigualdade.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:08:14', '6426207', '006.064.438/0001-10'),
+('gesac.gov.br', '2003-11-19 19:09:45', '2015-03-25 13:00:40', '1414720', '000.394.437/0001-57'),
+('portosempapel.gov.br', '2010-06-18 17:48:13', '2010-06-18 17:48:13', '6934554', '008.855.874/0001-32'),
+('netgoverno.gov.br', '2000-02-26 16:18:42', '2009-12-08 13:43:14', '265137', '076.545.011/0001-19'),
+('cenp.gov.br', '2015-11-25 14:25:42', '2015-11-25 14:25:42', '14947108', '000.394.544/0022-00'),
+('badesc.gov.br', '1996-06-28 12:00:00', '2015-06-12 23:10:08', '10625', '082.937.293/0001-00'),
+('icmbio.gov.br', '2007-08-29 18:31:20', '2013-04-19 12:32:12', '3844230', '008.829.974/0001-94'),
+('trt16.gov.br', '1999-10-14 20:16:23', '2013-08-09 21:26:02', '209542', '023.608.631/0001-93'),
+('crbio7.gov.br', '2009-05-15 16:23:16', '2012-03-21 19:42:50', '5558339', '007.863.214/0001-30'),
+('territoriosdacidadania.gov.br', '2008-02-19 19:56:57', '2015-02-24 21:27:34', '4216803', '001.612.452/0001-97'),
+('aprendendoaexportar.gov.br', '2001-12-04 18:36:17', '2013-05-10 19:22:26', '690933', '000.394.478/0002-24'),
+('clique100.gov.br', '2015-04-13 21:57:43', '2015-04-13 21:57:43', '14027824', '005.478.625/0001-87'),
+('expofeiras.gov.br', '2012-05-10 13:20:53', '2013-02-15 15:31:42', '9846518', '000.394.478/0002-24'),
+('crq7.gov.br', '2011-02-18 16:47:29', '2011-02-18 16:47:29', '7940861', '014.117.931/0001-89'),
+('cadastrorural.gov.br', '2014-11-04 11:21:11', '2014-11-04 11:21:11', '13512125', '033.683.111/0001-07'),
+('rndh.gov.br', '2001-05-09 13:16:07', '2013-04-04 14:38:30', '549119', '000.394.494/0013-70'),
+('etfc.gov.br', '2008-06-18 19:37:03', '2016-04-13 16:11:47', '4562786', '009.544.546/0001-88'),
+('somostodosbrasil.gov.br', '2015-09-24 17:04:32', '2015-09-24 17:04:32', '14689950', '009.234.494/0001-43'),
+('crecise.gov.br', '2015-11-04 12:22:53', '2015-11-30 15:49:28', '14866147', '013.171.970/0001-00'),
+('amazonianfund-bndes.gov.br', '2009-03-17 14:38:39', '2014-02-13 23:09:26', '5310056', '033.657.248/0001-89'),
+('ma.gov.br', '1997-04-07 12:00:00', '2016-06-18 14:57:44', '35641', '063.574.479/0001-90'),
+('dner-ce.gov.br', '1997-11-12 11:00:00', '2015-03-12 22:43:27', '68934', '033.628.777/0004-05'),
+('loto-tauloteriadacopa.gov.br', '2000-05-02 13:26:14', '2015-07-16 21:22:07', '323575', '000.360.305/0688-41'),
+('investcaixa.gov.br', '2001-10-25 19:55:49', '2002-12-18 15:55:00', '650496', '000.360.305/2714-85'),
+('cortesmercosur.gov.br', '2007-10-30 15:48:50', '2014-10-08 15:31:47', '4027421', '000.531.640/0001-28'),
+('portalsiscomex.gov.br', '2014-03-05 15:41:26', '2014-03-05 15:41:26', '12551486', '033.683.111/0001-07'),
+('anvisa.gov.br', '2000-05-19 13:53:15', '2015-11-19 18:21:10', '342060', '003.112.386/0001-11'),
+('dcea.gov.br', '2001-12-20 19:59:27', '2014-01-24 11:54:38', '700710', '000.394.429/0048-74'),
+('trt12.gov.br', '1997-09-06 12:00:00', '2013-05-29 15:19:21', '56395', '002.482.005/0001-23'),
+('cortesmercosul.gov.br', '2007-10-30 15:48:50', '2014-10-08 15:29:27', '4027416', '000.531.640/0001-28'),
+('emgea.gov.br', '2001-09-10 12:15:38', '2012-04-18 21:12:47', '633340', '004.527.335/0001-13'),
+('forumpermanente.gov.br', '2011-08-05 12:37:00', '2013-05-10 19:41:34', '8658832', '000.394.478/0002-24'),
+('crbio-pr.gov.br', '2009-05-15 16:07:48', '2012-03-21 19:42:13', '5558310', '007.863.214/0001-30'),
+('vivaleitura.gov.br', '2004-12-20 17:56:22', '2015-01-07 17:04:20', '1938732', '001.264.142/0002-00'),
+('comex.gov.br', '2007-08-22 18:21:17', '2014-07-10 14:16:53', '3840705', '000.394.536/0009-96'),
+('shoppingcaixa.gov.br', '2004-10-19 18:53:37', '2015-07-16 21:35:22', '1850414', '000.360.305/0688-41'),
+('tre-pb.gov.br', '1998-04-15 12:44:06', '2014-08-28 20:17:35', '91806', '000.509.018/0013-57'),
+('pbh.gov.br', '1995-09-21 12:00:00', '2015-06-02 14:57:31', '4116', '018.239.038/0001-87'),
+('meioambiente.gov.br', '2000-03-21 20:30:38', '2016-04-11 13:24:44', '285374', '037.115.375/0002-98'),
+('fundoamazonia-bndes.gov.br', '2009-03-17 14:38:39', '2014-02-13 23:15:28', '5310031', '033.657.248/0001-89'),
+('mpas.gov.br', '1996-03-20 12:00:00', '2008-07-27 18:46:06', '6042', '000.394.528/0008-69'),
+('capacidades.gov.br', '2011-10-19 18:22:27', '2014-09-24 17:31:58', '8980271', '000.489.828/0006-60'),
+('tre-am.gov.br', '1998-08-03 20:07:10', '2015-01-08 20:21:58', '106208', '000.509.018/0003-85'),
+('incra.gov.br', '1996-07-12 12:00:00', '2004-09-21 18:21:28', '11611', '000.375.972/0002-41'),
+('seti.gov.br', '1996-04-02 12:00:00', '2009-12-08 13:41:30', '6400', '077.046.951/0001-26'),
+('controle.gov.br', '2007-10-11 21:32:09', '2016-04-15 19:06:32', '3963349', '005.914.685/0001-03'),
+('crbio-rs.gov.br', '2009-01-29 17:24:13', '2009-01-29 17:24:13', '5209808', '004.053.157/0001-36'),
+('ilbsenado.gov.br', '2000-04-11 19:05:15', '2002-10-15 13:35:28', '308334', '000.530.279/0005-49'),
+('eafc.gov.br', '2006-09-05 11:32:27', '2010-04-14 19:36:39', '3035355', '073.893.018/0001-33'),
+('caixadotesouro.gov.br', '2000-08-04 21:17:43', '2015-07-16 18:59:03', '399424', '000.360.305/2399-13'),
+('caixamasterpass.gov.br', '2015-10-27 19:33:35', '2015-10-27 19:33:35', '14823420', '000.360.305/0001-04'),
+('cref4-sp.gov.br', '2012-09-28 15:21:47', '2012-09-28 15:21:47', '10501420', '003.676.803/0001-59'),
+('brasilmaior.gov.br', '2011-08-03 13:43:30', '2013-05-10 19:22:31', '8652213', '000.394.478/0002-24'),
+('crbm2.gov.br', '2014-08-13 17:53:25', '2014-08-13 17:53:25', '13170994', '024.417.008/0001-16'),
+('nae.gov.br', '2005-11-23 12:17:24', '2008-02-28 23:13:57', '2478043', '000.394.411/0001-09'),
+('sc.gov.br', '1996-01-01 12:00:00', '2016-01-05 17:27:47', '0', '083.043.745/0001-65'),
+('emdiacomopronaf.gov.br', '2015-10-28 14:10:31', '2015-10-28 14:39:28', '14806933', '001.612.452/0001-97'),
+('crefito16.gov.br', '2015-11-06 10:27:44', '2015-11-06 10:27:44', '14890232', '023.283.472/0001-02'),
+('e-conta.gov.br', '2001-09-05 20:08:23', '2002-12-18 15:53:27', '628473', '000.360.305/2714-85'),
+('mincsp.gov.br', '2002-06-21 15:09:18', '2013-03-21 19:26:46', '896763', '001.264.142/0002-00'),
+('funpresp-exe.gov.br', '2013-09-05 18:03:50', '2016-04-11 17:27:24', '11875499', '017.312.597/0001-02'),
+('redemulheres.gov.br', '2013-08-20 15:00:36', '2016-04-11 13:37:40', '11876431', '037.115.375/0002-98'),
+('carrocampeao.gov.br', '2000-08-04 21:17:45', '2015-07-16 19:44:21', '399426', '000.360.305/2399-13'),
+('agenciabrasil.gov.br', '2000-07-17 13:15:36', '2009-04-01 12:46:01', '369745', '009.168.704/0001-42'),
+('dnc.gov.br', '1996-08-22 12:00:00', '2015-08-18 11:43:09', '14672', '037.115.383/0034-11'),
+('forumsipec.gov.br', '2000-10-28 14:46:14', '2014-01-22 17:25:36', '455615', '000.489.828/0001-55'),
+('imbel.gov.br', '2000-02-23 13:41:15', '2016-01-06 17:12:15', '263716', '000.444.232/0001-39'),
+('planobrasil.gov.br', '2003-05-09 19:52:14', '2014-01-22 17:33:47', '1205422', '002.927.863/0001-34'),
+('crecigo.gov.br', '2011-03-01 13:55:48', '2012-12-13 17:40:26', '7968449', '001.638.121/0001-26'),
+('eafcatu.gov.br', '2004-02-18 13:31:03', '2008-09-16 17:42:02', '1533568', '016.132.623/0001-58'),
+('icpbrasil.gov.br', '2001-07-23 14:08:28', '2015-08-20 12:45:57', '608113', '004.039.532/0001-93'),
+('colab.gov.br', '2014-10-15 09:44:27', '2014-10-15 09:44:27', '13442567', '002.927.863/0001-34'),
+('conitec.gov.br', '2014-10-06 14:47:09', '2016-06-06 13:42:59', '13316849', '000.394.544/0008-51'),
+('inova.gov.br', '2015-06-11 19:43:40', '2015-06-11 19:43:40', '14237728', '000.489.828/0001-55'),
+('pndrss.gov.br', '2015-01-15 20:37:18', '2015-06-08 22:34:10', '13701811', '001.612.452/0001-97'),
+('crefito2.gov.br', '2012-02-15 14:08:03', '2012-02-15 14:08:03', '9476312', '029.991.262/0001-47'),
+('ccpe.gov.br', '2000-02-29 21:25:17', '2009-02-14 13:46:53', '275195', '037.115.383/0005-87'),
+('casabrasil.gov.br', '2006-02-22 15:07:31', '2013-02-04 17:38:52', '2629511', '001.263.896/0003-26'),
+('brasilia2010.gov.br', '2010-02-02 15:56:39', '2014-07-04 11:03:41', '6485016', '001.264.142/0002-00'),
+('prplanalto.gov.br', '2013-11-13 18:13:53', '2015-04-10 22:04:19', '12244593', '000.394.411/0001-09'),
+('eln.gov.br', '1995-05-30 12:00:00', '2013-01-02 16:53:26', '0', '000.357.038/0001-16'),
+('cop15.gov.br', '2009-11-18 17:03:04', '2014-09-22 17:05:53', '6272565', '009.234.494/0001-43'),
+('coren-df.gov.br', '2011-02-24 12:58:40', '2014-10-23 10:19:14', '7970211', '003.875.295/0001-38'),
+('decea.gov.br', '2001-12-26 18:40:17', '2014-01-24 11:55:40', '705211', '000.394.429/0048-74'),
+('brasilvoluntario.gov.br', '2012-11-16 19:07:47', '2014-02-28 20:45:40', '10719025', '002.973.091/0001-77'),
+('sedh.gov.br', '2003-07-17 11:07:59', '2015-03-30 18:31:41', '1268815', '005.478.625/0001-87'),
+('mi.gov.br', '1999-09-23 16:25:17', '2015-06-24 20:43:14', '202195', '003.353.358/0001-96'),
+('rotasdascidades.gov.br', '2011-10-19 18:17:26', '2014-09-24 17:35:18', '8980264', '000.489.828/0006-60'),
+('ebserh.gov.br', '2013-04-23 10:50:27', '2014-05-28 13:33:10', '11267250', '015.126.437/0001-43'),
+('creci-am.gov.br', '2013-06-06 20:19:13', '2013-07-22 19:41:44', '11537616', '004.619.672/0001-30'),
+('stf.gov.br', '1996-04-16 12:00:00', '2014-10-08 15:34:05', '6820', '000.531.640/0001-28'),
+('crqsc.gov.br', '2010-05-12 19:15:00', '2014-07-26 02:55:46', '6834151', '079.887.659/0001-61'),
+('socinfo.gov.br', '2000-07-20 14:01:55', '2014-08-05 23:17:18', '388868', '004.082.993/0001-49'),
+('portalbrasil.gov.br', '2000-07-17 13:15:48', '2011-07-28 21:31:44', '370017', '009.168.704/0001-42'),
+('pr.gov.br', '1996-03-18 12:00:00', '2012-02-09 16:36:09', '5965', '076.545.011/0001-19'),
+('furnas.gov.br', '1995-07-05 12:00:00', '2015-09-23 18:49:34', '0', '023.274.194/0001-19'),
+('fnsms.gov.br', '1999-07-19 17:26:01', '2015-11-05 20:27:03', '177754', '026.989.350/0526-98'),
+('infrastructurebrazil.gov.br', '2000-09-01 15:25:12', '2014-01-22 17:33:16', '411467', '002.927.863/0001-34'),
+('e.gov.br', '2002-07-25 18:22:59', '2011-05-02 12:08:10', '920707', '033.683.111/0001-07'),
+('caual.gov.br', '2012-07-06 12:40:59', '2015-04-29 13:53:59', '10045914', '014.702.767/0001-77'),
+('faesa-oscip.gov.br', '2004-05-17 18:47:10', '2004-05-17 15:47:10', '1633530', '002.005.173/0001-28'),
+('siop.gov.br', '2012-06-27 18:04:07', '2012-06-27 18:04:07', '10078525', '000.489.828/0008-21'),
+('sisbin.gov.br', '2005-05-25 12:05:59', '2014-11-18 13:19:26', '2158741', '001.175.497/0001-41'),
+('dprf.gov.br', '1998-10-05 12:29:15', '2016-02-02 11:36:17', '117380', '000.394.494/0104-41'),
+('publicgovernance.gov.br', '2014-08-12 18:30:34', '2014-09-10 19:50:41', '13183982', '000.414.607/0001-18'),
+('codern.gov.br', '2011-12-15 12:52:59', '2011-12-15 12:52:59', '9218722', '034.040.345/0001-90'),
+('gnre.gov.br', '2005-04-04 18:47:26', '2011-09-14 14:41:53', '2050041', '033.683.111/0001-07'),
+('cidadania.gov.br', '2000-10-25 12:50:30', '2014-01-22 15:58:20', '448648', '000.530.279/0004-68'),
+('edemocracia.gov.br', '2009-06-15 18:47:42', '2015-06-15 17:37:33', '5587853', '000.530.352/0001-59'),
+('btn.gov.br', '2004-02-27 19:17:13', '2014-07-10 14:19:22', '1525676', '000.394.536/0009-96'),
+('portaldacopa.gov.br', '2011-11-09 12:25:01', '2014-07-03 13:10:21', '9097409', '002.961.362/0001-74'),
+('bdep.gov.br', '2001-09-21 12:54:52', '2015-08-18 11:50:53', '640628', '002.313.673/0002-08'),
+('gestaopublica.gov.br', '2000-10-23 17:04:11', '2014-01-22 17:32:37', '451899', '002.927.863/0001-34'),
+('cauam.gov.br', '2015-05-06 21:00:57', '2015-05-06 21:00:57', '14122546', '014.702.767/0001-77'),
+('politicasmulheres.gov.br', '2010-01-13 14:04:12', '2014-09-22 17:07:19', '6426226', '005.510.958/0001-46'),
+('crtr01.gov.br', '2011-07-15 12:27:10', '2011-07-15 12:27:10', '8567176', '003.657.392/0001-54'),
+('infoseg.gov.br', '2003-06-11 10:41:21', '2015-07-02 20:42:18', '1233804', '000.394.494/0005-60'),
+('teimozinha.gov.br', '2000-08-04 21:18:02', '2015-07-16 21:36:41', '399410', '000.360.305/0674-46'),
+('ceara.gov.br', '1995-08-21 12:00:00', '2014-05-06 19:30:28', '0', '007.954.480/0001-79'),
+('odmbrasil.gov.br', '2012-05-21 13:31:12', '2012-05-21 13:31:12', '9831924', '000.394.411/0001-09');
