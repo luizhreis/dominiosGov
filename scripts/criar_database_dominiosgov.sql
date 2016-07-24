@@ -45,7 +45,7 @@ id_cidade bigint unsigned,
 FOREIGN KEY(id_cidade) REFERENCES Cidades (id_cidade) ON UPDATE CASCADE ON DELETE RESTRICT
 );
 
-CREATE TABLE Funcionario (
+CREATE TABLE Funcionarios (
 documento varchar(32),
 nic_hdl_br varchar(16),
 PRIMARY KEY(documento,nic_hdl_br),
