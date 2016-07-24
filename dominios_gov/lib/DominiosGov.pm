@@ -15,7 +15,7 @@ sub startup {
     $self->secrets(['LeYTmFPhw3q', 'QrPTZhWJmqCjyGZmguK']);
 
     # Model
-    $self->helper(mysql => sub { state $mysql = Mojo::mysql->new('mysql://root:luiz5481@/dominiosgov') });
+    $self->helper(mysql => sub { state $mysql = Mojo::mysql->new('mysql://root@/dominiosgov') });
     $self->helper(consultas => sub { state $consultas = DominiosGov::Model::Consultas->new(mysql => shift->mysql) });
 
 	# Router
