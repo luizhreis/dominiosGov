@@ -9,6 +9,9 @@
 		<a class="btn btn-default btn-lg" href="/consultas/empordadmin" role="button">Listar empresas ordenando pelo numero de administradores</a>
 	</div>
 	<div class="form-group">
+		<a class="btn btn-default btn-lg" href="consultas/datasmaisinfos" role="button">Listar data de criação e alteração dos dominios, endereço, documento, estado e os responsáveis</a>
+	</div>
+	<div class="form-group">
 		<a class="btn btn-default btn-lg" href="consultas/empfax" role="button">Listar empresas com fax</a>
 	</div>
 	<div class="form-group">

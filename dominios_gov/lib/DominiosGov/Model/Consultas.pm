@@ -59,4 +59,11 @@ sub get_resps_mais_de_2_dominios{
 	return $nomes;
 }
 
+sub get_datas_mais_infos{
+	my ($self) = @_;
+	my $sql = 'SELECT * FROM Dominios LEFT OUTER JOIN Papel ON Papel.domain=Dominios.domain UNION ALL SELECT * FROM Dominios RIGHT OUTER JOIN Papel ON Papel.domain=Dominios.domain WHERE Dominios.domain=Papel.domain;';
+	my $nomes = $self->mysql->db->query($sql)->arrays;
+	return $nomes;
+}
+
 1;
