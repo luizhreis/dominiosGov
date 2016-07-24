@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    %= asset "bootstrap.css"
+    %= asset "bootstrap.js"
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/css/signin.css" rel="stylesheet">
+  </head>
+  <body>
+    <script>
+      $(document).ready(function() {
+        $('a[href="' + this.location.pathname + '"]').parent().addClass('active');
+      });
+    </script>
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="collapsed navbar-toggle" data-toggle="collapse" data-target="#collapse-4124">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="collapse navbar-collapse" id="collapse-4124">
+          <ul class="nav navbar-nav">
+            <li><a href="/">DominiosGov</a></li>
+            <li><a href="/consultas">Consultas</a></li>
+            <li><a href="/relatorios">Relatorios</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="container">
+      <%= content %>
+    </div>
+  </body>
+</html>

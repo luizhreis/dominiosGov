@@ -1,0 +1,8 @@
+% layout 'layout';
+% title 'DominiosGov';
+
+<div class="well bs-component">
+	<a class="btn btn-success btn-lg" href="/consultas/teste" role="button">Consulta Teste</a>
+	<a class="btn btn-success btn-lg" href="#" role="button">Link</a>
+	<a class="btn btn-success btn-lg" href="#" role="button">Link</a>
+</div>
