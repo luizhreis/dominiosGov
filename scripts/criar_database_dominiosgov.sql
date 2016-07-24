@@ -1,7 +1,8 @@
 -- Geração de Modelo físico
 -- Sql ANSI 2003 - brModelo.
 
-
+--CREATE DATABASE dominiosgov;
+--USE dominiosgov;
 
 CREATE TABLE Estados (
 id_estado serial PRIMARY KEY,
