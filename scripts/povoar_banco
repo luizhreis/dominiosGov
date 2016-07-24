@@ -1,10 +1,12 @@
---source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_estados_cidades.sql
-source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_telefone.sql
+source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/criar_database_dominiosgov2.sql
+source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_estados_cidades2.sql
 source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_nservers.sql
 source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_nichandles.sql
 source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_ents_resps.sql
 source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_funcionarios.sql
 source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_dominios.sql
-source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_aponta.sql
+source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_aponta2.sql
 source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_papel.sql
+
+source /home/beatriz/Documentos/trab_bd/dominiosGov/scripts/popular_telefone.sql
 

@@ -29,7 +29,7 @@ CREATE TABLE Ents_Resps (
 documento varchar(32) PRIMARY KEY,
 cep char(9),
 nome varchar(128),
-id_cidade serial,
+id_cidade bigint unsigned,
 FOREIGN KEY(id_cidade) REFERENCES Cidades (id_cidade) ON UPDATE CASCADE ON DELETE RESTRICT
 );
 

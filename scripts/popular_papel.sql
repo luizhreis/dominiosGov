@@ -1,6016 +1,5944 @@
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpr.gov.br', 'JFI3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpr.gov.br', 'JFI3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpr.gov.br', 'JFI3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpr.gov.br', 'JFI3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnit.gov.br', 'AFC320', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnit.gov.br', 'MHA22', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnit.gov.br', 'ZAL8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnit.gov.br', 'VSJ47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pessoacomdeficiencia.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pessoacomdeficiencia.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pessoacomdeficiencia.gov.br', 'FRASO52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pessoacomdeficiencia.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conab.gov.br', 'GPL11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conab.gov.br', 'GPL11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conab.gov.br', 'GPL11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conab.gov.br', 'MHM5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiabv.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiabv.gov.br', 'AFN123', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiabv.gov.br', 'JPLBR2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiabv.gov.br', 'AFN123', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilmaisprodutivo.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilmaisprodutivo.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilmaisprodutivo.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilmaisprodutivo.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agriculturafamiliar.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agriculturafamiliar.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agriculturafamiliar.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agriculturafamiliar.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gesac.gov.br', 'VPF2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gesac.gov.br', 'VPF2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gesac.gov.br', 'VPF2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gesac.gov.br', 'VPF2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('duplasena.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('duplasena.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('duplasena.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('duplasena.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('palmares.gov.br', 'FCP41', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('palmares.gov.br', 'FCP41', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('palmares.gov.br', 'FCP41', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('palmares.gov.br', 'FCP41', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anvs.gov.br', 'SCO6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anvs.gov.br', 'SCO6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anvs.gov.br', 'SCO6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anvs.gov.br', 'SCO6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fhdf.gov.br', 'CAT64', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fhdf.gov.br', 'CAT64', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fhdf.gov.br', 'CAT64', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fhdf.gov.br', 'CAT64', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-jus.gov.br', 'DARCO34', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-jus.gov.br', 'DARCO34', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-jus.gov.br', 'DARCO34', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-jus.gov.br', 'DARCO34', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahimor.gov.br', 'AEA96', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahimor.gov.br', 'AEA96', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahimor.gov.br', 'AEA96', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahimor.gov.br', 'AEA96', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro.gov.br', 'NOFJU', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro.gov.br', 'NOFJU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro.gov.br', 'DIANJ18', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro.gov.br', 'NOFJU', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt12.gov.br', 'TRR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt12.gov.br', 'TRR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt12.gov.br', 'TRR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt12.gov.br', 'TRR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesouro.gov.br', 'MNR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesouro.gov.br', 'MNR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesouro.gov.br', 'ROFFR86', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesouro.gov.br', 'MNR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cortesmercosur.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cortesmercosur.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cortesmercosur.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cortesmercosur.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('marinha.gov.br', 'CAS39', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('marinha.gov.br', 'CAS39', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('marinha.gov.br', 'CAS39', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('marinha.gov.br', 'CAS39', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mct.gov.br', 'REDOM95', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mct.gov.br', 'ADNMC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mct.gov.br', 'PEMSC5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mct.gov.br', 'ADNMC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudainconfidencia.gov.br', 'RUMOU3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudainconfidencia.gov.br', 'RUMOU3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudainconfidencia.gov.br', 'EESEW', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudainconfidencia.gov.br', 'RUMOU3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefsp.gov.br', 'CPM144', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefsp.gov.br', 'CPM144', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefsp.gov.br', 'CPM144', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefsp.gov.br', 'CPM144', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codevasf.gov.br', 'OJS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codevasf.gov.br', 'OJS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codevasf.gov.br', 'ALGMO16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codevasf.gov.br', 'OJS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esporte.gov.br', 'JDGPI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esporte.gov.br', 'JAA364', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esporte.gov.br', 'JAA364', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esporte.gov.br', 'JAA364', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosempapel.gov.br', 'REABE16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosempapel.gov.br', 'REABE16', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosempapel.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosempapel.gov.br', 'REABE16', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcrato.gov.br', 'LCL342', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcrato.gov.br', 'LCL342', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcrato.gov.br', 'LCL342', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcrato.gov.br', 'LCL342', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--previdnciasocial-xqb.gov.br', '', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--previdnciasocial-xqb.gov.br', '', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--previdnciasocial-xqb.gov.br', '', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--previdnciasocial-xqb.gov.br', '', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('btn.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('btn.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('btn.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('btn.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaljt.gov.br', 'SCD13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaljt.gov.br', 'SCD13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaljt.gov.br', 'SCD13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaljt.gov.br', 'SCD13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servicoflorestal.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servicoflorestal.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servicoflorestal.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servicoflorestal.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pf.gov.br', 'CTI44', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pf.gov.br', 'CTI44', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pf.gov.br', 'CTI44', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pf.gov.br', 'CTI44', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quina.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quina.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quina.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quina.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafce.gov.br', 'EAC261', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafce.gov.br', 'EAC261', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafce.gov.br', 'EAC261', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafce.gov.br', 'EAC261', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoinvestidor.gov.br', 'CVGTE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoinvestidor.gov.br', 'CVGTE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoinvestidor.gov.br', 'CVGTE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoinvestidor.gov.br', 'CVGTE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisbin.gov.br', 'GDS174', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisbin.gov.br', 'GDS174', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisbin.gov.br', 'DSARA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisbin.gov.br', 'GDS174', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('varadafazenda.gov.br', 'DARCO34', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('varadafazenda.gov.br', 'DARCO34', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('varadafazenda.gov.br', 'DARCO34', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('varadafazenda.gov.br', 'DARCO34', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumsipec.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumsipec.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumsipec.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumsipec.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinf.gov.br', 'GDS174', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinf.gov.br', 'GDS174', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinf.gov.br', 'DSARA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinf.gov.br', 'GDS174', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('instantanea.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('instantanea.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('instantanea.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('instantanea.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('historiasdobrasil.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('historiasdobrasil.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('historiasdobrasil.gov.br', 'MAMPA145', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('historiasdobrasil.gov.br', 'MAMPA145', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnfcp.gov.br', 'LNV9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnfcp.gov.br', 'LNV9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnfcp.gov.br', 'LNV9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnfcp.gov.br', 'LNV9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsombrio.gov.br', 'ANCSO351', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsombrio.gov.br', 'ANCSO351', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsombrio.gov.br', 'ANCSO351', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsombrio.gov.br', 'ALP344', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrs.gov.br', 'ALSIL482', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrs.gov.br', 'ALSIL482', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrs.gov.br', 'ALSIL482', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrs.gov.br', 'ANZMA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr18.gov.br', 'ADCDI9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr18.gov.br', 'ADCDI9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr18.gov.br', 'ADCDI9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr18.gov.br', 'ADCDI9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-go.gov.br', 'CNA16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-go.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-go.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-go.gov.br', 'CNA16', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abgf.gov.br', 'ABGFS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abgf.gov.br', 'ABGFS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abgf.gov.br', 'ABGFS', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abgf.gov.br', 'ABGFS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trinca.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trinca.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trinca.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trinca.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentorural.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentorural.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentorural.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentorural.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caums.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caums.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caums.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caums.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixainveste.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixainveste.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixainveste.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixainveste.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('frp.gov.br', 'ARA11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('frp.gov.br', 'ARA11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('frp.gov.br', 'ARA11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('frp.gov.br', 'ARA11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbnb.gov.br', 'EDWOL18', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbnb.gov.br', 'EDWOL18', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbnb.gov.br', 'EDWOL18', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbnb.gov.br', 'EDWOL18', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaoperadoradeseguros.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaoperadoradeseguros.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaoperadoradeseguros.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaoperadoradeseguros.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('expofeiras.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('expofeiras.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('expofeiras.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('expofeiras.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camaradosdeputados.gov.br', 'SSG50', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camaradosdeputados.gov.br', 'SSG50', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camaradosdeputados.gov.br', 'SSG50', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camaradosdeputados.gov.br', 'SSG50', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icea.gov.br', 'ADRED14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icea.gov.br', 'ADRED14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icea.gov.br', 'FAVLI17', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icea.gov.br', 'ADRED14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mercadopublico.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mercadopublico.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mercadopublico.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mercadopublico.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chesf.gov.br', 'FAMVA16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chesf.gov.br', 'FAMVA16', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chesf.gov.br', 'FAMVA16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chesf.gov.br', 'FAMVA16', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('adene.gov.br', 'ADN75', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('adene.gov.br', 'ADN75', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('adene.gov.br', 'ADN75', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('adene.gov.br', 'ADN75', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipeadata.gov.br', 'MHS92', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipeadata.gov.br', 'MHS92', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipeadata.gov.br', 'MHS92', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipeadata.gov.br', 'MHS92', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caminhaodasorte.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caminhaodasorte.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caminhaodasorte.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caminhaodasorte.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senador.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senador.gov.br', 'SEIRE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senador.gov.br', 'SEIRE4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senador.gov.br', 'SEIRE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenms.gov.br', 'GHV12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenms.gov.br', 'GHV12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenms.gov.br', 'GHV12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenms.gov.br', 'GHV12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceagw.gov.br', 'SRS330', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceagw.gov.br', 'SRS330', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceagw.gov.br', 'SRS330', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceagw.gov.br', 'SRS330', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('srpv-sp.gov.br', 'SRS330', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('srpv-sp.gov.br', 'SRS330', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('srpv-sp.gov.br', 'SRS330', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('srpv-sp.gov.br', 'SRS330', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizacopa2014.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizacopa2014.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizacopa2014.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizacopa2014.gov.br', 'ACSQU', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cef.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cef.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cef.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cef.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prsc.gov.br', 'JCB59', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prsc.gov.br', 'JCB59', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prsc.gov.br', 'JCB59', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prsc.gov.br', 'JCB59', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaaqui.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaaqui.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaaqui.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaaqui.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('noticias.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('noticias.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('noticias.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('noticias.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ird.gov.br', 'MCM5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ird.gov.br', 'MCM5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ird.gov.br', 'MCM5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ird.gov.br', 'MCM5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fab.gov.br', 'CMANS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fab.gov.br', 'CMANS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fab.gov.br', 'CMANS', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fab.gov.br', 'CMANS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-rs.gov.br', 'LFM245', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-rs.gov.br', 'LFM245', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-rs.gov.br', 'LFM245', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-rs.gov.br', 'LFM245', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abin.gov.br', 'GDS174', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abin.gov.br', 'GDS174', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abin.gov.br', 'DSARA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abin.gov.br', 'GDS174', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigabrasil.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigabrasil.gov.br', 'SEIRE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigabrasil.gov.br', 'SEIRE4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigabrasil.gov.br', 'SEIRE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt6.gov.br', 'JAS64', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt6.gov.br', 'JAS64', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt6.gov.br', 'JAS64', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt6.gov.br', 'JAS64', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tse.gov.br', 'DCC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tse.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tse.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tse.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt2.gov.br', 'COARE11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt2.gov.br', 'RECCO133', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt2.gov.br', 'SERTE12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt2.gov.br', 'RECCO133', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ancine.gov.br', 'ANGTI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ancine.gov.br', 'ANGTI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ancine.gov.br', 'ANGTI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ancine.gov.br', 'ANGTI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maisbrasil.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maisbrasil.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maisbrasil.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maisbrasil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpa.gov.br', 'RLR90', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpa.gov.br', 'RLR90', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpa.gov.br', 'MOMLI10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpa.gov.br', 'RLR90', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inss.gov.br', 'LRS181', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inss.gov.br', 'LRS181', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inss.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inss.gov.br', 'LRS181', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizario2016.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizario2016.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizario2016.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizario2016.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiabrasil.gov.br', 'HCB42', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiabrasil.gov.br', 'HCB42', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiabrasil.gov.br', 'HCB42', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiabrasil.gov.br', 'HCB42', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilcentral.gov.br', 'STC46', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilcentral.gov.br', 'STC46', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilcentral.gov.br', 'STC46', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilcentral.gov.br', 'STC46', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt21.gov.br', 'LEA2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt21.gov.br', 'LEA2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt21.gov.br', 'LEA2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt21.gov.br', 'DDF42', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seppir.gov.br', 'SASAL43', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seppir.gov.br', 'SASAL43', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seppir.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seppir.gov.br', 'SASAL43', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtumetrorec.gov.br', 'FCV93', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtumetrorec.gov.br', 'FCV93', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtumetrorec.gov.br', 'FCV93', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtumetrorec.gov.br', 'CAR107', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abcd.gov.br', 'JDGPI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abcd.gov.br', 'JAA364', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abcd.gov.br', 'JAA364', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abcd.gov.br', 'JAA364', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpdf.gov.br', 'DTMPD', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpdf.gov.br', 'DTMPD', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpdf.gov.br', 'DTMPD', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpdf.gov.br', 'DTMPD', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('denatran.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('denatran.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('denatran.gov.br', 'ALCBA81', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('denatran.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rap.gov.br', 'MPRJA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rap.gov.br', 'SCL773', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rap.gov.br', 'MPRJA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rap.gov.br', 'MPRJA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf1.gov.br', 'COITE8', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf1.gov.br', 'COITE8', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf1.gov.br', 'MSC131', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf1.gov.br', 'COITE8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq-pr.gov.br', 'DIBFI7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq-pr.gov.br', 'DIBFI7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq-pr.gov.br', 'JJJ70', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq-pr.gov.br', 'DIBFI7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conpet.gov.br', 'EDFEL11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conpet.gov.br', 'EDFEL11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conpet.gov.br', 'EDFEL11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conpet.gov.br', 'EDFEL11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-be.gov.br', 'SAC142', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-be.gov.br', 'SAC142', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-be.gov.br', 'SAC142', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-be.gov.br', 'CPB2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funai.gov.br', 'FNF2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funai.gov.br', 'FNF2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funai.gov.br', 'FNF2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funai.gov.br', 'FNF2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defensoriapublica.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defensoriapublica.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defensoriapublica.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defensoriapublica.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cartelafederal.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cartelafederal.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cartelafederal.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cartelafederal.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt16.gov.br', 'TRR7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt16.gov.br', 'TRR7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt16.gov.br', 'TRR7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt16.gov.br', 'TRR7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rj.gov.br', 'SCL773', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rj.gov.br', 'SCL773', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rj.gov.br', 'SCL773', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rj.gov.br', 'SCL773', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-pb.gov.br', 'GESRI10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-pb.gov.br', 'GESRI10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-pb.gov.br', 'GESRI10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-pb.gov.br', 'GESRI10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiojustica.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiojustica.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiojustica.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiojustica.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('genero.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('genero.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('genero.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('genero.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafc.gov.br', 'MBL321', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafc.gov.br', 'MBL321', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafc.gov.br', 'MBL321', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafc.gov.br', 'MBL321', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nuclebras.gov.br', 'HEACA9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nuclebras.gov.br', 'HEACA9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nuclebras.gov.br', 'HEACA9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nuclebras.gov.br', 'HEACA9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecisp.gov.br', 'CSSPA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecisp.gov.br', 'CSSPA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecisp.gov.br', 'CSSPA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecisp.gov.br', 'CSSPA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ap.gov.br', 'DCC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ap.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ap.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ap.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf5.gov.br', 'TRF', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf5.gov.br', 'TRF', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf5.gov.br', 'TRF', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf5.gov.br', 'TRF', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('depv.gov.br', 'ADRED14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('depv.gov.br', 'ADRED14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('depv.gov.br', 'MVF212', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('depv.gov.br', 'MVF212', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('renapi.gov.br', 'INFBR6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('renapi.gov.br', 'INFBR6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('renapi.gov.br', 'INFBR6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('renapi.gov.br', 'INFBR6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-es.gov.br', 'VIMTR2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-es.gov.br', 'VIMTR2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-es.gov.br', 'VIMTR2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-es.gov.br', 'VIMTR2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahrana.gov.br', 'KCB13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahrana.gov.br', 'KCB13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahrana.gov.br', 'KCB13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahrana.gov.br', 'KCB13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iufro2019.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iufro2019.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iufro2019.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iufro2019.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planobrasil.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planobrasil.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planobrasil.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planobrasil.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('oconsumidor.gov.br', 'SAADI5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('oconsumidor.gov.br', 'SAADI5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('oconsumidor.gov.br', 'LFL', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('oconsumidor.gov.br', 'SAADI5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ic-brazil.gov.br', 'ANM153', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ic-brazil.gov.br', 'PACBE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ic-brazil.gov.br', 'PACBE47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ic-brazil.gov.br', 'PACBE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-conta.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-conta.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-conta.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-conta.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4.gov.br', 'CPM144', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4.gov.br', 'CPM144', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4.gov.br', 'CPM144', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4.gov.br', 'CPM144', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbee.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbee.gov.br', 'GSC187', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbee.gov.br', 'GSC187', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbee.gov.br', 'GSC187', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planejamentoterritorial.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planejamentoterritorial.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planejamentoterritorial.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planejamentoterritorial.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vicepresidenciadarepublica.gov.br', 'RMP45', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vicepresidenciadarepublica.gov.br', 'RMP45', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vicepresidenciadarepublica.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vicepresidenciadarepublica.gov.br', 'RMP45', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ro.gov.br', 'DCC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ro.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ro.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ro.gov.br', 'DSR17', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('postal.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('postal.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('postal.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('postal.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cartaobndes.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cartaobndes.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cartaobndes.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cartaobndes.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cquali.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cquali.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cquali.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cquali.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prap.gov.br', 'MAK6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prap.gov.br', 'MAK6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prap.gov.br', 'MAK6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prap.gov.br', 'MAK6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iec.gov.br', 'CRC395', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iec.gov.br', 'CAKAH', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iec.gov.br', 'CAKAH', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iec.gov.br', 'CAKAH', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mls.gov.br', 'AJM40', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mls.gov.br', 'AJM40', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mls.gov.br', 'AJM40', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mls.gov.br', 'AJM40', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq12.gov.br', 'LUOCO10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq12.gov.br', 'LUOCO10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq12.gov.br', 'RBF69', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq12.gov.br', 'LUOCO10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mte.gov.br', 'COINF90', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mte.gov.br', 'COINF90', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mte.gov.br', 'COINF90', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mte.gov.br', 'COINF90', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('microepequenaempresa.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('microepequenaempresa.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('microepequenaempresa.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('microepequenaempresa.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--servios-yxa.gov.br', '', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--servios-yxa.gov.br', '', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--servios-yxa.gov.br', '', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--servios-yxa.gov.br', '', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-am.gov.br', 'TRC21', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-am.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-am.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-am.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('empresa.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('empresa.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('empresa.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('empresa.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('olacefs.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('olacefs.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('olacefs.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('olacefs.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibge2.gov.br', 'LLS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibge2.gov.br', 'LLS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibge2.gov.br', 'LLS', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibge2.gov.br', 'LLS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('geres.gov.br', 'CAV393', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('geres.gov.br', 'CAV393', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('geres.gov.br', 'TEE7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('geres.gov.br', 'CAV393', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fomezero.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fomezero.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fomezero.gov.br', 'EDMED27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fomezero.gov.br', 'EDMED27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('businessbrazil.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('businessbrazil.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('businessbrazil.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('businessbrazil.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudoindio.gov.br', 'JCL412', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudoindio.gov.br', 'JCL412', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudoindio.gov.br', 'SUPMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudoindio.gov.br', 'JCL412', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordestedigital.gov.br', 'CMRSO14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordestedigital.gov.br', 'CMRSO14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordestedigital.gov.br', 'FFN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordestedigital.gov.br', 'CMRSO14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--notcias-9ya.gov.br', '', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--notcias-9ya.gov.br', '', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--notcias-9ya.gov.br', '', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--notcias-9ya.gov.br', '', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaseguridade.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaseguridade.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaseguridade.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaseguridade.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mega-sena.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mega-sena.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mega-sena.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mega-sena.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('csjt.gov.br', 'SCD13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('csjt.gov.br', 'SCD13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('csjt.gov.br', 'SCD13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('csjt.gov.br', 'SCD13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eusoumaismedicos.gov.br', 'DOEBS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eusoumaismedicos.gov.br', 'DOEBS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eusoumaismedicos.gov.br', 'DOEBS', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eusoumaismedicos.gov.br', 'DOEBS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecimg.gov.br', 'MAA815', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecimg.gov.br', 'MAA815', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecimg.gov.br', 'EMJ90', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecimg.gov.br', 'MAA815', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--previdncia-r7a.gov.br', '', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--previdncia-r7a.gov.br', '', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--previdncia-r7a.gov.br', '', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--previdncia-r7a.gov.br', '', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hasp.gov.br', 'CRS114', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hasp.gov.br', 'CRS114', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hasp.gov.br', 'CRS114', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hasp.gov.br', 'CRS114', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-es.gov.br', 'RBS53', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-es.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-es.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-es.gov.br', 'RBS53', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('peticaoeletronica.gov.br', 'ALSIL482', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('peticaoeletronica.gov.br', 'ALSIL482', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('peticaoeletronica.gov.br', 'ALSIL482', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('peticaoeletronica.gov.br', 'ANZMA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supertrinca.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supertrinca.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supertrinca.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supertrinca.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bndespar.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bndespar.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bndespar.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bndespar.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tribunaiscplp.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tribunaiscplp.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tribunaiscplp.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tribunaiscplp.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hgb.gov.br', 'AJF32', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hgb.gov.br', 'AJF32', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hgb.gov.br', 'AJF32', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hgb.gov.br', 'AJF32', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redebrasildigital.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redebrasildigital.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redebrasildigital.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redebrasildigital.gov.br', 'MRV103', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctac.gov.br', 'ROHSI8', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctac.gov.br', 'FCD97', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctac.gov.br', 'ROHSI8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctac.gov.br', 'ROHSI8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prove.gov.br', 'PSB51', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prove.gov.br', 'PSB51', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prove.gov.br', 'PSB51', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prove.gov.br', 'PSB51', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaeconomicafederal.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaeconomicafederal.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaeconomicafederal.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaeconomicafederal.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codesp.gov.br', 'RRS248', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codesp.gov.br', 'RRS248', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codesp.gov.br', 'BRP31', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codesp.gov.br', 'RRS248', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ans.gov.br', 'JWD3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ans.gov.br', 'JWD3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ans.gov.br', 'JWD3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ans.gov.br', 'JWD3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redeagentes.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redeagentes.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redeagentes.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redeagentes.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroaqui.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroaqui.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroaqui.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroaqui.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('labcluster.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('labcluster.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('labcluster.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('labcluster.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiaboavista.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiaboavista.gov.br', 'AFN123', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiaboavista.gov.br', 'JPLBR2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiaboavista.gov.br', 'AFN123', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('avancabrasil.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('avancabrasil.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('avancabrasil.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('avancabrasil.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pa.gov.br', 'DIT76', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pa.gov.br', 'DIT76', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pa.gov.br', 'DIT76', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pa.gov.br', 'DIT76', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4-sp.gov.br', 'CPM144', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4-sp.gov.br', 'CPM144', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4-sp.gov.br', 'CPM144', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4-sp.gov.br', 'CPM144', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns-sc.gov.br', 'RHR2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns-sc.gov.br', 'RHR2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns-sc.gov.br', 'RHR2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns-sc.gov.br', 'RHR2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federativo.gov.br', 'MHS92', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federativo.gov.br', 'PSP4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federativo.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federativo.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presidencia.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presidencia.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presidencia.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presidencia.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahimoc.gov.br', 'ADA238', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahimoc.gov.br', 'ADA238', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahimoc.gov.br', 'AIP6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahimoc.gov.br', 'ADA238', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('itaipu.gov.br', 'CER16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('itaipu.gov.br', 'CER16', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('itaipu.gov.br', 'CER16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('itaipu.gov.br', 'EMB271', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mincsp.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mincsp.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mincsp.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mincsp.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsc.gov.br', 'MAN779', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsc.gov.br', 'MAN779', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsc.gov.br', 'WEI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsc.gov.br', 'MAN779', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('arquivonacional.gov.br', 'KERPO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('arquivonacional.gov.br', 'KERPO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('arquivonacional.gov.br', 'KERPO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('arquivonacional.gov.br', 'KERPO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pru-pe.gov.br', 'VNOFI2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pru-pe.gov.br', 'VNOFI2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pru-pe.gov.br', 'VNOFI2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pru-pe.gov.br', 'VNOFI2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialogosfederativos.gov.br', 'DMLMA6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialogosfederativos.gov.br', 'DMLMA6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialogosfederativos.gov.br', 'DMLMA6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialogosfederativos.gov.br', 'DMLMA6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sg.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sg.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sg.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sg.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rotasdascidades.gov.br', 'IJFFI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rotasdascidades.gov.br', 'CFMSI14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rotasdascidades.gov.br', 'IJFFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rotasdascidades.gov.br', 'YUONI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnenpc.gov.br', 'NCS31', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnenpc.gov.br', 'NCS31', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnenpc.gov.br', 'NCS31', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnenpc.gov.br', 'NCS31', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portodesantos.gov.br', 'RRS248', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portodesantos.gov.br', 'RRS248', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portodesantos.gov.br', 'BRP31', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portodesantos.gov.br', 'RRS248', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpu.gov.br', 'GFA2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpu.gov.br', 'JMJ43', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpu.gov.br', 'MACSO55', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpu.gov.br', 'GFA2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-pr.gov.br', 'ALSIL482', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-pr.gov.br', 'ALSIL482', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-pr.gov.br', 'ALSIL482', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-pr.gov.br', 'ANZMA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigplan.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigplan.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigplan.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigplan.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sri.gov.br', 'FERSI56', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sri.gov.br', 'FERSI56', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sri.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sri.gov.br', 'FERSI56', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cemaden.gov.br', 'BPF7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cemaden.gov.br', 'BPF7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cemaden.gov.br', 'BPF7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cemaden.gov.br', 'BPF7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cmb.gov.br', 'CMB', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cmb.gov.br', 'CMB', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cmb.gov.br', 'SIC198', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cmb.gov.br', 'CMB', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceagl.gov.br', 'SRS330', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceagl.gov.br', 'SRS330', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceagl.gov.br', 'SRS330', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceagl.gov.br', 'SRS330', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-am.gov.br', 'CRCIM6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-am.gov.br', 'CRCIM6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-am.gov.br', 'CRCIM6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-am.gov.br', 'CRCIM6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coaf.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coaf.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coaf.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coaf.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cvm.gov.br', 'CVGTE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cvm.gov.br', 'CVGTE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cvm.gov.br', 'CVGTE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cvm.gov.br', 'CVGTE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irb.gov.br', 'GURJR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irb.gov.br', 'AKG6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irb.gov.br', 'AKG6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irb.gov.br', 'AKG6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aplicativos.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aplicativos.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aplicativos.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aplicativos.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icmbio.gov.br', 'CRC644', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icmbio.gov.br', 'CRC644', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icmbio.gov.br', 'DALSO56', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icmbio.gov.br', 'CRC644', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasiltransparente.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasiltransparente.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasiltransparente.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasiltransparente.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('focco-pb.gov.br', 'PRCIN2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('focco-pb.gov.br', 'PRCIN2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('focco-pb.gov.br', 'PRCIN2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('focco-pb.gov.br', 'PRCIN2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convivio.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convivio.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convivio.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convivio.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casadoscontos.gov.br', 'CRE21', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casadoscontos.gov.br', 'CRE21', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casadoscontos.gov.br', 'CRE21', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casadoscontos.gov.br', 'CRE21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-mt.gov.br', 'DCC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-mt.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-mt.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-mt.gov.br', 'DCC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('an.gov.br', 'KERPO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('an.gov.br', 'KERPO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('an.gov.br', 'KERPO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('an.gov.br', 'KERPO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('torcidalegal.gov.br', 'JDGPI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('torcidalegal.gov.br', 'JAA364', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('torcidalegal.gov.br', 'JAA364', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('torcidalegal.gov.br', 'JAA364', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acs.gov.br', 'OSMAT', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acs.gov.br', 'OSMAT', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acs.gov.br', 'CSL474', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acs.gov.br', 'OSMAT', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dte.gov.br', 'GDS174', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dte.gov.br', 'GDS174', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dte.gov.br', 'DSARA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dte.gov.br', 'GDS174', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conseg.gov.br', 'MAPAI12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conseg.gov.br', 'MAPAI12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conseg.gov.br', 'MAPAI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conseg.gov.br', 'MAPAI12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('suframa.gov.br', 'ZFM4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('suframa.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('suframa.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('suframa.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mulheres.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mulheres.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mulheres.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mulheres.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redegoverno.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redegoverno.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redegoverno.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redegoverno.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pac.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pac.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pac.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pac.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mp.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mp.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mp.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mp.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro-sc.gov.br', 'GIA9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro-sc.gov.br', 'GIA9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro-sc.gov.br', 'GIA9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro-sc.gov.br', 'GIA9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lojacaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lojacaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lojacaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lojacaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inca.gov.br', 'RLSDS12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inca.gov.br', 'RLSDS12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inca.gov.br', 'CALPI31', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inca.gov.br', 'RLSDS12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conitec.gov.br', 'ARC452', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conitec.gov.br', 'ARC452', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conitec.gov.br', 'ARC452', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conitec.gov.br', 'ARC452', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seminariodefencil.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seminariodefencil.gov.br', 'FFDSA72', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seminariodefencil.gov.br', 'FFDSA72', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seminariodefencil.gov.br', 'FFDSA72', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camara.gov.br', 'SSG50', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camara.gov.br', 'SSG50', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camara.gov.br', 'SSG50', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camara.gov.br', 'SSG50', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correio.gov.br', 'MAR1601', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correio.gov.br', 'MAR1601', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correio.gov.br', 'EEA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correio.gov.br', 'MAR1601', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snirh.gov.br', 'ANS308', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snirh.gov.br', 'ROTFI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snirh.gov.br', 'SNINF', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snirh.gov.br', 'MCRCO10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('direitosdacrianca.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('direitosdacrianca.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('direitosdacrianca.gov.br', 'FRASO52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('direitosdacrianca.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cernai.gov.br', 'ADRED14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cernai.gov.br', 'ADRED14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cernai.gov.br', 'MVF212', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cernai.gov.br', 'MVF212', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mp-df.gov.br', 'DTMPD', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mp-df.gov.br', 'DTMPD', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mp-df.gov.br', 'DTMPD', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mp-df.gov.br', 'DTMPD', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodeoportunidades.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodeoportunidades.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodeoportunidades.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodeoportunidades.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crimecongress2010.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crimecongress2010.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crimecongress2010.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crimecongress2010.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federal.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federal.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federal.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federal.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibamanet.gov.br', 'JXM', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibamanet.gov.br', 'JXM', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibamanet.gov.br', 'AJA4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibamanet.gov.br', 'JXM', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnocs.gov.br', 'MFP90', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnocs.gov.br', 'MFP90', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnocs.gov.br', 'AMPNE17', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnocs.gov.br', 'MFP90', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sc.gov.br', 'FLR3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sc.gov.br', 'FLR3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sc.gov.br', 'LAB548', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sc.gov.br', 'FLR3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('publicgovernance.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('publicgovernance.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('publicgovernance.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('publicgovernance.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ticontrole.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ticontrole.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ticontrole.gov.br', 'ARRAL9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ticontrole.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbqp.gov.br', 'SAADI5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbqp.gov.br', 'SAADI5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbqp.gov.br', 'SRB71', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbqp.gov.br', 'FAA54', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-02.gov.br', 'DRS76', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-02.gov.br', 'DRS76', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-02.gov.br', 'DRS76', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-02.gov.br', 'DRS76', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ba.gov.br', 'JEB31', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ba.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ba.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ba.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahipar.gov.br', 'FEY10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahipar.gov.br', 'PCA147', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahipar.gov.br', 'TOI16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahipar.gov.br', 'PCA147', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadorparatodos.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadorparatodos.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadorparatodos.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadorparatodos.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pmss.gov.br', 'IJFFI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pmss.gov.br', 'YUONI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pmss.gov.br', 'IJFFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pmss.gov.br', 'CFMSI14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahsfra.gov.br', 'VLN11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahsfra.gov.br', 'VLN11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahsfra.gov.br', 'MHC21', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahsfra.gov.br', 'MHC21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgfn.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgfn.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgfn.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgfn.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('teimozinha.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('teimozinha.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('teimozinha.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('teimozinha.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('segurancaquimica.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('segurancaquimica.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('segurancaquimica.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('segurancaquimica.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projud.gov.br', 'DIDTE2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projud.gov.br', 'DIDTE2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projud.gov.br', 'DIDTE2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projud.gov.br', 'DIDTE2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil-rounds.gov.br', 'RALFA27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil-rounds.gov.br', 'RALFA27', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil-rounds.gov.br', 'RALFA27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil-rounds.gov.br', 'RALFA27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('retp.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('retp.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('retp.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('retp.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cofeci.gov.br', 'CFI6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cofeci.gov.br', 'CFI6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cofeci.gov.br', 'CFI6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cofeci.gov.br', 'CFI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt7.gov.br', 'ROTSI68', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt7.gov.br', 'LCMTR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt7.gov.br', 'ROTSI68', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt7.gov.br', 'ROTSI68', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crfa1.gov.br', 'IAJ2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crfa1.gov.br', 'IAJ2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crfa1.gov.br', 'IAJ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crfa1.gov.br', 'IAJ2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('territoriosdacidadania.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('territoriosdacidadania.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('territoriosdacidadania.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('territoriosdacidadania.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seti.gov.br', 'ADC633', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seti.gov.br', 'ADC633', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seti.gov.br', 'ADC633', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seti.gov.br', 'ADC633', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('igam.gov.br', 'RTN2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('igam.gov.br', 'RTN2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('igam.gov.br', 'RTN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('igam.gov.br', 'RTN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icpbrasil.gov.br', 'JRGJU4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icpbrasil.gov.br', 'JRGJU4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icpbrasil.gov.br', 'GCSMA8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('icpbrasil.gov.br', 'JRGJU4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iphan.gov.br', 'CII5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iphan.gov.br', 'CII5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iphan.gov.br', 'CII5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iphan.gov.br', 'CII5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4sp.gov.br', 'CPM144', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4sp.gov.br', 'CPM144', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4sp.gov.br', 'CPM144', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref4sp.gov.br', 'CPM144', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('butantan.gov.br', 'SMH', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('butantan.gov.br', 'SMH', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('butantan.gov.br', 'SMH', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('butantan.gov.br', 'SMH', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroshopping.gov.br', 'SUTIN', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroshopping.gov.br', 'SUTIN', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroshopping.gov.br', 'SUTIN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroshopping.gov.br', 'GESUP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('patrimoniodetodos.gov.br', 'VRCSI3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('patrimoniodetodos.gov.br', 'VRCSI3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('patrimoniodetodos.gov.br', 'VRCSI3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('patrimoniodetodos.gov.br', 'VRCSI3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-sc.gov.br', 'CLLUZ2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-sc.gov.br', 'CLLUZ2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-sc.gov.br', 'CLLUZ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-sc.gov.br', 'CLLUZ2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creditoruralcaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creditoruralcaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creditoruralcaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creditoruralcaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ms.gov.br', 'CGA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ms.gov.br', 'CGA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ms.gov.br', 'CGA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ms.gov.br', 'CGA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilglobalnet.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilglobalnet.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilglobalnet.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilglobalnet.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chicomendes.gov.br', 'CRC644', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chicomendes.gov.br', 'CRC644', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chicomendes.gov.br', 'DALSO56', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chicomendes.gov.br', 'CRC644', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpi.gov.br', 'JSN6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpi.gov.br', 'JSN6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpi.gov.br', 'JSN6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpi.gov.br', 'JSN6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gdf.gov.br', 'STC46', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gdf.gov.br', 'STC46', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gdf.gov.br', 'STC46', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gdf.gov.br', 'STC46', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrj.gov.br', 'LUCFR32', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrj.gov.br', 'LUCFR32', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrj.gov.br', 'LUCFR32', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrj.gov.br', 'LUCFR32', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cofen.gov.br', 'FASCR11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cofen.gov.br', 'FASCR11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cofen.gov.br', 'GHV12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cofen.gov.br', 'LAM653', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupi.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupi.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupi.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupi.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplac.gov.br', 'CMC35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplac.gov.br', 'CMC35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplac.gov.br', 'CMC35', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplac.gov.br', 'CMC35', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt.gov.br', 'SEMVE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt.gov.br', 'GAPFA4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt.gov.br', 'JOPVI11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt.gov.br', 'JOPVI11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtecbo.gov.br', 'COINF90', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtecbo.gov.br', 'CLMEN28', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtecbo.gov.br', 'MALHE11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtecbo.gov.br', 'MALHE11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('c-brasil.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('c-brasil.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('c-brasil.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('c-brasil.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enccla.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enccla.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enccla.gov.br', 'ALCBA81', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enccla.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilemcidades.gov.br', 'IJFFI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilemcidades.gov.br', 'CFMSI14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilemcidades.gov.br', 'IJFFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilemcidades.gov.br', 'YUONI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpm.gov.br', 'SAC404', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpm.gov.br', 'MPM70', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpm.gov.br', 'SAC404', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpm.gov.br', 'SOCOE2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgu.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgu.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgu.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgu.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ruralminas.gov.br', 'FTC41', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ruralminas.gov.br', 'FTC41', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ruralminas.gov.br', 'FTC41', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ruralminas.gov.br', 'FTC41', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-sc.gov.br', 'ALSIL482', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-sc.gov.br', 'ALSIL482', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-sc.gov.br', 'ALSIL482', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-sc.gov.br', 'ANZMA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esportiva.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esportiva.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esportiva.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esportiva.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bnb.gov.br', 'CMRSO14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bnb.gov.br', 'CMRSO14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bnb.gov.br', 'FFN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bnb.gov.br', 'CMRSO14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenmg.gov.br', 'UTCOR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenmg.gov.br', 'ROCOL105', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenmg.gov.br', 'ROCOL105', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenmg.gov.br', 'ROCOL105', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparenciapublica.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparenciapublica.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparenciapublica.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparenciapublica.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fimdotrabalhoinfantil.gov.br', 'MACSO438', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fimdotrabalhoinfantil.gov.br', 'MACSO438', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fimdotrabalhoinfantil.gov.br', 'MACSO438', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fimdotrabalhoinfantil.gov.br', 'MACSO438', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldasaguas.gov.br', 'ANS308', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldasaguas.gov.br', 'ROTFI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldasaguas.gov.br', 'ROTFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldasaguas.gov.br', 'ROTFI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defencil.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defencil.gov.br', 'FFDSA72', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defencil.gov.br', 'FFDSA72', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defencil.gov.br', 'FFDSA72', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('foccopb.gov.br', 'PRCIN2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('foccopb.gov.br', 'PRCIN2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('foccopb.gov.br', 'PRCIN2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('foccopb.gov.br', 'PRCIN2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inma.gov.br', 'HQBFE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inma.gov.br', 'HQBFE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inma.gov.br', 'HDSUP', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inma.gov.br', 'HQBFE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coredopiaui.gov.br', 'NEDIG3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coredopiaui.gov.br', 'NEDIG3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coredopiaui.gov.br', 'NEDIG3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coredopiaui.gov.br', 'NEDIG3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('premio-e.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('premio-e.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('premio-e.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('premio-e.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('braziltradenet.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('braziltradenet.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('braziltradenet.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('braziltradenet.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dou.gov.br', 'IMNAC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dou.gov.br', 'IMNAC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dou.gov.br', 'IMNAC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dou.gov.br', 'IMNAC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loto-tauloteriadacopa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loto-tauloteriadacopa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loto-tauloteriadacopa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loto-tauloteriadacopa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldaigualdade.gov.br', 'SASAL43', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldaigualdade.gov.br', 'SASAL43', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldaigualdade.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldaigualdade.gov.br', 'SASAL43', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplacpa.gov.br', 'MDG28', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplacpa.gov.br', 'MDG28', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplacpa.gov.br', 'MDG28', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplacpa.gov.br', 'MDG28', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pimentalonga.gov.br', 'REVTE3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pimentalonga.gov.br', 'LCS36', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pimentalonga.gov.br', 'LCS36', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pimentalonga.gov.br', 'LCS36', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesa.gov.br', 'EDA12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesa.gov.br', 'EDA12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesa.gov.br', 'EDA12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesa.gov.br', 'EDA12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rapidinha.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rapidinha.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rapidinha.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rapidinha.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner.gov.br', 'AFC320', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner.gov.br', 'MHA22', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner.gov.br', 'ZAL8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner.gov.br', 'VSJ47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rs.gov.br', 'JZFNE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rs.gov.br', 'JZFNE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rs.gov.br', 'JZFNE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rs.gov.br', 'JZFNE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cmrj.gov.br', 'ECS26', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cmrj.gov.br', 'ECS26', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cmrj.gov.br', 'RAC30', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cmrj.gov.br', 'CAP46', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahsul.gov.br', 'AFN64', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahsul.gov.br', 'AFN64', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahsul.gov.br', 'AFN64', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahsul.gov.br', 'AFN64', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfms.gov.br', 'ERC121', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfms.gov.br', 'ERC121', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfms.gov.br', 'EDL196', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfms.gov.br', 'ERC121', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orcamentofederal.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orcamentofederal.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orcamentofederal.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orcamentofederal.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaeconomica.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaeconomica.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaeconomica.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaeconomica.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antaq.gov.br', 'IRP', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antaq.gov.br', 'IRP', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antaq.gov.br', 'IRP', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antaq.gov.br', 'IRP', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gespublica.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gespublica.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gespublica.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gespublica.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner-ce.gov.br', 'TAR2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner-ce.gov.br', 'TAR2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner-ce.gov.br', 'ERC2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner-ce.gov.br', 'ERC2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiobras.gov.br', 'RSM9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiobras.gov.br', 'RSM9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiobras.gov.br', 'RSM9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiobras.gov.br', 'RSM9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalconsular.gov.br', 'SAT7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalconsular.gov.br', 'SAT7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalconsular.gov.br', 'SAT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalconsular.gov.br', 'SAT7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cepec.gov.br', 'RMS497', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cepec.gov.br', 'RMS497', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cepec.gov.br', 'RMS497', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cepec.gov.br', 'RMS497', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbqp-h.gov.br', 'IJFFI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbqp-h.gov.br', 'CFMSI14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbqp-h.gov.br', 'IJFFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbqp-h.gov.br', 'YUONI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidorias.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidorias.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidorias.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidorias.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('observatoriodegenero.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('observatoriodegenero.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('observatoriodegenero.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('observatoriodegenero.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdes.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdes.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdes.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdes.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahitar.gov.br', 'JCP325', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahitar.gov.br', 'JCP325', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahitar.gov.br', 'MIL275', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahitar.gov.br', 'MIL275', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esmpu.gov.br', 'ESATE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esmpu.gov.br', 'ESATE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esmpu.gov.br', 'ESATE4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esmpu.gov.br', 'ESATE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esamur.gov.br', 'REAGU', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esamur.gov.br', 'REAGU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esamur.gov.br', 'REAGU', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esamur.gov.br', 'REAGU', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('olaturista.gov.br', 'SUAAL3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('olaturista.gov.br', 'SUAAL3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('olaturista.gov.br', 'SUAAL3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('olaturista.gov.br', 'SUAAL3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eufiscalizo.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eufiscalizo.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eufiscalizo.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eufiscalizo.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eaf-sbf.gov.br', 'KLR27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eaf-sbf.gov.br', 'ACC37', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eaf-sbf.gov.br', 'KLR27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eaf-sbf.gov.br', 'KLR27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauto.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauto.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauto.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauto.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casaruibarbosa.gov.br', 'FCRBA5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casaruibarbosa.gov.br', 'FCRBA5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casaruibarbosa.gov.br', 'FCRBA5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casaruibarbosa.gov.br', 'FCRBA5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investexportbrazil.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investexportbrazil.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investexportbrazil.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investexportbrazil.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bid2002brasil.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bid2002brasil.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bid2002brasil.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bid2002brasil.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cd.gov.br', 'SSG50', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cd.gov.br', 'SSG50', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cd.gov.br', 'SSG50', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cd.gov.br', 'SSG50', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cepesc.gov.br', 'GDS174', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cepesc.gov.br', 'GDS174', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cepesc.gov.br', 'DSARA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cepesc.gov.br', 'GDS174', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pa.gov.br', 'CRCIP', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pa.gov.br', 'CRCIP', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pa.gov.br', 'IBTLT3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pa.gov.br', 'IBTLT3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceagesp.gov.br', 'CEP457', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceagesp.gov.br', 'CEP457', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceagesp.gov.br', 'CEP457', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceagesp.gov.br', 'CEP457', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecipr.gov.br', 'GPD21', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecipr.gov.br', 'GPD21', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecipr.gov.br', 'GPD21', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecipr.gov.br', 'GPD21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ciasc.gov.br', 'FLR3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ciasc.gov.br', 'FLR3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ciasc.gov.br', 'LAB548', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ciasc.gov.br', 'FLR3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('br.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('br.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('br.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('br.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('faroldodesenvolvimento.gov.br', 'CMRSO14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('faroldodesenvolvimento.gov.br', 'CMRSO14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('faroldodesenvolvimento.gov.br', 'FFN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('faroldodesenvolvimento.gov.br', 'CMRSO14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-al.gov.br', 'DCC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-al.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-al.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-al.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahinor.gov.br', 'HRC25', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahinor.gov.br', 'HRC25', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahinor.gov.br', 'HRC25', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ahinor.gov.br', 'HRC25', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fnde.gov.br', 'FNDED3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fnde.gov.br', 'FNDED3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fnde.gov.br', 'FNDED4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fnde.gov.br', 'FNDED3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investinbrazil.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investinbrazil.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investinbrazil.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investinbrazil.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seap.gov.br', 'RESCA114', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seap.gov.br', 'RESCA114', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seap.gov.br', 'RESCA114', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seap.gov.br', 'RESCA114', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('todoscontracorrupcao.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('todoscontracorrupcao.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('todoscontracorrupcao.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('todoscontracorrupcao.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmba.gov.br', 'JSS69', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmba.gov.br', 'JSS69', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmba.gov.br', 'JSS69', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmba.gov.br', 'JSS69', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casamilitar.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casamilitar.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casamilitar.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casamilitar.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-ba.gov.br', 'CRB188', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-ba.gov.br', 'CRB188', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-ba.gov.br', 'EDSBE42', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-ba.gov.br', 'CRB188', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('meioambiente.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('meioambiente.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('meioambiente.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('meioambiente.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orint.gov.br', 'GDS174', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orint.gov.br', 'GDS174', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orint.gov.br', 'DSARA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orint.gov.br', 'GDS174', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('socinfo.gov.br', 'LEL7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('socinfo.gov.br', 'LEL7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('socinfo.gov.br', 'LEL7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('socinfo.gov.br', 'LEL7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('baciadoprata.gov.br', 'COSIN16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('baciadoprata.gov.br', 'COSIN16', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('baciadoprata.gov.br', 'COSIN16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('baciadoprata.gov.br', 'COSIN16', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-sp.gov.br', 'COARE11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-sp.gov.br', 'RECCO133', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-sp.gov.br', 'SERTE12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-sp.gov.br', 'RECCO133', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codesa.gov.br', 'CFB68', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codesa.gov.br', 'CFB68', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codesa.gov.br', 'VOSIL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codesa.gov.br', 'CFB68', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesourotransparente.gov.br', 'MNR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesourotransparente.gov.br', 'MNR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesourotransparente.gov.br', 'ROFFR86', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesourotransparente.gov.br', 'MNR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjpe.gov.br', 'TJP', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjpe.gov.br', 'TJP', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjpe.gov.br', 'TJP', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjpe.gov.br', 'TJP', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtms.gov.br', 'GAS5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtms.gov.br', 'GAS5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtms.gov.br', 'AMS339', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtms.gov.br', 'MAMSA38', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-rs.gov.br', 'ALSIL482', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-rs.gov.br', 'ALSIL482', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-rs.gov.br', 'ALSIL482', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-rs.gov.br', 'ANZMA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pame.gov.br', 'AOP26', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pame.gov.br', 'AOP26', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pame.gov.br', 'AOP26', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pame.gov.br', 'AOP26', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('receita.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('receita.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('receita.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('receita.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rio.gov.br', 'JFASI6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rio.gov.br', 'JFASI6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rio.gov.br', 'JFASI6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rio.gov.br', 'JFASI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infraestruturabrasil.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infraestruturabrasil.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infraestruturabrasil.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infraestruturabrasil.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jbrj.gov.br', 'MGP95', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jbrj.gov.br', 'RMP6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jbrj.gov.br', 'MGP95', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jbrj.gov.br', 'RMP6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('registrocivil.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('registrocivil.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('registrocivil.gov.br', 'FRASO52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('registrocivil.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saude.gov.br', 'ARC452', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saude.gov.br', 'ARC452', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saude.gov.br', 'MAVTO30', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saude.gov.br', 'ARC452', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--oramentofederal-fmb.gov.br', '', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--oramentofederal-fmb.gov.br', '', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--oramentofederal-fmb.gov.br', '', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--oramentofederal-fmb.gov.br', '', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('etfc.gov.br', 'ADRIF4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('etfc.gov.br', 'ADRIF4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('etfc.gov.br', 'ADRIF4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('etfc.gov.br', 'ADRIF4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-df.gov.br', 'DCC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-df.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-df.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-df.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tribunaisdotrabalho.gov.br', 'SCD13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tribunaisdotrabalho.gov.br', 'SCD13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tribunaisdotrabalho.gov.br', 'SCD13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tribunaisdotrabalho.gov.br', 'SCD13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonfund-bndes.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonfund-bndes.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonfund-bndes.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonfund-bndes.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('raspadinhafederal.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('raspadinhafederal.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('raspadinhafederal.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('raspadinhafederal.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sintegra.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sintegra.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sintegra.gov.br', 'RDV', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sintegra.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servidor.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servidor.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servidor.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servidor.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tvjustica.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tvjustica.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tvjustica.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tvjustica.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fgts.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fgts.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fgts.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fgts.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convenios.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convenios.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convenios.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convenios.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixainvest.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixainvest.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixainvest.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixainvest.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-ap.gov.br', 'CREAM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-ap.gov.br', 'CREAM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-ap.gov.br', 'CREAM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-ap.gov.br', 'CREAM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supersenaduplachance.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supersenaduplachance.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supersenaduplachance.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supersenaduplachance.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ec.gov.br', 'ARC452', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ec.gov.br', 'ARC452', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ec.gov.br', 'MAVTO30', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ec.gov.br', 'ARC452', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crcn.gov.br', 'MDGSO2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crcn.gov.br', 'MDGSO2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crcn.gov.br', 'MDGSO2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crcn.gov.br', 'MDGSO2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfbio.gov.br', 'CFBCF', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfbio.gov.br', 'CFBCF', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfbio.gov.br', 'EAA236', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfbio.gov.br', 'CFBCF', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalplanalto.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalplanalto.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalplanalto.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalplanalto.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('minc.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('minc.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('minc.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('minc.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafars.gov.br', 'HCC55', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafars.gov.br', 'HCC55', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafars.gov.br', 'HCC55', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafars.gov.br', 'HCC55', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pensesimples.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pensesimples.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pensesimples.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pensesimples.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('matopiba.gov.br', 'MAS3725', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('matopiba.gov.br', 'MAS3725', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('matopiba.gov.br', 'MAS3725', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('matopiba.gov.br', 'MAS3725', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('memoriasreveladas.gov.br', 'KERPO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('memoriasreveladas.gov.br', 'KERPO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('memoriasreveladas.gov.br', 'KERPO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('memoriasreveladas.gov.br', 'KERPO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telesc.gov.br', 'COAOI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telesc.gov.br', 'COAOI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telesc.gov.br', 'COAOI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telesc.gov.br', 'COAOI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsaudavelesustentavel.gov.br', 'MACSO438', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsaudavelesustentavel.gov.br', 'MACSO438', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsaudavelesustentavel.gov.br', 'MACSO438', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsaudavelesustentavel.gov.br', 'MACSO438', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('assistênciasocial.gov.brxn--assistnciasocial-xqb.gov.br', 'LRS181', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('assistênciasocial.gov.brxn--assistnciasocial-xqb.gov.br', 'LRS181', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('assistênciasocial.gov.brxn--assistnciasocial-xqb.gov.br', 'LRS181', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('assistênciasocial.gov.brxn--assistnciasocial-xqb.gov.br', 'LRS181', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nossoambiente.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nossoambiente.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nossoambiente.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nossoambiente.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt19.gov.br', 'JLL22', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt19.gov.br', 'JLL22', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt19.gov.br', 'JLL22', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt19.gov.br', 'JLL22', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('environment.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('environment.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('environment.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('environment.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conter.gov.br', 'HFF25', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conter.gov.br', 'HFF25', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conter.gov.br', 'HFF25', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conter.gov.br', 'HFF25', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apo.gov.br', 'ENJRO2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apo.gov.br', 'ENJRO2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apo.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apo.gov.br', 'ENJRO2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('in.gov.br', 'IMNAC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('in.gov.br', 'IMNAC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('in.gov.br', 'IMNAC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('in.gov.br', 'IMNAC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caminhaofederal.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caminhaofederal.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caminhaofederal.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caminhaofederal.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio04.gov.br', 'GLCAR63', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio04.gov.br', 'GLCAR63', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio04.gov.br', 'GLCAR63', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio04.gov.br', 'GLCAR63', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu.gov.br', 'EDS314', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu.gov.br', 'EDS314', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu.gov.br', 'EDS314', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu.gov.br', 'EDS314', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anssaude.gov.br', 'JWD3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anssaude.gov.br', 'JWD3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anssaude.gov.br', 'JWD3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anssaude.gov.br', 'JWD3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confiancabrasil.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confiancabrasil.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confiancabrasil.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confiancabrasil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('altatv.gov.br', 'ANM153', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('altatv.gov.br', 'PACBE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('altatv.gov.br', 'PACBE47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('altatv.gov.br', 'PACBE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exercito.gov.br', 'CITEB', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exercito.gov.br', 'LCR116', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exercito.gov.br', 'LCR116', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exercito.gov.br', 'LCR116', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudeco.gov.br', 'LRSAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudeco.gov.br', 'LRSAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudeco.gov.br', 'LRSAL9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudeco.gov.br', 'LRSAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anp.gov.br', 'RALFA27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anp.gov.br', 'RALFA27', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anp.gov.br', 'RALFA27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anp.gov.br', 'RALFA27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siop.gov.br', 'GEBPE18', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siop.gov.br', 'GEBPE18', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siop.gov.br', 'AUCCA15', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siop.gov.br', 'ACCFO13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('unasus.gov.br', 'RAMMO42', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('unasus.gov.br', 'RAMMO42', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('unasus.gov.br', 'RAMMO42', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('unasus.gov.br', 'RAMMO42', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt23.gov.br', 'RMP321', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt23.gov.br', 'FRTNE13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt23.gov.br', 'FRTNE13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt23.gov.br', 'FRTNE13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('notícias.gov.brxn--notcias-9ya.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('notícias.gov.brxn--notcias-9ya.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('notícias.gov.brxn--notcias-9ya.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('notícias.gov.brxn--notcias-9ya.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aids.gov.br', 'RGC5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aids.gov.br', 'RGC5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aids.gov.br', 'RGC5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aids.gov.br', 'RGC5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anac.gov.br', 'GESAN124', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anac.gov.br', 'GESAN124', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anac.gov.br', 'GTSIN3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anac.gov.br', 'GESAN124', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redemulheres.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redemulheres.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redemulheres.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redemulheres.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-02.gov.br', 'COARE11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-02.gov.br', 'RECCO133', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-02.gov.br', 'SERTE12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-02.gov.br', 'RECCO133', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt4.gov.br', 'TRP3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt4.gov.br', 'TRP3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt4.gov.br', 'TRP3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt4.gov.br', 'TRP3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdência.gov.brxn--previdncia-r7a.gov.br', 'DDA66', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdência.gov.brxn--previdncia-r7a.gov.br', 'DDA66', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdência.gov.brxn--previdncia-r7a.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdência.gov.brxn--previdncia-r7a.gov.br', 'DDC98', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sinir.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sinir.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sinir.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sinir.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presidenciadarepublica.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presidenciadarepublica.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presidenciadarepublica.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presidenciadarepublica.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf4.gov.br', 'CRP165', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf4.gov.br', 'CRP165', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf4.gov.br', 'ALKAN5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf4.gov.br', 'CRP165', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletronorte.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletronorte.gov.br', 'GSC187', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletronorte.gov.br', 'GSC187', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletronorte.gov.br', 'GSC187', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('entespublicos.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('entespublicos.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('entespublicos.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('entespublicos.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt9.gov.br', 'JABRI4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt9.gov.br', 'JABRI4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt9.gov.br', 'RAITR3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt9.gov.br', 'ALYAM', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ms.gov.br', 'TRM7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ms.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ms.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ms.gov.br', 'SAS125', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caged.gov.br', 'COINF90', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caged.gov.br', 'CLMEN28', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caged.gov.br', 'MALHE11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caged.gov.br', 'MALHE11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicadotrabalho.gov.br', 'SCD13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicadotrabalho.gov.br', 'SCD13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicadotrabalho.gov.br', 'SCD13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicadotrabalho.gov.br', 'SCD13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pracas.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pracas.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pracas.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pracas.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('itamaraty.gov.br', 'SAT7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('itamaraty.gov.br', 'SAT7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('itamaraty.gov.br', 'SAT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('itamaraty.gov.br', 'SAT7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serviços.gov.brxn--servios-yxa.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serviços.gov.brxn--servios-yxa.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serviços.gov.brxn--servios-yxa.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serviços.gov.brxn--servios-yxa.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt15.gov.br', 'COITI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt15.gov.br', 'COITI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt15.gov.br', 'COITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt15.gov.br', 'COITI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtes.gov.br', 'CATGO3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtes.gov.br', 'CATGO3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtes.gov.br', 'JMSCA2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtes.gov.br', 'DRZ', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtsp.gov.br', 'COARE11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtsp.gov.br', 'RECCO133', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtsp.gov.br', 'SERTE12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtsp.gov.br', 'RECCO133', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capes.gov.br', 'FUCAP4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capes.gov.br', 'FUCAP4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capes.gov.br', 'FUCAP4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capes.gov.br', 'FUCAP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('passaporteverde.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('passaporteverde.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('passaporteverde.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('passaporteverde.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abrasil.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abrasil.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abrasil.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abrasil.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funasa.gov.br', 'MVO3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funasa.gov.br', 'MVO3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funasa.gov.br', 'MVO3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funasa.gov.br', 'MVO3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fonoaudiologia-1.gov.br', 'IAJ2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fonoaudiologia-1.gov.br', 'IAJ2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fonoaudiologia-1.gov.br', 'IAJ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fonoaudiologia-1.gov.br', 'IAJ2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hpiedade.gov.br', 'PSB51', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hpiedade.gov.br', 'PSB51', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hpiedade.gov.br', 'PSB51', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hpiedade.gov.br', 'PSB51', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('recadastramento.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('recadastramento.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('recadastramento.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('recadastramento.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planejamento.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planejamento.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planejamento.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planejamento.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnv.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnv.gov.br', 'KERPO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnv.gov.br', 'KERPO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnv.gov.br', 'KERPO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('faesa-oscip.gov.br', 'LCM516', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('faesa-oscip.gov.br', 'LCM516', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('faesa-oscip.gov.br', 'LCM516', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('faesa-oscip.gov.br', 'LCM516', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpe.gov.br', 'BPF7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpe.gov.br', 'BPF7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpe.gov.br', 'BPF7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inpe.gov.br', 'BPF7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidades.gov.br', 'IJFFI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidades.gov.br', 'YUONI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidades.gov.br', 'IJFFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidades.gov.br', 'CFMSI14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aprendendoaexportar.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aprendendoaexportar.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aprendendoaexportar.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aprendendoaexportar.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rb.gov.br', 'FCRBA5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rb.gov.br', 'FCRBA5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rb.gov.br', 'FCRBA5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rb.gov.br', 'FCRBA5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sitedoconsumidor.gov.br', 'SAADI5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sitedoconsumidor.gov.br', 'SAADI5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sitedoconsumidor.gov.br', 'LFL', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sitedoconsumidor.gov.br', 'SAADI5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecito.gov.br', 'MRNSA6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecito.gov.br', 'MRNSA6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecito.gov.br', 'VLROS3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecito.gov.br', 'PSASO8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazil.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazil.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazil.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('monumenta.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('monumenta.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('monumenta.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('monumenta.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('idbrasil.gov.br', 'VPF2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('idbrasil.gov.br', 'VPF2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('idbrasil.gov.br', 'VPF2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('idbrasil.gov.br', 'VPF2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdencia.gov.br', 'DDA66', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdencia.gov.br', 'DDA66', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdencia.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdencia.gov.br', 'DDC98', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orcamento.gov.br', 'GEBPE18', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orcamento.gov.br', 'GEBPE18', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orcamento.gov.br', 'AUCCA15', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orcamento.gov.br', 'ACCFO13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esic.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esic.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esic.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esic.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf3.gov.br', 'DIARE17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf3.gov.br', 'DIARE17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf3.gov.br', 'EDL196', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf3.gov.br', 'MAB119', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadania.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadania.gov.br', 'SEIRE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadania.gov.br', 'SEIRE4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadania.gov.br', 'SEIRE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cadastrorural.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cadastrorural.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cadastrorural.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cadastrorural.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mi.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mi.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mi.gov.br', 'HEMGO28', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mi.gov.br', 'FFDSA72', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('linuxseguro.gov.br', 'GDS174', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('linuxseguro.gov.br', 'GDS174', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('linuxseguro.gov.br', 'DSARA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('linuxseguro.gov.br', 'DSARA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cndrs.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cndrs.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cndrs.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cndrs.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('decea.gov.br', 'ADRED14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('decea.gov.br', 'ADRED14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('decea.gov.br', 'ADRED14', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('decea.gov.br', 'ADRED14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enamat.gov.br', 'SCD13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enamat.gov.br', 'SCD13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enamat.gov.br', 'SCD13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enamat.gov.br', 'SCD13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixacultural.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixacultural.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixacultural.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixacultural.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agespacial.gov.br', 'VIL10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agespacial.gov.br', 'VIL10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agespacial.gov.br', 'VIL10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agespacial.gov.br', 'GMB5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('manausenergia.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('manausenergia.gov.br', 'GSC187', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('manausenergia.gov.br', 'GSC187', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('manausenergia.gov.br', 'GSC187', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ppcaam.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ppcaam.gov.br', 'CMP69', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ppcaam.gov.br', 'CMP69', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ppcaam.gov.br', 'CMP69', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aviacao.gov.br', 'ELLPA12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aviacao.gov.br', 'ELLPA12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aviacao.gov.br', 'ELLPA12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aviacao.gov.br', 'ELLPA12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ines.gov.br', 'MFVCA8', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ines.gov.br', 'MFVCA8', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ines.gov.br', 'LCCRI6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ines.gov.br', 'MFVCA8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafc-pa.gov.br', 'GNL49', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafc-pa.gov.br', 'LAP5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafc-pa.gov.br', 'GNL49', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafc-pa.gov.br', 'GNL49', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('edufinanceiranaescola.gov.br', 'CVGTE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('edufinanceiranaescola.gov.br', 'CVGTE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('edufinanceiranaescola.gov.br', 'CVGTE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('edufinanceiranaescola.gov.br', 'CVGTE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transportes.gov.br', 'SECDA3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transportes.gov.br', 'SECDA3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transportes.gov.br', 'SECDA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transportes.gov.br', 'SECDA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sedh.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sedh.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sedh.gov.br', 'FLMSA16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sedh.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfmv.gov.br', 'CFV', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfmv.gov.br', 'CFV', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfmv.gov.br', 'CFV', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfmv.gov.br', 'CFV', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sp-trt.gov.br', 'COARE11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sp-trt.gov.br', 'RECCO133', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sp-trt.gov.br', 'SERTE12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sp-trt.gov.br', 'RECCO133', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ac-jus.gov.br', 'PMI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ac-jus.gov.br', 'WNAJU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ac-jus.gov.br', 'AJM126', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ac-jus.gov.br', 'PMI2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgi.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgi.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgi.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgi.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dcea.gov.br', 'ADRED14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dcea.gov.br', 'ADRED14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dcea.gov.br', 'MVF212', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dcea.gov.br', 'MVF212', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauap.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauap.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauap.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauap.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretariadegoverno.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretariadegoverno.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretariadegoverno.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretariadegoverno.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfce.gov.br', 'GOTLA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfce.gov.br', 'GOTLA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfce.gov.br', 'HCS36', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfce.gov.br', 'GOTLA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctlivre.gov.br', 'ADNMC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctlivre.gov.br', 'ADNMC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctlivre.gov.br', 'ADNMC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctlivre.gov.br', 'ADNMC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiadeserviços.gov.brxn--guiadeservios-sgb.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiadeserviços.gov.brxn--guiadeservios-sgb.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiadeserviços.gov.brxn--guiadeservios-sgb.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiadeserviços.gov.brxn--guiadeservios-sgb.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupr.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupr.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupr.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupr.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('petrobras.gov.br', 'EDFEL11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('petrobras.gov.br', 'EDFEL11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('petrobras.gov.br', 'EDFEL11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('petrobras.gov.br', 'EDFEL11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpe.gov.br', 'MAF1760', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpe.gov.br', 'MAF1760', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpe.gov.br', 'MAF1760', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpe.gov.br', 'MAF1760', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ma.gov.br', 'GEISE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ma.gov.br', 'GEISE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ma.gov.br', 'GEISE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ma.gov.br', 'GEISE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('frameworkdemoiselle.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('frameworkdemoiselle.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('frameworkdemoiselle.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('frameworkdemoiselle.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf2.gov.br', 'CEM39', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf2.gov.br', 'CEM39', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf2.gov.br', 'MAVIN3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trf2.gov.br', 'CEM39', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comercioeinvestimento.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comercioeinvestimento.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comercioeinvestimento.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comercioeinvestimento.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('integracao.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('integracao.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('integracao.gov.br', 'HEMGO28', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('integracao.gov.br', 'FFDSA72', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnen.gov.br', 'JCR12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnen.gov.br', 'JCR12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnen.gov.br', 'EMACO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnen.gov.br', 'JCR12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caumg.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caumg.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caumg.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caumg.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cause.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cause.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cause.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cause.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqpr.gov.br', 'DIBFI7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqpr.gov.br', 'DIBFI7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqpr.gov.br', 'JJJ70', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqpr.gov.br', 'DIBFI7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsemiseria.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsemiseria.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsemiseria.gov.br', 'EDMED27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsemiseria.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('topawa-kaa.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('topawa-kaa.gov.br', 'CEB23', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('topawa-kaa.gov.br', 'GSC187', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('topawa-kaa.gov.br', 'CEB23', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mec.gov.br', 'MIEDU6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mec.gov.br', 'MIEDU6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mec.gov.br', 'MIEDU6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mec.gov.br', 'MIEDU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('institutodamataatlantica.gov.br', 'HQBFE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('institutodamataatlantica.gov.br', 'HQBFE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('institutodamataatlantica.gov.br', 'HDSUP', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('institutodamataatlantica.gov.br', 'HQBFE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tecnojusc.gov.br', 'TRR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tecnojusc.gov.br', 'TRR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tecnojusc.gov.br', 'TRR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tecnojusc.gov.br', 'TRR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcol.gov.br', 'JORFE42', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcol.gov.br', 'JORFE42', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcol.gov.br', 'JORFE42', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcol.gov.br', 'JORFE42', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codern.gov.br', 'REBNU2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codern.gov.br', 'REBNU2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codern.gov.br', 'REBNU2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codern.gov.br', 'REBNU2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bemrecebercopa.gov.br', 'SUAAL3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bemrecebercopa.gov.br', 'SUAAL3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bemrecebercopa.gov.br', 'SUAAL3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bemrecebercopa.gov.br', 'SUAAL3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnir.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnir.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnir.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnir.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caues.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caues.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caues.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caues.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correios-ce.gov.br', 'PPRNC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correios-ce.gov.br', 'PPRNC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correios-ce.gov.br', 'PPRNC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correios-ce.gov.br', 'PPRNC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportadoresbrasileiros.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportadoresbrasileiros.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportadoresbrasileiros.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportadoresbrasileiros.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr14.gov.br', 'VAM424', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr14.gov.br', 'VAM424', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr14.gov.br', 'VAM424', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr14.gov.br', 'VAM424', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anatel.gov.br', 'MATMA25', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anatel.gov.br', 'PRM131', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anatel.gov.br', 'LUDRO13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anatel.gov.br', 'MATMA25', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gdfaz.gov.br', 'JRS323', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gdfaz.gov.br', 'JRS323', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gdfaz.gov.br', 'YRD7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gdfaz.gov.br', 'JRS323', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidoriadoservidor.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidoriadoservidor.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidoriadoservidor.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidoriadoservidor.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancocentral.gov.br', 'SETIN16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancocentral.gov.br', 'DIBCB', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancocentral.gov.br', 'SETIN16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancocentral.gov.br', 'DIBCB', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilsenvironment.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilsenvironment.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilsenvironment.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilsenvironment.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governancadosolo.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governancadosolo.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governancadosolo.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governancadosolo.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pe.gov.br', 'CRI31', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pe.gov.br', 'CRI31', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pe.gov.br', 'LIBUA2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pe.gov.br', 'CRI31', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodepa.gov.br', 'DIT76', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodepa.gov.br', 'DIT76', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodepa.gov.br', 'DIT76', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodepa.gov.br', 'DIT76', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodeconteudos.gov.br', 'CIBRA24', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodeconteudos.gov.br', 'CIBRA24', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodeconteudos.gov.br', 'CIBRA24', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodeconteudos.gov.br', 'CIBRA24', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio07.gov.br', 'RODGE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio07.gov.br', 'RODGE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio07.gov.br', 'DAA277', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio07.gov.br', 'RODGE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ada.gov.br', 'GGS4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ada.gov.br', 'GGS4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ada.gov.br', 'GGS4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ada.gov.br', 'GGS4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caudf.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caudf.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caudf.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caudf.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('minhacasaminhavida.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('minhacasaminhavida.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('minhacasaminhavida.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('minhacasaminhavida.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redejudiciario.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redejudiciario.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redejudiciario.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redejudiciario.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irbbrasilre.gov.br', 'GURJR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irbbrasilre.gov.br', 'AKG6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irbbrasilre.gov.br', 'AKG6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irbbrasilre.gov.br', 'AKG6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheirovivo.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheirovivo.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheirovivo.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheirovivo.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronera.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronera.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronera.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronera.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('disque100.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('disque100.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('disque100.gov.br', 'FLMSA16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('disque100.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senado.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senado.gov.br', 'SEIRE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senado.gov.br', 'SEIRE4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senado.gov.br', 'SEIRE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rio20.gov.br', 'SAT7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rio20.gov.br', 'SAT7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rio20.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rio20.gov.br', 'SAT7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pe.gov.br', 'TRP13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pe.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pe.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pe.gov.br', 'WFS21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creciro.gov.br', 'HEMAR208', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creciro.gov.br', 'HEMAR208', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creciro.gov.br', 'ANSOA74', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creciro.gov.br', 'HEMAR208', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camex.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camex.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camex.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('camex.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio3.gov.br', 'CLLUZ2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio3.gov.br', 'CLLUZ2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio3.gov.br', 'CLLUZ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio3.gov.br', 'CLLUZ2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqsc.gov.br', 'CRR2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqsc.gov.br', 'CRR2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqsc.gov.br', 'WAL149', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqsc.gov.br', 'CRR2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ce.gov.br', 'RAOLI10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ce.gov.br', 'RAOLI10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ce.gov.br', 'VLS171', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ce.gov.br', 'RAOLI10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasgovernamentais.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasgovernamentais.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasgovernamentais.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasgovernamentais.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctir.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctir.gov.br', 'GCTGS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctir.gov.br', 'GCTGS', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctir.gov.br', 'GCTGS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loterias.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loterias.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loterias.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loterias.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('clique100.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('clique100.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('clique100.gov.br', 'FRASO52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('clique100.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antt.gov.br', 'MAFSO91', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antt.gov.br', 'MAFSO91', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antt.gov.br', 'FAMAR21', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antt.gov.br', 'MAFSO91', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumpermanente.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumpermanente.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumpermanente.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumpermanente.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governoeletronico.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governoeletronico.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governoeletronico.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governoeletronico.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ccom.gov.br', 'GDS174', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ccom.gov.br', 'GDS174', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ccom.gov.br', 'DSARA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ccom.gov.br', 'GDS174', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('biodiesel.gov.br', 'LEL7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('biodiesel.gov.br', 'MAPNO38', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('biodiesel.gov.br', 'MAPNO38', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('biodiesel.gov.br', 'MAPNO38', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coletapilotocnae.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coletapilotocnae.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coletapilotocnae.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coletapilotocnae.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio7.gov.br', 'RODGE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio7.gov.br', 'RODGE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio7.gov.br', 'RODGE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio7.gov.br', 'RODGE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoconsumidor.gov.br', 'SAADI5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoconsumidor.gov.br', 'SAADI5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoconsumidor.gov.br', 'LFL', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoconsumidor.gov.br', 'SAADI5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museus.gov.br', 'INBMU', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museus.gov.br', 'INBMU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museus.gov.br', 'INBMU', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museus.gov.br', 'INBMU', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurn.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurn.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurn.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurn.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proagua.gov.br', 'BRGDU2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proagua.gov.br', 'AMS65', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proagua.gov.br', 'DVN6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proagua.gov.br', 'DVN6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consumidor.gov.br', 'ALCBA81', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consumidor.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consumidor.gov.br', 'ALCBA81', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consumidor.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('citenel.gov.br', 'COSIN16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('citenel.gov.br', 'COSIN16', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('citenel.gov.br', 'LED34', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('citenel.gov.br', 'COSIN16', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicafederal.gov.br', 'PMI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicafederal.gov.br', 'WNAJU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicafederal.gov.br', 'AJM126', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicafederal.gov.br', 'PMI2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalcofen.gov.br', 'FASCR11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalcofen.gov.br', 'FASCR11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalcofen.gov.br', 'GHV12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalcofen.gov.br', 'LAM653', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('segov.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('segov.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('segov.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('segov.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apostasurpresa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apostasurpresa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apostasurpresa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apostasurpresa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfa.gov.br', 'JCAFE7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfa.gov.br', 'JCAFE7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfa.gov.br', 'JCAFE7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfa.gov.br', 'JCAFE7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('netgoverno.gov.br', 'ADC633', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('netgoverno.gov.br', 'ADC633', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('netgoverno.gov.br', 'ADC633', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('netgoverno.gov.br', 'ADC633', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vls.gov.br', 'VIL10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vls.gov.br', 'VIL10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vls.gov.br', 'VIL10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vls.gov.br', 'GMB5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurr.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurr.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurr.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurr.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pr.gov.br', 'SEDSI27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pr.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pr.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pr.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-rj.gov.br', 'SOASO22', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-rj.gov.br', 'ROB192', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-rj.gov.br', 'SOASO22', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-rj.gov.br', 'SOASO22', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceamt.gov.br', 'SRS330', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceamt.gov.br', 'SRS330', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceamt.gov.br', 'SRS330', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceamt.gov.br', 'SRS330', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundaj.gov.br', 'ADM429', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundaj.gov.br', 'ADM429', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundaj.gov.br', 'JSM16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundaj.gov.br', 'ADM429', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('plenarinho.gov.br', 'SSG50', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('plenarinho.gov.br', 'SSG50', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('plenarinho.gov.br', 'SSG50', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('plenarinho.gov.br', 'SSG50', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vozdobrasil.gov.br', 'RSM9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vozdobrasil.gov.br', 'RSM9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vozdobrasil.gov.br', 'RSM9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vozdobrasil.gov.br', 'RSM9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reformaagraria.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reformaagraria.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reformaagraria.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reformaagraria.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vidaedinheiro.gov.br', 'CVGTE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vidaedinheiro.gov.br', 'CVGTE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vidaedinheiro.gov.br', 'CVGTE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vidaedinheiro.gov.br', 'CVGTE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caugo.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caugo.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caugo.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caugo.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-se.gov.br', 'AAJ66', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-se.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-se.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-se.gov.br', 'WLA14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snis.gov.br', 'IJFFI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snis.gov.br', 'YUONI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snis.gov.br', 'IJFFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snis.gov.br', 'CFMSI14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceara.gov.br', 'RAOLI10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceara.gov.br', 'VLS171', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceara.gov.br', 'RAOLI10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceara.gov.br', 'VLS171', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('biodiversidade.gov.br', 'CRC644', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('biodiversidade.gov.br', 'CRC644', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('biodiversidade.gov.br', 'DALSO56', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('biodiversidade.gov.br', 'CRC644', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bndes.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bndes.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bndes.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bndes.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafs.gov.br', 'EAS46', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafs.gov.br', 'EAS46', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafs.gov.br', 'EAS46', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafs.gov.br', 'EAS46', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bacen.gov.br', 'SETIN16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bacen.gov.br', 'DIBCB', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bacen.gov.br', 'SETIN16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bacen.gov.br', 'DIBCB', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevodasorte.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevodasorte.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevodasorte.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevodasorte.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfsp.gov.br', 'MAA53', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfsp.gov.br', 'MAA53', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfsp.gov.br', 'EDL196', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfsp.gov.br', 'MAA53', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sepm.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sepm.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sepm.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sepm.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsrbonfim.gov.br', 'KLR27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsrbonfim.gov.br', 'ACC37', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsrbonfim.gov.br', 'KLR27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsrbonfim.gov.br', 'KLR27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('excelenciaemturismo.gov.br', 'SUAAL3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('excelenciaemturismo.gov.br', 'LUCBA85', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('excelenciaemturismo.gov.br', 'LUCBA85', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('excelenciaemturismo.gov.br', 'LUCBA85', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpa.gov.br', 'RESCA114', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpa.gov.br', 'MAS3725', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpa.gov.br', 'MAS3725', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpa.gov.br', 'MAS3725', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('finep.gov.br', 'CAZ89', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('finep.gov.br', 'CAZ89', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('finep.gov.br', 'MPP41', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('finep.gov.br', 'CAZ89', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('linea.gov.br', 'WVL', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('linea.gov.br', 'WVL', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('linea.gov.br', 'MMM18', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('linea.gov.br', 'WVL', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('meioambientedobrasil.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('meioambientedobrasil.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('meioambientedobrasil.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('meioambientedobrasil.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpmma.gov.br', 'AJF89', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpmma.gov.br', 'AJF89', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpmma.gov.br', 'AJF89', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpmma.gov.br', 'AJF89', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretariageral.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretariageral.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretariageral.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretariageral.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('info.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('info.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('info.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('info.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibama-pi.gov.br', 'WES7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibama-pi.gov.br', 'WES7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibama-pi.gov.br', 'WES7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibama-pi.gov.br', 'WES7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito-sp.gov.br', 'CRR351', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito-sp.gov.br', 'CRR351', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito-sp.gov.br', 'CRR351', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito-sp.gov.br', 'CRR351', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ecobrancacaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ecobrancacaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ecobrancacaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ecobrancacaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipea.gov.br', 'MHS92', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipea.gov.br', 'MHS92', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipea.gov.br', 'FTAFR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipea.gov.br', 'MHS92', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cin-sci.gov.br', 'GDS174', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cin-sci.gov.br', 'GDS174', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cin-sci.gov.br', 'DSARA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cin-sci.gov.br', 'GDS174', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tecanet.gov.br', 'SUTIN', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tecanet.gov.br', 'SUTIN', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tecanet.gov.br', 'SUTIN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tecanet.gov.br', 'GESUP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rrc.gov.br', 'CTENE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rrc.gov.br', 'CTENE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rrc.gov.br', 'CTENE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rrc.gov.br', 'CTENE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrofurnas.gov.br', 'JCF516', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrofurnas.gov.br', 'RSC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrofurnas.gov.br', 'RSC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrofurnas.gov.br', 'RSC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stf.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stf.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stf.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stf.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mc.gov.br', 'VPF2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mc.gov.br', 'VPF2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mc.gov.br', 'VPF2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mc.gov.br', 'VPF2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mict.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mict.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mict.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mict.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supercaminhaodasorte.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supercaminhaodasorte.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supercaminhaodasorte.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('supercaminhaodasorte.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialoga.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialoga.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialoga.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialoga.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexbrasil.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexbrasil.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexbrasil.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexbrasil.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalgoverno.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalgoverno.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalgoverno.gov.br', 'ADSFE47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalgoverno.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt8.gov.br', 'MAFRE58', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt8.gov.br', 'MAFRE58', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt8.gov.br', 'GISSI85', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt8.gov.br', 'MAFRE58', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('construcard.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('construcard.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('construcard.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('construcard.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coracaoazul.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coracaoazul.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coracaoazul.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coracaoazul.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vigilanciasanitaria.gov.br', 'SCO6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vigilanciasanitaria.gov.br', 'SCO6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vigilanciasanitaria.gov.br', 'SCO6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vigilanciasanitaria.gov.br', 'SCO6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportodebrasilia.gov.br', 'SUTIN', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportodebrasilia.gov.br', 'SUTIN', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportodebrasilia.gov.br', 'SUTIN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportodebrasilia.gov.br', 'GESUP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-sc.gov.br', 'ALSIL482', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-sc.gov.br', 'ALSIL482', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-sc.gov.br', 'ALSIL482', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-sc.gov.br', 'ANZMA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amapa.gov.br', 'GEIPR3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amapa.gov.br', 'GEIPR3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amapa.gov.br', 'GEIPR3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amapa.gov.br', 'GEIPR3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('promocaodaigualdaderacial.gov.br', 'SASAL43', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('promocaodaigualdaderacial.gov.br', 'SASAL43', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('promocaodaigualdaderacial.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('promocaodaigualdaderacial.gov.br', 'SASAL43', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mg.gov.br', 'PGM14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mg.gov.br', 'PGM14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mg.gov.br', 'PGM14', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mg.gov.br', 'PGM14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('querovercultura.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('querovercultura.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('querovercultura.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('querovercultura.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emprel.gov.br', 'JHCWJ', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emprel.gov.br', 'JHCWJ', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emprel.gov.br', 'PCM65', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emprel.gov.br', 'JHCWJ', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crearo.gov.br', 'CRR81', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crearo.gov.br', 'CRR81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crearo.gov.br', 'CRR81', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crearo.gov.br', 'CRR81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('furnas.gov.br', 'JCF516', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('furnas.gov.br', 'RSC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('furnas.gov.br', 'JCF516', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('furnas.gov.br', 'JCF516', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inova.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inova.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inova.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inova.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrobras.gov.br', 'JMMSA2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrobras.gov.br', 'JMMSA2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrobras.gov.br', 'VABSI7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrobras.gov.br', 'JMMSA2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investidoresinstitucionais.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investidoresinstitucionais.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investidoresinstitucionais.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investidoresinstitucionais.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq9.gov.br', 'DIBFI7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq9.gov.br', 'DIBFI7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq9.gov.br', 'JJJ70', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq9.gov.br', 'DIBFI7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenpr.gov.br', 'CCE120', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenpr.gov.br', 'CCE120', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenpr.gov.br', 'MGPSO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenpr.gov.br', 'CCE120', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rsbr.gov.br', 'JCCDA8', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rsbr.gov.br', 'JCCDA8', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rsbr.gov.br', 'BRBAZ4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rsbr.gov.br', 'LCPSI66', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rndh.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rndh.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rndh.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rndh.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projetodomhelder.gov.br', 'IDR7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projetodomhelder.gov.br', 'IDR7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projetodomhelder.gov.br', 'IDR7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projetodomhelder.gov.br', 'IDR7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-pr.gov.br', 'RODGE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-pr.gov.br', 'RODGE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-pr.gov.br', 'RODGE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-pr.gov.br', 'RODGE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibram.gov.br', 'INBMU', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibram.gov.br', 'INBMU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibram.gov.br', 'INBMU', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibram.gov.br', 'INBMU', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenam.gov.br', 'CREAM4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenam.gov.br', 'CREAM4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenam.gov.br', 'GHV12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenam.gov.br', 'CREAM4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('somostodosbrasil.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('somostodosbrasil.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('somostodosbrasil.gov.br', 'MAMPA145', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('somostodosbrasil.gov.br', 'MAMPA145', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bdjur.gov.br', 'DARCO34', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bdjur.gov.br', 'DARCO34', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bdjur.gov.br', 'DARCO34', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bdjur.gov.br', 'DARCO34', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certidaodenascimento.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certidaodenascimento.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certidaodenascimento.gov.br', 'WEL52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certidaodenascimento.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rr.gov.br', 'AES64', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rr.gov.br', 'AES64', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rr.gov.br', 'AES64', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rr.gov.br', 'AES64', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rpp.gov.br', 'ACL11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rpp.gov.br', 'ACL11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rpp.gov.br', 'FSC10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rpp.gov.br', 'FSC10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-post.gov.br', 'MAR1601', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-post.gov.br', 'MAR1601', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-post.gov.br', 'EEA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-post.gov.br', 'MAR1601', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiaheliotermica.gov.br', 'LEL7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiaheliotermica.gov.br', 'LEL7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiaheliotermica.gov.br', 'LEL7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('energiaheliotermica.gov.br', 'LEL7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-ba.gov.br', 'OAJ5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-ba.gov.br', 'OAJ5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-ba.gov.br', 'OAJ5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-ba.gov.br', 'OAJ5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funasa-sc.gov.br', 'RHR2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funasa-sc.gov.br', 'RHR2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funasa-sc.gov.br', 'RHR2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funasa-sc.gov.br', 'RHR2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viajamais.gov.br', 'SUAAL3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viajamais.gov.br', 'SUAAL3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viajamais.gov.br', 'SUAAL3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viajamais.gov.br', 'SUAAL3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aneel.gov.br', 'COSIN16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aneel.gov.br', 'COSIN16', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aneel.gov.br', 'COSIN16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aneel.gov.br', 'COSIN16', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ebserh.gov.br', 'DOEBS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ebserh.gov.br', 'DOEBS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ebserh.gov.br', 'DOEBS', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ebserh.gov.br', 'DOEBS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronaf.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronaf.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronaf.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronaf.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stfnet.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stfnet.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stfnet.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stfnet.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desafios.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desafios.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desafios.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desafios.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpdft.gov.br', 'DTMPD', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpdft.gov.br', 'DTMPD', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpdft.gov.br', 'DTMPD', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpdft.gov.br', 'DTMPD', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefono1.gov.br', 'IAJ2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefono1.gov.br', 'IAJ2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefono1.gov.br', 'IAJ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefono1.gov.br', 'IAJ2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('edemocracia.gov.br', 'SSG50', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('edemocracia.gov.br', 'SSG50', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('edemocracia.gov.br', 'SSG50', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('edemocracia.gov.br', 'SSG50', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redegeochronos.gov.br', 'RFCSI22', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redegeochronos.gov.br', 'CPRMI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redegeochronos.gov.br', 'AGB20', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redegeochronos.gov.br', 'CJA97', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito2.gov.br', 'RPD', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito2.gov.br', 'RPD', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito2.gov.br', 'RPD', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito2.gov.br', 'RPD', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio02.gov.br', 'DRS76', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio02.gov.br', 'DRS76', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio02.gov.br', 'DRS76', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio02.gov.br', 'DRS76', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crescenordeste.gov.br', 'CMRSO14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crescenordeste.gov.br', 'CMRSO14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crescenordeste.gov.br', 'FFN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crescenordeste.gov.br', 'CMRSO14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt02.gov.br', 'COARE11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt02.gov.br', 'RECCO133', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt02.gov.br', 'SERTE12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt02.gov.br', 'RECCO133', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-mt.gov.br', 'FAROL7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-mt.gov.br', 'FAROL7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-mt.gov.br', 'FAROL7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-mt.gov.br', 'FAROL7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stm.gov.br', 'UBM11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stm.gov.br', 'EGO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stm.gov.br', 'UBM11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stm.gov.br', 'DPM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prplanalto.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prplanalto.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prplanalto.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prplanalto.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalbrasil.gov.br', 'RSM9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalbrasil.gov.br', 'RSM9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalbrasil.gov.br', 'APRLI2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalbrasil.gov.br', 'APRLI2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosrio.gov.br', 'LIM21', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosrio.gov.br', 'LIM21', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosrio.gov.br', 'GUT90', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosrio.gov.br', 'GUT90', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('metrobh.gov.br', 'JAAVI19', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('metrobh.gov.br', 'JAAVI19', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('metrobh.gov.br', 'CSILT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('metrobh.gov.br', 'JAAVI19', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsb.gov.br', 'KLR27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsb.gov.br', 'KLR27', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsb.gov.br', 'KLR27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsb.gov.br', 'KLR27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilcultura.gov.br', 'SAT7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilcultura.gov.br', 'SAT7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilcultura.gov.br', 'SAT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilcultura.gov.br', 'SAT7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipp.gov.br', 'JUR8', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipp.gov.br', 'JUR8', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipp.gov.br', 'JUR8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipp.gov.br', 'JUR8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasildigital.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasildigital.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasildigital.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasildigital.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('preps.gov.br', 'RESCA114', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('preps.gov.br', 'RESCA114', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('preps.gov.br', 'RESCA114', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('preps.gov.br', 'RESCA114', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('humanizaredes.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('humanizaredes.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('humanizaredes.gov.br', 'FRASO52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('humanizaredes.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mps.gov.br', 'DDA66', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mps.gov.br', 'DDA66', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mps.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mps.gov.br', 'DDC98', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-al.gov.br', 'CRCIM7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-al.gov.br', 'CRCIM7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-al.gov.br', 'CRCIM7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-al.gov.br', 'CRCIM7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acjus.gov.br', 'PMI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acjus.gov.br', 'WNAJU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acjus.gov.br', 'AJM126', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acjus.gov.br', 'PMI2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('informacaoecidadania.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('informacaoecidadania.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('informacaoecidadania.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('informacaoecidadania.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoainformacao.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoainformacao.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoainformacao.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoainformacao.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafrs.gov.br', 'CCB202', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafrs.gov.br', 'CCB202', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafrs.gov.br', 'RSOLI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafrs.gov.br', 'CCB202', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('raspadinhadacaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('raspadinhadacaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('raspadinhadacaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('raspadinhadacaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('datasus.gov.br', 'DIS5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('datasus.gov.br', 'DIS5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('datasus.gov.br', 'DIS5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('datasus.gov.br', 'DIS5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emgea.gov.br', 'SUT30', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emgea.gov.br', 'SUT30', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emgea.gov.br', 'SUT30', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emgea.gov.br', 'SUT30', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('diesporte.gov.br', 'JDGPI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('diesporte.gov.br', 'JAA364', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('diesporte.gov.br', 'JAA364', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('diesporte.gov.br', 'JAA364', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enap.gov.br', 'ENAPU', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enap.gov.br', 'ENAPU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enap.gov.br', 'ENAPU', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('enap.gov.br', 'ENAPU', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixavirtual.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixavirtual.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixavirtual.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixavirtual.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('laracps.gov.br', 'AKA7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('laracps.gov.br', 'AKA7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('laracps.gov.br', 'AKA7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('laracps.gov.br', 'AKA7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio5.gov.br', 'CRBRE2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio5.gov.br', 'CRBRE2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio5.gov.br', 'HOT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio5.gov.br', 'CRBRE2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inep.gov.br', 'INP', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inep.gov.br', 'INP', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inep.gov.br', 'INP', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inep.gov.br', 'INP', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tcu.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tcu.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tcu.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tcu.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creciba.gov.br', 'AASJU65', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creciba.gov.br', 'AASJU65', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creciba.gov.br', 'IBJ7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creciba.gov.br', 'AASJU65', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investcaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investcaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investcaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investcaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnmp.gov.br', 'DJSAL', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnmp.gov.br', 'GFA2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnmp.gov.br', 'DJSAL', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnmp.gov.br', 'GFA2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('banconordeste.gov.br', 'CMRSO14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('banconordeste.gov.br', 'CMRSO14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('banconordeste.gov.br', 'FFN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('banconordeste.gov.br', 'CMRSO14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eleicoes.gov.br', 'DCC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eleicoes.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eleicoes.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eleicoes.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--certidodenascimento-0vb.gov.br', '', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--certidodenascimento-0vb.gov.br', '', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--certidodenascimento-0vb.gov.br', '', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--certidodenascimento-0vb.gov.br', '', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caual.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caual.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caual.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caual.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('opeixeeaartedepescar.gov.br', 'SSG50', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('opeixeeaartedepescar.gov.br', 'SSG50', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('opeixeeaartedepescar.gov.br', 'SSG50', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('opeixeeaartedepescar.gov.br', 'SSG50', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aerofacil.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aerofacil.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aerofacil.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aerofacil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('profae.gov.br', 'PMS70', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('profae.gov.br', 'PMS70', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('profae.gov.br', 'PMS70', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('profae.gov.br', 'PMS70', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenad.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenad.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenad.gov.br', 'ADSFE47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenad.gov.br', 'FFDSA72', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iti.gov.br', 'JRGJU4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iti.gov.br', 'RLSSI74', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iti.gov.br', 'RLSSI74', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('iti.gov.br', 'RLSSI74', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abc.gov.br', 'ABC106', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abc.gov.br', 'ABC106', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abc.gov.br', 'VAC23', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abc.gov.br', 'ABC106', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justra.gov.br', 'SCD13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justra.gov.br', 'SCD13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justra.gov.br', 'SCD13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justra.gov.br', 'SCD13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbh.gov.br', 'ANS308', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbh.gov.br', 'ROTFI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbh.gov.br', 'ROTFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbh.gov.br', 'ROTFI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadesdigitais.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadesdigitais.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadesdigitais.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadesdigitais.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio08.gov.br', 'CRGCA45', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio08.gov.br', 'CRGCA45', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio08.gov.br', 'MPA195', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio08.gov.br', 'CRGCA45', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt20.gov.br', 'AWF2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt20.gov.br', 'AWF2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt20.gov.br', 'AWF2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt20.gov.br', 'AWF2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigepe.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigepe.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigepe.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sigepe.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdenciasocial.gov.br', 'LRS181', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdenciasocial.gov.br', 'LRS181', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdenciasocial.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdenciasocial.gov.br', 'DDC98', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rr.gov.br', 'TRR11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rr.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rr.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rr.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vispublica.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vispublica.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vispublica.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vispublica.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismoacessivel.gov.br', 'SUAAL3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismoacessivel.gov.br', 'SUAAL3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismoacessivel.gov.br', 'SUAAL3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismoacessivel.gov.br', 'SUAAL3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sp.gov.br', 'GEIPR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sp.gov.br', 'GEIPR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sp.gov.br', 'GEIPR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sp.gov.br', 'GEIPR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tradeandinvestment.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tradeandinvestment.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tradeandinvestment.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tradeandinvestment.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comiteamazonia.gov.br', 'GGS6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comiteamazonia.gov.br', 'GGS6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comiteamazonia.gov.br', 'GGS6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comiteamazonia.gov.br', 'ECS34', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvrn.gov.br', 'FRFLI2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvrn.gov.br', 'FRFLI2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvrn.gov.br', 'FRFLI2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvrn.gov.br', 'FRFLI2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inclusaodigital.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inclusaodigital.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inclusaodigital.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inclusaodigital.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacion.gov.br', 'WASEV', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacion.gov.br', 'MIEDU6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacion.gov.br', 'MIEDU6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacion.gov.br', 'MIEDU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infoconsumo.gov.br', 'SAADI5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infoconsumo.gov.br', 'SAADI5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infoconsumo.gov.br', 'LFL', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infoconsumo.gov.br', 'SAADI5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ppsa.gov.br', 'ANOOL10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ppsa.gov.br', 'ANOOL10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ppsa.gov.br', 'ANOOL10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ppsa.gov.br', 'ANOOL10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnpd.gov.br', 'MHS92', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnpd.gov.br', 'PSP4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnpd.gov.br', 'MHS92', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnpd.gov.br', 'PSP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('logisticabrasil.gov.br', 'EMPLO7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('logisticabrasil.gov.br', 'EMPLO7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('logisticabrasil.gov.br', 'MAFEL176', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('logisticabrasil.gov.br', 'DSC84', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mnba.gov.br', 'CSS68', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mnba.gov.br', 'CSS68', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mnba.gov.br', 'RNM126', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mnba.gov.br', 'CSS68', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mt.gov.br', 'GRC35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mt.gov.br', 'GRC35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mt.gov.br', 'ADM617', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mt.gov.br', 'ADM617', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mre.gov.br', 'SAT7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mre.gov.br', 'SAT7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mre.gov.br', 'SAT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mre.gov.br', 'SAT7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trincadasorte.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trincadasorte.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trincadasorte.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trincadasorte.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('poupeenergia.gov.br', 'HCB42', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('poupeenergia.gov.br', 'HCB42', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('poupeenergia.gov.br', 'HCB42', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('poupeenergia.gov.br', 'HCB42', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('programadorabrasil.gov.br', 'MICBR19', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('programadorabrasil.gov.br', 'MICBR19', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('programadorabrasil.gov.br', 'MICBR19', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('programadorabrasil.gov.br', 'MICBR19', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodemge.gov.br', 'PGM14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodemge.gov.br', 'PGM14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodemge.gov.br', 'PGM14', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodemge.gov.br', 'PGM14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundoamazonia.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundoamazonia.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundoamazonia.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundoamazonia.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--guiadeservios-sgb.gov.br', '', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--guiadeservios-sgb.gov.br', '', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--guiadeservios-sgb.gov.br', '', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--guiadeservios-sgb.gov.br', '', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mj.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mj.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mj.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mj.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq-9.gov.br', 'DIBFI7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq-9.gov.br', 'DIBFI7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq-9.gov.br', 'JJJ70', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq-9.gov.br', 'DIBFI7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copadacultura.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copadacultura.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copadacultura.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copadacultura.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupb.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupb.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupb.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupb.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriascaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriascaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriascaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriascaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infosoc.gov.br', 'LEL7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infosoc.gov.br', 'LEL7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infosoc.gov.br', 'LEL7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infosoc.gov.br', 'LEL7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mdic.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mdic.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mdic.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mdic.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casemg.gov.br', 'GEFAM', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casemg.gov.br', 'GEFAM', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casemg.gov.br', 'DNA4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casemg.gov.br', 'GEFAM', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ana.gov.br', 'ANS308', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ana.gov.br', 'ROTFI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ana.gov.br', 'ROTFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ana.gov.br', 'SAA11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fonoaudiologia-rj.gov.br', 'IAJ2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fonoaudiologia-rj.gov.br', 'IAJ2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fonoaudiologia-rj.gov.br', 'IAJ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fonoaudiologia-rj.gov.br', 'IAJ2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('parana.gov.br', 'ADC633', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('parana.gov.br', 'ADC633', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('parana.gov.br', 'ADC633', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('parana.gov.br', 'ADC633', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-ma.gov.br', 'TRR7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-ma.gov.br', 'TRR7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-ma.gov.br', 'TRR7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-ma.gov.br', 'TRR7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cemave.gov.br', 'CRC644', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cemave.gov.br', 'CRC644', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cemave.gov.br', 'DALSO56', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cemave.gov.br', 'CRC644', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalpadrao.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalpadrao.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalpadrao.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalpadrao.gov.br', 'MAMPA145', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('unijus.gov.br', 'DARCO34', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('unijus.gov.br', 'DARCO34', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('unijus.gov.br', 'DARCO34', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('unijus.gov.br', 'DARCO34', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viibra.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viibra.gov.br', 'SEIRE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viibra.gov.br', 'SEIRE4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viibra.gov.br', 'SEIRE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasj.gov.br', 'SRS330', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasj.gov.br', 'SRS330', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasj.gov.br', 'SRS330', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasj.gov.br', 'SRS330', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consorciobdjur.gov.br', 'DARCO34', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consorciobdjur.gov.br', 'DARCO34', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consorciobdjur.gov.br', 'DARCO34', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consorciobdjur.gov.br', 'DARCO34', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pncda.gov.br', 'IJFFI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pncda.gov.br', 'YUONI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pncda.gov.br', 'IJFFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pncda.gov.br', 'CFMSI14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpf.gov.br', 'GFA2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpf.gov.br', 'GFA2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpf.gov.br', 'MACSO55', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpf.gov.br', 'GFA2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('embrapa.gov.br', 'GEA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('embrapa.gov.br', 'GEA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('embrapa.gov.br', 'GEA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('embrapa.gov.br', 'HES56', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-rs.gov.br', 'ALSIL482', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-rs.gov.br', 'ALSIL482', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-rs.gov.br', 'ALSIL482', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc-rs.gov.br', 'ANZMA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt17.gov.br', 'CATGO3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt17.gov.br', 'CATGO3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt17.gov.br', 'JMSCA2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt17.gov.br', 'DRZ', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capacidades.gov.br', 'IJFFI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capacidades.gov.br', 'YUONI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capacidades.gov.br', 'IJFFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capacidades.gov.br', 'CFMSI14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('versionamento.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('versionamento.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('versionamento.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('versionamento.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('teleceara.gov.br', 'COAOI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('teleceara.gov.br', 'COAOI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('teleceara.gov.br', 'ART3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('teleceara.gov.br', 'COAOI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hrps.gov.br', 'PSB51', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hrps.gov.br', 'PSB51', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hrps.gov.br', 'PSB51', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hrps.gov.br', 'PSB51', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cultura.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cultura.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cultura.gov.br', 'JCC386', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cultura.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cetene.gov.br', 'CTENE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cetene.gov.br', 'CTENE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cetene.gov.br', 'CTENE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cetene.gov.br', 'CTENE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ministeriodomeioambiente.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ministeriodomeioambiente.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ministeriodomeioambiente.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ministeriodomeioambiente.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfsc.gov.br', 'MLC166', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfsc.gov.br', 'MLC166', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfsc.gov.br', 'MLC166', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfsc.gov.br', 'PEACO7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('soumaismedicos.gov.br', 'DOEBS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('soumaismedicos.gov.br', 'DOEBS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('soumaismedicos.gov.br', 'DOEBS', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('soumaismedicos.gov.br', 'DOEBS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefitosp.gov.br', 'CRR351', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefitosp.gov.br', 'CRR351', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefitosp.gov.br', 'CRR351', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefitosp.gov.br', 'CRR351', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenpra.gov.br', 'ANM153', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenpra.gov.br', 'PACBE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenpra.gov.br', 'PACBE47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenpra.gov.br', 'PACBE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('censo.gov.br', 'ECO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('censo.gov.br', 'ECO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('censo.gov.br', 'ECO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('censo.gov.br', 'ECO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('congresso.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('congresso.gov.br', 'SEIRE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('congresso.gov.br', 'SEIRE4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('congresso.gov.br', 'SEIRE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoinformacao.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoinformacao.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoinformacao.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoinformacao.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio03.gov.br', 'CLLUZ2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio03.gov.br', 'CLLUZ2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio03.gov.br', 'CLLUZ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio03.gov.br', 'CLLUZ2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonasenergia.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonasenergia.gov.br', 'GSC187', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonasenergia.gov.br', 'GSC187', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonasenergia.gov.br', 'RYM6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoempreendedor.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoempreendedor.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoempreendedor.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoempreendedor.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sei.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sei.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sei.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sei.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seminariobrasildigital.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seminariobrasildigital.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seminariobrasildigital.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seminariobrasildigital.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sae.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sae.gov.br', 'GDS174', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sae.gov.br', 'DSARA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sae.gov.br', 'GDS174', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reformapostal.gov.br', 'MAR1601', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reformapostal.gov.br', 'MAR1601', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reformapostal.gov.br', 'EEA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reformapostal.gov.br', 'MAR1601', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portodevitoria.gov.br', 'CFB68', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portodevitoria.gov.br', 'CFB68', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portodevitoria.gov.br', 'VOSIL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portodevitoria.gov.br', 'CFB68', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capoeira.gov.br', 'ABCSO3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capoeira.gov.br', 'ABCSO3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capoeira.gov.br', 'ABCSO3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capoeira.gov.br', 'ABCSO3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudene.gov.br', 'EDS21', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudene.gov.br', 'EDS21', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudene.gov.br', 'MRAGA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudene.gov.br', 'EDS21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt13.gov.br', 'TRTAR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt13.gov.br', 'TRTAR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt13.gov.br', 'TRTAR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt13.gov.br', 'TRTAR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafspb.gov.br', 'AMS741', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafspb.gov.br', 'AMS741', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafspb.gov.br', 'AMS741', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafspb.gov.br', 'AMS741', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crm.gov.br', 'FLF58', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crm.gov.br', 'FLF58', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crm.gov.br', 'RDV', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crm.gov.br', 'FLF58', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('regulacao.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('regulacao.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('regulacao.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('regulacao.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fibge.gov.br', 'ECO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fibge.gov.br', 'ECO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fibge.gov.br', 'ECO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fibge.gov.br', 'ECO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mda.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mda.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mda.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mda.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('entreguesuaarma.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('entreguesuaarma.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('entreguesuaarma.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('entreguesuaarma.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqxx.gov.br', 'CRXXM', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqxx.gov.br', 'CRXXM', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqxx.gov.br', 'CRXXM', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crqxx.gov.br', 'CRXXM', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rn.gov.br', 'SET35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rn.gov.br', 'SRG89', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rn.gov.br', 'JCA6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rn.gov.br', 'JCA6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cra-pr.gov.br', 'ARAND20', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cra-pr.gov.br', 'ARAND20', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cra-pr.gov.br', 'RUD30', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cra-pr.gov.br', 'ARAND20', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunicacoes.gov.br', 'VPF2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunicacoes.gov.br', 'VPF2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunicacoes.gov.br', 'VPF2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunicacoes.gov.br', 'VPF2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceasa.gov.br', 'GPL11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceasa.gov.br', 'GPL11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceasa.gov.br', 'GPL11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceasa.gov.br', 'GPL11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acre.gov.br', 'ALQSI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acre.gov.br', 'ALQSI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acre.gov.br', 'ALQSI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acre.gov.br', 'ALQSI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpas.gov.br', 'DDA66', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpas.gov.br', 'DDA66', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpas.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpas.gov.br', 'DDC98', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonfund.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonfund.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonfund.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonfund.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceaaf.gov.br', 'SRS330', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceaaf.gov.br', 'SRS330', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceaaf.gov.br', 'SRS330', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceaaf.gov.br', 'SRS330', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtrrj.gov.br', 'CRR111', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtrrj.gov.br', 'CRR111', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtrrj.gov.br', 'RVI3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtrrj.gov.br', 'CRR111', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio06.gov.br', 'KYFAQ', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio06.gov.br', 'KYFAQ', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio06.gov.br', 'KYFAQ', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio06.gov.br', 'KYFAQ', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('al.gov.br', 'GESNE7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('al.gov.br', 'GESNE7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('al.gov.br', 'BRCBA15', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('al.gov.br', 'ANFSO60', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seade.gov.br', 'SRR29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seade.gov.br', 'SRR29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seade.gov.br', 'SRR29', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seade.gov.br', 'IRO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esocial.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esocial.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esocial.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('esocial.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmanaus.gov.br', 'SCS223', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmanaus.gov.br', 'SCS223', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmanaus.gov.br', 'AIP6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmanaus.gov.br', 'SCS223', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriafederal.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriafederal.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriafederal.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriafederal.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroemcaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroemcaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroemcaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroemcaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mme.gov.br', 'HCB42', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mme.gov.br', 'HCB42', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mme.gov.br', 'HCB42', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mme.gov.br', 'HCB42', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpb.gov.br', 'JODME4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpb.gov.br', 'ROXCO2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpb.gov.br', 'JODME4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpb.gov.br', 'ROXCO2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conarq.gov.br', 'KERPO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conarq.gov.br', 'KERPO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conarq.gov.br', 'KERPO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conarq.gov.br', 'KERPO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ministeriopublicodf.gov.br', 'DTMPD', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ministeriopublicodf.gov.br', 'DTMPD', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ministeriopublicodf.gov.br', 'DTMPD', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ministeriopublicodf.gov.br', 'DTMPD', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcatu.gov.br', 'ASS387', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcatu.gov.br', 'ASS387', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcatu.gov.br', 'ASS387', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafcatu.gov.br', 'ASS387', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fat.gov.br', 'COINF90', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fat.gov.br', 'CLMEN28', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fat.gov.br', 'MALHE11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fat.gov.br', 'MALHE11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pr.gov.br', 'GPD21', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pr.gov.br', 'GPD21', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pr.gov.br', 'GPD21', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pr.gov.br', 'GPD21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epe.gov.br', 'EPT33', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epe.gov.br', 'EPT33', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epe.gov.br', 'EPT33', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epe.gov.br', 'EPT33', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proinfa.gov.br', 'JMMSA2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proinfa.gov.br', 'JMMSA2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proinfa.gov.br', 'VABSI7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proinfa.gov.br', 'JMMSA2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('colab.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('colab.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('colab.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('colab.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixamasterpass.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixamasterpass.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixamasterpass.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixamasterpass.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-ma.gov.br', 'INL3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-ma.gov.br', 'INL3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-ma.gov.br', 'INL3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-ma.gov.br', 'INL3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funpresp.gov.br', 'MAACR88', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funpresp.gov.br', 'ELBCH', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funpresp.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funpresp.gov.br', 'ELBCH', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparencianacopa.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparencianacopa.gov.br', 'SEIRE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparencianacopa.gov.br', 'SEIRE4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparencianacopa.gov.br', 'SEIRE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmuz.gov.br', 'GMMPE2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmuz.gov.br', 'GRF28', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmuz.gov.br', 'GRF28', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmuz.gov.br', 'GRF28', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfceara.gov.br', 'GOTLA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfceara.gov.br', 'GOTLA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfceara.gov.br', 'HCS36', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfceara.gov.br', 'GOTLA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pracasdopac.gov.br', 'MIEDU6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pracasdopac.gov.br', 'MIEDU6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pracasdopac.gov.br', 'MIEDU6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pracasdopac.gov.br', 'MIEDU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ect.gov.br', 'MAR1601', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ect.gov.br', 'MAR1601', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ect.gov.br', 'EEA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ect.gov.br', 'MAR1601', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mds.gov.br', 'MACSO438', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mds.gov.br', 'MACSO438', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mds.gov.br', 'MACSO438', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mds.gov.br', 'MACSO438', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenipa.gov.br', 'RAA543', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenipa.gov.br', 'RAA543', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenipa.gov.br', 'SVSJU', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenipa.gov.br', 'SVSJU', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stj.gov.br', 'DARCO34', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stj.gov.br', 'DARCO34', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stj.gov.br', 'LEJ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stj.gov.br', 'DARCO34', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justiça.gov.brxn--justia-0ua.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justiça.gov.brxn--justia-0ua.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justiça.gov.brxn--justia-0ua.gov.br', 'ALCBA81', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justiça.gov.brxn--justia-0ua.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesaagropecuaria.gov.br', 'SDA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesaagropecuaria.gov.br', 'SDA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesaagropecuaria.gov.br', 'JCL22', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesaagropecuaria.gov.br', 'SDA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenpb.gov.br', 'GESRI10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenpb.gov.br', 'GESRI10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenpb.gov.br', 'GHV12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenpb.gov.br', 'GESRI10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inb.gov.br', 'RRBSI16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inb.gov.br', 'JCP16', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inb.gov.br', 'FAM703', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inb.gov.br', 'JCP16', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('institutochicomendes.gov.br', 'CRC644', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('institutochicomendes.gov.br', 'CRC644', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('institutochicomendes.gov.br', 'DALSO56', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('institutochicomendes.gov.br', 'CRC644', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projovem.gov.br', 'CPPAV', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projovem.gov.br', 'CPPAV', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projovem.gov.br', 'CPPAV', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projovem.gov.br', 'CPPAV', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpes.gov.br', 'AMP477', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpes.gov.br', 'AMP477', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpes.gov.br', 'AMP477', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpes.gov.br', 'AMP477', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctnbio.gov.br', 'REDOM95', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctnbio.gov.br', 'ADNMC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctnbio.gov.br', 'ADNMC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctnbio.gov.br', 'ADNMC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetrogo.gov.br', 'WSD11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetrogo.gov.br', 'WSD11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetrogo.gov.br', 'RMT47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetrogo.gov.br', 'WSD11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgr.gov.br', 'GFA2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgr.gov.br', 'GFA2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgr.gov.br', 'MACSO55', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pgr.gov.br', 'GFA2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comex.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comex.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comex.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comex.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('etfto.gov.br', 'ROP415', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('etfto.gov.br', 'ROP415', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('etfto.gov.br', 'ROP415', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('etfto.gov.br', 'ETP27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('clicksaudavel.gov.br', 'SCO6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('clicksaudavel.gov.br', 'SCO6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('clicksaudavel.gov.br', 'SCO6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('clicksaudavel.gov.br', 'SCO6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planalto.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planalto.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planalto.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('planalto.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cp2.gov.br', 'MAAVA111', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cp2.gov.br', 'MAAVA111', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cp2.gov.br', 'MAAVA111', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cp2.gov.br', 'MAAVA111', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federalcap.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federalcap.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federalcap.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federalcap.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafvsa.gov.br', 'JASCO48', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafvsa.gov.br', 'JASCO48', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafvsa.gov.br', 'JASCO48', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafvsa.gov.br', 'JASCO48', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('venturecapital.gov.br', 'CAZ89', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('venturecapital.gov.br', 'CAZ89', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('venturecapital.gov.br', 'CAZ89', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('venturecapital.gov.br', 'CAZ89', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldatransparencia.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldatransparencia.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldatransparencia.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldatransparencia.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sipia.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sipia.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sipia.gov.br', 'FLMSA16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sipia.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdb.gov.br', 'SAT7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdb.gov.br', 'SAT7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdb.gov.br', 'SAT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdb.gov.br', 'SAT7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-sc.gov.br', 'AGS33', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-sc.gov.br', 'AGS33', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-sc.gov.br', 'AGS33', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-sc.gov.br', 'AGS33', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafundo.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafundo.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafundo.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafundo.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epost.gov.br', 'MAR1601', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epost.gov.br', 'MAR1601', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epost.gov.br', 'EEA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epost.gov.br', 'MAR1601', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentoagrario.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentoagrario.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentoagrario.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentoagrario.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sivnet.gov.br', 'SUTIN', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sivnet.gov.br', 'SUTIN', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sivnet.gov.br', 'SUTIN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sivnet.gov.br', 'GESUP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('niteroi-artes.gov.br', 'ALTME7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('niteroi-artes.gov.br', 'ALTME7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('niteroi-artes.gov.br', 'ALTME7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('niteroi-artes.gov.br', 'ALTME7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsi.gov.br', 'NSS21', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsi.gov.br', 'NSS21', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsi.gov.br', 'NSS21', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsi.gov.br', 'NSS21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-pe.gov.br', 'JAS64', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-pe.gov.br', 'JAS64', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-pe.gov.br', 'JAS64', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt-pe.gov.br', 'JAS64', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servir.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servir.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servir.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servir.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('observatoriodaindustria.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('observatoriodaindustria.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('observatoriodaindustria.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('observatoriodaindustria.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadoresparainclusao.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadoresparainclusao.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadoresparainclusao.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadoresparainclusao.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfes.gov.br', 'FAVCO2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfes.gov.br', 'FAVCO2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfes.gov.br', 'ROQBA5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfes.gov.br', 'FAVCO2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codomar.gov.br', 'RZJ', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codomar.gov.br', 'RZJ', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codomar.gov.br', 'ROEVI6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('codomar.gov.br', 'ROEVI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telepar.gov.br', 'COAOI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telepar.gov.br', 'COAOI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telepar.gov.br', 'COAOI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telepar.gov.br', 'COAOI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agronet-pe.gov.br', 'JATNA7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agronet-pe.gov.br', 'JAS506', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agronet-pe.gov.br', 'JATNA7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agronet-pe.gov.br', 'JATNA7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nex.gov.br', 'ABC106', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nex.gov.br', 'ABC106', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nex.gov.br', 'EMS72', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nex.gov.br', 'ABC106', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apec.gov.br', 'MVO3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apec.gov.br', 'MVO3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apec.gov.br', 'MVO3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('apec.gov.br', 'MVO3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pb.gov.br', 'ENL57', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pb.gov.br', 'ENL57', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pb.gov.br', 'ENL57', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-pb.gov.br', 'ENL57', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agenciabrasil.gov.br', 'RSM9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agenciabrasil.gov.br', 'RSM9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agenciabrasil.gov.br', 'RSM9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agenciabrasil.gov.br', 'RSM9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('programaarpa.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('programaarpa.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('programaarpa.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('programaarpa.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('territoriosrurais.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('territoriosrurais.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('territoriosrurais.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('territoriosrurais.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mulhergoverno.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mulhergoverno.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mulhergoverno.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mulhergoverno.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt24.gov.br', 'GAS5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt24.gov.br', 'GAS5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt24.gov.br', 'AMS339', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt24.gov.br', 'MAMSA38', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vivaleitura.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vivaleitura.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vivaleitura.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vivaleitura.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epamigcaldas.gov.br', 'MBC34', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epamigcaldas.gov.br', 'MBC34', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epamigcaldas.gov.br', 'INCEN7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epamigcaldas.gov.br', 'MBC34', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investidor.gov.br', 'CVGTE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investidor.gov.br', 'CVGTE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investidor.gov.br', 'CVGTE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investidor.gov.br', 'CVGTE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lexml.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lexml.gov.br', 'SEIRE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lexml.gov.br', 'SIT80', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lexml.gov.br', 'SEIRE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-ce.gov.br', 'CFI6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-ce.gov.br', 'CFI6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-ce.gov.br', 'CRCEA4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-ce.gov.br', 'CRCEA4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maismedicos.gov.br', 'DOEBS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maismedicos.gov.br', 'DOEBS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maismedicos.gov.br', 'DOEBS', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maismedicos.gov.br', 'DOEBS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbiopr.gov.br', 'RODGE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbiopr.gov.br', 'RODGE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbiopr.gov.br', 'RODGE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbiopr.gov.br', 'RODGE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-mg.gov.br', 'UTCOR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-mg.gov.br', 'ROCOL105', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-mg.gov.br', 'ROCOL105', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-mg.gov.br', 'ROCOL105', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafuberaba.gov.br', 'JRS213', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafuberaba.gov.br', 'JRS213', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafuberaba.gov.br', 'MBF80', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafuberaba.gov.br', 'JRS213', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lapa-pe.gov.br', 'DFA22', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lapa-pe.gov.br', 'DFA22', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lapa-pe.gov.br', 'EDS231', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lapa-pe.gov.br', 'DFA22', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('arquitetura.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('arquitetura.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('arquitetura.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('arquitetura.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('invexbrasil.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('invexbrasil.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('invexbrasil.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('invexbrasil.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('renaqua.gov.br', 'RESCA114', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('renaqua.gov.br', 'RESCA114', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('renaqua.gov.br', 'FELPE18', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('renaqua.gov.br', 'RESCA114', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cinemateca.gov.br', 'CIBRA24', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cinemateca.gov.br', 'CIBRA24', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cinemateca.gov.br', 'CIBRA24', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cinemateca.gov.br', 'CIBRA24', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crea-ro.gov.br', 'CRR81', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crea-ro.gov.br', 'CRR81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crea-ro.gov.br', 'CRR81', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crea-ro.gov.br', 'CRR81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vitrinedoexportador.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vitrinedoexportador.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vitrinedoexportador.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vitrinedoexportador.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('to.gov.br', 'DIISE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('to.gov.br', 'DIISE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('to.gov.br', 'DIISE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('to.gov.br', 'DIISE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilianexporters.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilianexporters.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilianexporters.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilianexporters.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mestradoprofissional.gov.br', 'MHS92', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mestradoprofissional.gov.br', 'MHS92', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mestradoprofissional.gov.br', 'MHS92', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mestradoprofissional.gov.br', 'MHS92', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cortesmercosul.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cortesmercosul.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cortesmercosul.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cortesmercosul.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('protocolointegrado.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('protocolointegrado.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('protocolointegrado.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('protocolointegrado.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('egressos-esaf.gov.br', 'JRS323', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('egressos-esaf.gov.br', 'JRS323', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('egressos-esaf.gov.br', 'YRD7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('egressos-esaf.gov.br', 'YRD7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaforte.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaforte.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaforte.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaforte.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('juventude.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('juventude.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('juventude.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('juventude.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maisambiente.gov.br', 'JXM', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maisambiente.gov.br', 'JXM', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maisambiente.gov.br', 'AJA4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maisambiente.gov.br', 'NEGRE8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilre.gov.br', 'GURJR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilre.gov.br', 'AKG6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilre.gov.br', 'AKG6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilre.gov.br', 'AKG6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rni.gov.br', 'SVF12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rni.gov.br', 'SVF12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rni.gov.br', 'EMN66', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rni.gov.br', 'SVF12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt14.gov.br', 'TRT4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt14.gov.br', 'TRT4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt14.gov.br', 'TRT4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt14.gov.br', 'TRT4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siscomex.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siscomex.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siscomex.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siscomex.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenma.gov.br', 'GAM204', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenma.gov.br', 'GAM204', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenma.gov.br', 'GAM204', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corenma.gov.br', 'GAM204', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpr.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpr.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpr.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpr.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevodaloteria.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevodaloteria.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevodaloteria.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevodaloteria.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cra-amrr.gov.br', 'ICM47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cra-amrr.gov.br', 'CRA181', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cra-amrr.gov.br', 'CRA181', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cra-amrr.gov.br', 'CRA181', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfasp.gov.br', 'NFN2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfasp.gov.br', 'NFN2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfasp.gov.br', 'NFN2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfasp.gov.br', 'MIA61', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('purn.gov.br', 'LEA2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('purn.gov.br', 'LEA2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('purn.gov.br', 'LEA2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('purn.gov.br', 'DDF42', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cefetbg.gov.br', 'ADRIF4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cefetbg.gov.br', 'ADRIF4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cefetbg.gov.br', 'ADRIF4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cefetbg.gov.br', 'ADRIF4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sinesp.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sinesp.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sinesp.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sinesp.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpu.gov.br', 'ERF65', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpu.gov.br', 'ERF65', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpu.gov.br', 'ERF65', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpu.gov.br', 'ERF65', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipsm.gov.br', 'CGP3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipsm.gov.br', 'CGP3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipsm.gov.br', 'DNA4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipsm.gov.br', 'SEB10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investecaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investecaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investecaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investecaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pdp.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pdp.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pdp.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pdp.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saudesuplementar.gov.br', 'JWD3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saudesuplementar.gov.br', 'JWD3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saudesuplementar.gov.br', 'JWD3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saudesuplementar.gov.br', 'JWD3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pormin.gov.br', 'FAFBO2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pormin.gov.br', 'FAFBO2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pormin.gov.br', 'MLGSI24', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pormin.gov.br', 'FAFBO2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmpa.gov.br', 'GAP12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmpa.gov.br', 'GAP12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmpa.gov.br', 'ALH3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmpa.gov.br', 'GAP12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidoria.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidoria.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidoria.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ouvidoria.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrosul.gov.br', 'LGC230', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrosul.gov.br', 'LGC230', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrosul.gov.br', 'LGC230', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletrosul.gov.br', 'LGC230', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cremesp.gov.br', 'CRS44', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cremesp.gov.br', 'CRS44', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cremesp.gov.br', 'CRS44', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cremesp.gov.br', 'CRS44', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm.gov.br', 'RFCSI22', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm.gov.br', 'CPRMI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm.gov.br', 'RFCSI22', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm.gov.br', 'CPRMI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corensp.gov.br', 'BRMCE7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corensp.gov.br', 'BRMCE7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corensp.gov.br', 'RJS174', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corensp.gov.br', 'BRMCE7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crasp.gov.br', 'CRASP', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crasp.gov.br', 'CRASP', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crasp.gov.br', 'CRASP', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crasp.gov.br', 'CRASP', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redepcs.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redepcs.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redepcs.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redepcs.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-pe.gov.br', 'CRP294', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-pe.gov.br', 'CRP294', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-pe.gov.br', 'CRP294', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-pe.gov.br', 'CRP294', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentrorj.gov.br', 'MAH384', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentrorj.gov.br', 'MAH384', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentrorj.gov.br', 'MAH384', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentrorj.gov.br', 'MAH384', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('officebankingsocial.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('officebankingsocial.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('officebankingsocial.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('officebankingsocial.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-sic.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-sic.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-sic.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-sic.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnc.gov.br', 'RALFA27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnc.gov.br', 'RALFA27', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnc.gov.br', 'RALFA27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnc.gov.br', 'RALFA27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasp.gov.br', 'SRS330', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasp.gov.br', 'SRS330', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasp.gov.br', 'SRS330', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasp.gov.br', 'SRS330', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ensaiosclinicos.gov.br', 'ARC452', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ensaiosclinicos.gov.br', 'ARC452', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ensaiosclinicos.gov.br', 'MAVTO30', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ensaiosclinicos.gov.br', 'ARC452', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infrastructurebrazil.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infrastructurebrazil.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infrastructurebrazil.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infrastructurebrazil.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('colabora.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('colabora.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('colabora.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('colabora.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretaria-geral.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretaria-geral.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretaria-geral.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secretaria-geral.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsertao.gov.br', 'PNS41', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsertao.gov.br', 'PNS41', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsertao.gov.br', 'PNS41', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsertao.gov.br', 'PNS41', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('empresasimples.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('empresasimples.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('empresasimples.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('empresasimples.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazul.gov.br', 'CHMME21', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazul.gov.br', 'CHMME21', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazul.gov.br', 'CHMME21', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazul.gov.br', 'CHMME21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epl.gov.br', 'EMPLO7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epl.gov.br', 'EMPLO7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epl.gov.br', 'MAFEL176', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('epl.gov.br', 'EMPLO7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizacaorio2016.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizacaorio2016.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizacaorio2016.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscalizacaorio2016.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rais.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rais.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rais.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rais.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certics.gov.br', 'ANM153', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certics.gov.br', 'PACBE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certics.gov.br', 'PACBE47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certics.gov.br', 'PACBE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpm.gov.br', 'FAFBO2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpm.gov.br', 'FAFBO2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpm.gov.br', 'MLGSI24', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpm.gov.br', 'FAFBO2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixadasorte.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixadasorte.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixadasorte.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixadasorte.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museuvictormeirelles.gov.br', 'INBMU', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museuvictormeirelles.gov.br', 'INBMU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museuvictormeirelles.gov.br', 'INBMU', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museuvictormeirelles.gov.br', 'INBMU', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimento.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimento.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimento.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimento.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('go.gov.br', 'AGP35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('go.gov.br', 'AGP35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('go.gov.br', 'AGP35', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('go.gov.br', 'AGP35', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpt.gov.br', 'STPGT', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpt.gov.br', 'STPGT', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpt.gov.br', 'STPGT', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mpt.gov.br', 'STPGT', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('belomonte.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('belomonte.gov.br', 'GSC187', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('belomonte.gov.br', 'GSC187', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('belomonte.gov.br', 'GSC187', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu-sturec.gov.br', 'FCV93', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu-sturec.gov.br', 'FCV93', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu-sturec.gov.br', 'FCV93', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu-sturec.gov.br', 'CAR107', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletronuclear.gov.br', 'EPB6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletronuclear.gov.br', 'EPB6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletronuclear.gov.br', 'EPB6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eletronuclear.gov.br', 'CJR3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('avozdobrasil.gov.br', 'RSM9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('avozdobrasil.gov.br', 'RSM9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('avozdobrasil.gov.br', 'RSM9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('avozdobrasil.gov.br', 'RSM9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('int.gov.br', 'ETL205', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('int.gov.br', 'ETL205', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('int.gov.br', 'ETL205', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('int.gov.br', 'ETL205', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauce.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauce.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauce.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauce.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aleam.gov.br', 'CBB27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aleam.gov.br', 'CBB27', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aleam.gov.br', 'CBB27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aleam.gov.br', 'CBB27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('expresso.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('expresso.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('expresso.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('expresso.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpf-ce.gov.br', 'SAP3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpf-ce.gov.br', 'SAP3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpf-ce.gov.br', 'SAP3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpf-ce.gov.br', 'SAP3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('obrasnet.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('obrasnet.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('obrasnet.gov.br', 'RMJ35', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('obrasnet.gov.br', 'RMJ35', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bn.gov.br', 'GGCJU6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bn.gov.br', 'GGCJU6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bn.gov.br', 'LACAJ', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bn.gov.br', 'GGCJU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vlibras.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vlibras.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vlibras.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vlibras.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm2.gov.br', 'CRP114', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm2.gov.br', 'CRP114', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm2.gov.br', 'GFLFE2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm2.gov.br', 'CRP114', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previc.gov.br', 'WEMCA39', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previc.gov.br', 'WEMCA39', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previc.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previc.gov.br', 'MAMAZ132', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('politicasmulheres.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('politicasmulheres.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('politicasmulheres.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('politicasmulheres.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalambiental.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalambiental.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalambiental.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalambiental.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvpaap.gov.br', 'ADLNE7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvpaap.gov.br', 'ADLNE7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvpaap.gov.br', 'ADLNE7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvpaap.gov.br', 'ADLNE7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportoindustrial.gov.br', 'SUTIN', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportoindustrial.gov.br', 'SUTIN', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportoindustrial.gov.br', 'SUTIN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportoindustrial.gov.br', 'GESUP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pndrss.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pndrss.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pndrss.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pndrss.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aviacaocivil.gov.br', 'ELLPA12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aviacaocivil.gov.br', 'SEACI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aviacaocivil.gov.br', 'SEACI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aviacaocivil.gov.br', 'SEACI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dadosabertos.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dadosabertos.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dadosabertos.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dadosabertos.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeb.gov.br', 'VIL10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeb.gov.br', 'VIL10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeb.gov.br', 'VIL10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeb.gov.br', 'GMB5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('embratur.gov.br', 'SUAAL3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('embratur.gov.br', 'LUCBA85', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('embratur.gov.br', 'LUCBA85', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('embratur.gov.br', 'LUCBA85', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pnll.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pnll.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pnll.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pnll.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redefloresta.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redefloresta.gov.br', 'CEB23', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redefloresta.gov.br', 'GSC187', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redefloresta.gov.br', 'CEB23', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siorg.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siorg.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siorg.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siorg.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('smpe.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('smpe.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('smpe.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('smpe.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfse.gov.br', 'HCMJR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfse.gov.br', 'MMLBA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfse.gov.br', 'MMLBA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfse.gov.br', 'MMLBA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('qualidadedealimentos.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('qualidadedealimentos.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('qualidadedealimentos.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('qualidadedealimentos.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenp.gov.br', 'CAKAH', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenp.gov.br', 'CAKAH', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenp.gov.br', 'CAKAH', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cenp.gov.br', 'CAKAH', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crediamigo.gov.br', 'CMRSO14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crediamigo.gov.br', 'CLL14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crediamigo.gov.br', 'FFN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crediamigo.gov.br', 'CLL14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lotofacil.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lotofacil.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lotofacil.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lotofacil.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-3.gov.br', 'CLLUZ2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-3.gov.br', 'CLLUZ2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-3.gov.br', 'CLLUZ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-3.gov.br', 'CLLUZ2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-pr.gov.br', 'ALSIL482', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-pr.gov.br', 'ALSIL482', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-pr.gov.br', 'ALSIL482', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jef-pr.gov.br', 'ANZMA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecies.gov.br', 'VIMTR2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecies.gov.br', 'VIMTR2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecies.gov.br', 'VIMTR2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecies.gov.br', 'VIMTR2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafst.gov.br', 'LESMO7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafst.gov.br', 'LESMO7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafst.gov.br', 'LESMO7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafst.gov.br', 'LESMO7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt11.gov.br', 'JRORE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt11.gov.br', 'AMO26', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt11.gov.br', 'JRORE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt11.gov.br', 'AMO26', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-7.gov.br', 'RODGE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-7.gov.br', 'RODGE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-7.gov.br', 'RODGE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-7.gov.br', 'RODGE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participa.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participa.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participa.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participa.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismobrasil.gov.br', 'SUAAL3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismobrasil.gov.br', 'SUAAL3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismobrasil.gov.br', 'SUAAL3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismobrasil.gov.br', 'SUAAL3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cft.gov.br', 'CTBCO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cft.gov.br', 'CTBCO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cft.gov.br', 'ESSCO3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cft.gov.br', 'CTBCO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participe.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participe.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participe.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participe.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodaterra.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodaterra.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodaterra.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodaterra.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ce.gov.br', 'CAM189', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ce.gov.br', 'HPF17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ce.gov.br', 'SACRO39', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ce.gov.br', 'HPF17', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecise.gov.br', 'CORCO18', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecise.gov.br', 'CORCO18', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecise.gov.br', 'CORCO18', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecise.gov.br', 'CORCO18', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjdft.gov.br', 'SERCO46', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjdft.gov.br', 'SERCO46', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjdft.gov.br', 'SERCO46', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjdft.gov.br', 'SERCO46', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('srpvsp.gov.br', 'SRS330', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('srpvsp.gov.br', 'SRS330', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('srpvsp.gov.br', 'SRS330', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('srpvsp.gov.br', 'SRS330', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('voluntariado.gov.br', 'JDGPI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('voluntariado.gov.br', 'JAA364', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('voluntariado.gov.br', 'JAA364', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('voluntariado.gov.br', 'JAA364', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededopoderjudiciario.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededopoderjudiciario.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededopoderjudiciario.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededopoderjudiciario.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilexport.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilexport.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilexport.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilexport.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('diariodajustica.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('diariodajustica.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('diariodajustica.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('diariodajustica.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mincrj.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mincrj.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mincrj.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mincrj.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desaparecidos.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desaparecidos.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desaparecidos.gov.br', 'FRASO52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desaparecidos.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteca.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteca.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteca.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteca.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt01.gov.br', 'DIINF4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt01.gov.br', 'DIINF4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt01.gov.br', 'FAD102', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt01.gov.br', 'DIINF4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('controle.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('controle.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('controle.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('controle.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesadoconsumidor.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesadoconsumidor.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesadoconsumidor.gov.br', 'ALCBA81', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesadoconsumidor.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-pagamentos.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-pagamentos.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-pagamentos.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-pagamentos.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saudenacopa.gov.br', 'RGC5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saudenacopa.gov.br', 'RGC5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saudenacopa.gov.br', 'RGC5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saudenacopa.gov.br', 'RGC5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pi.gov.br', 'CAJ8', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pi.gov.br', 'CAJ8', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pi.gov.br', 'CAJ8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pi.gov.br', 'CAJ8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededecontrole.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededecontrole.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededecontrole.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededecontrole.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparencia.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparencia.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparencia.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('transparencia.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caubr.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caubr.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caubr.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caubr.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt3.gov.br', 'SEMVE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt3.gov.br', 'GAPFA4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt3.gov.br', 'JOPVI11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt3.gov.br', 'JOPVI11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvsp.gov.br', 'CRS389', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvsp.gov.br', 'CRS389', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvsp.gov.br', 'CRS389', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvsp.gov.br', 'CRS389', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emdiacomopronaf.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emdiacomopronaf.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emdiacomopronaf.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emdiacomopronaf.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bolaofederal.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bolaofederal.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bolaofederal.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bolaofederal.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('paranaeleitoral.gov.br', 'SEDSI27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('paranaeleitoral.gov.br', 'SEDSI27', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('paranaeleitoral.gov.br', 'SEDSI27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('paranaeleitoral.gov.br', 'SEDSI27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtujp.gov.br', 'GOD', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtujp.gov.br', 'GOD', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtujp.gov.br', 'GOD', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtujp.gov.br', 'NSL79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acraiz.gov.br', 'JRGJU4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acraiz.gov.br', 'JRGJU4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acraiz.gov.br', 'GCSMA8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acraiz.gov.br', 'JRGJU4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt4.gov.br', 'ALMKO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt4.gov.br', 'ALMKO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt4.gov.br', 'ALMKO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt4.gov.br', 'ALMKO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ans-saude.gov.br', 'JWD3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ans-saude.gov.br', 'JWD3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ans-saude.gov.br', 'JWD3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ans-saude.gov.br', 'JWD3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certidãodenascimento.gov.brxn--certidodenascimento-0vb.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certidãodenascimento.gov.brxn--certidodenascimento-0vb.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certidãodenascimento.gov.brxn--certidodenascimento-0vb.gov.br', 'WEL52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('certidãodenascimento.gov.brxn--certidodenascimento-0vb.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convensi.gov.br', 'CFI6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convensi.gov.br', 'CFI6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convensi.gov.br', 'CFI6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convensi.gov.br', 'CFI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('d.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('d.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('d.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('d.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brmcc.gov.br', 'ADRED14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brmcc.gov.br', 'CLL352', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brmcc.gov.br', 'JSC125', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brmcc.gov.br', 'JSC125', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prf.gov.br', 'DITEL10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prf.gov.br', 'DITEL10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prf.gov.br', 'DITEL10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prf.gov.br', 'DITEL10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casabrasil.gov.br', 'REDOM95', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casabrasil.gov.br', 'ADNMC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casabrasil.gov.br', 'ADNMC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casabrasil.gov.br', 'ADNMC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-se.gov.br', 'CORCO18', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-se.gov.br', 'CORCO18', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-se.gov.br', 'CORCO18', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-se.gov.br', 'CORCO18', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pru5.gov.br', 'VNOFI2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pru5.gov.br', 'VNOFI2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pru5.gov.br', 'VNOFI2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pru5.gov.br', 'VNOFI2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('causp.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('causp.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('causp.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('causp.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senadora.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senadora.gov.br', 'SEIRE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senadora.gov.br', 'SEIRE4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senadora.gov.br', 'SEIRE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalexportacao.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalexportacao.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalexportacao.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalexportacao.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saofrancisco.gov.br', 'NBC10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saofrancisco.gov.br', 'NBC10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saofrancisco.gov.br', 'NBC10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saofrancisco.gov.br', 'NBC10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadorparaprofessores.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadorparaprofessores.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadorparaprofessores.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('computadorparaprofessores.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fnsms.gov.br', 'WSDLT4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fnsms.gov.br', 'WSDLT4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fnsms.gov.br', 'WSDLT4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fnsms.gov.br', 'WSDLT4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irb-brasilre.gov.br', 'GURJR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irb-brasilre.gov.br', 'AKG6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irb-brasilre.gov.br', 'AKG6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('irb-brasilre.gov.br', 'AKG6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibge.gov.br', 'ECO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibge.gov.br', 'ECO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibge.gov.br', 'ECO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibge.gov.br', 'ECO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmbh.gov.br', 'NBC10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmbh.gov.br', 'NBC10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmbh.gov.br', 'CLO79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprmbh.gov.br', 'NBC10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pb.gov.br', 'CHMSA32', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pb.gov.br', 'CHMSA32', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pb.gov.br', 'ALFAR180', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pb.gov.br', 'CHMSA32', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-car.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-car.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-car.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-car.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('carrocampeao.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('carrocampeao.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('carrocampeao.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('carrocampeao.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldacopa.gov.br', 'JDGPI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldacopa.gov.br', 'JAA364', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldacopa.gov.br', 'JAA364', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldacopa.gov.br', 'JAA364', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('direitoshumanos.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('direitoshumanos.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('direitoshumanos.gov.br', 'WEL52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('direitoshumanos.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reste.gov.br', 'RFS9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reste.gov.br', 'RFS9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reste.gov.br', 'RFS9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reste.gov.br', 'RFS9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agenciacamara.gov.br', 'SSG50', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agenciacamara.gov.br', 'SSG50', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agenciacamara.gov.br', 'SSG50', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agenciacamara.gov.br', 'SSG50', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ac.gov.br', 'ALQSI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ac.gov.br', 'ALQSI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ac.gov.br', 'ALQSI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ac.gov.br', 'ALQSI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil2016.gov.br', 'JDGPI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil2016.gov.br', 'JAA364', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil2016.gov.br', 'JAA364', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil2016.gov.br', 'JAA364', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agritempo.gov.br', 'SMFSM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agritempo.gov.br', 'SMFSM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agritempo.gov.br', 'CFP8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agritempo.gov.br', 'SMFSM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns.gov.br', 'MVO3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns.gov.br', 'MVO3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns.gov.br', 'MVO3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns.gov.br', 'MVO3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('insa.gov.br', 'LJS88', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('insa.gov.br', 'LJS88', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('insa.gov.br', 'LJS88', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('insa.gov.br', 'LJS88', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fbn.gov.br', 'GGCJU6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fbn.gov.br', 'GGCJU6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fbn.gov.br', 'LACAJ', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fbn.gov.br', 'GGCJU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexbrazil.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexbrazil.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexbrazil.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexbrazil.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('se.gov.br', 'RMT44', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('se.gov.br', 'AMNOL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('se.gov.br', 'RMT44', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('se.gov.br', 'AMNOL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anapost.gov.br', 'MAR1601', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anapost.gov.br', 'MAR1601', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anapost.gov.br', 'EEA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anapost.gov.br', 'MAR1601', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lotomania.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lotomania.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lotomania.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lotomania.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner1drf.gov.br', 'AMA61', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner1drf.gov.br', 'AMA61', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner1drf.gov.br', 'AIP6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner1drf.gov.br', 'AMA61', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mcti.gov.br', 'REDOM95', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mcti.gov.br', 'ADNMC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mcti.gov.br', 'ADNMC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mcti.gov.br', 'ADNMC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mb.gov.br', 'CAS39', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mb.gov.br', 'CAS39', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mb.gov.br', 'CAS39', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mb.gov.br', 'CAS39', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gnre.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gnre.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gnre.gov.br', 'ADSFE47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gnre.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gra.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gra.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gra.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gra.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasiltradenet.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasiltradenet.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasiltradenet.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasiltradenet.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosdobrasil.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosdobrasil.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosdobrasil.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portosdobrasil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-rs.gov.br', 'CLLUZ2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-rs.gov.br', 'CLLUZ2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-rs.gov.br', 'CLLUZ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-rs.gov.br', 'CLLUZ2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cienciasemfronteiras.gov.br', 'FUCAP4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cienciasemfronteiras.gov.br', 'FUCAP4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cienciasemfronteiras.gov.br', 'GUS228', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cienciasemfronteiras.gov.br', 'LUSMA43', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('errec.gov.br', 'RFA3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('errec.gov.br', 'RFA3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('errec.gov.br', 'RFA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('errec.gov.br', 'RFA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc.gov.br', 'ALSIL482', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc.gov.br', 'ALSIL482', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc.gov.br', 'ALSIL482', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eproc.gov.br', 'ANZMA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bvenergia.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bvenergia.gov.br', 'AFN123', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bvenergia.gov.br', 'JPLBR2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bvenergia.gov.br', 'AFN123', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfa-ba.gov.br', 'PAU', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfa-ba.gov.br', 'PAU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfa-ba.gov.br', 'PAU', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfa-ba.gov.br', 'PAU', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('govbankingcaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('govbankingcaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('govbankingcaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('govbankingcaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtrio.gov.br', 'DIINF4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtrio.gov.br', 'DIINF4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtrio.gov.br', 'FAD102', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtrio.gov.br', 'DIINF4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportabrasil.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportabrasil.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportabrasil.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportabrasil.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceturb.gov.br', 'WAFFH', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceturb.gov.br', 'WAFFH', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceturb.gov.br', 'EIL95', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceturb.gov.br', 'WAFFH', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bc.gov.br', 'SETIN16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bc.gov.br', 'DIBCB', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bc.gov.br', 'SETIN16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bc.gov.br', 'DIBCB', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sdh.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sdh.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sdh.gov.br', 'FLMSA16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sdh.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito16.gov.br', 'CRFTE13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito16.gov.br', 'CRFTE13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito16.gov.br', 'CRFTE13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefito16.gov.br', 'CRFTE13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurj.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurj.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurj.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurj.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-sc.gov.br', 'TRC18', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-sc.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-sc.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-sc.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtwap.gov.br', 'COARE11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtwap.gov.br', 'RECCO133', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtwap.gov.br', 'SERTE12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trtwap.gov.br', 'RECCO133', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('catir.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('catir.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('catir.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('catir.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dominiopublico.gov.br', 'WASEV', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dominiopublico.gov.br', 'MIEDU6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dominiopublico.gov.br', 'MIEDU6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dominiopublico.gov.br', 'MIEDU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museuimperial.gov.br', 'SEABR7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museuimperial.gov.br', 'SEABR7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museuimperial.gov.br', 'SEABR7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museuimperial.gov.br', 'SEABR7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjrn.gov.br', 'DIDTE2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjrn.gov.br', 'DIDTE2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjrn.gov.br', 'DIDTE2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjrn.gov.br', 'DIDTE2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunicacaosocial.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunicacaosocial.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunicacaosocial.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunicacaosocial.gov.br', 'MAMPA145', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-df.gov.br', 'COEDF2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-df.gov.br', 'COEDF2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-df.gov.br', 'COEDF2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-df.gov.br', 'COEDF2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauac.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauac.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauac.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauac.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('combateafome.gov.br', 'MACSO438', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('combateafome.gov.br', 'MACSO438', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('combateafome.gov.br', 'MACSO438', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('combateafome.gov.br', 'MACSO438', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infra-estruturabrasil.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infra-estruturabrasil.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infra-estruturabrasil.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infra-estruturabrasil.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sic.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sic.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sic.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sic.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rj.gov.br', 'ALA187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rj.gov.br', 'TRR14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rj.gov.br', 'TRR14', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rj.gov.br', 'ALA187', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seliganacaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seliganacaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seliganacaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('seliganacaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sivam.gov.br', 'MAC46', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sivam.gov.br', 'MAC46', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sivam.gov.br', 'MAC46', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sivam.gov.br', 'MAC46', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafa-to.gov.br', 'FGCLI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafa-to.gov.br', 'FGCLI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafa-to.gov.br', 'KAB14', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafa-to.gov.br', 'RJP49', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexresponde.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexresponde.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexresponde.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comexresponde.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telebrasilia.gov.br', 'GFS8', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telebrasilia.gov.br', 'GFS8', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telebrasilia.gov.br', 'BPS14', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('telebrasilia.gov.br', 'GFS8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportadoresbrasilenos.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportadoresbrasilenos.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportadoresbrasilenos.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('exportadoresbrasilenos.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauba.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauba.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauba.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauba.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('data.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('data.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('data.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('data.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('education.gov.br', 'WASEV', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('education.gov.br', 'MIEDU6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('education.gov.br', 'MIEDU6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('education.gov.br', 'MIEDU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnrc.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnrc.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnrc.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnrc.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pernambuco.gov.br', 'AETIN', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pernambuco.gov.br', 'EFP21', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pernambuco.gov.br', 'EFP21', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pernambuco.gov.br', 'EFP21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafundo-bndes.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafundo-bndes.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafundo-bndes.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafundo-bndes.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazil-rounds.gov.br', 'RALFA27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazil-rounds.gov.br', 'RALFA27', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazil-rounds.gov.br', 'RALFA27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazil-rounds.gov.br', 'RALFA27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('traficodepessoas.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('traficodepessoas.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('traficodepessoas.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('traficodepessoas.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crt.gov.br', 'DSL124', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crt.gov.br', 'DSL124', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crt.gov.br', 'DSL124', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crt.gov.br', 'DSL124', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justica.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justica.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justica.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justica.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maerj.gov.br', 'MVF120', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maerj.gov.br', 'LFB6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maerj.gov.br', 'MVF120', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maerj.gov.br', 'MVF120', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtur.gov.br', 'SUAAL3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtur.gov.br', 'SUAAL3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtur.gov.br', 'SUAAL3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtur.gov.br', 'SUAAL3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnis.gov.br', 'DDA66', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnis.gov.br', 'DDA66', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnis.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnis.gov.br', 'DDC98', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalexporta.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalexporta.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalexporta.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalexporta.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu-natal.gov.br', 'STF', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu-natal.gov.br', 'STF', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu-natal.gov.br', 'STF', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cbtu-natal.gov.br', 'DHA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trinka.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trinka.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trinka.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trinka.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sptrt.gov.br', 'COARE11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sptrt.gov.br', 'RECCO133', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sptrt.gov.br', 'SERTE12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sptrt.gov.br', 'RECCO133', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vice-presidencia.gov.br', 'RMP45', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vice-presidencia.gov.br', 'RMP45', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vice-presidencia.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('vice-presidencia.gov.br', 'RMP45', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunidadenegra.gov.br', 'ARC397', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunidadenegra.gov.br', 'ARC397', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunidadenegra.gov.br', 'ARC397', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comunidadenegra.gov.br', 'ARC397', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eusoumaismedico.gov.br', 'DOEBS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eusoumaismedico.gov.br', 'DOEBS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eusoumaismedico.gov.br', 'DOEBS', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eusoumaismedico.gov.br', 'DOEBS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-03.gov.br', 'CLLUZ2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-03.gov.br', 'CLLUZ2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-03.gov.br', 'CLLUZ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-03.gov.br', 'CLLUZ2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ilbsenado.gov.br', 'SMM32', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ilbsenado.gov.br', 'SMM32', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ilbsenado.gov.br', 'HIS5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ilbsenado.gov.br', 'SMM32', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infraero.gov.br', 'SUTIN', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infraero.gov.br', 'SUTIN', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infraero.gov.br', 'GESUP4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infraero.gov.br', 'GESUP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('veracruz-rs.gov.br', 'FLP88', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('veracruz-rs.gov.br', 'FLP88', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('veracruz-rs.gov.br', 'FLP88', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('veracruz-rs.gov.br', 'FLP88', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoajustica.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoajustica.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoajustica.gov.br', 'ALCBA81', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('acessoajustica.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctav.gov.br', 'CIBRA24', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctav.gov.br', 'HGC57', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctav.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctav.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('shoppingcaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('shoppingcaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('shoppingcaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('shoppingcaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ien.gov.br', 'MAWAI8', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ien.gov.br', 'MAWAI8', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ien.gov.br', 'MAWAI8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ien.gov.br', 'MAWAI8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('celepar.gov.br', 'ADC633', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('celepar.gov.br', 'ADC633', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('celepar.gov.br', 'ADC633', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('celepar.gov.br', 'ADC633', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceatmrj.gov.br', 'SRS330', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceatmrj.gov.br', 'SRS330', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceatmrj.gov.br', 'SRS330', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceatmrj.gov.br', 'SRS330', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudebiologiamelloleitao.gov.br', 'HQBFE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudebiologiamelloleitao.gov.br', 'HQBFE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudebiologiamelloleitao.gov.br', 'HDSUP', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museudebiologiamelloleitao.gov.br', 'HQBFE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('worldcup2014.gov.br', 'JDGPI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('worldcup2014.gov.br', 'JAA364', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('worldcup2014.gov.br', 'JAA364', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('worldcup2014.gov.br', 'JAA364', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ac.gov.br', 'LRV11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ac.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ac.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ac.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefono8.gov.br', 'CRFAR6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefono8.gov.br', 'CRFAR6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefono8.gov.br', 'MAMMO35', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crefono8.gov.br', 'MAMMO35', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('spmulheres.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('spmulheres.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('spmulheres.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('spmulheres.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('todosjuntoscontracorrupcao.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('todosjuntoscontracorrupcao.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('todosjuntoscontracorrupcao.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('todosjuntoscontracorrupcao.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('splp.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('splp.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('splp.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('splp.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixadotesouro.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixadotesouro.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixadotesouro.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixadotesouro.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauro.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauro.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauro.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauro.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crm-rj.gov.br', 'ALM784', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crm-rj.gov.br', 'ALM784', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crm-rj.gov.br', 'ALM784', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crm-rj.gov.br', 'ALM784', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('decine.gov.br', 'ROHSI8', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('decine.gov.br', 'FCD97', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('decine.gov.br', 'ROHSI8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('decine.gov.br', 'ROHSI8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dataprev.gov.br', 'DDA66', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dataprev.gov.br', 'DDA66', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dataprev.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dataprev.gov.br', 'DDC98', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ls.gov.br', 'GDS174', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ls.gov.br', 'GDS174', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ls.gov.br', 'DSARA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ls.gov.br', 'DSARA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ambiente.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ambiente.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ambiente.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ambiente.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-sp.gov.br', 'BRMCE7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-sp.gov.br', 'BRMCE7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-sp.gov.br', 'RJS174', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coren-sp.gov.br', 'BRMCE7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('procel.gov.br', 'JMMSA2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('procel.gov.br', 'JMMSA2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('procel.gov.br', 'VABSI7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('procel.gov.br', 'ASCEL3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nuclep.gov.br', 'NES116', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nuclep.gov.br', 'NES116', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nuclep.gov.br', 'NES116', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nuclep.gov.br', 'NES116', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbh.gov.br', 'HACVI7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbh.gov.br', 'BAC52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbh.gov.br', 'BAC52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pbh.gov.br', 'MFSMO10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvmg.gov.br', 'JOPAM', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvmg.gov.br', 'JOPAM', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvmg.gov.br', 'JOPAM', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvmg.gov.br', 'JOPAM', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scnet.gov.br', 'FLR3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scnet.gov.br', 'LAB13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scnet.gov.br', 'LAB548', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scnet.gov.br', 'LAB548', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redesim.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redesim.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redesim.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redesim.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coegv.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coegv.gov.br', 'GSC187', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coegv.gov.br', 'GSC187', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coegv.gov.br', 'GSC187', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdp-ahitar.gov.br', 'JCP325', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdp-ahitar.gov.br', 'JCP325', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdp-ahitar.gov.br', 'MIL275', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdp-ahitar.gov.br', 'MIL275', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('centrodememoriabndes.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('centrodememoriabndes.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('centrodememoriabndes.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('centrodememoriabndes.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmet.gov.br', 'WGS3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmet.gov.br', 'WGS3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmet.gov.br', 'CAP44', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmet.gov.br', 'WGS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('solucoestipublica.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('solucoestipublica.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('solucoestipublica.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('solucoestipublica.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proinfo.gov.br', 'WASEV', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proinfo.gov.br', 'MIEDU6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proinfo.gov.br', 'MIEDU6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('proinfo.gov.br', 'MIEDU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ro.gov.br', 'FMDSA106', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ro.gov.br', 'FMDSA106', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ro.gov.br', 'FMDSA106', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ro.gov.br', 'FMDSA106', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cjf.gov.br', 'PMI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cjf.gov.br', 'WNAJU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cjf.gov.br', 'AJM126', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cjf.gov.br', 'PMI2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('processoeletronico.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('processoeletronico.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('processoeletronico.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('processoeletronico.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('btig.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('btig.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('btig.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('btig.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prr4.gov.br', 'LPF124', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prr4.gov.br', 'LPF124', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prr4.gov.br', 'LPF124', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prr4.gov.br', 'ELS6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasnet.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasnet.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasnet.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasnet.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('uca.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('uca.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('uca.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('uca.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-pe.gov.br', 'AML656', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-pe.gov.br', 'AML656', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-pe.gov.br', 'HOT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-pe.gov.br', 'DAM8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafi.gov.br', 'GMMPE2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafi.gov.br', 'GMMPE2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafi.gov.br', 'GMMPE2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafi.gov.br', 'GMMPE2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scdp.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scdp.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scdp.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scdp.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('alemg.gov.br', 'MVR2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('alemg.gov.br', 'MVR2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('alemg.gov.br', 'MVR2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('alemg.gov.br', 'MVR2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dom.gov.br', 'IDR7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dom.gov.br', 'IDR7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dom.gov.br', 'IDR7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dom.gov.br', 'IDR7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr01.gov.br', 'MAHEN40', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr01.gov.br', 'MAHEN40', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr01.gov.br', 'MAHEN40', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr01.gov.br', 'MAHEN40', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ccpe.gov.br', 'HCB42', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ccpe.gov.br', 'HCB42', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ccpe.gov.br', 'HCB42', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ccpe.gov.br', 'HCB42', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federalcard.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federalcard.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federalcard.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('federalcard.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capitalderisco.gov.br', 'CAZ89', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capitalderisco.gov.br', 'CAZ89', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capitalderisco.gov.br', 'CAZ89', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('capitalderisco.gov.br', 'CAZ89', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('imbel.gov.br', 'IMB57', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('imbel.gov.br', 'IMB57', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('imbel.gov.br', 'IMB57', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('imbel.gov.br', 'IMB57', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('c-brazil.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('c-brazil.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('c-brazil.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('c-brazil.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecigo.gov.br', 'ANSOA74', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecigo.gov.br', 'ANSOA74', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecigo.gov.br', 'APCJU9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecigo.gov.br', 'APCJU9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senasp.gov.br', 'ANFME67', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senasp.gov.br', 'AQSNE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senasp.gov.br', 'CCO83', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senasp.gov.br', 'ANFME67', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('premioconservacaoenergia.gov.br', 'JMMSA2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('premioconservacaoenergia.gov.br', 'JMMSA2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('premioconservacaoenergia.gov.br', 'VABSI7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('premioconservacaoenergia.gov.br', 'KAKLE2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio8.gov.br', 'CRGCA45', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio8.gov.br', 'CRGCA45', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio8.gov.br', 'CRGCA45', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio8.gov.br', 'CRGCA45', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('encomex.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('encomex.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('encomex.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('encomex.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cadastrominhacasaminhavida.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cadastrominhacasaminhavida.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cadastrominhacasaminhavida.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cadastrominhacasaminhavida.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('relacoesexteriores.gov.br', 'SAT7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('relacoesexteriores.gov.br', 'SAT7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('relacoesexteriores.gov.br', 'SAT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('relacoesexteriores.gov.br', 'SAT7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pa.gov.br', 'TRP11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pa.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pa.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pa.gov.br', 'JFR25', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bdep.gov.br', 'RALFA27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bdep.gov.br', 'RALFA27', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bdep.gov.br', 'RALFA27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bdep.gov.br', 'RALFA27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonianfund.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonianfund.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonianfund.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonianfund.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilrounds.gov.br', 'RALFA27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilrounds.gov.br', 'RALFA27', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilrounds.gov.br', 'RALFA27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilrounds.gov.br', 'RALFA27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cetem.gov.br', 'SEGES3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cetem.gov.br', 'SEGES3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cetem.gov.br', 'SERED', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cetem.gov.br', 'SEGES3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-pagamentoscaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-pagamentoscaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-pagamentoscaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-pagamentoscaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jt.gov.br', 'SCD13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jt.gov.br', 'SCD13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jt.gov.br', 'SCD13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jt.gov.br', 'SCD13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnater.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnater.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnater.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnater.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('spm.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('spm.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('spm.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('spm.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redecidadao.gov.br', 'ADC633', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redecidadao.gov.br', 'ADC633', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redecidadao.gov.br', 'ADC633', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redecidadao.gov.br', 'ADC633', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convergenciademidias.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convergenciademidias.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convergenciademidias.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('convergenciademidias.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gestaopublica.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gestaopublica.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gestaopublica.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gestaopublica.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoexportador.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoexportador.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoexportador.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldoexportador.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pescabrasil.gov.br', 'RESCA114', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pescabrasil.gov.br', 'RESCA114', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pescabrasil.gov.br', 'RESCA114', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pescabrasil.gov.br', 'RESCA114', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasc.gov.br', 'SRS330', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasc.gov.br', 'SRS330', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasc.gov.br', 'SRS330', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceasc.gov.br', 'SRS330', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cindacta2.gov.br', 'LUAQU28', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cindacta2.gov.br', 'LUAQU28', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cindacta2.gov.br', 'LUAQU28', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cindacta2.gov.br', 'LUAQU28', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correios.gov.br', 'MAR1601', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correios.gov.br', 'MAR1601', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correios.gov.br', 'EEA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('correios.gov.br', 'MAR1601', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--assistnciasocial-xqb.gov.br', '', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--assistnciasocial-xqb.gov.br', '', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--assistnciasocial-xqb.gov.br', '', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--assistnciasocial-xqb.gov.br', '', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coletasolidaria.gov.br', 'MACSO438', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coletasolidaria.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coletasolidaria.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('coletasolidaria.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('controladoria.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('controladoria.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('controladoria.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('controladoria.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtpdf.gov.br', 'LRS181', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtpdf.gov.br', 'LRS181', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtpdf.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtpdf.gov.br', 'LRS181', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisgen.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisgen.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisgen.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisgen.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurs.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurs.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurs.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caurs.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportoindustria.gov.br', 'SUTIN', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportoindustria.gov.br', 'SUTIN', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportoindustria.gov.br', 'SUTIN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportoindustria.gov.br', 'GESUP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixamaisqueumbanco.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixamaisqueumbanco.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixamaisqueumbanco.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixamaisqueumbanco.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viversemlimite.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viversemlimite.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viversemlimite.gov.br', 'FLMSA16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('viversemlimite.gov.br', 'FLMSA16', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jmpi2015.gov.br', 'JDGPI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jmpi2015.gov.br', 'JAA364', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jmpi2015.gov.br', 'JAA364', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jmpi2015.gov.br', 'JAA364', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('causc.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('causc.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('causc.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('causc.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tst.gov.br', 'SCD13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tst.gov.br', 'SCD13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tst.gov.br', 'SCD13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tst.gov.br', 'SCD13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agu.gov.br', 'DIDAG7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agu.gov.br', 'DIDAG7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agu.gov.br', 'MCTMA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agu.gov.br', 'DIDAG7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caumt.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caumt.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caumt.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caumt.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentosocial.gov.br', 'MACSO438', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentosocial.gov.br', 'MACSO438', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentosocial.gov.br', 'MACSO438', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('desenvolvimentosocial.gov.br', 'MACSO438', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servicos.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servicos.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servicos.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('servicos.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rs.gov.br', 'PAANG11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rs.gov.br', 'GRPRO20', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rs.gov.br', 'RDV', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rs.gov.br', 'RDV', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadaniafinanceira.gov.br', 'SETIN16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadaniafinanceira.gov.br', 'SETIN16', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadaniafinanceira.gov.br', 'SETIN16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cidadaniafinanceira.gov.br', 'SETIN16', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reluz.gov.br', 'JMMSA2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reluz.gov.br', 'JMMSA2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reluz.gov.br', 'VABSI7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('reluz.gov.br', 'JMMSA2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anvisa.gov.br', 'SCO6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anvisa.gov.br', 'SCO6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anvisa.gov.br', 'SCO6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('anvisa.gov.br', 'SCO6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rfb.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rfb.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rfb.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rfb.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copa2014.gov.br', 'JDGPI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copa2014.gov.br', 'JAA364', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copa2014.gov.br', 'JAA364', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copa2014.gov.br', 'JAA364', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('contaspublicas.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('contaspublicas.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('contaspublicas.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('contaspublicas.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jf.gov.br', 'PMI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jf.gov.br', 'WNAJU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jf.gov.br', 'AJM126', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jf.gov.br', 'PMI2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('voz.gov.br', 'RSM9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('voz.gov.br', 'RSM9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('voz.gov.br', 'RSM9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('voz.gov.br', 'RSM9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacaofiscal.gov.br', 'JRS323', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacaofiscal.gov.br', 'JRS323', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacaofiscal.gov.br', 'YRD7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacaofiscal.gov.br', 'JRS323', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('imprensanacional.gov.br', 'IMNAC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('imprensanacional.gov.br', 'EDMOL13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('imprensanacional.gov.br', 'IMNAC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('imprensanacional.gov.br', 'IMNAC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sus.gov.br', 'DIS5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sus.gov.br', 'DIS5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sus.gov.br', 'DIS5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sus.gov.br', 'DIS5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgna.gov.br', 'ADRED14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgna.gov.br', 'ADRED14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgna.gov.br', 'MPGPA4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgna.gov.br', 'MVF212', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governancapublica.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governancapublica.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governancapublica.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governancapublica.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casacivil.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casacivil.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casacivil.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casacivil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participo.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participo.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participo.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('participo.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funarte.gov.br', 'ROHSI8', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funarte.gov.br', 'FCD97', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funarte.gov.br', 'ROHSI8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funarte.gov.br', 'ROHSI8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('contracorrupcao.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('contracorrupcao.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('contracorrupcao.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('contracorrupcao.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt22.gov.br', 'GBM19', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt22.gov.br', 'TRR3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt22.gov.br', 'GBM19', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt22.gov.br', 'GBM19', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilmaior.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilmaior.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilmaior.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilmaior.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauam.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauam.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauam.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauam.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projetobrasilmunicipios.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projetobrasilmunicipios.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projetobrasilmunicipios.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projetobrasilmunicipios.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ebndes.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ebndes.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ebndes.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ebndes.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('odmbrasil.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('odmbrasil.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('odmbrasil.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('odmbrasil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scdl.gov.br', 'WRMKR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scdl.gov.br', 'WRMKR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scdl.gov.br', 'WRMKR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('scdl.gov.br', 'WRMKR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tradepromotion.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tradepromotion.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tradepromotion.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tradepromotion.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museulasarsegall.gov.br', 'INBMU', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museulasarsegall.gov.br', 'INBMU', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museulasarsegall.gov.br', 'INBMU', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('museulasarsegall.gov.br', 'INBMU', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnocspb.gov.br', 'BLC4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnocspb.gov.br', 'BLC4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnocspb.gov.br', 'BLC4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnocspb.gov.br', 'FDD5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('df.gov.br', 'STC46', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('df.gov.br', 'STC46', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('df.gov.br', 'STC46', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('df.gov.br', 'STC46', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('megasena.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('megasena.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('megasena.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('megasena.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro-es.gov.br', 'INN12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro-es.gov.br', 'INN12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro-es.gov.br', 'INN12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro-es.gov.br', 'INN12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('integracaosaofrancisco.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('integracaosaofrancisco.gov.br', 'FFDSA72', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('integracaosaofrancisco.gov.br', 'HEMGO28', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('integracaosaofrancisco.gov.br', 'FFDSA72', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecidf.gov.br', 'HRF61', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecidf.gov.br', 'HRF61', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecidf.gov.br', 'ROM1194', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecidf.gov.br', 'ROM1194', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafund.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafund.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafund.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazoniafund.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibc.gov.br', 'EDO124', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibc.gov.br', 'EDO124', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibc.gov.br', 'EDO124', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibc.gov.br', 'EDO124', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('juntoscontracorrupcao.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('juntoscontracorrupcao.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('juntoscontracorrupcao.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('juntoscontracorrupcao.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consumosustentavel.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consumosustentavel.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consumosustentavel.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consumosustentavel.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crfsc.gov.br', 'JOF197', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crfsc.gov.br', 'JOF197', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crfsc.gov.br', 'JOF197', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crfsc.gov.br', 'JOF197', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jornadasdip.gov.br', 'SAT7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jornadasdip.gov.br', 'SAT7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jornadasdip.gov.br', 'SAT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jornadasdip.gov.br', 'SAT7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafco.gov.br', 'JBN177', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafco.gov.br', 'JBN177', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafco.gov.br', 'JBN177', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafco.gov.br', 'JBN177', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsl.gov.br', 'CAF859', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsl.gov.br', 'WETPA2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsl.gov.br', 'WETPA2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsl.gov.br', 'CAF859', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundoamazonia-bndes.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundoamazonia-bndes.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundoamazonia-bndes.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundoamazonia-bndes.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacao.gov.br', 'WASEV', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacao.gov.br', 'MIEDU6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacao.gov.br', 'MIEDU6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('educacao.gov.br', 'MIEDU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiocamara.gov.br', 'SSG50', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiocamara.gov.br', 'SSG50', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiocamara.gov.br', 'SSG50', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('radiocamara.gov.br', 'SSG50', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt8.gov.br', 'SAC142', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt8.gov.br', 'SAC142', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt8.gov.br', 'SAC142', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt8.gov.br', 'CAC15', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnj.gov.br', 'OTNCI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnj.gov.br', 'OTNCI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnj.gov.br', 'OTNCI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnj.gov.br', 'OTNCI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('govbrasil.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('govbrasil.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('govbrasil.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('govbrasil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudam.gov.br', 'GGS6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudam.gov.br', 'GGS6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudam.gov.br', 'GGS6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sudam.gov.br', 'GGS4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emdefesadademocracia.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emdefesadademocracia.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emdefesadademocracia.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emdefesadademocracia.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt18.gov.br', 'HMA3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt18.gov.br', 'HMA3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt18.gov.br', 'HMA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt18.gov.br', 'HMA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasagriculturafamiliar.gov.br', 'MACSO438', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasagriculturafamiliar.gov.br', 'MACSO438', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasagriculturafamiliar.gov.br', 'MACSO438', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('comprasagriculturafamiliar.gov.br', 'MACSO438', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presalpetroleo.gov.br', 'ANOOL10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presalpetroleo.gov.br', 'ANOOL10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presalpetroleo.gov.br', 'ANOOL10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('presalpetroleo.gov.br', 'ANOOL10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sgi.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sgi.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sgi.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sgi.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-contacaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-contacaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-contacaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-contacaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serpro.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serpro.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serpro.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serpro.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaresolve.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaresolve.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaresolve.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaresolve.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref-sp.gov.br', 'CPM144', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref-sp.gov.br', 'CPM144', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref-sp.gov.br', 'CPM144', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cref-sp.gov.br', 'CPM144', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('selic.gov.br', 'RIS125', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('selic.gov.br', 'RIS125', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('selic.gov.br', 'RIS125', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('selic.gov.br', 'RIS125', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bioform.gov.br', 'DAJBA6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bioform.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bioform.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bioform.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orçamentofederal.gov.brxn--oramentofederal-fmb.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orçamentofederal.gov.brxn--oramentofederal-fmb.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orçamentofederal.gov.brxn--oramentofederal-fmb.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('orçamentofederal.gov.brxn--oramentofederal-fmb.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rffsa.gov.br', 'MHA6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rffsa.gov.br', 'MHA6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rffsa.gov.br', 'VIILT26', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rffsa.gov.br', 'MHA6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr19.gov.br', 'RMCLA3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr19.gov.br', 'HIS5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr19.gov.br', 'HIS5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr19.gov.br', 'RMCLA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner-ms.gov.br', 'TEE7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner-ms.gov.br', 'TEE7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner-ms.gov.br', 'TEE7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dner-ms.gov.br', 'TEE7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtbauru.gov.br', 'RRB72', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtbauru.gov.br', 'RRB72', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtbauru.gov.br', 'RRB72', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtbauru.gov.br', 'RRB72', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjap.gov.br', 'MACSC41', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjap.gov.br', 'MACSC41', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjap.gov.br', 'LEBEZ10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjap.gov.br', 'MACSC41', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonianfund-bndes.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonianfund-bndes.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonianfund-bndes.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('amazonianfund-bndes.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incrarn.gov.br', 'JCK36', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incrarn.gov.br', 'JCK36', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incrarn.gov.br', 'JCK36', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incrarn.gov.br', 'JCK36', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('wikilegis.gov.br', 'SSG50', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('wikilegis.gov.br', 'SSG50', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('wikilegis.gov.br', 'SSG50', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('wikilegis.gov.br', 'SSG50', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('softwarelivre.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('softwarelivre.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('softwarelivre.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('softwarelivre.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalfederativo.gov.br', 'MHS92', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalfederativo.gov.br', 'PSP4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalfederativo.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalfederativo.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mma.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mma.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mma.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mma.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('separeolixo.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('separeolixo.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('separeolixo.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('separeolixo.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvrs.gov.br', 'ZAC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvrs.gov.br', 'ZAC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvrs.gov.br', 'ZAC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvrs.gov.br', 'ZAC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fjp.gov.br', 'BRB', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fjp.gov.br', 'RDR60', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fjp.gov.br', 'PGM14', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fjp.gov.br', 'RDR60', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafguanambi.gov.br', 'ALDTE2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafguanambi.gov.br', 'ALDTE2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafguanambi.gov.br', 'LXH', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafguanambi.gov.br', 'ALDTE2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-mg.gov.br', 'WRA17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-mg.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-mg.gov.br', 'LAM645', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-mg.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15brasil.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15brasil.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15brasil.gov.br', 'INTVC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15brasil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecipe.gov.br', 'CRI31', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecipe.gov.br', 'CRI31', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecipe.gov.br', 'CRI31', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crecipe.gov.br', 'CRI31', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('censo2000.gov.br', 'ECO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('censo2000.gov.br', 'ECO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('censo2000.gov.br', 'ECO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('censo2000.gov.br', 'ECO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaqui.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaqui.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaqui.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixaqui.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sena.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sena.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sena.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sena.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtecbo2000.gov.br', 'COINF90', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtecbo2000.gov.br', 'CLMEN28', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtecbo2000.gov.br', 'MALHE11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtecbo2000.gov.br', 'MALHE11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gsi.gov.br', 'GCTGS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gsi.gov.br', 'GCTGS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gsi.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gsi.gov.br', 'GCTGS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lai.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lai.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lai.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('lai.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eln.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eln.gov.br', 'GSC187', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eln.gov.br', 'GSC187', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eln.gov.br', 'GSC187', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bolsadacaixa.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bolsadacaixa.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bolsadacaixa.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bolsadacaixa.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafigt.gov.br', 'EAI15', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafigt.gov.br', 'EAI15', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafigt.gov.br', 'EAI15', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafigt.gov.br', 'EAI15', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafajt.gov.br', 'ALDTE2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafajt.gov.br', 'ALDTE2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafajt.gov.br', 'LXH', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafajt.gov.br', 'ALDTE2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctis.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctis.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctis.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ctis.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abcnaidadecerta.gov.br', 'MIEDU6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abcnaidadecerta.gov.br', 'WASEV', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abcnaidadecerta.gov.br', 'MIEDU6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('abcnaidadecerta.gov.br', 'MIEDU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pr.gov.br', 'ADC633', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pr.gov.br', 'ADC633', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pr.gov.br', 'ADC633', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pr.gov.br', 'ADC633', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-4.gov.br', 'GLCAR63', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-4.gov.br', 'GLCAR63', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-4.gov.br', 'GLCAR63', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio-4.gov.br', 'GLCAR63', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismo.gov.br', 'SUAAL3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismo.gov.br', 'SUAAL3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismo.gov.br', 'SUAAL3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('turismo.gov.br', 'SUAAL3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simples.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simples.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simples.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simples.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('semanaenef.gov.br', 'CVGTE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('semanaenef.gov.br', 'CVGTE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('semanaenef.gov.br', 'CVGTE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('semanaenef.gov.br', 'CVGTE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antarcticabrazil.gov.br', 'SAT7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antarcticabrazil.gov.br', 'SAT7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antarcticabrazil.gov.br', 'SAT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('antarcticabrazil.gov.br', 'SAT7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplacdf.gov.br', 'FBB24', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplacdf.gov.br', 'FBB24', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplacdf.gov.br', 'FBB24', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceplacdf.gov.br', 'FBB24', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pen.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pen.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pen.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pen.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq13.gov.br', 'CRR2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq13.gov.br', 'CRR2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq13.gov.br', 'WAL149', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq13.gov.br', 'CRR2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroinstantaneo.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroinstantaneo.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroinstantaneo.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dinheiroinstantaneo.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conasp.gov.br', 'ANFME67', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conasp.gov.br', 'ANFME67', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conasp.gov.br', 'ANFME67', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conasp.gov.br', 'ANFME67', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq7.gov.br', 'CRQ27', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq7.gov.br', 'CRQ27', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq7.gov.br', 'CRQ27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crq7.gov.br', 'CRQ27', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('valec.gov.br', 'IRSPI3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('valec.gov.br', 'IRSPI3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('valec.gov.br', 'IRSPI3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('valec.gov.br', 'IRSPI3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt6.gov.br', 'GGP4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt6.gov.br', 'GGP4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt6.gov.br', 'GGP4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt6.gov.br', 'GGP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('susep.gov.br', 'SUSPR6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('susep.gov.br', 'SUSPR6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('susep.gov.br', 'RBRPI3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('susep.gov.br', 'SUSPR6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('almg.gov.br', 'MVR2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('almg.gov.br', 'MVR2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('almg.gov.br', 'MVR2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('almg.gov.br', 'MVR2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro.gov.br', 'SAADI5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro.gov.br', 'SAADI5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro.gov.br', 'LFL', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inmetro.gov.br', 'SAADI5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfbm.gov.br', 'CFBAD', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfbm.gov.br', 'CFBAD', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfbm.gov.br', 'CFBAD', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cfbm.gov.br', 'CFBAD', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('am.gov.br', 'ANSNA49', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('am.gov.br', 'ANSNA49', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('am.gov.br', 'FAAAN28', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('am.gov.br', 'JMPFI9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infopen.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infopen.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infopen.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infopen.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilexport.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilexport.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilexport.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilexport.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pcdl.gov.br', 'RSP142', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pcdl.gov.br', 'RSP142', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pcdl.gov.br', 'RSP142', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pcdl.gov.br', 'RSP142', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcb.gov.br', 'SETIN16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcb.gov.br', 'DIBCB', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcb.gov.br', 'SETIN16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcb.gov.br', 'DIBCB', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt3.gov.br', 'JEM99', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt3.gov.br', 'JEM99', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt3.gov.br', 'JEM99', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt3.gov.br', 'JEM99', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dac.gov.br', 'GESAN124', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dac.gov.br', 'RGRSI7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dac.gov.br', 'RGRSI7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dac.gov.br', 'RGRSI7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dprf.gov.br', 'DITEL10', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dprf.gov.br', 'DITEL10', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dprf.gov.br', 'DITEL10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dprf.gov.br', 'DITEL10', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inovaif.gov.br', 'INFBR6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inovaif.gov.br', 'INFBR6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inovaif.gov.br', 'INFBR6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inovaif.gov.br', 'INFBR6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceitec.gov.br', 'SSD38', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceitec.gov.br', 'SSD38', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceitec.gov.br', 'SSD38', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ceitec.gov.br', 'SSD38', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-sp.gov.br', 'CSSPA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-sp.gov.br', 'CSSPA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-sp.gov.br', 'CSSPA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('creci-sp.gov.br', 'CSSPA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sacoeumsaco.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sacoeumsaco.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sacoeumsaco.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sacoeumsaco.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('concar.gov.br', 'ECO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('concar.gov.br', 'ECO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('concar.gov.br', 'ECO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('concar.gov.br', 'ECO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalsiscomex.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalsiscomex.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalsiscomex.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalsiscomex.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consultaprotocolo.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consultaprotocolo.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consultaprotocolo.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consultaprotocolo.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maranhao.gov.br', 'GEISE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maranhao.gov.br', 'GEISE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maranhao.gov.br', 'GEISE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maranhao.gov.br', 'GEISE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projovemurbano.gov.br', 'CPPAV', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projovemurbano.gov.br', 'CPPAV', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projovemurbano.gov.br', 'CPPAV', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('projovemurbano.gov.br', 'CPPAV', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agrolivre.gov.br', 'SMFSM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agrolivre.gov.br', 'SMFSM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agrolivre.gov.br', 'CFP8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agrolivre.gov.br', 'SMFSM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hemobras.gov.br', 'CLLJU18', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hemobras.gov.br', 'CLLJU18', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hemobras.gov.br', 'CLLJU18', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hemobras.gov.br', 'CLLJU18', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsgc.gov.br', 'RSF290', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsgc.gov.br', 'RSF290', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsgc.gov.br', 'RSF290', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafsgc.gov.br', 'RSF290', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt21.gov.br', 'SERED2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt21.gov.br', 'SERED2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt21.gov.br', 'SERED2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt21.gov.br', 'WCJ56', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('qualidadedoleite.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('qualidadedoleite.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('qualidadedoleite.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('qualidadedoleite.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sispac.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sispac.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sispac.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sispac.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('atlasdeacessoajustica.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('atlasdeacessoajustica.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('atlasdeacessoajustica.gov.br', 'ALCBA81', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('atlasdeacessoajustica.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senad.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senad.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senad.gov.br', 'CCO83', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('senad.gov.br', 'CCO83', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfal.gov.br', 'JFA66', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfal.gov.br', 'FAC335', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfal.gov.br', 'JAFNE10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfal.gov.br', 'FAC335', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjdf.gov.br', 'SERCO46', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjdf.gov.br', 'SERCO46', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjdf.gov.br', 'SERCO46', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjdf.gov.br', 'SERCO46', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jcdf.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jcdf.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jcdf.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jcdf.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('logisticsbrazil.gov.br', 'EMPLO7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('logisticsbrazil.gov.br', 'EMPLO7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('logisticsbrazil.gov.br', 'MAFEL176', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('logisticsbrazil.gov.br', 'DSC84', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('softwarepublico.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('softwarepublico.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('softwarepublico.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('softwarepublico.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funag.gov.br', 'ALLSA55', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funag.gov.br', 'ALLSA55', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funag.gov.br', 'TFSFO2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funag.gov.br', 'TFSFO2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjmg.gov.br', 'TJMGE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjmg.gov.br', 'TJMGE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjmg.gov.br', 'GTT19', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tjmg.gov.br', 'GTT19', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tavbrasil.gov.br', 'MAFSO91', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tavbrasil.gov.br', 'MAFSO91', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tavbrasil.gov.br', 'MAFSO91', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tavbrasil.gov.br', 'MAFSO91', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaltransparencia.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaltransparencia.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaltransparencia.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaltransparencia.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('geipot.gov.br', 'SECDA3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('geipot.gov.br', 'SECDA3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('geipot.gov.br', 'SECDA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('geipot.gov.br', 'SECDA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('riocmsi.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('riocmsi.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('riocmsi.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('riocmsi.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consegi.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consegi.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consegi.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('consegi.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronasci.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronasci.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronasci.gov.br', 'ARAJU47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pronasci.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caisan.gov.br', 'MACSO438', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caisan.gov.br', 'MACSO438', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caisan.gov.br', 'MACSO438', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caisan.gov.br', 'MACSO438', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sjrs.gov.br', 'ALSIL482', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sjrs.gov.br', 'ALSIL482', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sjrs.gov.br', 'ALSIL482', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sjrs.gov.br', 'ANZMA3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sibbr.gov.br', 'WVL', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sibbr.gov.br', 'WVL', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sibbr.gov.br', 'WVL', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sibbr.gov.br', 'WVL', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cefetsvs.gov.br', 'PRD12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cefetsvs.gov.br', 'PRD12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cefetsvs.gov.br', 'PRD12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cefetsvs.gov.br', 'PRD12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisbacen.gov.br', 'SETIN16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisbacen.gov.br', 'DIBCB', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisbacen.gov.br', 'SETIN16', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisbacen.gov.br', 'DIBCB', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gcth-sida.gov.br', 'RGC5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gcth-sida.gov.br', 'RGC5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gcth-sida.gov.br', 'RGC5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gcth-sida.gov.br', 'RGC5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodonordeste.gov.br', 'CMRSO14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodonordeste.gov.br', 'CMRSO14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodonordeste.gov.br', 'FFN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bancodonordeste.gov.br', 'CMRSO14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('economizar.gov.br', 'EDFEL11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('economizar.gov.br', 'EDFEL11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('economizar.gov.br', 'EDFEL11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('economizar.gov.br', 'EDFEL11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilenvironment-mobile.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilenvironment-mobile.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilenvironment-mobile.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brazilenvironment-mobile.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-sp.gov.br', 'MRH14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-sp.gov.br', 'PSA20', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-sp.gov.br', 'PSA20', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-sp.gov.br', 'PAA79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hcl.gov.br', 'ACC1039', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hcl.gov.br', 'CEH23', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hcl.gov.br', 'CEH23', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('hcl.gov.br', 'CEH23', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rn.gov.br', 'MDM36', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rn.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rn.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-rn.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nead.gov.br', 'CII3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nead.gov.br', 'CII3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nead.gov.br', 'ROFAL36', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nead.gov.br', 'ROFAL36', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('florestal.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('florestal.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('florestal.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('florestal.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serac4.gov.br', 'DKO11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serac4.gov.br', 'DKO11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serac4.gov.br', 'DKO11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('serac4.gov.br', 'DKO11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('boavistaenergia.gov.br', 'GSC187', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('boavistaenergia.gov.br', 'AFN123', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('boavistaenergia.gov.br', 'JPLBR2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('boavistaenergia.gov.br', 'AFN123', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stn.gov.br', 'MNR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stn.gov.br', 'MNR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stn.gov.br', 'ROFFR86', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('stn.gov.br', 'MNR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisp.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisp.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisp.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sisp.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio01.gov.br', 'OLY', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio01.gov.br', 'OLY', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio01.gov.br', 'EML280', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio01.gov.br', 'OLY', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibama.gov.br', 'JXM', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibama.gov.br', 'AJA4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibama.gov.br', 'AJA4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ibama.gov.br', 'JXM', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('igualdaderacial.gov.br', 'SASAL43', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('igualdaderacial.gov.br', 'SASAL43', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('igualdaderacial.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('igualdaderacial.gov.br', 'SASAL43', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sirc.gov.br', 'DDA66', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sirc.gov.br', 'DDA66', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sirc.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sirc.gov.br', 'DDC98', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauma.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauma.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauma.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cauma.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio2.gov.br', 'DRS76', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio2.gov.br', 'DRS76', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio2.gov.br', 'DRS76', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbio2.gov.br', 'DRS76', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casadamoeda.gov.br', 'CMB', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casadamoeda.gov.br', 'CMB', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casadamoeda.gov.br', 'SIC198', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('casadamoeda.gov.br', 'CMB', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aiaf2014.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aiaf2014.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aiaf2014.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aiaf2014.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmachado.gov.br', 'MAL889', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmachado.gov.br', 'MAL889', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmachado.gov.br', 'MAL889', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafmachado.gov.br', 'MAL889', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agricultura.gov.br', 'MAS3725', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agricultura.gov.br', 'MAS3725', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agricultura.gov.br', 'MAS3725', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agricultura.gov.br', 'MAS3725', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dados.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dados.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dados.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dados.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copatransparente.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copatransparente.gov.br', 'SEIRE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copatransparente.gov.br', 'SEIRE4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('copatransparente.gov.br', 'SEIRE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sgov.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sgov.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sgov.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sgov.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriaesportiva.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriaesportiva.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriaesportiva.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('loteriaesportiva.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dj.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dj.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dj.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dj.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdv.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdv.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdv.gov.br', 'FRASO52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cdv.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chequeazul.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chequeazul.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chequeazul.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('chequeazul.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilvoluntario.gov.br', 'JORLO58', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilvoluntario.gov.br', 'JORLO58', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilvoluntario.gov.br', 'JORLO58', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilvoluntario.gov.br', 'JORLO58', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnarq.gov.br', 'KERPO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnarq.gov.br', 'KERPO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnarq.gov.br', 'KERPO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnarq.gov.br', 'KERPO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm3.gov.br', 'ROMCA209', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm3.gov.br', 'ROMCA209', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm3.gov.br', 'FCCFE11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm3.gov.br', 'ROMCA209', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('policiafederal.gov.br', 'CTI44', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('policiafederal.gov.br', 'CTI44', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('policiafederal.gov.br', 'CTI44', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('policiafederal.gov.br', 'CTI44', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvto.gov.br', 'FZM13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvto.gov.br', 'FZM13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvto.gov.br', 'FZM13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmvto.gov.br', 'FZM13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtps.gov.br', 'COINF90', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtps.gov.br', 'COINF90', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtps.gov.br', 'COINF90', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtps.gov.br', 'COINF90', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm1.gov.br', 'MAA575', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm1.gov.br', 'MAA575', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm1.gov.br', 'MAA575', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm1.gov.br', 'MAA575', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentroms.gov.br', 'TEE7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentroms.gov.br', 'TEE7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentroms.gov.br', 'TEE7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentroms.gov.br', 'TEE7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodeb.gov.br', 'LEOSI20', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodeb.gov.br', 'LEOSI20', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodeb.gov.br', 'LEOSI20', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prodeb.gov.br', 'LEOSI20', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cancer.gov.br', 'RLSDS12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cancer.gov.br', 'RLSDS12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cancer.gov.br', 'CALPI31', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cancer.gov.br', 'RLSDS12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-parana.gov.br', 'ADC633', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-parana.gov.br', 'ADC633', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-parana.gov.br', 'ADC633', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-parana.gov.br', 'ADC633', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('protocolo.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('protocolo.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('protocolo.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('protocolo.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trabalho.gov.br', 'COINF90', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trabalho.gov.br', 'MALHE11', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trabalho.gov.br', 'MALHE11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trabalho.gov.br', 'MALHE11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('migrantes.gov.br', 'MIJUS7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('migrantes.gov.br', 'ALCBA81', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('migrantes.gov.br', 'ALCBA81', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('migrantes.gov.br', 'ALCBA81', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumsocinfo.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumsocinfo.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumsocinfo.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('forumsocinfo.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafbambui.gov.br', 'EAB20', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafbambui.gov.br', 'EAB20', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafbambui.gov.br', 'EAB20', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafbambui.gov.br', 'EAB20', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('culturaviva.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('culturaviva.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('culturaviva.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('culturaviva.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportodesalvador.gov.br', 'SUTIN', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportodesalvador.gov.br', 'SUTIN', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportodesalvador.gov.br', 'SUTIN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('aeroportodesalvador.gov.br', 'GESUP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ci-brasil.gov.br', 'ANM153', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ci-brasil.gov.br', 'PACBE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ci-brasil.gov.br', 'PACBE47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ci-brasil.gov.br', 'PACBE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupe.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupe.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupe.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupe.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inde.gov.br', 'ECO', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inde.gov.br', 'ECO', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inde.gov.br', 'ECO', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('inde.gov.br', 'ECO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesourodireto.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesourodireto.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesourodireto.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tesourodireto.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpf.gov.br', 'CTI44', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpf.gov.br', 'CTI44', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpf.gov.br', 'CTI44', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dpf.gov.br', 'CTI44', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldaexportacao.gov.br', 'MDC167', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldaexportacao.gov.br', 'MDC167', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldaexportacao.gov.br', 'MDC167', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldaexportacao.gov.br', 'MDC167', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maismedico.gov.br', 'DOEBS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maismedico.gov.br', 'DOEBS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maismedico.gov.br', 'DOEBS', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('maismedico.gov.br', 'DOEBS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt05.gov.br', 'SEIRE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt05.gov.br', 'SEIRE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt05.gov.br', 'SEIRE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt05.gov.br', 'SEIRE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('condraf.gov.br', 'ECLNA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('condraf.gov.br', 'ECLNA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('condraf.gov.br', 'ECLNA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('condraf.gov.br', 'ECLNA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pe.gov.br', 'AETIN', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pe.gov.br', 'EFP21', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pe.gov.br', 'EFP21', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pe.gov.br', 'EFP21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infoseg.gov.br', 'ANFME67', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infoseg.gov.br', 'ANFME67', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infoseg.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infoseg.gov.br', 'ANFME67', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simulaminhacasaminhavida.gov.br', 'IJFFI', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simulaminhacasaminhavida.gov.br', 'IJFFI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simulaminhacasaminhavida.gov.br', 'IJFFI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simulaminhacasaminhavida.gov.br', 'IJFFI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesacivil.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesacivil.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesacivil.gov.br', 'ADSFE47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('defesacivil.gov.br', 'FFDSA72', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-to.gov.br', 'DCC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-to.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-to.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-to.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('interlegis.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('interlegis.gov.br', 'SIT80', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('interlegis.gov.br', 'SIT80', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('interlegis.gov.br', 'SIT80', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ap.gov.br', 'GEIPR3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ap.gov.br', 'GEIPR3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ap.gov.br', 'GEIPR3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ap.gov.br', 'GEIPR3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalcoren-rs.gov.br', 'CRE12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalcoren-rs.gov.br', 'CRE12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalcoren-rs.gov.br', 'CRE12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portalcoren-rs.gov.br', 'CRE12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('documenta.gov.br', 'GGCJU6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('documenta.gov.br', 'GGCJU6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('documenta.gov.br', 'LACAJ', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('documenta.gov.br', 'GGCJU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicaeleitoral.gov.br', 'DCC', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicaeleitoral.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicaeleitoral.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('justicaeleitoral.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secgeral.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secgeral.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secgeral.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secgeral.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incra.gov.br', 'CII3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incra.gov.br', 'JER7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incra.gov.br', 'JER', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incra.gov.br', 'JER', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redecontrole.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redecontrole.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redecontrole.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redecontrole.gov.br', 'ARRAL9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governo.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governo.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governo.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('governo.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('assistenciasocial.gov.br', 'MACSO438', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('assistenciasocial.gov.br', 'MACSO438', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('assistenciasocial.gov.br', 'MACSO438', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('assistenciasocial.gov.br', 'MACSO438', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('novoaeroportorecife.gov.br', 'SUTIN', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('novoaeroportorecife.gov.br', 'SUTIN', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('novoaeroportorecife.gov.br', 'GESUP4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('novoaeroportorecife.gov.br', 'GESUP4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15brazil.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15brazil.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15brazil.gov.br', 'INTVC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop15brazil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confecom.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confecom.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confecom.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confecom.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ba.gov.br', 'LEOSI20', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ba.gov.br', 'LEOSI20', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ba.gov.br', 'MRM11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ba.gov.br', 'LEOSI20', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupa.gov.br', 'MICLO17', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupa.gov.br', 'MICLO17', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupa.gov.br', 'SCITI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caupa.gov.br', 'SCFIN', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fatoseboatos.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fatoseboatos.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fatoseboatos.gov.br', 'MAMPA145', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fatoseboatos.gov.br', 'MAMPA145', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrn.gov.br', 'FRRRO5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrn.gov.br', 'FRRRO5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrn.gov.br', 'FRRRO5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfrn.gov.br', 'FRRRO5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nae.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nae.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nae.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nae.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfa-pe.gov.br', 'DFA22', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfa-pe.gov.br', 'DFA22', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfa-pe.gov.br', 'HOT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dfa-pe.gov.br', 'DFA22', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdênciasocial.gov.brxn--previdnciasocial-xqb.gov.br', 'LRS181', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdênciasocial.gov.brxn--previdnciasocial-xqb.gov.br', 'LRS181', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdênciasocial.gov.brxn--previdnciasocial-xqb.gov.br', 'LRS181', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('previdênciasocial.gov.brxn--previdnciasocial-xqb.gov.br', 'LRS181', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmrj.gov.br', 'ALM784', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmrj.gov.br', 'ALM784', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmrj.gov.br', 'ALM784', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crmrj.gov.br', 'ALM784', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quiosque.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quiosque.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quiosque.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quiosque.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redebrasil.gov.br', 'REDOM95', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redebrasil.gov.br', 'ADNMC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redebrasil.gov.br', 'ADNMC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redebrasil.gov.br', 'ADNMC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ciscea.gov.br', 'MAC46', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ciscea.gov.br', 'MAC46', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ciscea.gov.br', 'MAC46', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ciscea.gov.br', 'MAC46', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pb.gov.br', 'TRP12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pb.gov.br', 'TRP12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pb.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pb.gov.br', 'TRP12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confiancanobrasil.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confiancanobrasil.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confiancanobrasil.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('confiancanobrasil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secom.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secom.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secom.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('secom.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop.gov.br', 'INTVC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cop.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cade.gov.br', 'BEGSO3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cade.gov.br', 'VAVSO31', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cade.gov.br', 'GACMA58', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cade.gov.br', 'BEGSO3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('finame.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('finame.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('finame.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('finame.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('netminas.gov.br', 'PGM14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('netminas.gov.br', 'PGM14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('netminas.gov.br', 'PGM14', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('netminas.gov.br', 'PGM14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscopa2014.gov.br', 'ARRAL9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscopa2014.gov.br', 'ARRAL9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscopa2014.gov.br', 'RETMI', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fiscopa2014.gov.br', 'ACSQU', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emquestao.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emquestao.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emquestao.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('emquestao.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sipam.gov.br', 'ROGUE84', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sipam.gov.br', 'RAPCO62', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sipam.gov.br', 'CACMO25', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('sipam.gov.br', 'CACMO25', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redesocial.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redesocial.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redesocial.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('redesocial.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnrh.gov.br', 'BRGDU2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnrh.gov.br', 'BRGDU2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnrh.gov.br', 'BRGDU2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cnrh.gov.br', 'BRGDU2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('soumaismedico.gov.br', 'DOEBS', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('soumaismedico.gov.br', 'DOEBS', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('soumaismedico.gov.br', 'DOEBS', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('soumaismedico.gov.br', 'DOEBS', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-es.gov.br', 'FJT46', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-es.gov.br', 'FJT46', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-es.gov.br', 'TEE11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fundacentro-es.gov.br', 'FJT46', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trensurb.gov.br', 'SECDA3', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trensurb.gov.br', 'SECDA3', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trensurb.gov.br', 'SECDA3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trensurb.gov.br', 'GLF41', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixapostal.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixapostal.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixapostal.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('caixapostal.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpmsc.gov.br', 'IPI12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpmsc.gov.br', 'IPI12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpmsc.gov.br', 'IPI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpmsc.gov.br', 'IPI12', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infojus.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infojus.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infojus.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('infojus.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededojudiciario.gov.br', 'EDR194', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededojudiciario.gov.br', 'SETIN14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededojudiciario.gov.br', 'SGSRE3', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rededojudiciario.gov.br', 'GASTI6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('businessbrasil.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('businessbrasil.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('businessbrasil.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('businessbrasil.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpm-pe.gov.br', 'DDP38', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpm-pe.gov.br', 'DDP38', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpm-pe.gov.br', 'FOX2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dnpm-pe.gov.br', 'DDP38', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilglobalnet.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilglobalnet.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilglobalnet.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilglobalnet.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gestaoemdestaque.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gestaoemdestaque.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gestaoemdestaque.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('gestaoemdestaque.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('car.gov.br', 'JXM', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('car.gov.br', 'JXM', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('car.gov.br', 'AJA4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('car.gov.br', 'NEGRE8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm5.gov.br', 'REMIN22', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm5.gov.br', 'REMIN22', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm5.gov.br', 'MAGSI53', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crbm5.gov.br', 'REMIN22', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordesteeletronico.gov.br', 'CMRSO14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordesteeletronico.gov.br', 'CMRSO14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordesteeletronico.gov.br', 'FFN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordesteeletronico.gov.br', 'CMRSO14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr17.gov.br', 'MAMOC2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr17.gov.br', 'MAMOC2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr17.gov.br', 'CRARE8', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('crtr17.gov.br', 'CRARE8', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('informacao.gov.br', 'AMDSC29', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('informacao.gov.br', 'AMDSC29', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('informacao.gov.br', 'VDMLI12', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('informacao.gov.br', 'GUMSO21', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilpresente.gov.br', 'MAMPA145', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilpresente.gov.br', 'MAMPA145', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilpresente.gov.br', 'DCL372', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilpresente.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agronet.gov.br', 'CWSRO5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agronet.gov.br', 'CWSRO5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agronet.gov.br', 'CWSRO5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('agronet.gov.br', 'CWSRO5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corensc.gov.br', 'MIRKA', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corensc.gov.br', 'MIRKA', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corensc.gov.br', 'MIRKA', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('corensc.gov.br', 'MIRKA', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siga.gov.br', 'SEIRE4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siga.gov.br', 'SEIRE4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siga.gov.br', 'SEIRE4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siga.gov.br', 'SEIRE4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipardes.gov.br', 'PMG11', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipardes.gov.br', 'HPS12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipardes.gov.br', 'MAB10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('ipardes.gov.br', 'ACP108', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pesquisa.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pesquisa.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pesquisa.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('pesquisa.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgtee.gov.br', 'MNM131', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgtee.gov.br', 'MNM131', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgtee.gov.br', 'MNM131', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cgtee.gov.br', 'MNM131', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mercosul.gov.br', 'SAT7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mercosul.gov.br', 'SAT7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mercosul.gov.br', 'SAT7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mercosul.gov.br', 'SAT7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mmirjdh.gov.br', 'DMPRO12', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mmirjdh.gov.br', 'DMPRO12', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mmirjdh.gov.br', 'FRASO52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mmirjdh.gov.br', 'ANHCA25', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saemec.gov.br', 'INP', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saemec.gov.br', 'INP', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saemec.gov.br', 'INP', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('saemec.gov.br', 'INP', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snisb.gov.br', 'ANS308', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snisb.gov.br', 'ANS308', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snisb.gov.br', 'ANS308', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('snisb.gov.br', 'ANS308', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns-es.gov.br', 'TEE7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns-es.gov.br', 'TEE7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns-es.gov.br', 'TEE7', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fns-es.gov.br', 'TEE7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quiosqueredegoverno.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quiosqueredegoverno.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quiosqueredegoverno.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('quiosqueredegoverno.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('processoeletroniconacional.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('processoeletroniconacional.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('processoeletroniconacional.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('processoeletroniconacional.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevofederal.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevofederal.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevofederal.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trevofederal.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('memoriabndes.gov.br', 'GGT13', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('memoriabndes.gov.br', 'GGT13', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('memoriabndes.gov.br', 'GGT13', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('memoriabndes.gov.br', 'GGT13', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafudi.gov.br', 'HPF9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafudi.gov.br', 'HPF9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafudi.gov.br', 'HPF9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafudi.gov.br', 'CCRDO', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldajustica.gov.br', 'DARCO34', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldajustica.gov.br', 'DARCO34', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldajustica.gov.br', 'DARCO34', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('portaldajustica.gov.br', 'DARCO34', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('obscriancaeadolescente.gov.br', 'MAAJU182', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('obscriancaeadolescente.gov.br', 'WEL52', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('obscriancaeadolescente.gov.br', 'FRASO52', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('obscriancaeadolescente.gov.br', 'WEL52', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcdam.gov.br', 'RFCSI22', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcdam.gov.br', 'CPRMI', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcdam.gov.br', 'RFCSI22', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcdam.gov.br', 'CPRMI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--justia-0ua.gov.br', '', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--justia-0ua.gov.br', '', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--justia-0ua.gov.br', '', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('xn--justia-0ua.gov.br', '', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nbr.gov.br', 'RSM9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nbr.gov.br', 'RSM9', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nbr.gov.br', 'RSM9', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nbr.gov.br', 'RSM9', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt10.gov.br', 'FRCPF', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt10.gov.br', 'ROP54', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt10.gov.br', 'RGA182', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('trt10.gov.br', 'ROP54', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investexportbrasil.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investexportbrasil.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investexportbrasil.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('investexportbrasil.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-stj.gov.br', 'DARCO34', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-stj.gov.br', 'DARCO34', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-stj.gov.br', 'FKPSI2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-stj.gov.br', 'DARCO34', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ma.gov.br', 'WTM9', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ma.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ma.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-ma.gov.br', 'DCC', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceast.gov.br', 'SRS330', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceast.gov.br', 'SRS330', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceast.gov.br', 'SRS330', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dtceast.gov.br', 'SRS330', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('es.gov.br', 'FAM765', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('es.gov.br', 'FAM765', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('es.gov.br', 'DEFMA30', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('es.gov.br', 'FAM765', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('badesc.gov.br', 'BDE', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('badesc.gov.br', 'BDE', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('badesc.gov.br', 'BDE', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('badesc.gov.br', 'BDE', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('a2000.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('a2000.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('a2000.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('a2000.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-sp.gov.br', 'SKR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-sp.gov.br', 'SKR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-sp.gov.br', 'SKR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cprm-sp.gov.br', 'SKR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('relacoesinstitucionais.gov.br', 'FERSI56', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('relacoesinstitucionais.gov.br', 'FERSI56', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('relacoesinstitucionais.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('relacoesinstitucionais.gov.br', 'FERSI56', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilia2010.gov.br', 'MICUL2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilia2010.gov.br', 'MICUL2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilia2010.gov.br', 'MICUL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilia2010.gov.br', 'MICUL2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsemmiseria.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsemmiseria.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsemmiseria.gov.br', 'EDMED27', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('brasilsemmiseria.gov.br', 'ADSFE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiafacilgps.gov.br', 'RMJ35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiafacilgps.gov.br', 'RMJ35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiafacilgps.gov.br', 'GIT60', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiafacilgps.gov.br', 'GIC166', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conferenciameioambiente.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conferenciameioambiente.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conferenciameioambiente.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('conferenciameioambiente.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funpresp-exe.gov.br', 'MAACR88', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funpresp-exe.gov.br', 'ELBCH', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funpresp-exe.gov.br', 'DDT10', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('funpresp-exe.gov.br', 'ELBCH', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eixos.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eixos.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eixos.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eixos.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siapenet.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siapenet.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siapenet.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('siapenet.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordestenegocios.gov.br', 'CMRSO14', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordestenegocios.gov.br', 'CMRSO14', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordestenegocios.gov.br', 'FFN', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('nordestenegocios.gov.br', 'CMRSO14', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simecpr.gov.br', 'MIEDU6', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simecpr.gov.br', 'MIEDU6', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simecpr.gov.br', 'MIEDU6', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('simecpr.gov.br', 'MIEDU6', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('p2r2.gov.br', 'MMR', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('p2r2.gov.br', 'MMR', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('p2r2.gov.br', 'MMR', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('p2r2.gov.br', 'MMR', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('deputado.gov.br', 'SSG50', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('deputado.gov.br', 'SSG50', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('deputado.gov.br', 'SSG50', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('deputado.gov.br', 'SSG50', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafb.gov.br', 'MDG45', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafb.gov.br', 'MDG45', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafb.gov.br', 'JABLJ2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('eafb.gov.br', 'MDG45', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiadeservicos.gov.br', 'CGSTM2', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiadeservicos.gov.br', 'CGSTM2', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiadeservicos.gov.br', 'CGSTM2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('guiadeservicos.gov.br', 'CGSTM2', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pi.gov.br', 'PML39', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pi.gov.br', 'DCC', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pi.gov.br', 'DCC', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('tre-pi.gov.br', 'WOS3', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('goias.gov.br', 'AGP35', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('goias.gov.br', 'AGP35', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('goias.gov.br', 'AGP35', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('goias.gov.br', 'AGP35', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incra-pe.gov.br', 'SRH7', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incra-pe.gov.br', 'SRH7', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incra-pe.gov.br', 'IEL2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('incra-pe.gov.br', 'SRH7', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fazenda.gov.br', 'ADSFE47', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fazenda.gov.br', 'ADSFE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fazenda.gov.br', 'MRV103', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('fazenda.gov.br', 'WEQLI', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cti.gov.br', 'ANM153', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cti.gov.br', 'PACBE47', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cti.gov.br', 'PACBE47', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('cti.gov.br', 'PACBE47', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rbmlq.gov.br', 'AOS4', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rbmlq.gov.br', 'AOS4', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rbmlq.gov.br', 'AOS4', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('rbmlq.gov.br', 'AOS4', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtb.gov.br', 'COINF90', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtb.gov.br', 'CLMEN28', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtb.gov.br', 'MALHE11', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('mtb.gov.br', 'MALHE11', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialogabrasil.gov.br', 'MAR79', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialogabrasil.gov.br', 'MAR79', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialogabrasil.gov.br', 'MAR79', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('dialogabrasil.gov.br', 'MAR79', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('promocaocomercial.gov.br', 'CTDPR5', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('promocaocomercial.gov.br', 'CTDPR5', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('promocaocomercial.gov.br', 'CTDPR5', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('promocaocomercial.gov.br', 'CTDPR5', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcc.gov.br', 'CIBRA24', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcc.gov.br', 'CIBRA24', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcc.gov.br', 'CIBRA24', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('bcc.gov.br', 'CIBRA24', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt16.gov.br', 'FAA16', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt16.gov.br', 'FAA16', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt16.gov.br', 'SCA36', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('prt16.gov.br', 'SCA36', 'billing-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-jud.gov.br', 'DARCO34', 'owner-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-jud.gov.br', 'DARCO34', 'admin-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-jud.gov.br', 'FKPSI2', 'tech-c');
-INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('e-jud.gov.br', 'DARCO34', 'billing-c');
+INSERT INTO Papel (domain, nic_hdl_br, tipo) VALUES ('jfpr.gov.br', 'JFI3', 'owner-c'),
+ ('jfpr.gov.br', 'JFI3', 'admin-c'),
+ ('jfpr.gov.br', 'JFI3', 'tech-c'),
+ ('jfpr.gov.br', 'JFI3', 'billing-c'),
+ ('dnit.gov.br', 'AFC320', 'owner-c'),
+ ('dnit.gov.br', 'MHA22', 'admin-c'),
+ ('dnit.gov.br', 'ZAL8', 'tech-c'),
+ ('dnit.gov.br', 'VSJ47', 'billing-c'),
+ ('pessoacomdeficiencia.gov.br', 'MAAJU182', 'owner-c'),
+ ('pessoacomdeficiencia.gov.br', 'WEL52', 'admin-c'),
+ ('pessoacomdeficiencia.gov.br', 'FRASO52', 'tech-c'),
+ ('pessoacomdeficiencia.gov.br', 'WEL52', 'billing-c'),
+ ('conab.gov.br', 'GPL11', 'owner-c'),
+ ('conab.gov.br', 'GPL11', 'admin-c'),
+ ('conab.gov.br', 'GPL11', 'tech-c'),
+ ('conab.gov.br', 'MHM5', 'billing-c'),
+ ('energiabv.gov.br', 'GSC187', 'owner-c'),
+ ('energiabv.gov.br', 'AFN123', 'admin-c'),
+ ('energiabv.gov.br', 'JPLBR2', 'tech-c'),
+ ('energiabv.gov.br', 'AFN123', 'billing-c'),
+ ('brasilmaisprodutivo.gov.br', 'MDC167', 'owner-c'),
+ ('brasilmaisprodutivo.gov.br', 'MDC167', 'admin-c'),
+ ('brasilmaisprodutivo.gov.br', 'MDC167', 'tech-c'),
+ ('brasilmaisprodutivo.gov.br', 'MDC167', 'billing-c'),
+ ('agriculturafamiliar.gov.br', 'ECLNA', 'owner-c'),
+ ('agriculturafamiliar.gov.br', 'ECLNA', 'admin-c'),
+ ('agriculturafamiliar.gov.br', 'ECLNA', 'tech-c'),
+ ('agriculturafamiliar.gov.br', 'ECLNA', 'billing-c'),
+ ('gesac.gov.br', 'VPF2', 'owner-c'),
+ ('gesac.gov.br', 'VPF2', 'admin-c'),
+ ('gesac.gov.br', 'VPF2', 'tech-c'),
+ ('gesac.gov.br', 'VPF2', 'billing-c'),
+ ('duplasena.gov.br', 'RMJ35', 'owner-c'),
+ ('duplasena.gov.br', 'RMJ35', 'admin-c'),
+ ('duplasena.gov.br', 'GIT60', 'tech-c'),
+ ('duplasena.gov.br', 'GIC166', 'billing-c'),
+ ('palmares.gov.br', 'FCP41', 'owner-c'),
+ ('palmares.gov.br', 'FCP41', 'admin-c'),
+ ('palmares.gov.br', 'FCP41', 'tech-c'),
+ ('palmares.gov.br', 'FCP41', 'billing-c'),
+ ('anvs.gov.br', 'SCO6', 'owner-c'),
+ ('anvs.gov.br', 'SCO6', 'admin-c'),
+ ('anvs.gov.br', 'SCO6', 'tech-c'),
+ ('anvs.gov.br', 'SCO6', 'billing-c'),
+ ('fhdf.gov.br', 'CAT64', 'owner-c'),
+ ('fhdf.gov.br', 'CAT64', 'admin-c'),
+ ('fhdf.gov.br', 'CAT64', 'tech-c'),
+ ('fhdf.gov.br', 'CAT64', 'billing-c'),
+ ('e-jus.gov.br', 'DARCO34', 'owner-c'),
+ ('e-jus.gov.br', 'DARCO34', 'admin-c'),
+ ('e-jus.gov.br', 'DARCO34', 'tech-c'),
+ ('e-jus.gov.br', 'DARCO34', 'billing-c'),
+ ('ahimor.gov.br', 'AEA96', 'owner-c'),
+ ('ahimor.gov.br', 'AEA96', 'admin-c'),
+ ('ahimor.gov.br', 'AEA96', 'tech-c'),
+ ('ahimor.gov.br', 'AEA96', 'billing-c'),
+ ('fundacentro.gov.br', 'NOFJU', 'owner-c'),
+ ('fundacentro.gov.br', 'NOFJU', 'admin-c'),
+ ('fundacentro.gov.br', 'DIANJ18', 'tech-c'),
+ ('fundacentro.gov.br', 'NOFJU', 'billing-c'),
+ ('trt12.gov.br', 'TRR', 'owner-c'),
+ ('trt12.gov.br', 'TRR', 'admin-c'),
+ ('trt12.gov.br', 'TRR', 'tech-c'),
+ ('trt12.gov.br', 'TRR', 'billing-c'),
+ ('tesouro.gov.br', 'MNR', 'owner-c'),
+ ('tesouro.gov.br', 'MNR', 'admin-c'),
+ ('tesouro.gov.br', 'ROFFR86', 'tech-c'),
+ ('tesouro.gov.br', 'MNR', 'billing-c'),
+ ('cortesmercosur.gov.br', 'EDR194', 'owner-c'),
+ ('cortesmercosur.gov.br', 'SETIN14', 'admin-c'),
+ ('cortesmercosur.gov.br', 'SGSRE3', 'tech-c'),
+ ('cortesmercosur.gov.br', 'GASTI6', 'billing-c'),
+ ('marinha.gov.br', 'CAS39', 'owner-c'),
+ ('marinha.gov.br', 'CAS39', 'admin-c'),
+ ('marinha.gov.br', 'CAS39', 'tech-c'),
+ ('marinha.gov.br', 'CAS39', 'billing-c'),
+ ('mct.gov.br', 'REDOM95', 'owner-c'),
+ ('mct.gov.br', 'ADNMC', 'admin-c'),
+ ('mct.gov.br', 'PEMSC5', 'tech-c'),
+ ('mct.gov.br', 'ADNMC', 'billing-c'),
+ ('museudainconfidencia.gov.br', 'RUMOU3', 'owner-c'),
+ ('museudainconfidencia.gov.br', 'RUMOU3', 'admin-c'),
+ ('museudainconfidencia.gov.br', 'EESEW', 'tech-c'),
+ ('museudainconfidencia.gov.br', 'RUMOU3', 'billing-c'),
+ ('crefsp.gov.br', 'CPM144', 'owner-c'),
+ ('crefsp.gov.br', 'CPM144', 'admin-c'),
+ ('crefsp.gov.br', 'CPM144', 'tech-c'),
+ ('crefsp.gov.br', 'CPM144', 'billing-c'),
+ ('codevasf.gov.br', 'OJS', 'owner-c'),
+ ('codevasf.gov.br', 'OJS', 'admin-c'),
+ ('codevasf.gov.br', 'ALGMO16', 'tech-c'),
+ ('codevasf.gov.br', 'OJS', 'billing-c'),
+ ('esporte.gov.br', 'JDGPI', 'owner-c'),
+ ('esporte.gov.br', 'JAA364', 'admin-c'),
+ ('esporte.gov.br', 'JAA364', 'tech-c'),
+ ('esporte.gov.br', 'JAA364', 'billing-c'),
+ ('portosempapel.gov.br', 'REABE16', 'owner-c'),
+ ('portosempapel.gov.br', 'REABE16', 'admin-c'),
+ ('portosempapel.gov.br', 'MRV103', 'tech-c'),
+ ('portosempapel.gov.br', 'REABE16', 'billing-c'),
+ ('eafcrato.gov.br', 'LCL342', 'owner-c'),
+ ('eafcrato.gov.br', 'LCL342', 'admin-c'),
+ ('eafcrato.gov.br', 'LCL342', 'tech-c'),
+ ('eafcrato.gov.br', 'LCL342', 'billing-c'),
+ ('btn.gov.br', 'CTDPR5', 'owner-c'),
+ ('btn.gov.br', 'CTDPR5', 'admin-c'),
+ ('btn.gov.br', 'CTDPR5', 'tech-c'),
+ ('btn.gov.br', 'CTDPR5', 'billing-c'),
+ ('portaljt.gov.br', 'SCD13', 'owner-c'),
+ ('portaljt.gov.br', 'SCD13', 'admin-c'),
+ ('portaljt.gov.br', 'SCD13', 'tech-c'),
+ ('portaljt.gov.br', 'SCD13', 'billing-c'),
+ ('servicoflorestal.gov.br', 'MMR', 'owner-c'),
+ ('servicoflorestal.gov.br', 'MMR', 'admin-c'),
+ ('servicoflorestal.gov.br', 'MMR', 'tech-c'),
+ ('servicoflorestal.gov.br', 'MMR', 'billing-c'),
+ ('pf.gov.br', 'CTI44', 'owner-c'),
+ ('pf.gov.br', 'CTI44', 'admin-c'),
+ ('pf.gov.br', 'CTI44', 'tech-c'),
+ ('pf.gov.br', 'CTI44', 'billing-c'),
+ ('quina.gov.br', 'RMJ35', 'owner-c'),
+ ('quina.gov.br', 'RMJ35', 'admin-c'),
+ ('quina.gov.br', 'GIT60', 'tech-c'),
+ ('quina.gov.br', 'GIC166', 'billing-c'),
+ ('eafce.gov.br', 'EAC261', 'owner-c'),
+ ('eafce.gov.br', 'EAC261', 'admin-c'),
+ ('eafce.gov.br', 'EAC261', 'tech-c'),
+ ('eafce.gov.br', 'EAC261', 'billing-c'),
+ ('portaldoinvestidor.gov.br', 'CVGTE', 'owner-c'),
+ ('portaldoinvestidor.gov.br', 'CVGTE', 'admin-c'),
+ ('portaldoinvestidor.gov.br', 'CVGTE', 'tech-c'),
+ ('portaldoinvestidor.gov.br', 'CVGTE', 'billing-c'),
+ ('sisbin.gov.br', 'GDS174', 'owner-c'),
+ ('sisbin.gov.br', 'GDS174', 'admin-c'),
+ ('sisbin.gov.br', 'DSARA3', 'tech-c'),
+ ('sisbin.gov.br', 'GDS174', 'billing-c'),
+ ('varadafazenda.gov.br', 'DARCO34', 'owner-c'),
+ ('varadafazenda.gov.br', 'DARCO34', 'admin-c'),
+ ('varadafazenda.gov.br', 'DARCO34', 'tech-c'),
+ ('varadafazenda.gov.br', 'DARCO34', 'billing-c'),
+ ('forumsipec.gov.br', 'CGSTM2', 'owner-c'),
+ ('forumsipec.gov.br', 'CGSTM2', 'admin-c'),
+ ('forumsipec.gov.br', 'CGSTM2', 'tech-c'),
+ ('forumsipec.gov.br', 'CGSTM2', 'billing-c'),
+ ('dinf.gov.br', 'GDS174', 'owner-c'),
+ ('dinf.gov.br', 'GDS174', 'admin-c'),
+ ('dinf.gov.br', 'DSARA3', 'tech-c'),
+ ('dinf.gov.br', 'GDS174', 'billing-c'),
+ ('instantanea.gov.br', 'RMJ35', 'owner-c'),
+ ('instantanea.gov.br', 'RMJ35', 'admin-c'),
+ ('instantanea.gov.br', 'GIT60', 'tech-c'),
+ ('instantanea.gov.br', 'GIC166', 'billing-c'),
+ ('historiasdobrasil.gov.br', 'MAMPA145', 'owner-c'),
+ ('historiasdobrasil.gov.br', 'MAMPA145', 'admin-c'),
+ ('historiasdobrasil.gov.br', 'MAMPA145', 'tech-c'),
+ ('historiasdobrasil.gov.br', 'MAMPA145', 'billing-c'),
+ ('cnfcp.gov.br', 'LNV9', 'owner-c'),
+ ('cnfcp.gov.br', 'LNV9', 'admin-c'),
+ ('cnfcp.gov.br', 'LNV9', 'tech-c'),
+ ('cnfcp.gov.br', 'LNV9', 'billing-c'),
+ ('eafsombrio.gov.br', 'ANCSO351', 'owner-c'),
+ ('eafsombrio.gov.br', 'ANCSO351', 'admin-c'),
+ ('eafsombrio.gov.br', 'ANCSO351', 'tech-c'),
+ ('eafsombrio.gov.br', 'ALP344', 'billing-c'),
+ ('jfrs.gov.br', 'ALSIL482', 'owner-c'),
+ ('jfrs.gov.br', 'ALSIL482', 'admin-c'),
+ ('jfrs.gov.br', 'ALSIL482', 'tech-c'),
+ ('jfrs.gov.br', 'ANZMA3', 'billing-c'),
+ ('crtr18.gov.br', 'ADCDI9', 'owner-c'),
+ ('crtr18.gov.br', 'ADCDI9', 'admin-c'),
+ ('crtr18.gov.br', 'ADCDI9', 'tech-c'),
+ ('crtr18.gov.br', 'ADCDI9', 'billing-c'),
+ ('tre-go.gov.br', 'CNA16', 'owner-c'),
+ ('tre-go.gov.br', 'DCC', 'admin-c'),
+ ('tre-go.gov.br', 'DCC', 'tech-c'),
+ ('tre-go.gov.br', 'CNA16', 'billing-c'),
+ ('abgf.gov.br', 'ABGFS', 'owner-c'),
+ ('abgf.gov.br', 'ABGFS', 'admin-c'),
+ ('abgf.gov.br', 'ABGFS', 'tech-c'),
+ ('abgf.gov.br', 'ABGFS', 'billing-c'),
+ ('trinca.gov.br', 'RMJ35', 'owner-c'),
+ ('trinca.gov.br', 'RMJ35', 'admin-c'),
+ ('trinca.gov.br', 'GIT60', 'tech-c'),
+ ('trinca.gov.br', 'GIC166', 'billing-c'),
+ ('desenvolvimentorural.gov.br', 'ECLNA', 'owner-c'),
+ ('desenvolvimentorural.gov.br', 'ECLNA', 'admin-c'),
+ ('desenvolvimentorural.gov.br', 'ECLNA', 'tech-c'),
+ ('desenvolvimentorural.gov.br', 'ECLNA', 'billing-c'),
+ ('caums.gov.br', 'MICLO17', 'owner-c'),
+ ('caums.gov.br', 'MICLO17', 'admin-c'),
+ ('caums.gov.br', 'SCITI', 'tech-c'),
+ ('caums.gov.br', 'SCFIN', 'billing-c'),
+ ('caixainveste.gov.br', 'RMJ35', 'owner-c'),
+ ('caixainveste.gov.br', 'RMJ35', 'admin-c'),
+ ('caixainveste.gov.br', 'GIT60', 'tech-c'),
+ ('caixainveste.gov.br', 'GIC166', 'billing-c'),
+ ('frp.gov.br', 'ARA11', 'owner-c'),
+ ('frp.gov.br', 'ARA11', 'admin-c'),
+ ('frp.gov.br', 'ARA11', 'tech-c'),
+ ('frp.gov.br', 'ARA11', 'billing-c'),
+ ('cbnb.gov.br', 'EDWOL18', 'owner-c'),
+ ('cbnb.gov.br', 'EDWOL18', 'admin-c'),
+ ('cbnb.gov.br', 'EDWOL18', 'tech-c'),
+ ('cbnb.gov.br', 'EDWOL18', 'billing-c'),
+ ('caixaoperadoradeseguros.gov.br', 'RMJ35', 'owner-c'),
+ ('caixaoperadoradeseguros.gov.br', 'RMJ35', 'admin-c'),
+ ('caixaoperadoradeseguros.gov.br', 'GIT60', 'tech-c'),
+ ('caixaoperadoradeseguros.gov.br', 'GIC166', 'billing-c'),
+ ('expofeiras.gov.br', 'MDC167', 'owner-c'),
+ ('expofeiras.gov.br', 'MDC167', 'admin-c'),
+ ('expofeiras.gov.br', 'MDC167', 'tech-c'),
+ ('expofeiras.gov.br', 'MDC167', 'billing-c'),
+ ('camaradosdeputados.gov.br', 'SSG50', 'owner-c'),
+ ('camaradosdeputados.gov.br', 'SSG50', 'admin-c'),
+ ('camaradosdeputados.gov.br', 'SSG50', 'tech-c'),
+ ('camaradosdeputados.gov.br', 'SSG50', 'billing-c'),
+ ('icea.gov.br', 'ADRED14', 'owner-c'),
+ ('icea.gov.br', 'ADRED14', 'admin-c'),
+ ('icea.gov.br', 'FAVLI17', 'tech-c'),
+ ('icea.gov.br', 'ADRED14', 'billing-c'),
+ ('mercadopublico.gov.br', 'CGSTM2', 'owner-c'),
+ ('mercadopublico.gov.br', 'CGSTM2', 'admin-c'),
+ ('mercadopublico.gov.br', 'CGSTM2', 'tech-c'),
+ ('mercadopublico.gov.br', 'CGSTM2', 'billing-c'),
+ ('chesf.gov.br', 'FAMVA16', 'owner-c'),
+ ('chesf.gov.br', 'FAMVA16', 'admin-c'),
+ ('chesf.gov.br', 'FAMVA16', 'tech-c'),
+ ('chesf.gov.br', 'FAMVA16', 'billing-c'),
+ ('adene.gov.br', 'ADN75', 'owner-c'),
+ ('adene.gov.br', 'ADN75', 'admin-c'),
+ ('adene.gov.br', 'ADN75', 'tech-c'),
+ ('adene.gov.br', 'ADN75', 'billing-c'),
+ ('ipeadata.gov.br', 'MHS92', 'owner-c'),
+ ('ipeadata.gov.br', 'MHS92', 'admin-c'),
+ ('ipeadata.gov.br', 'MHS92', 'tech-c'),
+ ('ipeadata.gov.br', 'MHS92', 'billing-c'),
+ ('caminhaodasorte.gov.br', 'RMJ35', 'owner-c'),
+ ('caminhaodasorte.gov.br', 'RMJ35', 'admin-c'),
+ ('caminhaodasorte.gov.br', 'GIT60', 'tech-c'),
+ ('caminhaodasorte.gov.br', 'GIC166', 'billing-c'),
+ ('senador.gov.br', 'SEIRE4', 'owner-c'),
+ ('senador.gov.br', 'SEIRE4', 'admin-c'),
+ ('senador.gov.br', 'SEIRE4', 'tech-c'),
+ ('senador.gov.br', 'SEIRE4', 'billing-c'),
+ ('corenms.gov.br', 'GHV12', 'owner-c'),
+ ('corenms.gov.br', 'GHV12', 'admin-c'),
+ ('corenms.gov.br', 'GHV12', 'tech-c'),
+ ('corenms.gov.br', 'GHV12', 'billing-c'),
+ ('dtceagw.gov.br', 'SRS330', 'owner-c'),
+ ('dtceagw.gov.br', 'SRS330', 'admin-c'),
+ ('dtceagw.gov.br', 'SRS330', 'tech-c'),
+ ('dtceagw.gov.br', 'SRS330', 'billing-c'),
+ ('srpv-sp.gov.br', 'SRS330', 'owner-c'),
+ ('srpv-sp.gov.br', 'SRS330', 'admin-c'),
+ ('srpv-sp.gov.br', 'SRS330', 'tech-c'),
+ ('srpv-sp.gov.br', 'SRS330', 'billing-c'),
+ ('fiscalizacopa2014.gov.br', 'ARRAL9', 'owner-c'),
+ ('fiscalizacopa2014.gov.br', 'ARRAL9', 'admin-c'),
+ ('fiscalizacopa2014.gov.br', 'RETMI', 'tech-c'),
+ ('fiscalizacopa2014.gov.br', 'ACSQU', 'billing-c'),
+ ('cef.gov.br', 'RMJ35', 'owner-c'),
+ ('cef.gov.br', 'RMJ35', 'admin-c'),
+ ('cef.gov.br', 'GIT60', 'tech-c'),
+ ('cef.gov.br', 'GIC166', 'billing-c'),
+ ('prsc.gov.br', 'JCB59', 'owner-c'),
+ ('prsc.gov.br', 'JCB59', 'admin-c'),
+ ('prsc.gov.br', 'JCB59', 'tech-c'),
+ ('prsc.gov.br', 'JCB59', 'billing-c'),
+ ('caixaaqui.gov.br', 'RMJ35', 'owner-c'),
+ ('caixaaqui.gov.br', 'RMJ35', 'admin-c'),
+ ('caixaaqui.gov.br', 'GIT60', 'tech-c'),
+ ('caixaaqui.gov.br', 'GIC166', 'billing-c'),
+ ('noticias.gov.br', 'CGSTM2', 'owner-c'),
+ ('noticias.gov.br', 'CGSTM2', 'admin-c'),
+ ('noticias.gov.br', 'CGSTM2', 'tech-c'),
+ ('noticias.gov.br', 'CGSTM2', 'billing-c'),
+ ('ird.gov.br', 'MCM5', 'owner-c'),
+ ('ird.gov.br', 'MCM5', 'admin-c'),
+ ('ird.gov.br', 'MCM5', 'tech-c'),
+ ('ird.gov.br', 'MCM5', 'billing-c'),
+ ('fab.gov.br', 'CMANS', 'owner-c'),
+ ('fab.gov.br', 'CMANS', 'admin-c'),
+ ('fab.gov.br', 'CMANS', 'tech-c'),
+ ('fab.gov.br', 'CMANS', 'billing-c'),
+ ('creci-rs.gov.br', 'LFM245', 'owner-c'),
+ ('creci-rs.gov.br', 'LFM245', 'admin-c'),
+ ('creci-rs.gov.br', 'LFM245', 'tech-c'),
+ ('creci-rs.gov.br', 'LFM245', 'billing-c'),
+ ('abin.gov.br', 'GDS174', 'owner-c'),
+ ('abin.gov.br', 'GDS174', 'admin-c'),
+ ('abin.gov.br', 'DSARA3', 'tech-c'),
+ ('abin.gov.br', 'GDS174', 'billing-c'),
+ ('sigabrasil.gov.br', 'SEIRE4', 'owner-c'),
+ ('sigabrasil.gov.br', 'SEIRE4', 'admin-c'),
+ ('sigabrasil.gov.br', 'SEIRE4', 'tech-c'),
+ ('sigabrasil.gov.br', 'SEIRE4', 'billing-c'),
+ ('trt6.gov.br', 'JAS64', 'owner-c'),
+ ('trt6.gov.br', 'JAS64', 'admin-c'),
+ ('trt6.gov.br', 'JAS64', 'tech-c'),
+ ('trt6.gov.br', 'JAS64', 'billing-c'),
+ ('caixa.gov.br', 'RMJ35', 'owner-c'),
+ ('caixa.gov.br', 'RMJ35', 'admin-c'),
+ ('caixa.gov.br', 'GIT60', 'tech-c'),
+ ('caixa.gov.br', 'GIC166', 'billing-c'),
+ ('tse.gov.br', 'DCC', 'owner-c'),
+ ('tse.gov.br', 'DCC', 'admin-c'),
+ ('tse.gov.br', 'DCC', 'tech-c'),
+ ('tse.gov.br', 'WOS3', 'billing-c'),
+ ('trt2.gov.br', 'COARE11', 'owner-c'),
+ ('trt2.gov.br', 'RECCO133', 'admin-c'),
+ ('trt2.gov.br', 'SERTE12', 'tech-c'),
+ ('trt2.gov.br', 'RECCO133', 'billing-c'),
+ ('ancine.gov.br', 'ANGTI', 'owner-c'),
+ ('ancine.gov.br', 'ANGTI', 'admin-c'),
+ ('ancine.gov.br', 'ANGTI', 'tech-c'),
+ ('ancine.gov.br', 'ANGTI', 'billing-c'),
+ ('maisbrasil.gov.br', 'MAR79', 'owner-c'),
+ ('maisbrasil.gov.br', 'MAR79', 'admin-c'),
+ ('maisbrasil.gov.br', 'MAR79', 'tech-c'),
+ ('maisbrasil.gov.br', 'MAR79', 'billing-c'),
+ ('inpa.gov.br', 'RLR90', 'owner-c'),
+ ('inpa.gov.br', 'RLR90', 'admin-c'),
+ ('inpa.gov.br', 'MOMLI10', 'tech-c'),
+ ('inpa.gov.br', 'RLR90', 'billing-c'),
+ ('inss.gov.br', 'LRS181', 'owner-c'),
+ ('inss.gov.br', 'LRS181', 'admin-c'),
+ ('inss.gov.br', 'DDT10', 'tech-c'),
+ ('inss.gov.br', 'LRS181', 'billing-c'),
+ ('fiscalizario2016.gov.br', 'ARRAL9', 'owner-c'),
+ ('fiscalizario2016.gov.br', 'ARRAL9', 'admin-c'),
+ ('fiscalizario2016.gov.br', 'RETMI', 'tech-c'),
+ ('fiscalizario2016.gov.br', 'ARRAL9', 'billing-c'),
+ ('energiabrasil.gov.br', 'HCB42', 'owner-c'),
+ ('energiabrasil.gov.br', 'HCB42', 'admin-c'),
+ ('energiabrasil.gov.br', 'HCB42', 'tech-c'),
+ ('energiabrasil.gov.br', 'HCB42', 'billing-c'),
+ ('brasilcentral.gov.br', 'STC46', 'owner-c'),
+ ('brasilcentral.gov.br', 'STC46', 'admin-c'),
+ ('brasilcentral.gov.br', 'STC46', 'tech-c'),
+ ('brasilcentral.gov.br', 'STC46', 'billing-c'),
+ ('prt21.gov.br', 'LEA2', 'owner-c'),
+ ('prt21.gov.br', 'LEA2', 'admin-c'),
+ ('prt21.gov.br', 'LEA2', 'tech-c'),
+ ('prt21.gov.br', 'DDF42', 'billing-c'),
+ ('seppir.gov.br', 'SASAL43', 'owner-c'),
+ ('seppir.gov.br', 'SASAL43', 'admin-c'),
+ ('seppir.gov.br', 'MAR79', 'tech-c'),
+ ('seppir.gov.br', 'SASAL43', 'billing-c'),
+ ('cbtumetrorec.gov.br', 'FCV93', 'owner-c'),
+ ('cbtumetrorec.gov.br', 'FCV93', 'admin-c'),
+ ('cbtumetrorec.gov.br', 'FCV93', 'tech-c'),
+ ('cbtumetrorec.gov.br', 'CAR107', 'billing-c'),
+ ('abcd.gov.br', 'JDGPI', 'owner-c'),
+ ('abcd.gov.br', 'JAA364', 'admin-c'),
+ ('abcd.gov.br', 'JAA364', 'tech-c'),
+ ('abcd.gov.br', 'JAA364', 'billing-c'),
+ ('mpdf.gov.br', 'DTMPD', 'owner-c'),
+ ('mpdf.gov.br', 'DTMPD', 'admin-c'),
+ ('mpdf.gov.br', 'DTMPD', 'tech-c'),
+ ('mpdf.gov.br', 'DTMPD', 'billing-c'),
+ ('denatran.gov.br', 'MIJUS7', 'owner-c'),
+ ('denatran.gov.br', 'ALCBA81', 'admin-c'),
+ ('denatran.gov.br', 'ALCBA81', 'tech-c'),
+ ('denatran.gov.br', 'ALCBA81', 'billing-c'),
+ ('rap.gov.br', 'MPRJA', 'owner-c'),
+ ('rap.gov.br', 'SCL773', 'admin-c'),
+ ('rap.gov.br', 'MPRJA', 'tech-c'),
+ ('rap.gov.br', 'MPRJA', 'billing-c'),
+ ('trf1.gov.br', 'COITE8', 'owner-c'),
+ ('trf1.gov.br', 'COITE8', 'admin-c'),
+ ('trf1.gov.br', 'MSC131', 'tech-c'),
+ ('trf1.gov.br', 'COITE8', 'billing-c'),
+ ('crq-pr.gov.br', 'DIBFI7', 'owner-c'),
+ ('crq-pr.gov.br', 'DIBFI7', 'admin-c'),
+ ('crq-pr.gov.br', 'JJJ70', 'tech-c'),
+ ('crq-pr.gov.br', 'DIBFI7', 'billing-c'),
+ ('conpet.gov.br', 'EDFEL11', 'owner-c'),
+ ('conpet.gov.br', 'EDFEL11', 'admin-c'),
+ ('conpet.gov.br', 'EDFEL11', 'tech-c'),
+ ('conpet.gov.br', 'EDFEL11', 'billing-c'),
+ ('cprm-be.gov.br', 'SAC142', 'owner-c'),
+ ('cprm-be.gov.br', 'SAC142', 'admin-c'),
+ ('cprm-be.gov.br', 'SAC142', 'tech-c'),
+ ('cprm-be.gov.br', 'CPB2', 'billing-c'),
+ ('funai.gov.br', 'FNF2', 'owner-c'),
+ ('funai.gov.br', 'FNF2', 'admin-c'),
+ ('funai.gov.br', 'FNF2', 'tech-c'),
+ ('funai.gov.br', 'FNF2', 'billing-c'),
+ ('defensoriapublica.gov.br', 'MIJUS7', 'owner-c'),
+ ('defensoriapublica.gov.br', 'ALCBA81', 'admin-c'),
+ ('defensoriapublica.gov.br', 'ARAJU47', 'tech-c'),
+ ('defensoriapublica.gov.br', 'ALCBA81', 'billing-c'),
+ ('cartelafederal.gov.br', 'RMJ35', 'owner-c'),
+ ('cartelafederal.gov.br', 'RMJ35', 'admin-c'),
+ ('cartelafederal.gov.br', 'GIT60', 'tech-c'),
+ ('cartelafederal.gov.br', 'GIC166', 'billing-c'),
+ ('trt16.gov.br', 'TRR7', 'owner-c'),
+ ('trt16.gov.br', 'TRR7', 'admin-c'),
+ ('trt16.gov.br', 'TRR7', 'tech-c'),
+ ('trt16.gov.br', 'TRR7', 'billing-c'),
+ ('rj.gov.br', 'SCL773', 'owner-c'),
+ ('rj.gov.br', 'SCL773', 'admin-c'),
+ ('rj.gov.br', 'SCL773', 'tech-c'),
+ ('rj.gov.br', 'SCL773', 'billing-c'),
+ ('coren-pb.gov.br', 'GESRI10', 'owner-c'),
+ ('coren-pb.gov.br', 'GESRI10', 'admin-c'),
+ ('coren-pb.gov.br', 'GESRI10', 'tech-c'),
+ ('coren-pb.gov.br', 'GESRI10', 'billing-c'),
+ ('radiojustica.gov.br', 'EDR194', 'owner-c'),
+ ('radiojustica.gov.br', 'SETIN14', 'admin-c'),
+ ('radiojustica.gov.br', 'SGSRE3', 'tech-c'),
+ ('radiojustica.gov.br', 'GASTI6', 'billing-c'),
+ ('genero.gov.br', 'MAMPA145', 'owner-c'),
+ ('genero.gov.br', 'MAMPA145', 'admin-c'),
+ ('genero.gov.br', 'MRV103', 'tech-c'),
+ ('genero.gov.br', 'MAR79', 'billing-c'),
+ ('eafc.gov.br', 'MBL321', 'owner-c'),
+ ('eafc.gov.br', 'MBL321', 'admin-c'),
+ ('eafc.gov.br', 'MBL321', 'tech-c'),
+ ('eafc.gov.br', 'MBL321', 'billing-c'),
+ ('nuclebras.gov.br', 'HEACA9', 'owner-c'),
+ ('nuclebras.gov.br', 'HEACA9', 'admin-c'),
+ ('nuclebras.gov.br', 'HEACA9', 'tech-c'),
+ ('nuclebras.gov.br', 'HEACA9', 'billing-c'),
+ ('crecisp.gov.br', 'CSSPA', 'owner-c'),
+ ('crecisp.gov.br', 'CSSPA', 'admin-c'),
+ ('crecisp.gov.br', 'CSSPA', 'tech-c'),
+ ('crecisp.gov.br', 'CSSPA', 'billing-c'),
+ ('tre-ap.gov.br', 'DCC', 'owner-c'),
+ ('tre-ap.gov.br', 'DCC', 'admin-c'),
+ ('tre-ap.gov.br', 'DCC', 'tech-c'),
+ ('tre-ap.gov.br', 'WOS3', 'billing-c'),
+ ('trf5.gov.br', 'TRF', 'owner-c'),
+ ('trf5.gov.br', 'TRF', 'admin-c'),
+ ('trf5.gov.br', 'TRF', 'tech-c'),
+ ('trf5.gov.br', 'TRF', 'billing-c'),
+ ('depv.gov.br', 'ADRED14', 'owner-c'),
+ ('depv.gov.br', 'ADRED14', 'admin-c'),
+ ('depv.gov.br', 'MVF212', 'tech-c'),
+ ('depv.gov.br', 'MVF212', 'billing-c'),
+ ('renapi.gov.br', 'INFBR6', 'owner-c'),
+ ('renapi.gov.br', 'INFBR6', 'admin-c'),
+ ('renapi.gov.br', 'INFBR6', 'tech-c'),
+ ('renapi.gov.br', 'INFBR6', 'billing-c'),
+ ('creci-es.gov.br', 'VIMTR2', 'owner-c'),
+ ('creci-es.gov.br', 'VIMTR2', 'admin-c'),
+ ('creci-es.gov.br', 'VIMTR2', 'tech-c'),
+ ('creci-es.gov.br', 'VIMTR2', 'billing-c'),
+ ('ahrana.gov.br', 'KCB13', 'owner-c'),
+ ('ahrana.gov.br', 'KCB13', 'admin-c'),
+ ('ahrana.gov.br', 'KCB13', 'tech-c'),
+ ('ahrana.gov.br', 'KCB13', 'billing-c'),
+ ('iufro2019.gov.br', 'MMR', 'owner-c'),
+ ('iufro2019.gov.br', 'MMR', 'admin-c'),
+ ('iufro2019.gov.br', 'MMR', 'tech-c'),
+ ('iufro2019.gov.br', 'MMR', 'billing-c'),
+ ('planobrasil.gov.br', 'CGSTM2', 'owner-c'),
+ ('planobrasil.gov.br', 'CGSTM2', 'admin-c'),
+ ('planobrasil.gov.br', 'CGSTM2', 'tech-c'),
+ ('planobrasil.gov.br', 'CGSTM2', 'billing-c'),
+ ('oconsumidor.gov.br', 'SAADI5', 'owner-c'),
+ ('oconsumidor.gov.br', 'SAADI5', 'admin-c'),
+ ('oconsumidor.gov.br', 'LFL', 'tech-c'),
+ ('oconsumidor.gov.br', 'SAADI5', 'billing-c'),
+ ('ic-brazil.gov.br', 'ANM153', 'owner-c'),
+ ('ic-brazil.gov.br', 'PACBE47', 'admin-c'),
+ ('ic-brazil.gov.br', 'PACBE47', 'tech-c'),
+ ('ic-brazil.gov.br', 'PACBE47', 'billing-c'),
+ ('e-conta.gov.br', 'RMJ35', 'owner-c'),
+ ('e-conta.gov.br', 'RMJ35', 'admin-c'),
+ ('e-conta.gov.br', 'GIT60', 'tech-c'),
+ ('e-conta.gov.br', 'GIC166', 'billing-c'),
+ ('cref4.gov.br', 'CPM144', 'owner-c'),
+ ('cref4.gov.br', 'CPM144', 'admin-c'),
+ ('cref4.gov.br', 'CPM144', 'tech-c'),
+ ('cref4.gov.br', 'CPM144', 'billing-c'),
+ ('cbee.gov.br', 'GSC187', 'owner-c'),
+ ('cbee.gov.br', 'GSC187', 'admin-c'),
+ ('cbee.gov.br', 'GSC187', 'tech-c'),
+ ('cbee.gov.br', 'GSC187', 'billing-c'),
+ ('planejamentoterritorial.gov.br', 'CGSTM2', 'owner-c'),
+ ('planejamentoterritorial.gov.br', 'CGSTM2', 'admin-c'),
+ ('planejamentoterritorial.gov.br', 'CGSTM2', 'tech-c'),
+ ('planejamentoterritorial.gov.br', 'CGSTM2', 'billing-c'),
+ ('vicepresidenciadarepublica.gov.br', 'RMP45', 'owner-c'),
+ ('vicepresidenciadarepublica.gov.br', 'RMP45', 'admin-c'),
+ ('vicepresidenciadarepublica.gov.br', 'MAR79', 'tech-c'),
+ ('vicepresidenciadarepublica.gov.br', 'RMP45', 'billing-c'),
+ ('tre-ro.gov.br', 'DCC', 'owner-c'),
+ ('tre-ro.gov.br', 'DCC', 'admin-c'),
+ ('tre-ro.gov.br', 'DCC', 'tech-c'),
+ ('tre-ro.gov.br', 'DSR17', 'billing-c'),
+ ('postal.gov.br', 'RMJ35', 'owner-c'),
+ ('postal.gov.br', 'RMJ35', 'admin-c'),
+ ('postal.gov.br', 'GIT60', 'tech-c'),
+ ('postal.gov.br', 'GIC166', 'billing-c'),
+ ('cartaobndes.gov.br', 'GGT13', 'owner-c'),
+ ('cartaobndes.gov.br', 'GGT13', 'admin-c'),
+ ('cartaobndes.gov.br', 'GGT13', 'tech-c'),
+ ('cartaobndes.gov.br', 'GGT13', 'billing-c'),
+ ('cquali.gov.br', 'MIJUS7', 'owner-c'),
+ ('cquali.gov.br', 'ALCBA81', 'admin-c'),
+ ('cquali.gov.br', 'ARAJU47', 'tech-c'),
+ ('cquali.gov.br', 'ALCBA81', 'billing-c'),
+ ('prap.gov.br', 'MAK6', 'owner-c'),
+ ('prap.gov.br', 'MAK6', 'admin-c'),
+ ('prap.gov.br', 'MAK6', 'tech-c'),
+ ('prap.gov.br', 'MAK6', 'billing-c'),
+ ('iec.gov.br', 'CRC395', 'owner-c'),
+ ('iec.gov.br', 'CAKAH', 'admin-c'),
+ ('iec.gov.br', 'CAKAH', 'tech-c'),
+ ('iec.gov.br', 'CAKAH', 'billing-c'),
+ ('mls.gov.br', 'AJM40', 'owner-c'),
+ ('mls.gov.br', 'AJM40', 'admin-c'),
+ ('mls.gov.br', 'AJM40', 'tech-c'),
+ ('mls.gov.br', 'AJM40', 'billing-c'),
+ ('crq12.gov.br', 'LUOCO10', 'owner-c'),
+ ('crq12.gov.br', 'LUOCO10', 'admin-c'),
+ ('crq12.gov.br', 'RBF69', 'tech-c'),
+ ('crq12.gov.br', 'LUOCO10', 'billing-c'),
+ ('mte.gov.br', 'COINF90', 'owner-c'),
+ ('mte.gov.br', 'COINF90', 'admin-c'),
+ ('mte.gov.br', 'COINF90', 'tech-c'),
+ ('mte.gov.br', 'COINF90', 'billing-c'),
+ ('microepequenaempresa.gov.br', 'ADSFE47', 'owner-c'),
+ ('microepequenaempresa.gov.br', 'ADSFE47', 'admin-c'),
+ ('microepequenaempresa.gov.br', 'MRV103', 'tech-c'),
+ ('microepequenaempresa.gov.br', 'ADSFE47', 'billing-c'),
+ ('tre-am.gov.br', 'TRC21', 'owner-c'),
+ ('tre-am.gov.br', 'DCC', 'admin-c'),
+ ('tre-am.gov.br', 'DCC', 'tech-c'),
+ ('tre-am.gov.br', 'WOS3', 'billing-c'),
+ ('empresa.gov.br', 'ADSFE47', 'owner-c'),
+ ('empresa.gov.br', 'ADSFE47', 'admin-c'),
+ ('empresa.gov.br', 'MRV103', 'tech-c'),
+ ('empresa.gov.br', 'ADSFE47', 'billing-c'),
+ ('olacefs.gov.br', 'ARRAL9', 'owner-c'),
+ ('olacefs.gov.br', 'ARRAL9', 'admin-c'),
+ ('olacefs.gov.br', 'RETMI', 'tech-c'),
+ ('olacefs.gov.br', 'ARRAL9', 'billing-c'),
+ ('ibge2.gov.br', 'LLS', 'owner-c'),
+ ('ibge2.gov.br', 'LLS', 'admin-c'),
+ ('ibge2.gov.br', 'LLS', 'tech-c'),
+ ('ibge2.gov.br', 'LLS', 'billing-c'),
+ ('geres.gov.br', 'CAV393', 'owner-c'),
+ ('geres.gov.br', 'CAV393', 'admin-c'),
+ ('geres.gov.br', 'TEE7', 'tech-c'),
+ ('geres.gov.br', 'CAV393', 'billing-c'),
+ ('fomezero.gov.br', 'MAR79', 'owner-c'),
+ ('fomezero.gov.br', 'MAR79', 'admin-c'),
+ ('fomezero.gov.br', 'EDMED27', 'tech-c'),
+ ('fomezero.gov.br', 'EDMED27', 'billing-c'),
+ ('businessbrazil.gov.br', 'CTDPR5', 'owner-c'),
+ ('businessbrazil.gov.br', 'CTDPR5', 'admin-c'),
+ ('businessbrazil.gov.br', 'CTDPR5', 'tech-c'),
+ ('businessbrazil.gov.br', 'CTDPR5', 'billing-c'),
+ ('museudoindio.gov.br', 'JCL412', 'owner-c'),
+ ('museudoindio.gov.br', 'JCL412', 'admin-c'),
+ ('museudoindio.gov.br', 'SUPMI', 'tech-c'),
+ ('museudoindio.gov.br', 'JCL412', 'billing-c'),
+ ('nordestedigital.gov.br', 'CMRSO14', 'owner-c'),
+ ('nordestedigital.gov.br', 'CMRSO14', 'admin-c'),
+ ('nordestedigital.gov.br', 'FFN', 'tech-c'),
+ ('nordestedigital.gov.br', 'CMRSO14', 'billing-c'),
+ ('caixaseguridade.gov.br', 'RMJ35', 'owner-c'),
+ ('caixaseguridade.gov.br', 'RMJ35', 'admin-c'),
+ ('caixaseguridade.gov.br', 'GIT60', 'tech-c'),
+ ('caixaseguridade.gov.br', 'GIC166', 'billing-c'),
+ ('mega-sena.gov.br', 'RMJ35', 'owner-c'),
+ ('mega-sena.gov.br', 'RMJ35', 'admin-c'),
+ ('mega-sena.gov.br', 'GIT60', 'tech-c'),
+ ('mega-sena.gov.br', 'GIC166', 'billing-c'),
+ ('csjt.gov.br', 'SCD13', 'owner-c'),
+ ('csjt.gov.br', 'SCD13', 'admin-c'),
+ ('csjt.gov.br', 'SCD13', 'tech-c'),
+ ('csjt.gov.br', 'SCD13', 'billing-c'),
+ ('eusoumaismedicos.gov.br', 'DOEBS', 'owner-c'),
+ ('eusoumaismedicos.gov.br', 'DOEBS', 'admin-c'),
+ ('eusoumaismedicos.gov.br', 'DOEBS', 'tech-c'),
+ ('eusoumaismedicos.gov.br', 'DOEBS', 'billing-c'),
+ ('crecimg.gov.br', 'MAA815', 'owner-c'),
+ ('crecimg.gov.br', 'MAA815', 'admin-c'),
+ ('crecimg.gov.br', 'EMJ90', 'tech-c'),
+ ('crecimg.gov.br', 'MAA815', 'billing-c'),
+ ('hasp.gov.br', 'CRS114', 'owner-c'),
+ ('hasp.gov.br', 'CRS114', 'admin-c'),
+ ('hasp.gov.br', 'CRS114', 'tech-c'),
+ ('hasp.gov.br', 'CRS114', 'billing-c'),
+ ('tre-es.gov.br', 'RBS53', 'owner-c'),
+ ('tre-es.gov.br', 'DCC', 'admin-c'),
+ ('tre-es.gov.br', 'DCC', 'tech-c'),
+ ('tre-es.gov.br', 'RBS53', 'billing-c'),
+ ('peticaoeletronica.gov.br', 'ALSIL482', 'owner-c'),
+ ('peticaoeletronica.gov.br', 'ALSIL482', 'admin-c'),
+ ('peticaoeletronica.gov.br', 'ALSIL482', 'tech-c'),
+ ('peticaoeletronica.gov.br', 'ANZMA3', 'billing-c'),
+ ('supertrinca.gov.br', 'RMJ35', 'owner-c'),
+ ('supertrinca.gov.br', 'RMJ35', 'admin-c'),
+ ('supertrinca.gov.br', 'GIT60', 'tech-c'),
+ ('supertrinca.gov.br', 'GIC166', 'billing-c'),
+ ('bndespar.gov.br', 'GGT13', 'owner-c'),
+ ('bndespar.gov.br', 'GGT13', 'admin-c'),
+ ('bndespar.gov.br', 'GGT13', 'tech-c'),
+ ('bndespar.gov.br', 'GGT13', 'billing-c'),
+ ('tribunaiscplp.gov.br', 'ARRAL9', 'owner-c'),
+ ('tribunaiscplp.gov.br', 'ARRAL9', 'admin-c'),
+ ('tribunaiscplp.gov.br', 'RETMI', 'tech-c'),
+ ('tribunaiscplp.gov.br', 'ARRAL9', 'billing-c'),
+ ('hgb.gov.br', 'AJF32', 'owner-c'),
+ ('hgb.gov.br', 'AJF32', 'admin-c'),
+ ('hgb.gov.br', 'AJF32', 'tech-c'),
+ ('hgb.gov.br', 'AJF32', 'billing-c'),
+ ('redebrasildigital.gov.br', 'ADSFE47', 'owner-c'),
+ ('redebrasildigital.gov.br', 'ADSFE47', 'admin-c'),
+ ('redebrasildigital.gov.br', 'MRV103', 'tech-c'),
+ ('redebrasildigital.gov.br', 'MRV103', 'billing-c'),
+ ('ctac.gov.br', 'ROHSI8', 'owner-c'),
+ ('ctac.gov.br', 'FCD97', 'admin-c'),
+ ('ctac.gov.br', 'ROHSI8', 'tech-c'),
+ ('ctac.gov.br', 'ROHSI8', 'billing-c'),
+ ('prove.gov.br', 'PSB51', 'owner-c'),
+ ('prove.gov.br', 'PSB51', 'admin-c'),
+ ('prove.gov.br', 'PSB51', 'tech-c'),
+ ('prove.gov.br', 'PSB51', 'billing-c'),
+ ('caixaeconomicafederal.gov.br', 'RMJ35', 'owner-c'),
+ ('caixaeconomicafederal.gov.br', 'RMJ35', 'admin-c'),
+ ('caixaeconomicafederal.gov.br', 'GIT60', 'tech-c'),
+ ('caixaeconomicafederal.gov.br', 'GIC166', 'billing-c'),
+ ('codesp.gov.br', 'RRS248', 'owner-c'),
+ ('codesp.gov.br', 'RRS248', 'admin-c'),
+ ('codesp.gov.br', 'BRP31', 'tech-c'),
+ ('codesp.gov.br', 'RRS248', 'billing-c'),
+ ('ans.gov.br', 'JWD3', 'owner-c'),
+ ('ans.gov.br', 'JWD3', 'admin-c'),
+ ('ans.gov.br', 'JWD3', 'tech-c'),
+ ('ans.gov.br', 'JWD3', 'billing-c'),
+ ('redeagentes.gov.br', 'MDC167', 'owner-c'),
+ ('redeagentes.gov.br', 'MDC167', 'admin-c'),
+ ('redeagentes.gov.br', 'MDC167', 'tech-c'),
+ ('redeagentes.gov.br', 'MDC167', 'billing-c'),
+ ('dinheiroaqui.gov.br', 'RMJ35', 'owner-c'),
+ ('dinheiroaqui.gov.br', 'RMJ35', 'admin-c'),
+ ('dinheiroaqui.gov.br', 'GIT60', 'tech-c'),
+ ('dinheiroaqui.gov.br', 'GIC166', 'billing-c'),
+ ('labcluster.gov.br', 'CGSTM2', 'owner-c'),
+ ('labcluster.gov.br', 'CGSTM2', 'admin-c'),
+ ('labcluster.gov.br', 'CGSTM2', 'tech-c'),
+ ('labcluster.gov.br', 'CGSTM2', 'billing-c'),
+ ('energiaboavista.gov.br', 'GSC187', 'owner-c'),
+ ('energiaboavista.gov.br', 'AFN123', 'admin-c'),
+ ('energiaboavista.gov.br', 'JPLBR2', 'tech-c'),
+ ('energiaboavista.gov.br', 'AFN123', 'billing-c'),
+ ('avancabrasil.gov.br', 'CGSTM2', 'owner-c'),
+ ('avancabrasil.gov.br', 'CGSTM2', 'admin-c'),
+ ('avancabrasil.gov.br', 'CGSTM2', 'tech-c'),
+ ('avancabrasil.gov.br', 'CGSTM2', 'billing-c'),
+ ('pa.gov.br', 'DIT76', 'owner-c'),
+ ('pa.gov.br', 'DIT76', 'admin-c'),
+ ('pa.gov.br', 'DIT76', 'tech-c'),
+ ('pa.gov.br', 'DIT76', 'billing-c'),
+ ('cref4-sp.gov.br', 'CPM144', 'owner-c'),
+ ('cref4-sp.gov.br', 'CPM144', 'admin-c'),
+ ('cref4-sp.gov.br', 'CPM144', 'tech-c'),
+ ('cref4-sp.gov.br', 'CPM144', 'billing-c'),
+ ('fns-sc.gov.br', 'RHR2', 'owner-c'),
+ ('fns-sc.gov.br', 'RHR2', 'admin-c'),
+ ('fns-sc.gov.br', 'RHR2', 'tech-c'),
+ ('fns-sc.gov.br', 'RHR2', 'billing-c'),
+ ('federativo.gov.br', 'MHS92', 'owner-c'),
+ ('federativo.gov.br', 'PSP4', 'admin-c'),
+ ('federativo.gov.br', 'MAR79', 'tech-c'),
+ ('federativo.gov.br', 'MAR79', 'billing-c'),
+ ('presidencia.gov.br', 'MAR79', 'owner-c'),
+ ('presidencia.gov.br', 'MAR79', 'admin-c'),
+ ('presidencia.gov.br', 'MAR79', 'tech-c'),
+ ('presidencia.gov.br', 'MAR79', 'billing-c'),
+ ('ahimoc.gov.br', 'ADA238', 'owner-c'),
+ ('ahimoc.gov.br', 'ADA238', 'admin-c'),
+ ('ahimoc.gov.br', 'AIP6', 'tech-c'),
+ ('ahimoc.gov.br', 'ADA238', 'billing-c'),
+ ('itaipu.gov.br', 'CER16', 'owner-c'),
+ ('itaipu.gov.br', 'CER16', 'admin-c'),
+ ('itaipu.gov.br', 'CER16', 'tech-c'),
+ ('itaipu.gov.br', 'EMB271', 'billing-c'),
+ ('mincsp.gov.br', 'MICUL2', 'owner-c'),
+ ('mincsp.gov.br', 'MICUL2', 'admin-c'),
+ ('mincsp.gov.br', 'MICUL2', 'tech-c'),
+ ('mincsp.gov.br', 'MICUL2', 'billing-c'),
+ ('eafsc.gov.br', 'MAN779', 'owner-c'),
+ ('eafsc.gov.br', 'MAN779', 'admin-c'),
+ ('eafsc.gov.br', 'WEI', 'tech-c'),
+ ('eafsc.gov.br', 'MAN779', 'billing-c'),
+ ('arquivonacional.gov.br', 'KERPO', 'owner-c'),
+ ('arquivonacional.gov.br', 'KERPO', 'admin-c'),
+ ('arquivonacional.gov.br', 'KERPO', 'tech-c'),
+ ('arquivonacional.gov.br', 'KERPO', 'billing-c'),
+ ('pru-pe.gov.br', 'VNOFI2', 'owner-c'),
+ ('pru-pe.gov.br', 'VNOFI2', 'admin-c'),
+ ('pru-pe.gov.br', 'VNOFI2', 'tech-c'),
+ ('pru-pe.gov.br', 'VNOFI2', 'billing-c'),
+ ('dialogosfederativos.gov.br', 'DMLMA6', 'owner-c'),
+ ('dialogosfederativos.gov.br', 'DMLMA6', 'admin-c'),
+ ('dialogosfederativos.gov.br', 'DMLMA6', 'tech-c'),
+ ('dialogosfederativos.gov.br', 'DMLMA6', 'billing-c'),
+ ('cop15.gov.br', 'MAMPA145', 'owner-c'),
+ ('cop15.gov.br', 'MAMPA145', 'admin-c'),
+ ('cop15.gov.br', 'MAR79', 'tech-c'),
+ ('cop15.gov.br', 'MAR79', 'billing-c'),
+ ('sg.gov.br', 'MAR79', 'owner-c'),
+ ('sg.gov.br', 'MAR79', 'admin-c'),
+ ('sg.gov.br', 'MAR79', 'tech-c'),
+ ('sg.gov.br', 'MAR79', 'billing-c'),
+ ('rotasdascidades.gov.br', 'IJFFI', 'owner-c'),
+ ('rotasdascidades.gov.br', 'CFMSI14', 'admin-c'),
+ ('rotasdascidades.gov.br', 'IJFFI', 'tech-c'),
+ ('rotasdascidades.gov.br', 'YUONI', 'billing-c'),
+ ('cnenpc.gov.br', 'NCS31', 'owner-c'),
+ ('cnenpc.gov.br', 'NCS31', 'admin-c'),
+ ('cnenpc.gov.br', 'NCS31', 'tech-c'),
+ ('cnenpc.gov.br', 'NCS31', 'billing-c'),
+ ('portodesantos.gov.br', 'RRS248', 'owner-c'),
+ ('portodesantos.gov.br', 'RRS248', 'admin-c'),
+ ('portodesantos.gov.br', 'BRP31', 'tech-c'),
+ ('portodesantos.gov.br', 'RRS248', 'billing-c'),
+ ('mpu.gov.br', 'GFA2', 'owner-c'),
+ ('mpu.gov.br', 'JMJ43', 'admin-c'),
+ ('mpu.gov.br', 'MACSO55', 'tech-c'),
+ ('mpu.gov.br', 'GFA2', 'billing-c'),
+ ('eproc-pr.gov.br', 'ALSIL482', 'owner-c'),
+ ('eproc-pr.gov.br', 'ALSIL482', 'admin-c'),
+ ('eproc-pr.gov.br', 'ALSIL482', 'tech-c'),
+ ('eproc-pr.gov.br', 'ANZMA3', 'billing-c'),
+ ('sigplan.gov.br', 'CGSTM2', 'owner-c'),
+ ('sigplan.gov.br', 'CGSTM2', 'admin-c'),
+ ('sigplan.gov.br', 'CGSTM2', 'tech-c'),
+ ('sigplan.gov.br', 'CGSTM2', 'billing-c'),
+ ('sri.gov.br', 'FERSI56', 'owner-c'),
+ ('sri.gov.br', 'FERSI56', 'admin-c'),
+ ('sri.gov.br', 'MRV103', 'tech-c'),
+ ('sri.gov.br', 'FERSI56', 'billing-c'),
+ ('cemaden.gov.br', 'BPF7', 'owner-c'),
+ ('cemaden.gov.br', 'BPF7', 'admin-c'),
+ ('cemaden.gov.br', 'BPF7', 'tech-c'),
+ ('cemaden.gov.br', 'BPF7', 'billing-c'),
+ ('cmb.gov.br', 'CMB', 'owner-c'),
+ ('cmb.gov.br', 'CMB', 'admin-c'),
+ ('cmb.gov.br', 'SIC198', 'tech-c'),
+ ('cmb.gov.br', 'CMB', 'billing-c'),
+ ('dtceagl.gov.br', 'SRS330', 'owner-c'),
+ ('dtceagl.gov.br', 'SRS330', 'admin-c'),
+ ('dtceagl.gov.br', 'SRS330', 'tech-c'),
+ ('dtceagl.gov.br', 'SRS330', 'billing-c'),
+ ('creci-am.gov.br', 'CRCIM6', 'owner-c'),
+ ('creci-am.gov.br', 'CRCIM6', 'admin-c'),
+ ('creci-am.gov.br', 'CRCIM6', 'tech-c'),
+ ('creci-am.gov.br', 'CRCIM6', 'billing-c'),
+ ('coaf.gov.br', 'ADSFE47', 'owner-c'),
+ ('coaf.gov.br', 'ADSFE47', 'admin-c'),
+ ('coaf.gov.br', 'MRV103', 'tech-c'),
+ ('coaf.gov.br', 'WEQLI', 'billing-c'),
+ ('cvm.gov.br', 'CVGTE', 'owner-c'),
+ ('cvm.gov.br', 'CVGTE', 'admin-c'),
+ ('cvm.gov.br', 'CVGTE', 'tech-c'),
+ ('cvm.gov.br', 'CVGTE', 'billing-c'),
+ ('irb.gov.br', 'GURJR', 'owner-c'),
+ ('irb.gov.br', 'AKG6', 'admin-c'),
+ ('irb.gov.br', 'AKG6', 'tech-c'),
+ ('irb.gov.br', 'AKG6', 'billing-c'),
+ ('aplicativos.gov.br', 'MAR79', 'owner-c'),
+ ('aplicativos.gov.br', 'MAR79', 'admin-c'),
+ ('aplicativos.gov.br', 'MRV103', 'tech-c'),
+ ('aplicativos.gov.br', 'MAR79', 'billing-c'),
+ ('icmbio.gov.br', 'CRC644', 'owner-c'),
+ ('icmbio.gov.br', 'CRC644', 'admin-c'),
+ ('icmbio.gov.br', 'DALSO56', 'tech-c'),
+ ('icmbio.gov.br', 'CRC644', 'billing-c'),
+ ('brasiltransparente.gov.br', 'ADSFE47', 'owner-c'),
+ ('brasiltransparente.gov.br', 'ADSFE47', 'admin-c'),
+ ('brasiltransparente.gov.br', 'MRV103', 'tech-c'),
+ ('brasiltransparente.gov.br', 'WEQLI', 'billing-c'),
+ ('focco-pb.gov.br', 'PRCIN2', 'owner-c'),
+ ('focco-pb.gov.br', 'PRCIN2', 'admin-c'),
+ ('focco-pb.gov.br', 'PRCIN2', 'tech-c'),
+ ('focco-pb.gov.br', 'PRCIN2', 'billing-c'),
+ ('convivio.gov.br', 'ECLNA', 'owner-c'),
+ ('convivio.gov.br', 'ECLNA', 'admin-c'),
+ ('convivio.gov.br', 'ECLNA', 'tech-c'),
+ ('convivio.gov.br', 'ECLNA', 'billing-c'),
+ ('casadoscontos.gov.br', 'CRE21', 'owner-c'),
+ ('casadoscontos.gov.br', 'CRE21', 'admin-c'),
+ ('casadoscontos.gov.br', 'CRE21', 'tech-c'),
+ ('casadoscontos.gov.br', 'CRE21', 'billing-c'),
+ ('tre-mt.gov.br', 'DCC', 'owner-c'),
+ ('tre-mt.gov.br', 'DCC', 'admin-c'),
+ ('tre-mt.gov.br', 'DCC', 'tech-c'),
+ ('tre-mt.gov.br', 'DCC', 'billing-c'),
+ ('an.gov.br', 'KERPO', 'owner-c'),
+ ('an.gov.br', 'KERPO', 'admin-c'),
+ ('an.gov.br', 'KERPO', 'tech-c'),
+ ('an.gov.br', 'KERPO', 'billing-c'),
+ ('torcidalegal.gov.br', 'JDGPI', 'owner-c'),
+ ('torcidalegal.gov.br', 'JAA364', 'admin-c'),
+ ('torcidalegal.gov.br', 'JAA364', 'tech-c'),
+ ('torcidalegal.gov.br', 'JAA364', 'billing-c'),
+ ('acs.gov.br', 'OSMAT', 'owner-c'),
+ ('acs.gov.br', 'OSMAT', 'admin-c'),
+ ('acs.gov.br', 'CSL474', 'tech-c'),
+ ('acs.gov.br', 'OSMAT', 'billing-c'),
+ ('dte.gov.br', 'GDS174', 'owner-c'),
+ ('dte.gov.br', 'GDS174', 'admin-c'),
+ ('dte.gov.br', 'DSARA3', 'tech-c'),
+ ('dte.gov.br', 'GDS174', 'billing-c'),
+ ('conseg.gov.br', 'MAPAI12', 'owner-c'),
+ ('conseg.gov.br', 'MAPAI12', 'admin-c'),
+ ('conseg.gov.br', 'MAPAI12', 'tech-c'),
+ ('conseg.gov.br', 'MAPAI12', 'billing-c'),
+ ('suframa.gov.br', 'ZFM4', 'owner-c'),
+ ('suframa.gov.br', 'ADSFE47', 'admin-c'),
+ ('suframa.gov.br', 'MRV103', 'tech-c'),
+ ('suframa.gov.br', 'WEQLI', 'billing-c'),
+ ('mulheres.gov.br', 'MAR79', 'owner-c'),
+ ('mulheres.gov.br', 'MAR79', 'admin-c'),
+ ('mulheres.gov.br', 'MRV103', 'tech-c'),
+ ('mulheres.gov.br', 'MAR79', 'billing-c'),
+ ('redegoverno.gov.br', 'ADSFE47', 'owner-c'),
+ ('redegoverno.gov.br', 'ADSFE47', 'admin-c'),
+ ('redegoverno.gov.br', 'MRV103', 'tech-c'),
+ ('redegoverno.gov.br', 'WEQLI', 'billing-c'),
+ ('pac.gov.br', 'ADSFE47', 'owner-c'),
+ ('pac.gov.br', 'ADSFE47', 'admin-c'),
+ ('pac.gov.br', 'MRV103', 'tech-c'),
+ ('pac.gov.br', 'WEQLI', 'billing-c'),
+ ('mp.gov.br', 'CGSTM2', 'owner-c'),
+ ('mp.gov.br', 'CGSTM2', 'admin-c'),
+ ('mp.gov.br', 'CGSTM2', 'tech-c'),
+ ('mp.gov.br', 'CGSTM2', 'billing-c'),
+ ('inmetro-sc.gov.br', 'GIA9', 'owner-c'),
+ ('inmetro-sc.gov.br', 'GIA9', 'admin-c'),
+ ('inmetro-sc.gov.br', 'GIA9', 'tech-c'),
+ ('inmetro-sc.gov.br', 'GIA9', 'billing-c'),
+ ('lojacaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('lojacaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('lojacaixa.gov.br', 'GIT60', 'tech-c'),
+ ('lojacaixa.gov.br', 'GIC166', 'billing-c'),
+ ('inca.gov.br', 'RLSDS12', 'owner-c'),
+ ('inca.gov.br', 'RLSDS12', 'admin-c'),
+ ('inca.gov.br', 'CALPI31', 'tech-c'),
+ ('inca.gov.br', 'RLSDS12', 'billing-c'),
+ ('conitec.gov.br', 'ARC452', 'owner-c'),
+ ('conitec.gov.br', 'ARC452', 'admin-c'),
+ ('conitec.gov.br', 'ARC452', 'tech-c'),
+ ('conitec.gov.br', 'ARC452', 'billing-c'),
+ ('seminariodefencil.gov.br', 'ADSFE47', 'owner-c'),
+ ('seminariodefencil.gov.br', 'FFDSA72', 'admin-c'),
+ ('seminariodefencil.gov.br', 'FFDSA72', 'tech-c'),
+ ('seminariodefencil.gov.br', 'FFDSA72', 'billing-c'),
+ ('camara.gov.br', 'SSG50', 'owner-c'),
+ ('camara.gov.br', 'SSG50', 'admin-c'),
+ ('camara.gov.br', 'SSG50', 'tech-c'),
+ ('camara.gov.br', 'SSG50', 'billing-c'),
+ ('correio.gov.br', 'MAR1601', 'owner-c'),
+ ('correio.gov.br', 'MAR1601', 'admin-c'),
+ ('correio.gov.br', 'EEA', 'tech-c'),
+ ('correio.gov.br', 'MAR1601', 'billing-c'),
+ ('snirh.gov.br', 'ANS308', 'owner-c'),
+ ('snirh.gov.br', 'ROTFI', 'admin-c'),
+ ('snirh.gov.br', 'SNINF', 'tech-c'),
+ ('snirh.gov.br', 'MCRCO10', 'billing-c'),
+ ('direitosdacrianca.gov.br', 'MAAJU182', 'owner-c'),
+ ('direitosdacrianca.gov.br', 'WEL52', 'admin-c'),
+ ('direitosdacrianca.gov.br', 'FRASO52', 'tech-c'),
+ ('direitosdacrianca.gov.br', 'WEL52', 'billing-c'),
+ ('cernai.gov.br', 'ADRED14', 'owner-c'),
+ ('cernai.gov.br', 'ADRED14', 'admin-c'),
+ ('cernai.gov.br', 'MVF212', 'tech-c'),
+ ('cernai.gov.br', 'MVF212', 'billing-c'),
+ ('mp-df.gov.br', 'DTMPD', 'owner-c'),
+ ('mp-df.gov.br', 'DTMPD', 'admin-c'),
+ ('mp-df.gov.br', 'DTMPD', 'tech-c'),
+ ('mp-df.gov.br', 'DTMPD', 'billing-c'),
+ ('bancodeoportunidades.gov.br', 'CGSTM2', 'owner-c'),
+ ('bancodeoportunidades.gov.br', 'CGSTM2', 'admin-c'),
+ ('bancodeoportunidades.gov.br', 'CGSTM2', 'tech-c'),
+ ('bancodeoportunidades.gov.br', 'CGSTM2', 'billing-c'),
+ ('crimecongress2010.gov.br', 'MIJUS7', 'owner-c'),
+ ('crimecongress2010.gov.br', 'ALCBA81', 'admin-c'),
+ ('crimecongress2010.gov.br', 'ARAJU47', 'tech-c'),
+ ('crimecongress2010.gov.br', 'ALCBA81', 'billing-c'),
+ ('federal.gov.br', 'RMJ35', 'owner-c'),
+ ('federal.gov.br', 'RMJ35', 'admin-c'),
+ ('federal.gov.br', 'GIT60', 'tech-c'),
+ ('federal.gov.br', 'GIC166', 'billing-c'),
+ ('ibamanet.gov.br', 'JXM', 'owner-c'),
+ ('ibamanet.gov.br', 'JXM', 'admin-c'),
+ ('ibamanet.gov.br', 'AJA4', 'tech-c'),
+ ('ibamanet.gov.br', 'JXM', 'billing-c'),
+ ('dnocs.gov.br', 'MFP90', 'owner-c'),
+ ('dnocs.gov.br', 'MFP90', 'admin-c'),
+ ('dnocs.gov.br', 'AMPNE17', 'tech-c'),
+ ('dnocs.gov.br', 'MFP90', 'billing-c'),
+ ('sc.gov.br', 'FLR3', 'owner-c'),
+ ('sc.gov.br', 'FLR3', 'admin-c'),
+ ('sc.gov.br', 'LAB548', 'tech-c'),
+ ('sc.gov.br', 'FLR3', 'billing-c'),
+ ('publicgovernance.gov.br', 'ARRAL9', 'owner-c'),
+ ('publicgovernance.gov.br', 'ARRAL9', 'admin-c'),
+ ('publicgovernance.gov.br', 'RETMI', 'tech-c'),
+ ('publicgovernance.gov.br', 'ARRAL9', 'billing-c'),
+ ('ticontrole.gov.br', 'ARRAL9', 'owner-c'),
+ ('ticontrole.gov.br', 'ARRAL9', 'admin-c'),
+ ('ticontrole.gov.br', 'ARRAL9', 'tech-c'),
+ ('ticontrole.gov.br', 'ARRAL9', 'billing-c'),
+ ('pbqp.gov.br', 'SAADI5', 'owner-c'),
+ ('pbqp.gov.br', 'SAADI5', 'admin-c'),
+ ('pbqp.gov.br', 'SRB71', 'tech-c'),
+ ('pbqp.gov.br', 'FAA54', 'billing-c'),
+ ('crbio-02.gov.br', 'DRS76', 'owner-c'),
+ ('crbio-02.gov.br', 'DRS76', 'admin-c'),
+ ('crbio-02.gov.br', 'DRS76', 'tech-c'),
+ ('crbio-02.gov.br', 'DRS76', 'billing-c'),
+ ('tre-ba.gov.br', 'JEB31', 'owner-c'),
+ ('tre-ba.gov.br', 'DCC', 'admin-c'),
+ ('tre-ba.gov.br', 'DCC', 'tech-c'),
+ ('tre-ba.gov.br', 'WOS3', 'billing-c'),
+ ('ahipar.gov.br', 'FEY10', 'owner-c'),
+ ('ahipar.gov.br', 'PCA147', 'admin-c'),
+ ('ahipar.gov.br', 'TOI16', 'tech-c'),
+ ('ahipar.gov.br', 'PCA147', 'billing-c'),
+ ('computadorparatodos.gov.br', 'ADSFE47', 'owner-c'),
+ ('computadorparatodos.gov.br', 'ADSFE47', 'admin-c'),
+ ('computadorparatodos.gov.br', 'MRV103', 'tech-c'),
+ ('computadorparatodos.gov.br', 'WEQLI', 'billing-c'),
+ ('pmss.gov.br', 'IJFFI', 'owner-c'),
+ ('pmss.gov.br', 'YUONI', 'admin-c'),
+ ('pmss.gov.br', 'IJFFI', 'tech-c'),
+ ('pmss.gov.br', 'CFMSI14', 'billing-c'),
+ ('ahsfra.gov.br', 'VLN11', 'owner-c'),
+ ('ahsfra.gov.br', 'VLN11', 'admin-c'),
+ ('ahsfra.gov.br', 'MHC21', 'tech-c'),
+ ('ahsfra.gov.br', 'MHC21', 'billing-c'),
+ ('pgfn.gov.br', 'ADSFE47', 'owner-c'),
+ ('pgfn.gov.br', 'ADSFE47', 'admin-c'),
+ ('pgfn.gov.br', 'MRV103', 'tech-c'),
+ ('pgfn.gov.br', 'WEQLI', 'billing-c'),
+ ('teimozinha.gov.br', 'RMJ35', 'owner-c'),
+ ('teimozinha.gov.br', 'RMJ35', 'admin-c'),
+ ('teimozinha.gov.br', 'GIT60', 'tech-c'),
+ ('teimozinha.gov.br', 'GIC166', 'billing-c'),
+ ('segurancaquimica.gov.br', 'MMR', 'owner-c'),
+ ('segurancaquimica.gov.br', 'MMR', 'admin-c'),
+ ('segurancaquimica.gov.br', 'MMR', 'tech-c'),
+ ('segurancaquimica.gov.br', 'MMR', 'billing-c'),
+ ('projud.gov.br', 'DIDTE2', 'owner-c'),
+ ('projud.gov.br', 'DIDTE2', 'admin-c'),
+ ('projud.gov.br', 'DIDTE2', 'tech-c'),
+ ('projud.gov.br', 'DIDTE2', 'billing-c'),
+ ('brasil-rounds.gov.br', 'RALFA27', 'owner-c'),
+ ('brasil-rounds.gov.br', 'RALFA27', 'admin-c'),
+ ('brasil-rounds.gov.br', 'RALFA27', 'tech-c'),
+ ('brasil-rounds.gov.br', 'RALFA27', 'billing-c'),
+ ('retp.gov.br', 'MMR', 'owner-c'),
+ ('retp.gov.br', 'MMR', 'admin-c'),
+ ('retp.gov.br', 'MMR', 'tech-c'),
+ ('retp.gov.br', 'MMR', 'billing-c'),
+ ('cofeci.gov.br', 'CFI6', 'owner-c'),
+ ('cofeci.gov.br', 'CFI6', 'admin-c'),
+ ('cofeci.gov.br', 'CFI6', 'tech-c'),
+ ('cofeci.gov.br', 'CFI6', 'billing-c'),
+ ('trt7.gov.br', 'ROTSI68', 'owner-c'),
+ ('trt7.gov.br', 'LCMTR', 'admin-c'),
+ ('trt7.gov.br', 'ROTSI68', 'tech-c'),
+ ('trt7.gov.br', 'ROTSI68', 'billing-c'),
+ ('crfa1.gov.br', 'IAJ2', 'owner-c'),
+ ('crfa1.gov.br', 'IAJ2', 'admin-c'),
+ ('crfa1.gov.br', 'IAJ2', 'tech-c'),
+ ('crfa1.gov.br', 'IAJ2', 'billing-c'),
+ ('territoriosdacidadania.gov.br', 'ECLNA', 'owner-c'),
+ ('territoriosdacidadania.gov.br', 'ECLNA', 'admin-c'),
+ ('territoriosdacidadania.gov.br', 'ECLNA', 'tech-c'),
+ ('territoriosdacidadania.gov.br', 'ECLNA', 'billing-c'),
+ ('seti.gov.br', 'ADC633', 'owner-c'),
+ ('seti.gov.br', 'ADC633', 'admin-c'),
+ ('seti.gov.br', 'ADC633', 'tech-c'),
+ ('seti.gov.br', 'ADC633', 'billing-c'),
+ ('igam.gov.br', 'RTN2', 'owner-c'),
+ ('igam.gov.br', 'RTN2', 'admin-c'),
+ ('igam.gov.br', 'RTN', 'tech-c'),
+ ('igam.gov.br', 'RTN', 'billing-c'),
+ ('icpbrasil.gov.br', 'JRGJU4', 'owner-c'),
+ ('icpbrasil.gov.br', 'JRGJU4', 'admin-c'),
+ ('icpbrasil.gov.br', 'GCSMA8', 'tech-c'),
+ ('icpbrasil.gov.br', 'JRGJU4', 'billing-c'),
+ ('iphan.gov.br', 'CII5', 'owner-c'),
+ ('iphan.gov.br', 'CII5', 'admin-c'),
+ ('iphan.gov.br', 'CII5', 'tech-c'),
+ ('iphan.gov.br', 'CII5', 'billing-c'),
+ ('cref4sp.gov.br', 'CPM144', 'owner-c'),
+ ('cref4sp.gov.br', 'CPM144', 'admin-c'),
+ ('cref4sp.gov.br', 'CPM144', 'tech-c'),
+ ('cref4sp.gov.br', 'CPM144', 'billing-c'),
+ ('butantan.gov.br', 'SMH', 'owner-c'),
+ ('butantan.gov.br', 'SMH', 'admin-c'),
+ ('butantan.gov.br', 'SMH', 'tech-c'),
+ ('butantan.gov.br', 'SMH', 'billing-c'),
+ ('aeroshopping.gov.br', 'SUTIN', 'owner-c'),
+ ('aeroshopping.gov.br', 'SUTIN', 'admin-c'),
+ ('aeroshopping.gov.br', 'SUTIN', 'tech-c'),
+ ('aeroshopping.gov.br', 'GESUP4', 'billing-c'),
+ ('patrimoniodetodos.gov.br', 'VRCSI3', 'owner-c'),
+ ('patrimoniodetodos.gov.br', 'VRCSI3', 'admin-c'),
+ ('patrimoniodetodos.gov.br', 'VRCSI3', 'tech-c'),
+ ('patrimoniodetodos.gov.br', 'VRCSI3', 'billing-c'),
+ ('crbio-sc.gov.br', 'CLLUZ2', 'owner-c'),
+ ('crbio-sc.gov.br', 'CLLUZ2', 'admin-c'),
+ ('crbio-sc.gov.br', 'CLLUZ2', 'tech-c'),
+ ('crbio-sc.gov.br', 'CLLUZ2', 'billing-c'),
+ ('creditoruralcaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('creditoruralcaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('creditoruralcaixa.gov.br', 'GIT60', 'tech-c'),
+ ('creditoruralcaixa.gov.br', 'GIC166', 'billing-c'),
+ ('ms.gov.br', 'CGA', 'owner-c'),
+ ('ms.gov.br', 'CGA', 'admin-c'),
+ ('ms.gov.br', 'CGA', 'tech-c'),
+ ('ms.gov.br', 'CGA', 'billing-c'),
+ ('brazilglobalnet.gov.br', 'CTDPR5', 'owner-c'),
+ ('brazilglobalnet.gov.br', 'CTDPR5', 'admin-c'),
+ ('brazilglobalnet.gov.br', 'CTDPR5', 'tech-c'),
+ ('brazilglobalnet.gov.br', 'CTDPR5', 'billing-c'),
+ ('chicomendes.gov.br', 'CRC644', 'owner-c'),
+ ('chicomendes.gov.br', 'CRC644', 'admin-c'),
+ ('chicomendes.gov.br', 'DALSO56', 'tech-c'),
+ ('chicomendes.gov.br', 'CRC644', 'billing-c'),
+ ('inpi.gov.br', 'JSN6', 'owner-c'),
+ ('inpi.gov.br', 'JSN6', 'admin-c'),
+ ('inpi.gov.br', 'JSN6', 'tech-c'),
+ ('inpi.gov.br', 'JSN6', 'billing-c'),
+ ('gdf.gov.br', 'STC46', 'owner-c'),
+ ('gdf.gov.br', 'STC46', 'admin-c'),
+ ('gdf.gov.br', 'STC46', 'tech-c'),
+ ('gdf.gov.br', 'STC46', 'billing-c'),
+ ('jfrj.gov.br', 'LUCFR32', 'owner-c'),
+ ('jfrj.gov.br', 'LUCFR32', 'admin-c'),
+ ('jfrj.gov.br', 'LUCFR32', 'tech-c'),
+ ('jfrj.gov.br', 'LUCFR32', 'billing-c'),
+ ('cofen.gov.br', 'FASCR11', 'owner-c'),
+ ('cofen.gov.br', 'FASCR11', 'admin-c'),
+ ('cofen.gov.br', 'GHV12', 'tech-c'),
+ ('cofen.gov.br', 'LAM653', 'billing-c'),
+ ('caupi.gov.br', 'MICLO17', 'owner-c'),
+ ('caupi.gov.br', 'MICLO17', 'admin-c'),
+ ('caupi.gov.br', 'SCITI', 'tech-c'),
+ ('caupi.gov.br', 'SCFIN', 'billing-c'),
+ ('ceplac.gov.br', 'CMC35', 'owner-c'),
+ ('ceplac.gov.br', 'CMC35', 'admin-c'),
+ ('ceplac.gov.br', 'CMC35', 'tech-c'),
+ ('ceplac.gov.br', 'CMC35', 'billing-c'),
+ ('trt.gov.br', 'SEMVE4', 'owner-c'),
+ ('trt.gov.br', 'GAPFA4', 'admin-c'),
+ ('trt.gov.br', 'JOPVI11', 'tech-c'),
+ ('trt.gov.br', 'JOPVI11', 'billing-c'),
+ ('mtecbo.gov.br', 'COINF90', 'owner-c'),
+ ('mtecbo.gov.br', 'CLMEN28', 'admin-c'),
+ ('mtecbo.gov.br', 'MALHE11', 'tech-c'),
+ ('mtecbo.gov.br', 'MALHE11', 'billing-c'),
+ ('c-brasil.gov.br', 'ADSFE47', 'owner-c'),
+ ('c-brasil.gov.br', 'ADSFE47', 'admin-c'),
+ ('c-brasil.gov.br', 'MRV103', 'tech-c'),
+ ('c-brasil.gov.br', 'WEQLI', 'billing-c'),
+ ('enccla.gov.br', 'MIJUS7', 'owner-c'),
+ ('enccla.gov.br', 'ALCBA81', 'admin-c'),
+ ('enccla.gov.br', 'ALCBA81', 'tech-c'),
+ ('enccla.gov.br', 'ALCBA81', 'billing-c'),
+ ('brasilemcidades.gov.br', 'IJFFI', 'owner-c'),
+ ('brasilemcidades.gov.br', 'CFMSI14', 'admin-c'),
+ ('brasilemcidades.gov.br', 'IJFFI', 'tech-c'),
+ ('brasilemcidades.gov.br', 'YUONI', 'billing-c'),
+ ('mpm.gov.br', 'SAC404', 'owner-c'),
+ ('mpm.gov.br', 'MPM70', 'admin-c'),
+ ('mpm.gov.br', 'SAC404', 'tech-c'),
+ ('mpm.gov.br', 'SOCOE2', 'billing-c'),
+ ('cgu.gov.br', 'AMDSC29', 'owner-c'),
+ ('cgu.gov.br', 'AMDSC29', 'admin-c'),
+ ('cgu.gov.br', 'VDMLI12', 'tech-c'),
+ ('cgu.gov.br', 'GUMSO21', 'billing-c'),
+ ('ruralminas.gov.br', 'FTC41', 'owner-c'),
+ ('ruralminas.gov.br', 'FTC41', 'admin-c'),
+ ('ruralminas.gov.br', 'FTC41', 'tech-c'),
+ ('ruralminas.gov.br', 'FTC41', 'billing-c'),
+ ('eproc-sc.gov.br', 'ALSIL482', 'owner-c'),
+ ('eproc-sc.gov.br', 'ALSIL482', 'admin-c'),
+ ('eproc-sc.gov.br', 'ALSIL482', 'tech-c'),
+ ('eproc-sc.gov.br', 'ANZMA3', 'billing-c'),
+ ('esportiva.gov.br', 'RMJ35', 'owner-c'),
+ ('esportiva.gov.br', 'RMJ35', 'admin-c'),
+ ('esportiva.gov.br', 'GIT60', 'tech-c'),
+ ('esportiva.gov.br', 'GIC166', 'billing-c'),
+ ('bnb.gov.br', 'CMRSO14', 'owner-c'),
+ ('bnb.gov.br', 'CMRSO14', 'admin-c'),
+ ('bnb.gov.br', 'FFN', 'tech-c'),
+ ('bnb.gov.br', 'CMRSO14', 'billing-c'),
+ ('corenmg.gov.br', 'UTCOR', 'owner-c'),
+ ('corenmg.gov.br', 'ROCOL105', 'admin-c'),
+ ('corenmg.gov.br', 'ROCOL105', 'tech-c'),
+ ('corenmg.gov.br', 'ROCOL105', 'billing-c'),
+ ('transparenciapublica.gov.br', 'AMDSC29', 'owner-c'),
+ ('transparenciapublica.gov.br', 'AMDSC29', 'admin-c'),
+ ('transparenciapublica.gov.br', 'VDMLI12', 'tech-c'),
+ ('transparenciapublica.gov.br', 'GUMSO21', 'billing-c'),
+ ('fimdotrabalhoinfantil.gov.br', 'MACSO438', 'owner-c'),
+ ('fimdotrabalhoinfantil.gov.br', 'MACSO438', 'admin-c'),
+ ('fimdotrabalhoinfantil.gov.br', 'MACSO438', 'tech-c'),
+ ('fimdotrabalhoinfantil.gov.br', 'MACSO438', 'billing-c'),
+ ('portaldasaguas.gov.br', 'ANS308', 'owner-c'),
+ ('portaldasaguas.gov.br', 'ROTFI', 'admin-c'),
+ ('portaldasaguas.gov.br', 'ROTFI', 'tech-c'),
+ ('portaldasaguas.gov.br', 'ROTFI', 'billing-c'),
+ ('defencil.gov.br', 'ADSFE47', 'owner-c'),
+ ('defencil.gov.br', 'FFDSA72', 'admin-c'),
+ ('defencil.gov.br', 'FFDSA72', 'tech-c'),
+ ('defencil.gov.br', 'FFDSA72', 'billing-c'),
+ ('foccopb.gov.br', 'PRCIN2', 'owner-c'),
+ ('foccopb.gov.br', 'PRCIN2', 'admin-c'),
+ ('foccopb.gov.br', 'PRCIN2', 'tech-c'),
+ ('foccopb.gov.br', 'PRCIN2', 'billing-c'),
+ ('inma.gov.br', 'HQBFE', 'owner-c'),
+ ('inma.gov.br', 'HQBFE', 'admin-c'),
+ ('inma.gov.br', 'HDSUP', 'tech-c'),
+ ('inma.gov.br', 'HQBFE', 'billing-c'),
+ ('coredopiaui.gov.br', 'NEDIG3', 'owner-c'),
+ ('coredopiaui.gov.br', 'NEDIG3', 'admin-c'),
+ ('coredopiaui.gov.br', 'NEDIG3', 'tech-c'),
+ ('coredopiaui.gov.br', 'NEDIG3', 'billing-c'),
+ ('premio-e.gov.br', 'CGSTM2', 'owner-c'),
+ ('premio-e.gov.br', 'CGSTM2', 'admin-c'),
+ ('premio-e.gov.br', 'MRV103', 'tech-c'),
+ ('premio-e.gov.br', 'CGSTM2', 'billing-c'),
+ ('braziltradenet.gov.br', 'CTDPR5', 'owner-c'),
+ ('braziltradenet.gov.br', 'CTDPR5', 'admin-c'),
+ ('braziltradenet.gov.br', 'CTDPR5', 'tech-c'),
+ ('braziltradenet.gov.br', 'CTDPR5', 'billing-c'),
+ ('dou.gov.br', 'IMNAC', 'owner-c'),
+ ('dou.gov.br', 'IMNAC', 'admin-c'),
+ ('dou.gov.br', 'IMNAC', 'tech-c'),
+ ('dou.gov.br', 'IMNAC', 'billing-c'),
+ ('loto-tauloteriadacopa.gov.br', 'RMJ35', 'owner-c'),
+ ('loto-tauloteriadacopa.gov.br', 'RMJ35', 'admin-c'),
+ ('loto-tauloteriadacopa.gov.br', 'GIT60', 'tech-c'),
+ ('loto-tauloteriadacopa.gov.br', 'GIC166', 'billing-c'),
+ ('portaldaigualdade.gov.br', 'SASAL43', 'owner-c'),
+ ('portaldaigualdade.gov.br', 'SASAL43', 'admin-c'),
+ ('portaldaigualdade.gov.br', 'MAR79', 'tech-c'),
+ ('portaldaigualdade.gov.br', 'SASAL43', 'billing-c'),
+ ('ceplacpa.gov.br', 'MDG28', 'owner-c'),
+ ('ceplacpa.gov.br', 'MDG28', 'admin-c'),
+ ('ceplacpa.gov.br', 'MDG28', 'tech-c'),
+ ('ceplacpa.gov.br', 'MDG28', 'billing-c'),
+ ('pimentalonga.gov.br', 'REVTE3', 'owner-c'),
+ ('pimentalonga.gov.br', 'LCS36', 'admin-c'),
+ ('pimentalonga.gov.br', 'LCS36', 'tech-c'),
+ ('pimentalonga.gov.br', 'LCS36', 'billing-c'),
+ ('defesa.gov.br', 'EDA12', 'owner-c'),
+ ('defesa.gov.br', 'EDA12', 'admin-c'),
+ ('defesa.gov.br', 'EDA12', 'tech-c'),
+ ('defesa.gov.br', 'EDA12', 'billing-c'),
+ ('rapidinha.gov.br', 'RMJ35', 'owner-c'),
+ ('rapidinha.gov.br', 'RMJ35', 'admin-c'),
+ ('rapidinha.gov.br', 'GIT60', 'tech-c'),
+ ('rapidinha.gov.br', 'GIC166', 'billing-c'),
+ ('dner.gov.br', 'AFC320', 'owner-c'),
+ ('dner.gov.br', 'MHA22', 'admin-c'),
+ ('dner.gov.br', 'ZAL8', 'tech-c'),
+ ('dner.gov.br', 'VSJ47', 'billing-c'),
+ ('tre-rs.gov.br', 'JZFNE', 'owner-c'),
+ ('tre-rs.gov.br', 'JZFNE', 'admin-c'),
+ ('tre-rs.gov.br', 'JZFNE', 'tech-c'),
+ ('tre-rs.gov.br', 'JZFNE', 'billing-c'),
+ ('cmrj.gov.br', 'ECS26', 'owner-c'),
+ ('cmrj.gov.br', 'ECS26', 'admin-c'),
+ ('cmrj.gov.br', 'RAC30', 'tech-c'),
+ ('cmrj.gov.br', 'CAP46', 'billing-c'),
+ ('ahsul.gov.br', 'AFN64', 'owner-c'),
+ ('ahsul.gov.br', 'AFN64', 'admin-c'),
+ ('ahsul.gov.br', 'AFN64', 'tech-c'),
+ ('ahsul.gov.br', 'AFN64', 'billing-c'),
+ ('jfms.gov.br', 'ERC121', 'owner-c'),
+ ('jfms.gov.br', 'ERC121', 'admin-c'),
+ ('jfms.gov.br', 'EDL196', 'tech-c'),
+ ('jfms.gov.br', 'ERC121', 'billing-c'),
+ ('orcamentofederal.gov.br', 'ADSFE47', 'owner-c'),
+ ('orcamentofederal.gov.br', 'ADSFE47', 'admin-c'),
+ ('orcamentofederal.gov.br', 'MRV103', 'tech-c'),
+ ('orcamentofederal.gov.br', 'WEQLI', 'billing-c'),
+ ('caixaeconomica.gov.br', 'RMJ35', 'owner-c'),
+ ('caixaeconomica.gov.br', 'RMJ35', 'admin-c'),
+ ('caixaeconomica.gov.br', 'GIT60', 'tech-c'),
+ ('caixaeconomica.gov.br', 'GIC166', 'billing-c'),
+ ('antaq.gov.br', 'IRP', 'owner-c'),
+ ('antaq.gov.br', 'IRP', 'admin-c'),
+ ('antaq.gov.br', 'IRP', 'tech-c'),
+ ('antaq.gov.br', 'IRP', 'billing-c'),
+ ('gespublica.gov.br', 'ADSFE47', 'owner-c'),
+ ('gespublica.gov.br', 'ADSFE47', 'admin-c'),
+ ('gespublica.gov.br', 'MRV103', 'tech-c'),
+ ('gespublica.gov.br', 'WEQLI', 'billing-c'),
+ ('dner-ce.gov.br', 'TAR2', 'owner-c'),
+ ('dner-ce.gov.br', 'TAR2', 'admin-c'),
+ ('dner-ce.gov.br', 'ERC2', 'tech-c'),
+ ('dner-ce.gov.br', 'ERC2', 'billing-c'),
+ ('radiobras.gov.br', 'RSM9', 'owner-c'),
+ ('radiobras.gov.br', 'RSM9', 'admin-c'),
+ ('radiobras.gov.br', 'RSM9', 'tech-c'),
+ ('radiobras.gov.br', 'RSM9', 'billing-c'),
+ ('portalconsular.gov.br', 'SAT7', 'owner-c'),
+ ('portalconsular.gov.br', 'SAT7', 'admin-c'),
+ ('portalconsular.gov.br', 'SAT7', 'tech-c'),
+ ('portalconsular.gov.br', 'SAT7', 'billing-c'),
+ ('cepec.gov.br', 'RMS497', 'owner-c'),
+ ('cepec.gov.br', 'RMS497', 'admin-c'),
+ ('cepec.gov.br', 'RMS497', 'tech-c'),
+ ('cepec.gov.br', 'RMS497', 'billing-c'),
+ ('pbqp-h.gov.br', 'IJFFI', 'owner-c'),
+ ('pbqp-h.gov.br', 'CFMSI14', 'admin-c'),
+ ('pbqp-h.gov.br', 'IJFFI', 'tech-c'),
+ ('pbqp-h.gov.br', 'YUONI', 'billing-c'),
+ ('ouvidorias.gov.br', 'AMDSC29', 'owner-c'),
+ ('ouvidorias.gov.br', 'AMDSC29', 'admin-c'),
+ ('ouvidorias.gov.br', 'VDMLI12', 'tech-c'),
+ ('ouvidorias.gov.br', 'GUMSO21', 'billing-c'),
+ ('observatoriodegenero.gov.br', 'MAR79', 'owner-c'),
+ ('observatoriodegenero.gov.br', 'MAR79', 'admin-c'),
+ ('observatoriodegenero.gov.br', 'MAR79', 'tech-c'),
+ ('observatoriodegenero.gov.br', 'MAR79', 'billing-c'),
+ ('cdes.gov.br', 'MAR79', 'owner-c'),
+ ('cdes.gov.br', 'MAR79', 'admin-c'),
+ ('cdes.gov.br', 'MAR79', 'tech-c'),
+ ('cdes.gov.br', 'MAR79', 'billing-c'),
+ ('ahitar.gov.br', 'JCP325', 'owner-c'),
+ ('ahitar.gov.br', 'JCP325', 'admin-c'),
+ ('ahitar.gov.br', 'MIL275', 'tech-c'),
+ ('ahitar.gov.br', 'MIL275', 'billing-c'),
+ ('esmpu.gov.br', 'ESATE4', 'owner-c'),
+ ('esmpu.gov.br', 'ESATE4', 'admin-c'),
+ ('esmpu.gov.br', 'ESATE4', 'tech-c'),
+ ('esmpu.gov.br', 'ESATE4', 'billing-c'),
+ ('esamur.gov.br', 'REAGU', 'owner-c'),
+ ('esamur.gov.br', 'REAGU', 'admin-c'),
+ ('esamur.gov.br', 'REAGU', 'tech-c'),
+ ('esamur.gov.br', 'REAGU', 'billing-c'),
+ ('olaturista.gov.br', 'SUAAL3', 'owner-c'),
+ ('olaturista.gov.br', 'SUAAL3', 'admin-c'),
+ ('olaturista.gov.br', 'SUAAL3', 'tech-c'),
+ ('olaturista.gov.br', 'SUAAL3', 'billing-c'),
+ ('eufiscalizo.gov.br', 'ARRAL9', 'owner-c'),
+ ('eufiscalizo.gov.br', 'ARRAL9', 'admin-c'),
+ ('eufiscalizo.gov.br', 'RETMI', 'tech-c'),
+ ('eufiscalizo.gov.br', 'ARRAL9', 'billing-c'),
+ ('eaf-sbf.gov.br', 'KLR27', 'owner-c'),
+ ('eaf-sbf.gov.br', 'ACC37', 'admin-c'),
+ ('eaf-sbf.gov.br', 'KLR27', 'tech-c'),
+ ('eaf-sbf.gov.br', 'KLR27', 'billing-c'),
+ ('cauto.gov.br', 'MICLO17', 'owner-c'),
+ ('cauto.gov.br', 'MICLO17', 'admin-c'),
+ ('cauto.gov.br', 'SCITI', 'tech-c'),
+ ('cauto.gov.br', 'SCFIN', 'billing-c'),
+ ('casaruibarbosa.gov.br', 'FCRBA5', 'owner-c'),
+ ('casaruibarbosa.gov.br', 'FCRBA5', 'admin-c'),
+ ('casaruibarbosa.gov.br', 'FCRBA5', 'tech-c'),
+ ('casaruibarbosa.gov.br', 'FCRBA5', 'billing-c'),
+ ('investexportbrazil.gov.br', 'CTDPR5', 'owner-c'),
+ ('investexportbrazil.gov.br', 'CTDPR5', 'admin-c'),
+ ('investexportbrazil.gov.br', 'CTDPR5', 'tech-c'),
+ ('investexportbrazil.gov.br', 'CTDPR5', 'billing-c'),
+ ('bid2002brasil.gov.br', 'CGSTM2', 'owner-c'),
+ ('bid2002brasil.gov.br', 'CGSTM2', 'admin-c'),
+ ('bid2002brasil.gov.br', 'CGSTM2', 'tech-c'),
+ ('bid2002brasil.gov.br', 'CGSTM2', 'billing-c'),
+ ('cd.gov.br', 'SSG50', 'owner-c'),
+ ('cd.gov.br', 'SSG50', 'admin-c'),
+ ('cd.gov.br', 'SSG50', 'tech-c'),
+ ('cd.gov.br', 'SSG50', 'billing-c'),
+ ('cepesc.gov.br', 'GDS174', 'owner-c'),
+ ('cepesc.gov.br', 'GDS174', 'admin-c'),
+ ('cepesc.gov.br', 'DSARA3', 'tech-c'),
+ ('cepesc.gov.br', 'GDS174', 'billing-c'),
+ ('creci-pa.gov.br', 'CRCIP', 'owner-c'),
+ ('creci-pa.gov.br', 'CRCIP', 'admin-c'),
+ ('creci-pa.gov.br', 'IBTLT3', 'tech-c'),
+ ('creci-pa.gov.br', 'IBTLT3', 'billing-c'),
+ ('ceagesp.gov.br', 'CEP457', 'owner-c'),
+ ('ceagesp.gov.br', 'CEP457', 'admin-c'),
+ ('ceagesp.gov.br', 'CEP457', 'tech-c'),
+ ('ceagesp.gov.br', 'CEP457', 'billing-c'),
+ ('crecipr.gov.br', 'GPD21', 'owner-c'),
+ ('crecipr.gov.br', 'GPD21', 'admin-c'),
+ ('crecipr.gov.br', 'GPD21', 'tech-c'),
+ ('crecipr.gov.br', 'GPD21', 'billing-c'),
+ ('ciasc.gov.br', 'FLR3', 'owner-c'),
+ ('ciasc.gov.br', 'FLR3', 'admin-c'),
+ ('ciasc.gov.br', 'LAB548', 'tech-c'),
+ ('ciasc.gov.br', 'FLR3', 'billing-c'),
+ ('br.gov.br', 'ADSFE47', 'owner-c'),
+ ('br.gov.br', 'ADSFE47', 'admin-c'),
+ ('br.gov.br', 'MRV103', 'tech-c'),
+ ('br.gov.br', 'ADSFE47', 'billing-c'),
+ ('faroldodesenvolvimento.gov.br', 'CMRSO14', 'owner-c'),
+ ('faroldodesenvolvimento.gov.br', 'CMRSO14', 'admin-c'),
+ ('faroldodesenvolvimento.gov.br', 'FFN', 'tech-c'),
+ ('faroldodesenvolvimento.gov.br', 'CMRSO14', 'billing-c'),
+ ('tre-al.gov.br', 'DCC', 'owner-c'),
+ ('tre-al.gov.br', 'DCC', 'admin-c'),
+ ('tre-al.gov.br', 'DCC', 'tech-c'),
+ ('tre-al.gov.br', 'WOS3', 'billing-c'),
+ ('ahinor.gov.br', 'HRC25', 'owner-c'),
+ ('ahinor.gov.br', 'HRC25', 'admin-c'),
+ ('ahinor.gov.br', 'HRC25', 'tech-c'),
+ ('ahinor.gov.br', 'HRC25', 'billing-c'),
+ ('fnde.gov.br', 'FNDED3', 'owner-c'),
+ ('fnde.gov.br', 'FNDED3', 'admin-c'),
+ ('fnde.gov.br', 'FNDED4', 'tech-c'),
+ ('fnde.gov.br', 'FNDED3', 'billing-c'),
+ ('investinbrazil.gov.br', 'CGSTM2', 'owner-c'),
+ ('investinbrazil.gov.br', 'CGSTM2', 'admin-c'),
+ ('investinbrazil.gov.br', 'CGSTM2', 'tech-c'),
+ ('investinbrazil.gov.br', 'CGSTM2', 'billing-c'),
+ ('seap.gov.br', 'RESCA114', 'owner-c'),
+ ('seap.gov.br', 'RESCA114', 'admin-c'),
+ ('seap.gov.br', 'RESCA114', 'tech-c'),
+ ('seap.gov.br', 'RESCA114', 'billing-c'),
+ ('todoscontracorrupcao.gov.br', 'AMDSC29', 'owner-c'),
+ ('todoscontracorrupcao.gov.br', 'AMDSC29', 'admin-c'),
+ ('todoscontracorrupcao.gov.br', 'VDMLI12', 'tech-c'),
+ ('todoscontracorrupcao.gov.br', 'GUMSO21', 'billing-c'),
+ ('cprmba.gov.br', 'JSS69', 'owner-c'),
+ ('cprmba.gov.br', 'JSS69', 'admin-c'),
+ ('cprmba.gov.br', 'JSS69', 'tech-c'),
+ ('cprmba.gov.br', 'JSS69', 'billing-c'),
+ ('casamilitar.gov.br', 'MAR79', 'owner-c'),
+ ('casamilitar.gov.br', 'MAR79', 'admin-c'),
+ ('casamilitar.gov.br', 'MAR79', 'tech-c'),
+ ('casamilitar.gov.br', 'MAR79', 'billing-c'),
+ ('coren-ba.gov.br', 'CRB188', 'owner-c'),
+ ('coren-ba.gov.br', 'CRB188', 'admin-c'),
+ ('coren-ba.gov.br', 'EDSBE42', 'tech-c'),
+ ('coren-ba.gov.br', 'CRB188', 'billing-c'),
+ ('meioambiente.gov.br', 'MMR', 'owner-c'),
+ ('meioambiente.gov.br', 'MMR', 'admin-c'),
+ ('meioambiente.gov.br', 'MMR', 'tech-c'),
+ ('meioambiente.gov.br', 'MMR', 'billing-c'),
+ ('orint.gov.br', 'GDS174', 'owner-c'),
+ ('orint.gov.br', 'GDS174', 'admin-c'),
+ ('orint.gov.br', 'DSARA3', 'tech-c'),
+ ('orint.gov.br', 'GDS174', 'billing-c'),
+ ('socinfo.gov.br', 'LEL7', 'owner-c'),
+ ('socinfo.gov.br', 'LEL7', 'admin-c'),
+ ('socinfo.gov.br', 'LEL7', 'tech-c'),
+ ('socinfo.gov.br', 'LEL7', 'billing-c'),
+ ('baciadoprata.gov.br', 'COSIN16', 'owner-c'),
+ ('baciadoprata.gov.br', 'COSIN16', 'admin-c'),
+ ('baciadoprata.gov.br', 'COSIN16', 'tech-c'),
+ ('baciadoprata.gov.br', 'COSIN16', 'billing-c'),
+ ('trt-sp.gov.br', 'COARE11', 'owner-c'),
+ ('trt-sp.gov.br', 'RECCO133', 'admin-c'),
+ ('trt-sp.gov.br', 'SERTE12', 'tech-c'),
+ ('trt-sp.gov.br', 'RECCO133', 'billing-c'),
+ ('codesa.gov.br', 'CFB68', 'owner-c'),
+ ('codesa.gov.br', 'CFB68', 'admin-c'),
+ ('codesa.gov.br', 'VOSIL2', 'tech-c'),
+ ('codesa.gov.br', 'CFB68', 'billing-c'),
+ ('tesourotransparente.gov.br', 'MNR', 'owner-c'),
+ ('tesourotransparente.gov.br', 'MNR', 'admin-c'),
+ ('tesourotransparente.gov.br', 'ROFFR86', 'tech-c'),
+ ('tesourotransparente.gov.br', 'MNR', 'billing-c'),
+ ('tjpe.gov.br', 'TJP', 'owner-c'),
+ ('tjpe.gov.br', 'TJP', 'admin-c'),
+ ('tjpe.gov.br', 'TJP', 'tech-c'),
+ ('tjpe.gov.br', 'TJP', 'billing-c'),
+ ('trtms.gov.br', 'GAS5', 'owner-c'),
+ ('trtms.gov.br', 'GAS5', 'admin-c'),
+ ('trtms.gov.br', 'AMS339', 'tech-c'),
+ ('trtms.gov.br', 'MAMSA38', 'billing-c'),
+ ('jef-rs.gov.br', 'ALSIL482', 'owner-c'),
+ ('jef-rs.gov.br', 'ALSIL482', 'admin-c'),
+ ('jef-rs.gov.br', 'ALSIL482', 'tech-c'),
+ ('jef-rs.gov.br', 'ANZMA3', 'billing-c'),
+ ('pame.gov.br', 'AOP26', 'owner-c'),
+ ('pame.gov.br', 'AOP26', 'admin-c'),
+ ('pame.gov.br', 'AOP26', 'tech-c'),
+ ('pame.gov.br', 'AOP26', 'billing-c'),
+ ('receita.gov.br', 'ADSFE47', 'owner-c'),
+ ('receita.gov.br', 'ADSFE47', 'admin-c'),
+ ('receita.gov.br', 'MRV103', 'tech-c'),
+ ('receita.gov.br', 'WEQLI', 'billing-c'),
+ ('rio.gov.br', 'JFASI6', 'owner-c'),
+ ('rio.gov.br', 'JFASI6', 'admin-c'),
+ ('rio.gov.br', 'JFASI6', 'tech-c'),
+ ('rio.gov.br', 'JFASI6', 'billing-c'),
+ ('infraestruturabrasil.gov.br', 'CGSTM2', 'owner-c'),
+ ('infraestruturabrasil.gov.br', 'CGSTM2', 'admin-c'),
+ ('infraestruturabrasil.gov.br', 'CGSTM2', 'tech-c'),
+ ('infraestruturabrasil.gov.br', 'CGSTM2', 'billing-c'),
+ ('jbrj.gov.br', 'MGP95', 'owner-c'),
+ ('jbrj.gov.br', 'RMP6', 'admin-c'),
+ ('jbrj.gov.br', 'MGP95', 'tech-c'),
+ ('jbrj.gov.br', 'RMP6', 'billing-c'),
+ ('registrocivil.gov.br', 'MAAJU182', 'owner-c'),
+ ('registrocivil.gov.br', 'WEL52', 'admin-c'),
+ ('registrocivil.gov.br', 'FRASO52', 'tech-c'),
+ ('registrocivil.gov.br', 'WEL52', 'billing-c'),
+ ('saude.gov.br', 'ARC452', 'owner-c'),
+ ('saude.gov.br', 'ARC452', 'admin-c'),
+ ('saude.gov.br', 'MAVTO30', 'tech-c'),
+ ('saude.gov.br', 'ARC452', 'billing-c'),
+ ('etfc.gov.br', 'ADRIF4', 'owner-c'),
+ ('etfc.gov.br', 'ADRIF4', 'admin-c'),
+ ('etfc.gov.br', 'ADRIF4', 'tech-c'),
+ ('etfc.gov.br', 'ADRIF4', 'billing-c'),
+ ('tre-df.gov.br', 'DCC', 'owner-c'),
+ ('tre-df.gov.br', 'DCC', 'admin-c'),
+ ('tre-df.gov.br', 'DCC', 'tech-c'),
+ ('tre-df.gov.br', 'WOS3', 'billing-c'),
+ ('tribunaisdotrabalho.gov.br', 'SCD13', 'owner-c'),
+ ('tribunaisdotrabalho.gov.br', 'SCD13', 'admin-c'),
+ ('tribunaisdotrabalho.gov.br', 'SCD13', 'tech-c'),
+ ('tribunaisdotrabalho.gov.br', 'SCD13', 'billing-c'),
+ ('amazonfund-bndes.gov.br', 'GGT13', 'owner-c'),
+ ('amazonfund-bndes.gov.br', 'GGT13', 'admin-c'),
+ ('amazonfund-bndes.gov.br', 'GGT13', 'tech-c'),
+ ('amazonfund-bndes.gov.br', 'GGT13', 'billing-c'),
+ ('raspadinhafederal.gov.br', 'RMJ35', 'owner-c'),
+ ('raspadinhafederal.gov.br', 'RMJ35', 'admin-c'),
+ ('raspadinhafederal.gov.br', 'GIT60', 'tech-c'),
+ ('raspadinhafederal.gov.br', 'GIC166', 'billing-c'),
+ ('sintegra.gov.br', 'ADSFE47', 'owner-c'),
+ ('sintegra.gov.br', 'ADSFE47', 'admin-c'),
+ ('sintegra.gov.br', 'RDV', 'tech-c'),
+ ('sintegra.gov.br', 'WEQLI', 'billing-c'),
+ ('servidor.gov.br', 'CGSTM2', 'owner-c'),
+ ('servidor.gov.br', 'CGSTM2', 'admin-c'),
+ ('servidor.gov.br', 'CGSTM2', 'tech-c'),
+ ('servidor.gov.br', 'CGSTM2', 'billing-c'),
+ ('tvjustica.gov.br', 'EDR194', 'owner-c'),
+ ('tvjustica.gov.br', 'SETIN14', 'admin-c'),
+ ('tvjustica.gov.br', 'SGSRE3', 'tech-c'),
+ ('tvjustica.gov.br', 'GASTI6', 'billing-c'),
+ ('fgts.gov.br', 'RMJ35', 'owner-c'),
+ ('fgts.gov.br', 'RMJ35', 'admin-c'),
+ ('fgts.gov.br', 'GIT60', 'tech-c'),
+ ('fgts.gov.br', 'GIC166', 'billing-c'),
+ ('convenios.gov.br', 'CGSTM2', 'owner-c'),
+ ('convenios.gov.br', 'CGSTM2', 'admin-c'),
+ ('convenios.gov.br', 'CGSTM2', 'tech-c'),
+ ('convenios.gov.br', 'CGSTM2', 'billing-c'),
+ ('caixainvest.gov.br', 'RMJ35', 'owner-c'),
+ ('caixainvest.gov.br', 'RMJ35', 'admin-c'),
+ ('caixainvest.gov.br', 'GIT60', 'tech-c'),
+ ('caixainvest.gov.br', 'GIC166', 'billing-c'),
+ ('coren-ap.gov.br', 'CREAM2', 'owner-c'),
+ ('coren-ap.gov.br', 'CREAM2', 'admin-c'),
+ ('coren-ap.gov.br', 'CREAM2', 'tech-c'),
+ ('coren-ap.gov.br', 'CREAM2', 'billing-c'),
+ ('supersenaduplachance.gov.br', 'RMJ35', 'owner-c'),
+ ('supersenaduplachance.gov.br', 'RMJ35', 'admin-c'),
+ ('supersenaduplachance.gov.br', 'GIT60', 'tech-c'),
+ ('supersenaduplachance.gov.br', 'GIC166', 'billing-c'),
+ ('ec.gov.br', 'ARC452', 'owner-c'),
+ ('ec.gov.br', 'ARC452', 'admin-c'),
+ ('ec.gov.br', 'MAVTO30', 'tech-c'),
+ ('ec.gov.br', 'ARC452', 'billing-c'),
+ ('crcn.gov.br', 'MDGSO2', 'owner-c'),
+ ('crcn.gov.br', 'MDGSO2', 'admin-c'),
+ ('crcn.gov.br', 'MDGSO2', 'tech-c'),
+ ('crcn.gov.br', 'MDGSO2', 'billing-c'),
+ ('cfbio.gov.br', 'CFBCF', 'owner-c'),
+ ('cfbio.gov.br', 'CFBCF', 'admin-c'),
+ ('cfbio.gov.br', 'EAA236', 'tech-c'),
+ ('cfbio.gov.br', 'CFBCF', 'billing-c'),
+ ('portalplanalto.gov.br', 'MAMPA145', 'owner-c'),
+ ('portalplanalto.gov.br', 'MAMPA145', 'admin-c'),
+ ('portalplanalto.gov.br', 'MRV103', 'tech-c'),
+ ('portalplanalto.gov.br', 'MAR79', 'billing-c'),
+ ('minc.gov.br', 'MICUL2', 'owner-c'),
+ ('minc.gov.br', 'MICUL2', 'admin-c'),
+ ('minc.gov.br', 'MICUL2', 'tech-c'),
+ ('minc.gov.br', 'MICUL2', 'billing-c'),
+ ('eafars.gov.br', 'HCC55', 'owner-c'),
+ ('eafars.gov.br', 'HCC55', 'admin-c'),
+ ('eafars.gov.br', 'HCC55', 'tech-c'),
+ ('eafars.gov.br', 'HCC55', 'billing-c'),
+ ('pensesimples.gov.br', 'CGSTM2', 'owner-c'),
+ ('pensesimples.gov.br', 'CGSTM2', 'admin-c'),
+ ('pensesimples.gov.br', 'CGSTM2', 'tech-c'),
+ ('pensesimples.gov.br', 'CGSTM2', 'billing-c'),
+ ('matopiba.gov.br', 'MAS3725', 'owner-c'),
+ ('matopiba.gov.br', 'MAS3725', 'admin-c'),
+ ('matopiba.gov.br', 'MAS3725', 'tech-c'),
+ ('matopiba.gov.br', 'MAS3725', 'billing-c'),
+ ('memoriasreveladas.gov.br', 'KERPO', 'owner-c'),
+ ('memoriasreveladas.gov.br', 'KERPO', 'admin-c'),
+ ('memoriasreveladas.gov.br', 'KERPO', 'tech-c'),
+ ('memoriasreveladas.gov.br', 'KERPO', 'billing-c'),
+ ('telesc.gov.br', 'COAOI', 'owner-c'),
+ ('telesc.gov.br', 'COAOI', 'admin-c'),
+ ('telesc.gov.br', 'COAOI', 'tech-c'),
+ ('telesc.gov.br', 'COAOI', 'billing-c'),
+ ('brasilsaudavelesustentavel.gov.br', 'MACSO438', 'owner-c'),
+ ('brasilsaudavelesustentavel.gov.br', 'MACSO438', 'admin-c'),
+ ('brasilsaudavelesustentavel.gov.br', 'MACSO438', 'tech-c'),
+ ('brasilsaudavelesustentavel.gov.br', 'MACSO438', 'billing-c'),
+ ('nossoambiente.gov.br', 'MMR', 'owner-c'),
+ ('nossoambiente.gov.br', 'MMR', 'admin-c'),
+ ('nossoambiente.gov.br', 'MMR', 'tech-c'),
+ ('nossoambiente.gov.br', 'MMR', 'billing-c'),
+ ('trt19.gov.br', 'JLL22', 'owner-c'),
+ ('trt19.gov.br', 'JLL22', 'admin-c'),
+ ('trt19.gov.br', 'JLL22', 'tech-c'),
+ ('trt19.gov.br', 'JLL22', 'billing-c'),
+ ('environment.gov.br', 'MMR', 'owner-c'),
+ ('environment.gov.br', 'MMR', 'admin-c'),
+ ('environment.gov.br', 'MMR', 'tech-c'),
+ ('environment.gov.br', 'MMR', 'billing-c'),
+ ('conter.gov.br', 'HFF25', 'owner-c'),
+ ('conter.gov.br', 'HFF25', 'admin-c'),
+ ('conter.gov.br', 'HFF25', 'tech-c'),
+ ('conter.gov.br', 'HFF25', 'billing-c'),
+ ('apo.gov.br', 'ENJRO2', 'owner-c'),
+ ('apo.gov.br', 'ENJRO2', 'admin-c'),
+ ('apo.gov.br', 'MRV103', 'tech-c'),
+ ('apo.gov.br', 'ENJRO2', 'billing-c'),
+ ('in.gov.br', 'IMNAC', 'owner-c'),
+ ('in.gov.br', 'IMNAC', 'admin-c'),
+ ('in.gov.br', 'IMNAC', 'tech-c'),
+ ('in.gov.br', 'IMNAC', 'billing-c'),
+ ('caminhaofederal.gov.br', 'RMJ35', 'owner-c'),
+ ('caminhaofederal.gov.br', 'RMJ35', 'admin-c'),
+ ('caminhaofederal.gov.br', 'GIT60', 'tech-c'),
+ ('caminhaofederal.gov.br', 'GIC166', 'billing-c'),
+ ('crbio04.gov.br', 'GLCAR63', 'owner-c'),
+ ('crbio04.gov.br', 'GLCAR63', 'admin-c'),
+ ('crbio04.gov.br', 'GLCAR63', 'tech-c'),
+ ('crbio04.gov.br', 'GLCAR63', 'billing-c'),
+ ('cbtu.gov.br', 'EDS314', 'owner-c'),
+ ('cbtu.gov.br', 'EDS314', 'admin-c'),
+ ('cbtu.gov.br', 'EDS314', 'tech-c'),
+ ('cbtu.gov.br', 'EDS314', 'billing-c'),
+ ('anssaude.gov.br', 'JWD3', 'owner-c'),
+ ('anssaude.gov.br', 'JWD3', 'admin-c'),
+ ('anssaude.gov.br', 'JWD3', 'tech-c'),
+ ('anssaude.gov.br', 'JWD3', 'billing-c'),
+ ('confiancabrasil.gov.br', 'MAR79', 'owner-c'),
+ ('confiancabrasil.gov.br', 'MAR79', 'admin-c'),
+ ('confiancabrasil.gov.br', 'MAR79', 'tech-c'),
+ ('confiancabrasil.gov.br', 'MAR79', 'billing-c'),
+ ('altatv.gov.br', 'ANM153', 'owner-c'),
+ ('altatv.gov.br', 'PACBE47', 'admin-c'),
+ ('altatv.gov.br', 'PACBE47', 'tech-c'),
+ ('altatv.gov.br', 'PACBE47', 'billing-c'),
+ ('exercito.gov.br', 'CITEB', 'owner-c'),
+ ('exercito.gov.br', 'LCR116', 'admin-c'),
+ ('exercito.gov.br', 'LCR116', 'tech-c'),
+ ('exercito.gov.br', 'LCR116', 'billing-c'),
+ ('sudeco.gov.br', 'LRSAL9', 'owner-c'),
+ ('sudeco.gov.br', 'LRSAL9', 'admin-c'),
+ ('sudeco.gov.br', 'LRSAL9', 'tech-c'),
+ ('sudeco.gov.br', 'LRSAL9', 'billing-c'),
+ ('anp.gov.br', 'RALFA27', 'owner-c'),
+ ('anp.gov.br', 'RALFA27', 'admin-c'),
+ ('anp.gov.br', 'RALFA27', 'tech-c'),
+ ('anp.gov.br', 'RALFA27', 'billing-c'),
+ ('siop.gov.br', 'GEBPE18', 'owner-c'),
+ ('siop.gov.br', 'GEBPE18', 'admin-c'),
+ ('siop.gov.br', 'AUCCA15', 'tech-c'),
+ ('siop.gov.br', 'ACCFO13', 'billing-c'),
+ ('unasus.gov.br', 'RAMMO42', 'owner-c'),
+ ('unasus.gov.br', 'RAMMO42', 'admin-c'),
+ ('unasus.gov.br', 'RAMMO42', 'tech-c'),
+ ('unasus.gov.br', 'RAMMO42', 'billing-c'),
+ ('trt23.gov.br', 'RMP321', 'owner-c'),
+ ('trt23.gov.br', 'FRTNE13', 'admin-c'),
+ ('trt23.gov.br', 'FRTNE13', 'tech-c'),
+ ('trt23.gov.br', 'FRTNE13', 'billing-c'),
+ ('aids.gov.br', 'RGC5', 'owner-c'),
+ ('aids.gov.br', 'RGC5', 'admin-c'),
+ ('aids.gov.br', 'RGC5', 'tech-c'),
+ ('aids.gov.br', 'RGC5', 'billing-c'),
+ ('anac.gov.br', 'GESAN124', 'owner-c'),
+ ('anac.gov.br', 'GESAN124', 'admin-c'),
+ ('anac.gov.br', 'GTSIN3', 'tech-c'),
+ ('anac.gov.br', 'GESAN124', 'billing-c'),
+ ('redemulheres.gov.br', 'MMR', 'owner-c'),
+ ('redemulheres.gov.br', 'MMR', 'admin-c'),
+ ('redemulheres.gov.br', 'MMR', 'tech-c'),
+ ('redemulheres.gov.br', 'MMR', 'billing-c'),
+ ('trt-02.gov.br', 'COARE11', 'owner-c'),
+ ('trt-02.gov.br', 'RECCO133', 'admin-c'),
+ ('trt-02.gov.br', 'SERTE12', 'tech-c'),
+ ('trt-02.gov.br', 'RECCO133', 'billing-c'),
+ ('trt4.gov.br', 'TRP3', 'owner-c'),
+ ('trt4.gov.br', 'TRP3', 'admin-c'),
+ ('trt4.gov.br', 'TRP3', 'tech-c'),
+ ('trt4.gov.br', 'TRP3', 'billing-c'),
+ ('sinir.gov.br', 'MMR', 'owner-c'),
+ ('sinir.gov.br', 'MMR', 'admin-c'),
+ ('sinir.gov.br', 'MMR', 'tech-c'),
+ ('sinir.gov.br', 'MMR', 'billing-c'),
+ ('presidenciadarepublica.gov.br', 'MAR79', 'owner-c'),
+ ('presidenciadarepublica.gov.br', 'MAR79', 'admin-c'),
+ ('presidenciadarepublica.gov.br', 'MAR79', 'tech-c'),
+ ('presidenciadarepublica.gov.br', 'MAR79', 'billing-c'),
+ ('trf4.gov.br', 'CRP165', 'owner-c'),
+ ('trf4.gov.br', 'CRP165', 'admin-c'),
+ ('trf4.gov.br', 'ALKAN5', 'tech-c'),
+ ('trf4.gov.br', 'CRP165', 'billing-c'),
+ ('eletronorte.gov.br', 'GSC187', 'owner-c'),
+ ('eletronorte.gov.br', 'GSC187', 'admin-c'),
+ ('eletronorte.gov.br', 'GSC187', 'tech-c'),
+ ('eletronorte.gov.br', 'GSC187', 'billing-c'),
+ ('entespublicos.gov.br', 'ADSFE47', 'owner-c'),
+ ('entespublicos.gov.br', 'ADSFE47', 'admin-c'),
+ ('entespublicos.gov.br', 'MRV103', 'tech-c'),
+ ('entespublicos.gov.br', 'ADSFE47', 'billing-c'),
+ ('trt9.gov.br', 'JABRI4', 'owner-c'),
+ ('trt9.gov.br', 'JABRI4', 'admin-c'),
+ ('trt9.gov.br', 'RAITR3', 'tech-c'),
+ ('trt9.gov.br', 'ALYAM', 'billing-c'),
+ ('tre-ms.gov.br', 'TRM7', 'owner-c'),
+ ('tre-ms.gov.br', 'DCC', 'admin-c'),
+ ('tre-ms.gov.br', 'DCC', 'tech-c'),
+ ('tre-ms.gov.br', 'SAS125', 'billing-c'),
+ ('caged.gov.br', 'COINF90', 'owner-c'),
+ ('caged.gov.br', 'CLMEN28', 'admin-c'),
+ ('caged.gov.br', 'MALHE11', 'tech-c'),
+ ('caged.gov.br', 'MALHE11', 'billing-c'),
+ ('justicadotrabalho.gov.br', 'SCD13', 'owner-c'),
+ ('justicadotrabalho.gov.br', 'SCD13', 'admin-c'),
+ ('justicadotrabalho.gov.br', 'SCD13', 'tech-c'),
+ ('justicadotrabalho.gov.br', 'SCD13', 'billing-c'),
+ ('pracas.gov.br', 'MICUL2', 'owner-c'),
+ ('pracas.gov.br', 'MICUL2', 'admin-c'),
+ ('pracas.gov.br', 'MICUL2', 'tech-c'),
+ ('pracas.gov.br', 'MICUL2', 'billing-c'),
+ ('itamaraty.gov.br', 'SAT7', 'owner-c'),
+ ('itamaraty.gov.br', 'SAT7', 'admin-c'),
+ ('itamaraty.gov.br', 'SAT7', 'tech-c'),
+ ('itamaraty.gov.br', 'SAT7', 'billing-c'),
+ ('trt15.gov.br', 'COITI', 'owner-c'),
+ ('trt15.gov.br', 'COITI', 'admin-c'),
+ ('trt15.gov.br', 'COITI', 'tech-c'),
+ ('trt15.gov.br', 'COITI', 'billing-c'),
+ ('trtes.gov.br', 'CATGO3', 'owner-c'),
+ ('trtes.gov.br', 'CATGO3', 'admin-c'),
+ ('trtes.gov.br', 'JMSCA2', 'tech-c'),
+ ('trtes.gov.br', 'DRZ', 'billing-c'),
+ ('trtsp.gov.br', 'COARE11', 'owner-c'),
+ ('trtsp.gov.br', 'RECCO133', 'admin-c'),
+ ('trtsp.gov.br', 'SERTE12', 'tech-c'),
+ ('trtsp.gov.br', 'RECCO133', 'billing-c'),
+ ('capes.gov.br', 'FUCAP4', 'owner-c'),
+ ('capes.gov.br', 'FUCAP4', 'admin-c'),
+ ('capes.gov.br', 'FUCAP4', 'tech-c'),
+ ('capes.gov.br', 'FUCAP4', 'billing-c'),
+ ('passaporteverde.gov.br', 'MMR', 'owner-c'),
+ ('passaporteverde.gov.br', 'MMR', 'admin-c'),
+ ('passaporteverde.gov.br', 'MMR', 'tech-c'),
+ ('passaporteverde.gov.br', 'MMR', 'billing-c'),
+ ('abrasil.gov.br', 'CGSTM2', 'owner-c'),
+ ('abrasil.gov.br', 'CGSTM2', 'admin-c'),
+ ('abrasil.gov.br', 'CGSTM2', 'tech-c'),
+ ('abrasil.gov.br', 'CGSTM2', 'billing-c'),
+ ('funasa.gov.br', 'MVO3', 'owner-c'),
+ ('funasa.gov.br', 'MVO3', 'admin-c'),
+ ('funasa.gov.br', 'MVO3', 'tech-c'),
+ ('funasa.gov.br', 'MVO3', 'billing-c'),
+ ('fonoaudiologia-1.gov.br', 'IAJ2', 'owner-c'),
+ ('fonoaudiologia-1.gov.br', 'IAJ2', 'admin-c'),
+ ('fonoaudiologia-1.gov.br', 'IAJ2', 'tech-c'),
+ ('fonoaudiologia-1.gov.br', 'IAJ2', 'billing-c'),
+ ('hpiedade.gov.br', 'PSB51', 'owner-c'),
+ ('hpiedade.gov.br', 'PSB51', 'admin-c'),
+ ('hpiedade.gov.br', 'PSB51', 'tech-c'),
+ ('hpiedade.gov.br', 'PSB51', 'billing-c'),
+ ('recadastramento.gov.br', 'CGSTM2', 'owner-c'),
+ ('recadastramento.gov.br', 'CGSTM2', 'admin-c'),
+ ('recadastramento.gov.br', 'CGSTM2', 'tech-c'),
+ ('recadastramento.gov.br', 'CGSTM2', 'billing-c'),
+ ('planejamento.gov.br', 'CGSTM2', 'owner-c'),
+ ('planejamento.gov.br', 'CGSTM2', 'admin-c'),
+ ('planejamento.gov.br', 'MRV103', 'tech-c'),
+ ('planejamento.gov.br', 'CGSTM2', 'billing-c'),
+ ('cnv.gov.br', 'MAR79', 'owner-c'),
+ ('cnv.gov.br', 'KERPO', 'admin-c'),
+ ('cnv.gov.br', 'KERPO', 'tech-c'),
+ ('cnv.gov.br', 'KERPO', 'billing-c'),
+ ('faesa-oscip.gov.br', 'LCM516', 'owner-c'),
+ ('faesa-oscip.gov.br', 'LCM516', 'admin-c'),
+ ('faesa-oscip.gov.br', 'LCM516', 'tech-c'),
+ ('faesa-oscip.gov.br', 'LCM516', 'billing-c'),
+ ('inpe.gov.br', 'BPF7', 'owner-c'),
+ ('inpe.gov.br', 'BPF7', 'admin-c'),
+ ('inpe.gov.br', 'BPF7', 'tech-c'),
+ ('inpe.gov.br', 'BPF7', 'billing-c'),
+ ('cidades.gov.br', 'IJFFI', 'owner-c'),
+ ('cidades.gov.br', 'YUONI', 'admin-c'),
+ ('cidades.gov.br', 'IJFFI', 'tech-c'),
+ ('cidades.gov.br', 'CFMSI14', 'billing-c'),
+ ('aprendendoaexportar.gov.br', 'MDC167', 'owner-c'),
+ ('aprendendoaexportar.gov.br', 'MDC167', 'admin-c'),
+ ('aprendendoaexportar.gov.br', 'MDC167', 'tech-c'),
+ ('aprendendoaexportar.gov.br', 'MDC167', 'billing-c'),
+ ('rb.gov.br', 'FCRBA5', 'owner-c'),
+ ('rb.gov.br', 'FCRBA5', 'admin-c'),
+ ('rb.gov.br', 'FCRBA5', 'tech-c'),
+ ('rb.gov.br', 'FCRBA5', 'billing-c'),
+ ('sitedoconsumidor.gov.br', 'SAADI5', 'owner-c'),
+ ('sitedoconsumidor.gov.br', 'SAADI5', 'admin-c'),
+ ('sitedoconsumidor.gov.br', 'LFL', 'tech-c'),
+ ('sitedoconsumidor.gov.br', 'SAADI5', 'billing-c'),
+ ('crecito.gov.br', 'MRNSA6', 'owner-c'),
+ ('crecito.gov.br', 'MRNSA6', 'admin-c'),
+ ('crecito.gov.br', 'VLROS3', 'tech-c'),
+ ('crecito.gov.br', 'PSASO8', 'billing-c'),
+ ('brazil.gov.br', 'MAR79', 'owner-c'),
+ ('brazil.gov.br', 'MAR79', 'admin-c'),
+ ('brazil.gov.br', 'MAR79', 'tech-c'),
+ ('brazil.gov.br', 'MAR79', 'billing-c'),
+ ('monumenta.gov.br', 'MICUL2', 'owner-c'),
+ ('monumenta.gov.br', 'MICUL2', 'admin-c'),
+ ('monumenta.gov.br', 'MICUL2', 'tech-c'),
+ ('monumenta.gov.br', 'MICUL2', 'billing-c'),
+ ('idbrasil.gov.br', 'VPF2', 'owner-c'),
+ ('idbrasil.gov.br', 'VPF2', 'admin-c'),
+ ('idbrasil.gov.br', 'VPF2', 'tech-c'),
+ ('idbrasil.gov.br', 'VPF2', 'billing-c'),
+ ('previdencia.gov.br', 'DDA66', 'owner-c'),
+ ('previdencia.gov.br', 'DDA66', 'admin-c'),
+ ('previdencia.gov.br', 'DDT10', 'tech-c'),
+ ('previdencia.gov.br', 'DDC98', 'billing-c'),
+ ('orcamento.gov.br', 'GEBPE18', 'owner-c'),
+ ('orcamento.gov.br', 'GEBPE18', 'admin-c'),
+ ('orcamento.gov.br', 'AUCCA15', 'tech-c'),
+ ('orcamento.gov.br', 'ACCFO13', 'billing-c'),
+ ('esic.gov.br', 'AMDSC29', 'owner-c'),
+ ('esic.gov.br', 'AMDSC29', 'admin-c'),
+ ('esic.gov.br', 'VDMLI12', 'tech-c'),
+ ('esic.gov.br', 'GUMSO21', 'billing-c'),
+ ('trf3.gov.br', 'DIARE17', 'owner-c'),
+ ('trf3.gov.br', 'DIARE17', 'admin-c'),
+ ('trf3.gov.br', 'EDL196', 'tech-c'),
+ ('trf3.gov.br', 'MAB119', 'billing-c'),
+ ('cidadania.gov.br', 'SEIRE4', 'owner-c'),
+ ('cidadania.gov.br', 'SEIRE4', 'admin-c'),
+ ('cidadania.gov.br', 'SEIRE4', 'tech-c'),
+ ('cidadania.gov.br', 'SEIRE4', 'billing-c'),
+ ('cadastrorural.gov.br', 'ADSFE47', 'owner-c'),
+ ('cadastrorural.gov.br', 'ADSFE47', 'admin-c'),
+ ('cadastrorural.gov.br', 'MRV103', 'tech-c'),
+ ('cadastrorural.gov.br', 'ADSFE47', 'billing-c'),
+ ('mi.gov.br', 'ADSFE47', 'owner-c'),
+ ('mi.gov.br', 'ADSFE47', 'admin-c'),
+ ('mi.gov.br', 'HEMGO28', 'tech-c'),
+ ('mi.gov.br', 'FFDSA72', 'billing-c'),
+ ('linuxseguro.gov.br', 'GDS174', 'owner-c'),
+ ('linuxseguro.gov.br', 'GDS174', 'admin-c'),
+ ('linuxseguro.gov.br', 'DSARA3', 'tech-c'),
+ ('linuxseguro.gov.br', 'DSARA3', 'billing-c'),
+ ('cndrs.gov.br', 'ECLNA', 'owner-c'),
+ ('cndrs.gov.br', 'ECLNA', 'admin-c'),
+ ('cndrs.gov.br', 'ECLNA', 'tech-c'),
+ ('cndrs.gov.br', 'ECLNA', 'billing-c'),
+ ('decea.gov.br', 'ADRED14', 'owner-c'),
+ ('decea.gov.br', 'ADRED14', 'admin-c'),
+ ('decea.gov.br', 'ADRED14', 'tech-c'),
+ ('decea.gov.br', 'ADRED14', 'billing-c'),
+ ('enamat.gov.br', 'SCD13', 'owner-c'),
+ ('enamat.gov.br', 'SCD13', 'admin-c'),
+ ('enamat.gov.br', 'SCD13', 'tech-c'),
+ ('enamat.gov.br', 'SCD13', 'billing-c'),
+ ('caixacultural.gov.br', 'RMJ35', 'owner-c'),
+ ('caixacultural.gov.br', 'RMJ35', 'admin-c'),
+ ('caixacultural.gov.br', 'GIT60', 'tech-c'),
+ ('caixacultural.gov.br', 'GIC166', 'billing-c'),
+ ('agespacial.gov.br', 'VIL10', 'owner-c'),
+ ('agespacial.gov.br', 'VIL10', 'admin-c'),
+ ('agespacial.gov.br', 'VIL10', 'tech-c'),
+ ('agespacial.gov.br', 'GMB5', 'billing-c'),
+ ('manausenergia.gov.br', 'GSC187', 'owner-c'),
+ ('manausenergia.gov.br', 'GSC187', 'admin-c'),
+ ('manausenergia.gov.br', 'GSC187', 'tech-c'),
+ ('manausenergia.gov.br', 'GSC187', 'billing-c'),
+ ('ppcaam.gov.br', 'MAAJU182', 'owner-c'),
+ ('ppcaam.gov.br', 'CMP69', 'admin-c'),
+ ('ppcaam.gov.br', 'CMP69', 'tech-c'),
+ ('ppcaam.gov.br', 'CMP69', 'billing-c'),
+ ('aviacao.gov.br', 'ELLPA12', 'owner-c'),
+ ('aviacao.gov.br', 'ELLPA12', 'admin-c'),
+ ('aviacao.gov.br', 'ELLPA12', 'tech-c'),
+ ('aviacao.gov.br', 'ELLPA12', 'billing-c'),
+ ('ines.gov.br', 'MFVCA8', 'owner-c'),
+ ('ines.gov.br', 'MFVCA8', 'admin-c'),
+ ('ines.gov.br', 'LCCRI6', 'tech-c'),
+ ('ines.gov.br', 'MFVCA8', 'billing-c'),
+ ('eafc-pa.gov.br', 'GNL49', 'owner-c'),
+ ('eafc-pa.gov.br', 'LAP5', 'admin-c'),
+ ('eafc-pa.gov.br', 'GNL49', 'tech-c'),
+ ('eafc-pa.gov.br', 'GNL49', 'billing-c'),
+ ('edufinanceiranaescola.gov.br', 'CVGTE', 'owner-c'),
+ ('edufinanceiranaescola.gov.br', 'CVGTE', 'admin-c'),
+ ('edufinanceiranaescola.gov.br', 'CVGTE', 'tech-c'),
+ ('edufinanceiranaescola.gov.br', 'CVGTE', 'billing-c'),
+ ('transportes.gov.br', 'SECDA3', 'owner-c'),
+ ('transportes.gov.br', 'SECDA3', 'admin-c'),
+ ('transportes.gov.br', 'SECDA3', 'tech-c'),
+ ('transportes.gov.br', 'SECDA3', 'billing-c'),
+ ('sedh.gov.br', 'MAAJU182', 'owner-c'),
+ ('sedh.gov.br', 'WEL52', 'admin-c'),
+ ('sedh.gov.br', 'FLMSA16', 'tech-c'),
+ ('sedh.gov.br', 'WEL52', 'billing-c'),
+ ('cfmv.gov.br', 'CFV', 'owner-c'),
+ ('cfmv.gov.br', 'CFV', 'admin-c'),
+ ('cfmv.gov.br', 'CFV', 'tech-c'),
+ ('cfmv.gov.br', 'CFV', 'billing-c'),
+ ('sp-trt.gov.br', 'COARE11', 'owner-c'),
+ ('sp-trt.gov.br', 'RECCO133', 'admin-c'),
+ ('sp-trt.gov.br', 'SERTE12', 'tech-c'),
+ ('sp-trt.gov.br', 'RECCO133', 'billing-c'),
+ ('ac-jus.gov.br', 'PMI', 'owner-c'),
+ ('ac-jus.gov.br', 'WNAJU', 'admin-c'),
+ ('ac-jus.gov.br', 'AJM126', 'tech-c'),
+ ('ac-jus.gov.br', 'PMI2', 'billing-c'),
+ ('pgi.gov.br', 'CGSTM2', 'owner-c'),
+ ('pgi.gov.br', 'CGSTM2', 'admin-c'),
+ ('pgi.gov.br', 'CGSTM2', 'tech-c'),
+ ('pgi.gov.br', 'CGSTM2', 'billing-c'),
+ ('dcea.gov.br', 'ADRED14', 'owner-c'),
+ ('dcea.gov.br', 'ADRED14', 'admin-c'),
+ ('dcea.gov.br', 'MVF212', 'tech-c'),
+ ('dcea.gov.br', 'MVF212', 'billing-c'),
+ ('cauap.gov.br', 'MICLO17', 'owner-c'),
+ ('cauap.gov.br', 'MICLO17', 'admin-c'),
+ ('cauap.gov.br', 'SCITI', 'tech-c'),
+ ('cauap.gov.br', 'SCFIN', 'billing-c'),
+ ('secretariadegoverno.gov.br', 'MAR79', 'owner-c'),
+ ('secretariadegoverno.gov.br', 'MAR79', 'admin-c'),
+ ('secretariadegoverno.gov.br', 'MAR79', 'tech-c'),
+ ('secretariadegoverno.gov.br', 'MAR79', 'billing-c'),
+ ('jfce.gov.br', 'GOTLA', 'owner-c'),
+ ('jfce.gov.br', 'GOTLA', 'admin-c'),
+ ('jfce.gov.br', 'HCS36', 'tech-c'),
+ ('jfce.gov.br', 'GOTLA', 'billing-c'),
+ ('ctlivre.gov.br', 'ADNMC', 'owner-c'),
+ ('ctlivre.gov.br', 'ADNMC', 'admin-c'),
+ ('ctlivre.gov.br', 'ADNMC', 'tech-c'),
+ ('ctlivre.gov.br', 'ADNMC', 'billing-c'),
+ ('caupr.gov.br', 'MICLO17', 'owner-c'),
+ ('caupr.gov.br', 'MICLO17', 'admin-c'),
+ ('caupr.gov.br', 'SCITI', 'tech-c'),
+ ('caupr.gov.br', 'SCFIN', 'billing-c'),
+ ('petrobras.gov.br', 'EDFEL11', 'owner-c'),
+ ('petrobras.gov.br', 'EDFEL11', 'admin-c'),
+ ('petrobras.gov.br', 'EDFEL11', 'tech-c'),
+ ('petrobras.gov.br', 'EDFEL11', 'billing-c'),
+ ('jfpe.gov.br', 'MAF1760', 'owner-c'),
+ ('jfpe.gov.br', 'MAF1760', 'admin-c'),
+ ('jfpe.gov.br', 'MAF1760', 'tech-c'),
+ ('jfpe.gov.br', 'MAF1760', 'billing-c'),
+ ('ma.gov.br', 'GEISE', 'owner-c'),
+ ('ma.gov.br', 'GEISE', 'admin-c'),
+ ('ma.gov.br', 'GEISE', 'tech-c'),
+ ('ma.gov.br', 'GEISE', 'billing-c'),
+ ('frameworkdemoiselle.gov.br', 'ADSFE47', 'owner-c'),
+ ('frameworkdemoiselle.gov.br', 'ADSFE47', 'admin-c'),
+ ('frameworkdemoiselle.gov.br', 'MRV103', 'tech-c'),
+ ('frameworkdemoiselle.gov.br', 'WEQLI', 'billing-c'),
+ ('trf2.gov.br', 'CEM39', 'owner-c'),
+ ('trf2.gov.br', 'CEM39', 'admin-c'),
+ ('trf2.gov.br', 'MAVIN3', 'tech-c'),
+ ('trf2.gov.br', 'CEM39', 'billing-c'),
+ ('comercioeinvestimento.gov.br', 'CTDPR5', 'owner-c'),
+ ('comercioeinvestimento.gov.br', 'CTDPR5', 'admin-c'),
+ ('comercioeinvestimento.gov.br', 'CTDPR5', 'tech-c'),
+ ('comercioeinvestimento.gov.br', 'CTDPR5', 'billing-c'),
+ ('integracao.gov.br', 'ADSFE47', 'owner-c'),
+ ('integracao.gov.br', 'ADSFE47', 'admin-c'),
+ ('integracao.gov.br', 'HEMGO28', 'tech-c'),
+ ('integracao.gov.br', 'FFDSA72', 'billing-c'),
+ ('cnen.gov.br', 'JCR12', 'owner-c'),
+ ('cnen.gov.br', 'JCR12', 'admin-c'),
+ ('cnen.gov.br', 'EMACO', 'tech-c'),
+ ('cnen.gov.br', 'JCR12', 'billing-c'),
+ ('caumg.gov.br', 'MICLO17', 'owner-c'),
+ ('caumg.gov.br', 'MICLO17', 'admin-c'),
+ ('caumg.gov.br', 'SCITI', 'tech-c'),
+ ('caumg.gov.br', 'SCFIN', 'billing-c'),
+ ('cause.gov.br', 'MICLO17', 'owner-c'),
+ ('cause.gov.br', 'MICLO17', 'admin-c'),
+ ('cause.gov.br', 'SCITI', 'tech-c'),
+ ('cause.gov.br', 'SCFIN', 'billing-c'),
+ ('crqpr.gov.br', 'DIBFI7', 'owner-c'),
+ ('crqpr.gov.br', 'DIBFI7', 'admin-c'),
+ ('crqpr.gov.br', 'JJJ70', 'tech-c'),
+ ('crqpr.gov.br', 'DIBFI7', 'billing-c'),
+ ('brasilsemiseria.gov.br', 'ADSFE47', 'owner-c'),
+ ('brasilsemiseria.gov.br', 'ADSFE47', 'admin-c'),
+ ('brasilsemiseria.gov.br', 'EDMED27', 'tech-c'),
+ ('brasilsemiseria.gov.br', 'ADSFE47', 'billing-c'),
+ ('topawa-kaa.gov.br', 'GSC187', 'owner-c'),
+ ('topawa-kaa.gov.br', 'CEB23', 'admin-c'),
+ ('topawa-kaa.gov.br', 'GSC187', 'tech-c'),
+ ('topawa-kaa.gov.br', 'CEB23', 'billing-c'),
+ ('mec.gov.br', 'MIEDU6', 'owner-c'),
+ ('mec.gov.br', 'MIEDU6', 'admin-c'),
+ ('mec.gov.br', 'MIEDU6', 'tech-c'),
+ ('mec.gov.br', 'MIEDU6', 'billing-c'),
+ ('institutodamataatlantica.gov.br', 'HQBFE', 'owner-c'),
+ ('institutodamataatlantica.gov.br', 'HQBFE', 'admin-c'),
+ ('institutodamataatlantica.gov.br', 'HDSUP', 'tech-c'),
+ ('institutodamataatlantica.gov.br', 'HQBFE', 'billing-c'),
+ ('tecnojusc.gov.br', 'TRR', 'owner-c'),
+ ('tecnojusc.gov.br', 'TRR', 'admin-c'),
+ ('tecnojusc.gov.br', 'TRR', 'tech-c'),
+ ('tecnojusc.gov.br', 'TRR', 'billing-c'),
+ ('eafcol.gov.br', 'JORFE42', 'owner-c'),
+ ('eafcol.gov.br', 'JORFE42', 'admin-c'),
+ ('eafcol.gov.br', 'JORFE42', 'tech-c'),
+ ('eafcol.gov.br', 'JORFE42', 'billing-c'),
+ ('codern.gov.br', 'REBNU2', 'owner-c'),
+ ('codern.gov.br', 'REBNU2', 'admin-c'),
+ ('codern.gov.br', 'REBNU2', 'tech-c'),
+ ('codern.gov.br', 'REBNU2', 'billing-c'),
+ ('bemrecebercopa.gov.br', 'SUAAL3', 'owner-c'),
+ ('bemrecebercopa.gov.br', 'SUAAL3', 'admin-c'),
+ ('bemrecebercopa.gov.br', 'SUAAL3', 'tech-c'),
+ ('bemrecebercopa.gov.br', 'SUAAL3', 'billing-c'),
+ ('cnir.gov.br', 'ECLNA', 'owner-c'),
+ ('cnir.gov.br', 'ECLNA', 'admin-c'),
+ ('cnir.gov.br', 'ECLNA', 'tech-c'),
+ ('cnir.gov.br', 'ECLNA', 'billing-c'),
+ ('caues.gov.br', 'MICLO17', 'owner-c'),
+ ('caues.gov.br', 'MICLO17', 'admin-c'),
+ ('caues.gov.br', 'SCITI', 'tech-c'),
+ ('caues.gov.br', 'SCFIN', 'billing-c'),
+ ('correios-ce.gov.br', 'PPRNC', 'owner-c'),
+ ('correios-ce.gov.br', 'PPRNC', 'admin-c'),
+ ('correios-ce.gov.br', 'PPRNC', 'tech-c'),
+ ('correios-ce.gov.br', 'PPRNC', 'billing-c'),
+ ('exportadoresbrasileiros.gov.br', 'MDC167', 'owner-c'),
+ ('exportadoresbrasileiros.gov.br', 'ADSFE47', 'admin-c'),
+ ('exportadoresbrasileiros.gov.br', 'MRV103', 'tech-c'),
+ ('exportadoresbrasileiros.gov.br', 'WEQLI', 'billing-c'),
+ ('crtr14.gov.br', 'VAM424', 'owner-c'),
+ ('crtr14.gov.br', 'VAM424', 'admin-c'),
+ ('crtr14.gov.br', 'VAM424', 'tech-c'),
+ ('crtr14.gov.br', 'VAM424', 'billing-c'),
+ ('anatel.gov.br', 'MATMA25', 'owner-c'),
+ ('anatel.gov.br', 'PRM131', 'admin-c'),
+ ('anatel.gov.br', 'LUDRO13', 'tech-c'),
+ ('anatel.gov.br', 'MATMA25', 'billing-c'),
+ ('gdfaz.gov.br', 'JRS323', 'owner-c'),
+ ('gdfaz.gov.br', 'JRS323', 'admin-c'),
+ ('gdfaz.gov.br', 'YRD7', 'tech-c'),
+ ('gdfaz.gov.br', 'JRS323', 'billing-c'),
+ ('ouvidoriadoservidor.gov.br', 'ADSFE47', 'owner-c'),
+ ('ouvidoriadoservidor.gov.br', 'ADSFE47', 'admin-c'),
+ ('ouvidoriadoservidor.gov.br', 'MRV103', 'tech-c'),
+ ('ouvidoriadoservidor.gov.br', 'WEQLI', 'billing-c'),
+ ('bancocentral.gov.br', 'SETIN16', 'owner-c'),
+ ('bancocentral.gov.br', 'DIBCB', 'admin-c'),
+ ('bancocentral.gov.br', 'SETIN16', 'tech-c'),
+ ('bancocentral.gov.br', 'DIBCB', 'billing-c'),
+ ('brazilsenvironment.gov.br', 'MMR', 'owner-c'),
+ ('brazilsenvironment.gov.br', 'MMR', 'admin-c'),
+ ('brazilsenvironment.gov.br', 'MMR', 'tech-c'),
+ ('brazilsenvironment.gov.br', 'MMR', 'billing-c'),
+ ('governancadosolo.gov.br', 'ARRAL9', 'owner-c'),
+ ('governancadosolo.gov.br', 'ARRAL9', 'admin-c'),
+ ('governancadosolo.gov.br', 'RETMI', 'tech-c'),
+ ('governancadosolo.gov.br', 'ARRAL9', 'billing-c'),
+ ('creci-pe.gov.br', 'CRI31', 'owner-c'),
+ ('creci-pe.gov.br', 'CRI31', 'admin-c'),
+ ('creci-pe.gov.br', 'LIBUA2', 'tech-c'),
+ ('creci-pe.gov.br', 'CRI31', 'billing-c'),
+ ('prodepa.gov.br', 'DIT76', 'owner-c'),
+ ('prodepa.gov.br', 'DIT76', 'admin-c'),
+ ('prodepa.gov.br', 'DIT76', 'tech-c'),
+ ('prodepa.gov.br', 'DIT76', 'billing-c'),
+ ('bancodeconteudos.gov.br', 'CIBRA24', 'owner-c'),
+ ('bancodeconteudos.gov.br', 'CIBRA24', 'admin-c'),
+ ('bancodeconteudos.gov.br', 'CIBRA24', 'tech-c'),
+ ('bancodeconteudos.gov.br', 'CIBRA24', 'billing-c'),
+ ('crbio07.gov.br', 'RODGE', 'owner-c'),
+ ('crbio07.gov.br', 'RODGE', 'admin-c'),
+ ('crbio07.gov.br', 'DAA277', 'tech-c'),
+ ('crbio07.gov.br', 'RODGE', 'billing-c'),
+ ('ada.gov.br', 'GGS4', 'owner-c'),
+ ('ada.gov.br', 'GGS4', 'admin-c'),
+ ('ada.gov.br', 'GGS4', 'tech-c'),
+ ('ada.gov.br', 'GGS4', 'billing-c'),
+ ('caudf.gov.br', 'MICLO17', 'owner-c'),
+ ('caudf.gov.br', 'MICLO17', 'admin-c'),
+ ('caudf.gov.br', 'SCITI', 'tech-c'),
+ ('caudf.gov.br', 'SCFIN', 'billing-c'),
+ ('minhacasaminhavida.gov.br', 'MAR79', 'owner-c'),
+ ('minhacasaminhavida.gov.br', 'MAR79', 'admin-c'),
+ ('minhacasaminhavida.gov.br', 'MAR79', 'tech-c'),
+ ('minhacasaminhavida.gov.br', 'MAR79', 'billing-c'),
+ ('redejudiciario.gov.br', 'EDR194', 'owner-c'),
+ ('redejudiciario.gov.br', 'SETIN14', 'admin-c'),
+ ('redejudiciario.gov.br', 'SGSRE3', 'tech-c'),
+ ('redejudiciario.gov.br', 'GASTI6', 'billing-c'),
+ ('irbbrasilre.gov.br', 'GURJR', 'owner-c'),
+ ('irbbrasilre.gov.br', 'AKG6', 'admin-c'),
+ ('irbbrasilre.gov.br', 'AKG6', 'tech-c'),
+ ('irbbrasilre.gov.br', 'AKG6', 'billing-c'),
+ ('dinheirovivo.gov.br', 'RMJ35', 'owner-c'),
+ ('dinheirovivo.gov.br', 'RMJ35', 'admin-c'),
+ ('dinheirovivo.gov.br', 'GIT60', 'tech-c'),
+ ('dinheirovivo.gov.br', 'GIC166', 'billing-c'),
+ ('pronera.gov.br', 'ECLNA', 'owner-c'),
+ ('pronera.gov.br', 'ECLNA', 'admin-c'),
+ ('pronera.gov.br', 'ECLNA', 'tech-c'),
+ ('pronera.gov.br', 'ECLNA', 'billing-c'),
+ ('disque100.gov.br', 'MAAJU182', 'owner-c'),
+ ('disque100.gov.br', 'ALCBA81', 'admin-c'),
+ ('disque100.gov.br', 'FLMSA16', 'tech-c'),
+ ('disque100.gov.br', 'ALCBA81', 'billing-c'),
+ ('senado.gov.br', 'SEIRE4', 'owner-c'),
+ ('senado.gov.br', 'SEIRE4', 'admin-c'),
+ ('senado.gov.br', 'SEIRE4', 'tech-c'),
+ ('senado.gov.br', 'SEIRE4', 'billing-c'),
+ ('rio20.gov.br', 'SAT7', 'owner-c'),
+ ('rio20.gov.br', 'SAT7', 'admin-c'),
+ ('rio20.gov.br', 'MAR79', 'tech-c'),
+ ('rio20.gov.br', 'SAT7', 'billing-c'),
+ ('tre-pe.gov.br', 'TRP13', 'owner-c'),
+ ('tre-pe.gov.br', 'DCC', 'admin-c'),
+ ('tre-pe.gov.br', 'DCC', 'tech-c'),
+ ('tre-pe.gov.br', 'WFS21', 'billing-c'),
+ ('creciro.gov.br', 'HEMAR208', 'owner-c'),
+ ('creciro.gov.br', 'HEMAR208', 'admin-c'),
+ ('creciro.gov.br', 'ANSOA74', 'tech-c'),
+ ('creciro.gov.br', 'HEMAR208', 'billing-c'),
+ ('camex.gov.br', 'MDC167', 'owner-c'),
+ ('camex.gov.br', 'MDC167', 'admin-c'),
+ ('camex.gov.br', 'MDC167', 'tech-c'),
+ ('camex.gov.br', 'MDC167', 'billing-c'),
+ ('crbio3.gov.br', 'CLLUZ2', 'owner-c'),
+ ('crbio3.gov.br', 'CLLUZ2', 'admin-c'),
+ ('crbio3.gov.br', 'CLLUZ2', 'tech-c'),
+ ('crbio3.gov.br', 'CLLUZ2', 'billing-c'),
+ ('crqsc.gov.br', 'CRR2', 'owner-c'),
+ ('crqsc.gov.br', 'CRR2', 'admin-c'),
+ ('crqsc.gov.br', 'WAL149', 'tech-c'),
+ ('crqsc.gov.br', 'CRR2', 'billing-c'),
+ ('ce.gov.br', 'RAOLI10', 'owner-c'),
+ ('ce.gov.br', 'RAOLI10', 'admin-c'),
+ ('ce.gov.br', 'VLS171', 'tech-c'),
+ ('ce.gov.br', 'RAOLI10', 'billing-c'),
+ ('comprasgovernamentais.gov.br', 'ADSFE47', 'owner-c'),
+ ('comprasgovernamentais.gov.br', 'ADSFE47', 'admin-c'),
+ ('comprasgovernamentais.gov.br', 'MRV103', 'tech-c'),
+ ('comprasgovernamentais.gov.br', 'ADSFE47', 'billing-c'),
+ ('ctir.gov.br', 'MAR79', 'owner-c'),
+ ('ctir.gov.br', 'GCTGS', 'admin-c'),
+ ('ctir.gov.br', 'GCTGS', 'tech-c'),
+ ('ctir.gov.br', 'GCTGS', 'billing-c'),
+ ('loterias.gov.br', 'RMJ35', 'owner-c'),
+ ('loterias.gov.br', 'RMJ35', 'admin-c'),
+ ('loterias.gov.br', 'GIT60', 'tech-c'),
+ ('loterias.gov.br', 'GIC166', 'billing-c'),
+ ('clique100.gov.br', 'MAAJU182', 'owner-c'),
+ ('clique100.gov.br', 'WEL52', 'admin-c'),
+ ('clique100.gov.br', 'FRASO52', 'tech-c'),
+ ('clique100.gov.br', 'WEL52', 'billing-c'),
+ ('antt.gov.br', 'MAFSO91', 'owner-c'),
+ ('antt.gov.br', 'MAFSO91', 'admin-c'),
+ ('antt.gov.br', 'FAMAR21', 'tech-c'),
+ ('antt.gov.br', 'MAFSO91', 'billing-c'),
+ ('forumpermanente.gov.br', 'MDC167', 'owner-c'),
+ ('forumpermanente.gov.br', 'MDC167', 'admin-c'),
+ ('forumpermanente.gov.br', 'MDC167', 'tech-c'),
+ ('forumpermanente.gov.br', 'MDC167', 'billing-c'),
+ ('governoeletronico.gov.br', 'CGSTM2', 'owner-c'),
+ ('governoeletronico.gov.br', 'CGSTM2', 'admin-c'),
+ ('governoeletronico.gov.br', 'CGSTM2', 'tech-c'),
+ ('governoeletronico.gov.br', 'CGSTM2', 'billing-c'),
+ ('ccom.gov.br', 'GDS174', 'owner-c'),
+ ('ccom.gov.br', 'GDS174', 'admin-c'),
+ ('ccom.gov.br', 'DSARA3', 'tech-c'),
+ ('ccom.gov.br', 'GDS174', 'billing-c'),
+ ('biodiesel.gov.br', 'LEL7', 'owner-c'),
+ ('biodiesel.gov.br', 'MAPNO38', 'admin-c'),
+ ('biodiesel.gov.br', 'MAPNO38', 'tech-c'),
+ ('biodiesel.gov.br', 'MAPNO38', 'billing-c'),
+ ('coletapilotocnae.gov.br', 'ADSFE47', 'owner-c'),
+ ('coletapilotocnae.gov.br', 'ADSFE47', 'admin-c'),
+ ('coletapilotocnae.gov.br', 'MRV103', 'tech-c'),
+ ('coletapilotocnae.gov.br', 'WEQLI', 'billing-c'),
+ ('crbio7.gov.br', 'RODGE', 'owner-c'),
+ ('crbio7.gov.br', 'RODGE', 'admin-c'),
+ ('crbio7.gov.br', 'RODGE', 'tech-c'),
+ ('crbio7.gov.br', 'RODGE', 'billing-c'),
+ ('portaldoconsumidor.gov.br', 'SAADI5', 'owner-c'),
+ ('portaldoconsumidor.gov.br', 'SAADI5', 'admin-c'),
+ ('portaldoconsumidor.gov.br', 'LFL', 'tech-c'),
+ ('portaldoconsumidor.gov.br', 'SAADI5', 'billing-c'),
+ ('museus.gov.br', 'INBMU', 'owner-c'),
+ ('museus.gov.br', 'INBMU', 'admin-c'),
+ ('museus.gov.br', 'INBMU', 'tech-c'),
+ ('museus.gov.br', 'INBMU', 'billing-c'),
+ ('caurn.gov.br', 'MICLO17', 'owner-c'),
+ ('caurn.gov.br', 'MICLO17', 'admin-c'),
+ ('caurn.gov.br', 'SCITI', 'tech-c'),
+ ('caurn.gov.br', 'SCFIN', 'billing-c'),
+ ('proagua.gov.br', 'BRGDU2', 'owner-c'),
+ ('proagua.gov.br', 'AMS65', 'admin-c'),
+ ('proagua.gov.br', 'DVN6', 'tech-c'),
+ ('proagua.gov.br', 'DVN6', 'billing-c'),
+ ('consumidor.gov.br', 'ALCBA81', 'owner-c'),
+ ('consumidor.gov.br', 'ALCBA81', 'admin-c'),
+ ('consumidor.gov.br', 'ALCBA81', 'tech-c'),
+ ('consumidor.gov.br', 'ALCBA81', 'billing-c'),
+ ('citenel.gov.br', 'COSIN16', 'owner-c'),
+ ('citenel.gov.br', 'COSIN16', 'admin-c'),
+ ('citenel.gov.br', 'LED34', 'tech-c'),
+ ('citenel.gov.br', 'COSIN16', 'billing-c'),
+ ('justicafederal.gov.br', 'PMI', 'owner-c'),
+ ('justicafederal.gov.br', 'WNAJU', 'admin-c'),
+ ('justicafederal.gov.br', 'AJM126', 'tech-c'),
+ ('justicafederal.gov.br', 'PMI2', 'billing-c'),
+ ('portalcofen.gov.br', 'FASCR11', 'owner-c'),
+ ('portalcofen.gov.br', 'FASCR11', 'admin-c'),
+ ('portalcofen.gov.br', 'GHV12', 'tech-c'),
+ ('portalcofen.gov.br', 'LAM653', 'billing-c'),
+ ('segov.gov.br', 'MAR79', 'owner-c'),
+ ('segov.gov.br', 'MAR79', 'admin-c'),
+ ('segov.gov.br', 'MAR79', 'tech-c'),
+ ('segov.gov.br', 'MAR79', 'billing-c'),
+ ('apostasurpresa.gov.br', 'RMJ35', 'owner-c'),
+ ('apostasurpresa.gov.br', 'RMJ35', 'admin-c'),
+ ('apostasurpresa.gov.br', 'GIT60', 'tech-c'),
+ ('apostasurpresa.gov.br', 'GIC166', 'billing-c'),
+ ('cfa.gov.br', 'JCAFE7', 'owner-c'),
+ ('cfa.gov.br', 'JCAFE7', 'admin-c'),
+ ('cfa.gov.br', 'JCAFE7', 'tech-c'),
+ ('cfa.gov.br', 'JCAFE7', 'billing-c'),
+ ('netgoverno.gov.br', 'ADC633', 'owner-c'),
+ ('netgoverno.gov.br', 'ADC633', 'admin-c'),
+ ('netgoverno.gov.br', 'ADC633', 'tech-c'),
+ ('netgoverno.gov.br', 'ADC633', 'billing-c'),
+ ('vls.gov.br', 'VIL10', 'owner-c'),
+ ('vls.gov.br', 'VIL10', 'admin-c'),
+ ('vls.gov.br', 'VIL10', 'tech-c'),
+ ('vls.gov.br', 'GMB5', 'billing-c'),
+ ('caurr.gov.br', 'MICLO17', 'owner-c'),
+ ('caurr.gov.br', 'MICLO17', 'admin-c'),
+ ('caurr.gov.br', 'SCITI', 'tech-c'),
+ ('caurr.gov.br', 'SCFIN', 'billing-c'),
+ ('tre-pr.gov.br', 'SEDSI27', 'owner-c'),
+ ('tre-pr.gov.br', 'DCC', 'admin-c'),
+ ('tre-pr.gov.br', 'DCC', 'tech-c'),
+ ('tre-pr.gov.br', 'WOS3', 'billing-c'),
+ ('creci-rj.gov.br', 'SOASO22', 'owner-c'),
+ ('creci-rj.gov.br', 'ROB192', 'admin-c'),
+ ('creci-rj.gov.br', 'SOASO22', 'tech-c'),
+ ('creci-rj.gov.br', 'SOASO22', 'billing-c'),
+ ('dtceamt.gov.br', 'SRS330', 'owner-c'),
+ ('dtceamt.gov.br', 'SRS330', 'admin-c'),
+ ('dtceamt.gov.br', 'SRS330', 'tech-c'),
+ ('dtceamt.gov.br', 'SRS330', 'billing-c'),
+ ('fundaj.gov.br', 'ADM429', 'owner-c'),
+ ('fundaj.gov.br', 'ADM429', 'admin-c'),
+ ('fundaj.gov.br', 'JSM16', 'tech-c'),
+ ('fundaj.gov.br', 'ADM429', 'billing-c'),
+ ('plenarinho.gov.br', 'SSG50', 'owner-c'),
+ ('plenarinho.gov.br', 'SSG50', 'admin-c'),
+ ('plenarinho.gov.br', 'SSG50', 'tech-c'),
+ ('plenarinho.gov.br', 'SSG50', 'billing-c'),
+ ('vozdobrasil.gov.br', 'RSM9', 'owner-c'),
+ ('vozdobrasil.gov.br', 'RSM9', 'admin-c'),
+ ('vozdobrasil.gov.br', 'RSM9', 'tech-c'),
+ ('vozdobrasil.gov.br', 'RSM9', 'billing-c'),
+ ('reformaagraria.gov.br', 'ECLNA', 'owner-c'),
+ ('reformaagraria.gov.br', 'ECLNA', 'admin-c'),
+ ('reformaagraria.gov.br', 'ECLNA', 'tech-c'),
+ ('reformaagraria.gov.br', 'ECLNA', 'billing-c'),
+ ('vidaedinheiro.gov.br', 'CVGTE', 'owner-c'),
+ ('vidaedinheiro.gov.br', 'CVGTE', 'admin-c'),
+ ('vidaedinheiro.gov.br', 'CVGTE', 'tech-c'),
+ ('vidaedinheiro.gov.br', 'CVGTE', 'billing-c'),
+ ('caugo.gov.br', 'MICLO17', 'owner-c'),
+ ('caugo.gov.br', 'MICLO17', 'admin-c'),
+ ('caugo.gov.br', 'SCITI', 'tech-c'),
+ ('caugo.gov.br', 'SCFIN', 'billing-c'),
+ ('tre-se.gov.br', 'AAJ66', 'owner-c'),
+ ('tre-se.gov.br', 'DCC', 'admin-c'),
+ ('tre-se.gov.br', 'DCC', 'tech-c'),
+ ('tre-se.gov.br', 'WLA14', 'billing-c'),
+ ('snis.gov.br', 'IJFFI', 'owner-c'),
+ ('snis.gov.br', 'YUONI', 'admin-c'),
+ ('snis.gov.br', 'IJFFI', 'tech-c'),
+ ('snis.gov.br', 'CFMSI14', 'billing-c'),
+ ('ceara.gov.br', 'RAOLI10', 'owner-c'),
+ ('ceara.gov.br', 'VLS171', 'admin-c'),
+ ('ceara.gov.br', 'RAOLI10', 'tech-c'),
+ ('ceara.gov.br', 'VLS171', 'billing-c'),
+ ('biodiversidade.gov.br', 'CRC644', 'owner-c'),
+ ('biodiversidade.gov.br', 'CRC644', 'admin-c'),
+ ('biodiversidade.gov.br', 'DALSO56', 'tech-c'),
+ ('biodiversidade.gov.br', 'CRC644', 'billing-c'),
+ ('bndes.gov.br', 'GGT13', 'owner-c'),
+ ('bndes.gov.br', 'GGT13', 'admin-c'),
+ ('bndes.gov.br', 'GGT13', 'tech-c'),
+ ('bndes.gov.br', 'GGT13', 'billing-c'),
+ ('eafs.gov.br', 'EAS46', 'owner-c'),
+ ('eafs.gov.br', 'EAS46', 'admin-c'),
+ ('eafs.gov.br', 'EAS46', 'tech-c'),
+ ('eafs.gov.br', 'EAS46', 'billing-c'),
+ ('bacen.gov.br', 'SETIN16', 'owner-c'),
+ ('bacen.gov.br', 'DIBCB', 'admin-c'),
+ ('bacen.gov.br', 'SETIN16', 'tech-c'),
+ ('bacen.gov.br', 'DIBCB', 'billing-c'),
+ ('trevodasorte.gov.br', 'RMJ35', 'owner-c'),
+ ('trevodasorte.gov.br', 'RMJ35', 'admin-c'),
+ ('trevodasorte.gov.br', 'GIT60', 'tech-c'),
+ ('trevodasorte.gov.br', 'GIC166', 'billing-c'),
+ ('jfsp.gov.br', 'MAA53', 'owner-c'),
+ ('jfsp.gov.br', 'MAA53', 'admin-c'),
+ ('jfsp.gov.br', 'EDL196', 'tech-c'),
+ ('jfsp.gov.br', 'MAA53', 'billing-c'),
+ ('sepm.gov.br', 'MAR79', 'owner-c'),
+ ('sepm.gov.br', 'MAR79', 'admin-c'),
+ ('sepm.gov.br', 'MAR79', 'tech-c'),
+ ('sepm.gov.br', 'MAR79', 'billing-c'),
+ ('eafsrbonfim.gov.br', 'KLR27', 'owner-c'),
+ ('eafsrbonfim.gov.br', 'ACC37', 'admin-c'),
+ ('eafsrbonfim.gov.br', 'KLR27', 'tech-c'),
+ ('eafsrbonfim.gov.br', 'KLR27', 'billing-c'),
+ ('excelenciaemturismo.gov.br', 'SUAAL3', 'owner-c'),
+ ('excelenciaemturismo.gov.br', 'LUCBA85', 'admin-c'),
+ ('excelenciaemturismo.gov.br', 'LUCBA85', 'tech-c'),
+ ('excelenciaemturismo.gov.br', 'LUCBA85', 'billing-c'),
+ ('mpa.gov.br', 'RESCA114', 'owner-c'),
+ ('mpa.gov.br', 'MAS3725', 'admin-c'),
+ ('mpa.gov.br', 'MAS3725', 'tech-c'),
+ ('mpa.gov.br', 'MAS3725', 'billing-c'),
+ ('finep.gov.br', 'CAZ89', 'owner-c'),
+ ('finep.gov.br', 'CAZ89', 'admin-c'),
+ ('finep.gov.br', 'MPP41', 'tech-c'),
+ ('finep.gov.br', 'CAZ89', 'billing-c'),
+ ('linea.gov.br', 'WVL', 'owner-c'),
+ ('linea.gov.br', 'WVL', 'admin-c'),
+ ('linea.gov.br', 'MMM18', 'tech-c'),
+ ('linea.gov.br', 'WVL', 'billing-c'),
+ ('meioambientedobrasil.gov.br', 'MMR', 'owner-c'),
+ ('meioambientedobrasil.gov.br', 'MMR', 'admin-c'),
+ ('meioambientedobrasil.gov.br', 'MMR', 'tech-c'),
+ ('meioambientedobrasil.gov.br', 'MMR', 'billing-c'),
+ ('dnpmma.gov.br', 'AJF89', 'owner-c'),
+ ('dnpmma.gov.br', 'AJF89', 'admin-c'),
+ ('dnpmma.gov.br', 'AJF89', 'tech-c'),
+ ('dnpmma.gov.br', 'AJF89', 'billing-c'),
+ ('secretariageral.gov.br', 'MAR79', 'owner-c'),
+ ('secretariageral.gov.br', 'MAR79', 'admin-c'),
+ ('secretariageral.gov.br', 'MAR79', 'tech-c'),
+ ('secretariageral.gov.br', 'MAR79', 'billing-c'),
+ ('info.gov.br', 'AMDSC29', 'owner-c'),
+ ('info.gov.br', 'AMDSC29', 'admin-c'),
+ ('info.gov.br', 'VDMLI12', 'tech-c'),
+ ('info.gov.br', 'GUMSO21', 'billing-c'),
+ ('ibama-pi.gov.br', 'WES7', 'owner-c'),
+ ('ibama-pi.gov.br', 'WES7', 'admin-c'),
+ ('ibama-pi.gov.br', 'WES7', 'tech-c'),
+ ('ibama-pi.gov.br', 'WES7', 'billing-c'),
+ ('crefito-sp.gov.br', 'CRR351', 'owner-c'),
+ ('crefito-sp.gov.br', 'CRR351', 'admin-c'),
+ ('crefito-sp.gov.br', 'CRR351', 'tech-c'),
+ ('crefito-sp.gov.br', 'CRR351', 'billing-c'),
+ ('ecobrancacaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('ecobrancacaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('ecobrancacaixa.gov.br', 'GIT60', 'tech-c'),
+ ('ecobrancacaixa.gov.br', 'GIC166', 'billing-c'),
+ ('ipea.gov.br', 'MHS92', 'owner-c'),
+ ('ipea.gov.br', 'MHS92', 'admin-c'),
+ ('ipea.gov.br', 'FTAFR', 'tech-c'),
+ ('ipea.gov.br', 'MHS92', 'billing-c'),
+ ('cin-sci.gov.br', 'GDS174', 'owner-c'),
+ ('cin-sci.gov.br', 'GDS174', 'admin-c'),
+ ('cin-sci.gov.br', 'DSARA3', 'tech-c'),
+ ('cin-sci.gov.br', 'GDS174', 'billing-c'),
+ ('tecanet.gov.br', 'SUTIN', 'owner-c'),
+ ('tecanet.gov.br', 'SUTIN', 'admin-c'),
+ ('tecanet.gov.br', 'SUTIN', 'tech-c'),
+ ('tecanet.gov.br', 'GESUP4', 'billing-c'),
+ ('rrc.gov.br', 'CTENE', 'owner-c'),
+ ('rrc.gov.br', 'CTENE', 'admin-c'),
+ ('rrc.gov.br', 'CTENE', 'tech-c'),
+ ('rrc.gov.br', 'CTENE', 'billing-c'),
+ ('eletrofurnas.gov.br', 'JCF516', 'owner-c'),
+ ('eletrofurnas.gov.br', 'RSC', 'admin-c'),
+ ('eletrofurnas.gov.br', 'RSC', 'tech-c'),
+ ('eletrofurnas.gov.br', 'RSC', 'billing-c'),
+ ('stf.gov.br', 'EDR194', 'owner-c'),
+ ('stf.gov.br', 'SETIN14', 'admin-c'),
+ ('stf.gov.br', 'SGSRE3', 'tech-c'),
+ ('stf.gov.br', 'GASTI6', 'billing-c'),
+ ('mc.gov.br', 'VPF2', 'owner-c'),
+ ('mc.gov.br', 'VPF2', 'admin-c'),
+ ('mc.gov.br', 'VPF2', 'tech-c'),
+ ('mc.gov.br', 'VPF2', 'billing-c'),
+ ('mict.gov.br', 'MDC167', 'owner-c'),
+ ('mict.gov.br', 'MDC167', 'admin-c'),
+ ('mict.gov.br', 'MDC167', 'tech-c'),
+ ('mict.gov.br', 'MDC167', 'billing-c'),
+ ('supercaminhaodasorte.gov.br', 'RMJ35', 'owner-c'),
+ ('supercaminhaodasorte.gov.br', 'RMJ35', 'admin-c'),
+ ('supercaminhaodasorte.gov.br', 'GIT60', 'tech-c'),
+ ('supercaminhaodasorte.gov.br', 'GIC166', 'billing-c'),
+ ('dialoga.gov.br', 'MAR79', 'owner-c'),
+ ('dialoga.gov.br', 'MAR79', 'admin-c'),
+ ('dialoga.gov.br', 'MAR79', 'tech-c'),
+ ('dialoga.gov.br', 'MAR79', 'billing-c'),
+ ('comexbrasil.gov.br', 'MDC167', 'owner-c'),
+ ('comexbrasil.gov.br', 'MDC167', 'admin-c'),
+ ('comexbrasil.gov.br', 'MDC167', 'tech-c'),
+ ('comexbrasil.gov.br', 'MDC167', 'billing-c'),
+ ('portalgoverno.gov.br', 'ADSFE47', 'owner-c'),
+ ('portalgoverno.gov.br', 'ADSFE47', 'admin-c'),
+ ('portalgoverno.gov.br', 'ADSFE47', 'tech-c'),
+ ('portalgoverno.gov.br', 'WEQLI', 'billing-c'),
+ ('trt8.gov.br', 'MAFRE58', 'owner-c'),
+ ('trt8.gov.br', 'MAFRE58', 'admin-c'),
+ ('trt8.gov.br', 'GISSI85', 'tech-c'),
+ ('trt8.gov.br', 'MAFRE58', 'billing-c'),
+ ('construcard.gov.br', 'RMJ35', 'owner-c'),
+ ('construcard.gov.br', 'RMJ35', 'admin-c'),
+ ('construcard.gov.br', 'GIT60', 'tech-c'),
+ ('construcard.gov.br', 'GIC166', 'billing-c'),
+ ('coracaoazul.gov.br', 'MIJUS7', 'owner-c'),
+ ('coracaoazul.gov.br', 'ALCBA81', 'admin-c'),
+ ('coracaoazul.gov.br', 'ARAJU47', 'tech-c'),
+ ('coracaoazul.gov.br', 'ALCBA81', 'billing-c'),
+ ('vigilanciasanitaria.gov.br', 'SCO6', 'owner-c'),
+ ('vigilanciasanitaria.gov.br', 'SCO6', 'admin-c'),
+ ('vigilanciasanitaria.gov.br', 'SCO6', 'tech-c'),
+ ('vigilanciasanitaria.gov.br', 'SCO6', 'billing-c'),
+ ('aeroportodebrasilia.gov.br', 'SUTIN', 'owner-c'),
+ ('aeroportodebrasilia.gov.br', 'SUTIN', 'admin-c'),
+ ('aeroportodebrasilia.gov.br', 'SUTIN', 'tech-c'),
+ ('aeroportodebrasilia.gov.br', 'GESUP4', 'billing-c'),
+ ('jef-sc.gov.br', 'ALSIL482', 'owner-c'),
+ ('jef-sc.gov.br', 'ALSIL482', 'admin-c'),
+ ('jef-sc.gov.br', 'ALSIL482', 'tech-c'),
+ ('jef-sc.gov.br', 'ANZMA3', 'billing-c'),
+ ('amapa.gov.br', 'GEIPR3', 'owner-c'),
+ ('amapa.gov.br', 'GEIPR3', 'admin-c'),
+ ('amapa.gov.br', 'GEIPR3', 'tech-c'),
+ ('amapa.gov.br', 'GEIPR3', 'billing-c'),
+ ('promocaodaigualdaderacial.gov.br', 'SASAL43', 'owner-c'),
+ ('promocaodaigualdaderacial.gov.br', 'SASAL43', 'admin-c'),
+ ('promocaodaigualdaderacial.gov.br', 'MAR79', 'tech-c'),
+ ('promocaodaigualdaderacial.gov.br', 'SASAL43', 'billing-c'),
+ ('mg.gov.br', 'PGM14', 'owner-c'),
+ ('mg.gov.br', 'PGM14', 'admin-c'),
+ ('mg.gov.br', 'PGM14', 'tech-c'),
+ ('mg.gov.br', 'PGM14', 'billing-c'),
+ ('querovercultura.gov.br', 'MICUL2', 'owner-c'),
+ ('querovercultura.gov.br', 'MICUL2', 'admin-c'),
+ ('querovercultura.gov.br', 'MICUL2', 'tech-c'),
+ ('querovercultura.gov.br', 'MICUL2', 'billing-c'),
+ ('emprel.gov.br', 'JHCWJ', 'owner-c'),
+ ('emprel.gov.br', 'JHCWJ', 'admin-c'),
+ ('emprel.gov.br', 'PCM65', 'tech-c'),
+ ('emprel.gov.br', 'JHCWJ', 'billing-c'),
+ ('crearo.gov.br', 'CRR81', 'owner-c'),
+ ('crearo.gov.br', 'CRR81', 'admin-c'),
+ ('crearo.gov.br', 'CRR81', 'tech-c'),
+ ('crearo.gov.br', 'CRR81', 'billing-c'),
+ ('furnas.gov.br', 'JCF516', 'owner-c'),
+ ('furnas.gov.br', 'RSC', 'admin-c'),
+ ('furnas.gov.br', 'JCF516', 'tech-c'),
+ ('furnas.gov.br', 'JCF516', 'billing-c'),
+ ('inova.gov.br', 'CGSTM2', 'owner-c'),
+ ('inova.gov.br', 'CGSTM2', 'admin-c'),
+ ('inova.gov.br', 'CGSTM2', 'tech-c'),
+ ('inova.gov.br', 'CGSTM2', 'billing-c'),
+ ('eletrobras.gov.br', 'JMMSA2', 'owner-c'),
+ ('eletrobras.gov.br', 'JMMSA2', 'admin-c'),
+ ('eletrobras.gov.br', 'VABSI7', 'tech-c'),
+ ('eletrobras.gov.br', 'JMMSA2', 'billing-c'),
+ ('investidoresinstitucionais.gov.br', 'RMJ35', 'owner-c'),
+ ('investidoresinstitucionais.gov.br', 'RMJ35', 'admin-c'),
+ ('investidoresinstitucionais.gov.br', 'GIT60', 'tech-c'),
+ ('investidoresinstitucionais.gov.br', 'GIC166', 'billing-c'),
+ ('crq9.gov.br', 'DIBFI7', 'owner-c'),
+ ('crq9.gov.br', 'DIBFI7', 'admin-c'),
+ ('crq9.gov.br', 'JJJ70', 'tech-c'),
+ ('crq9.gov.br', 'DIBFI7', 'billing-c'),
+ ('corenpr.gov.br', 'CCE120', 'owner-c'),
+ ('corenpr.gov.br', 'CCE120', 'admin-c'),
+ ('corenpr.gov.br', 'MGPSO', 'tech-c'),
+ ('corenpr.gov.br', 'CCE120', 'billing-c'),
+ ('rsbr.gov.br', 'JCCDA8', 'owner-c'),
+ ('rsbr.gov.br', 'JCCDA8', 'admin-c'),
+ ('rsbr.gov.br', 'BRBAZ4', 'tech-c'),
+ ('rsbr.gov.br', 'LCPSI66', 'billing-c'),
+ ('rndh.gov.br', 'MIJUS7', 'owner-c'),
+ ('rndh.gov.br', 'ALCBA81', 'admin-c'),
+ ('rndh.gov.br', 'ARAJU47', 'tech-c'),
+ ('rndh.gov.br', 'ALCBA81', 'billing-c'),
+ ('projetodomhelder.gov.br', 'IDR7', 'owner-c'),
+ ('projetodomhelder.gov.br', 'IDR7', 'admin-c'),
+ ('projetodomhelder.gov.br', 'IDR7', 'tech-c'),
+ ('projetodomhelder.gov.br', 'IDR7', 'billing-c'),
+ ('crbio-pr.gov.br', 'RODGE', 'owner-c'),
+ ('crbio-pr.gov.br', 'RODGE', 'admin-c'),
+ ('crbio-pr.gov.br', 'RODGE', 'tech-c'),
+ ('crbio-pr.gov.br', 'RODGE', 'billing-c'),
+ ('ibram.gov.br', 'INBMU', 'owner-c'),
+ ('ibram.gov.br', 'INBMU', 'admin-c'),
+ ('ibram.gov.br', 'INBMU', 'tech-c'),
+ ('ibram.gov.br', 'INBMU', 'billing-c'),
+ ('corenam.gov.br', 'CREAM4', 'owner-c'),
+ ('corenam.gov.br', 'CREAM4', 'admin-c'),
+ ('corenam.gov.br', 'GHV12', 'tech-c'),
+ ('corenam.gov.br', 'CREAM4', 'billing-c'),
+ ('somostodosbrasil.gov.br', 'MAMPA145', 'owner-c'),
+ ('somostodosbrasil.gov.br', 'MAMPA145', 'admin-c'),
+ ('somostodosbrasil.gov.br', 'MAMPA145', 'tech-c'),
+ ('somostodosbrasil.gov.br', 'MAMPA145', 'billing-c'),
+ ('bdjur.gov.br', 'DARCO34', 'owner-c'),
+ ('bdjur.gov.br', 'DARCO34', 'admin-c'),
+ ('bdjur.gov.br', 'DARCO34', 'tech-c'),
+ ('bdjur.gov.br', 'DARCO34', 'billing-c'),
+ ('certidaodenascimento.gov.br', 'MAAJU182', 'owner-c'),
+ ('certidaodenascimento.gov.br', 'WEL52', 'admin-c'),
+ ('certidaodenascimento.gov.br', 'WEL52', 'tech-c'),
+ ('certidaodenascimento.gov.br', 'WEL52', 'billing-c'),
+ ('rr.gov.br', 'AES64', 'owner-c'),
+ ('rr.gov.br', 'AES64', 'admin-c'),
+ ('rr.gov.br', 'AES64', 'tech-c'),
+ ('rr.gov.br', 'AES64', 'billing-c'),
+ ('rpp.gov.br', 'ACL11', 'owner-c'),
+ ('rpp.gov.br', 'ACL11', 'admin-c'),
+ ('rpp.gov.br', 'FSC10', 'tech-c'),
+ ('rpp.gov.br', 'FSC10', 'billing-c'),
+ ('e-post.gov.br', 'MAR1601', 'owner-c'),
+ ('e-post.gov.br', 'MAR1601', 'admin-c'),
+ ('e-post.gov.br', 'EEA', 'tech-c'),
+ ('e-post.gov.br', 'MAR1601', 'billing-c'),
+ ('energiaheliotermica.gov.br', 'LEL7', 'owner-c'),
+ ('energiaheliotermica.gov.br', 'LEL7', 'admin-c'),
+ ('energiaheliotermica.gov.br', 'LEL7', 'tech-c'),
+ ('energiaheliotermica.gov.br', 'LEL7', 'billing-c'),
+ ('fundacentro-ba.gov.br', 'OAJ5', 'owner-c'),
+ ('fundacentro-ba.gov.br', 'OAJ5', 'admin-c'),
+ ('fundacentro-ba.gov.br', 'OAJ5', 'tech-c'),
+ ('fundacentro-ba.gov.br', 'OAJ5', 'billing-c'),
+ ('funasa-sc.gov.br', 'RHR2', 'owner-c'),
+ ('funasa-sc.gov.br', 'RHR2', 'admin-c'),
+ ('funasa-sc.gov.br', 'RHR2', 'tech-c'),
+ ('funasa-sc.gov.br', 'RHR2', 'billing-c'),
+ ('viajamais.gov.br', 'SUAAL3', 'owner-c'),
+ ('viajamais.gov.br', 'SUAAL3', 'admin-c'),
+ ('viajamais.gov.br', 'SUAAL3', 'tech-c'),
+ ('viajamais.gov.br', 'SUAAL3', 'billing-c'),
+ ('aneel.gov.br', 'COSIN16', 'owner-c'),
+ ('aneel.gov.br', 'COSIN16', 'admin-c'),
+ ('aneel.gov.br', 'COSIN16', 'tech-c'),
+ ('aneel.gov.br', 'COSIN16', 'billing-c'),
+ ('ebserh.gov.br', 'DOEBS', 'owner-c'),
+ ('ebserh.gov.br', 'DOEBS', 'admin-c'),
+ ('ebserh.gov.br', 'DOEBS', 'tech-c'),
+ ('ebserh.gov.br', 'DOEBS', 'billing-c'),
+ ('pronaf.gov.br', 'ECLNA', 'owner-c'),
+ ('pronaf.gov.br', 'ECLNA', 'admin-c'),
+ ('pronaf.gov.br', 'ECLNA', 'tech-c'),
+ ('pronaf.gov.br', 'ECLNA', 'billing-c'),
+ ('stfnet.gov.br', 'EDR194', 'owner-c'),
+ ('stfnet.gov.br', 'SETIN14', 'admin-c'),
+ ('stfnet.gov.br', 'SGSRE3', 'tech-c'),
+ ('stfnet.gov.br', 'GASTI6', 'billing-c'),
+ ('desafios.gov.br', 'CGSTM2', 'owner-c'),
+ ('desafios.gov.br', 'CGSTM2', 'admin-c'),
+ ('desafios.gov.br', 'MRV103', 'tech-c'),
+ ('desafios.gov.br', 'CGSTM2', 'billing-c'),
+ ('mpdft.gov.br', 'DTMPD', 'owner-c'),
+ ('mpdft.gov.br', 'DTMPD', 'admin-c'),
+ ('mpdft.gov.br', 'DTMPD', 'tech-c'),
+ ('mpdft.gov.br', 'DTMPD', 'billing-c'),
+ ('crefono1.gov.br', 'IAJ2', 'owner-c'),
+ ('crefono1.gov.br', 'IAJ2', 'admin-c'),
+ ('crefono1.gov.br', 'IAJ2', 'tech-c'),
+ ('crefono1.gov.br', 'IAJ2', 'billing-c'),
+ ('edemocracia.gov.br', 'SSG50', 'owner-c'),
+ ('edemocracia.gov.br', 'SSG50', 'admin-c'),
+ ('edemocracia.gov.br', 'SSG50', 'tech-c'),
+ ('edemocracia.gov.br', 'SSG50', 'billing-c'),
+ ('redegeochronos.gov.br', 'RFCSI22', 'owner-c'),
+ ('redegeochronos.gov.br', 'CPRMI', 'admin-c'),
+ ('redegeochronos.gov.br', 'AGB20', 'tech-c'),
+ ('redegeochronos.gov.br', 'CJA97', 'billing-c'),
+ ('crefito2.gov.br', 'RPD', 'owner-c'),
+ ('crefito2.gov.br', 'RPD', 'admin-c'),
+ ('crefito2.gov.br', 'RPD', 'tech-c'),
+ ('crefito2.gov.br', 'RPD', 'billing-c'),
+ ('crbio02.gov.br', 'DRS76', 'owner-c'),
+ ('crbio02.gov.br', 'DRS76', 'admin-c'),
+ ('crbio02.gov.br', 'DRS76', 'tech-c'),
+ ('crbio02.gov.br', 'DRS76', 'billing-c'),
+ ('crescenordeste.gov.br', 'CMRSO14', 'owner-c'),
+ ('crescenordeste.gov.br', 'CMRSO14', 'admin-c'),
+ ('crescenordeste.gov.br', 'FFN', 'tech-c'),
+ ('crescenordeste.gov.br', 'CMRSO14', 'billing-c'),
+ ('trt02.gov.br', 'COARE11', 'owner-c'),
+ ('trt02.gov.br', 'RECCO133', 'admin-c'),
+ ('trt02.gov.br', 'SERTE12', 'tech-c'),
+ ('trt02.gov.br', 'RECCO133', 'billing-c'),
+ ('coren-mt.gov.br', 'FAROL7', 'owner-c'),
+ ('coren-mt.gov.br', 'FAROL7', 'admin-c'),
+ ('coren-mt.gov.br', 'FAROL7', 'tech-c'),
+ ('coren-mt.gov.br', 'FAROL7', 'billing-c'),
+ ('stm.gov.br', 'UBM11', 'owner-c'),
+ ('stm.gov.br', 'EGO', 'admin-c'),
+ ('stm.gov.br', 'UBM11', 'tech-c'),
+ ('stm.gov.br', 'DPM2', 'billing-c'),
+ ('prplanalto.gov.br', 'MAR79', 'owner-c'),
+ ('prplanalto.gov.br', 'MAR79', 'admin-c'),
+ ('prplanalto.gov.br', 'MAR79', 'tech-c'),
+ ('prplanalto.gov.br', 'MAR79', 'billing-c'),
+ ('portalbrasil.gov.br', 'RSM9', 'owner-c'),
+ ('portalbrasil.gov.br', 'RSM9', 'admin-c'),
+ ('portalbrasil.gov.br', 'APRLI2', 'tech-c'),
+ ('portalbrasil.gov.br', 'APRLI2', 'billing-c'),
+ ('portosrio.gov.br', 'LIM21', 'owner-c'),
+ ('portosrio.gov.br', 'LIM21', 'admin-c'),
+ ('portosrio.gov.br', 'GUT90', 'tech-c'),
+ ('portosrio.gov.br', 'GUT90', 'billing-c'),
+ ('metrobh.gov.br', 'JAAVI19', 'owner-c'),
+ ('metrobh.gov.br', 'JAAVI19', 'admin-c'),
+ ('metrobh.gov.br', 'CSILT7', 'tech-c'),
+ ('metrobh.gov.br', 'JAAVI19', 'billing-c'),
+ ('eafsb.gov.br', 'KLR27', 'owner-c'),
+ ('eafsb.gov.br', 'KLR27', 'admin-c'),
+ ('eafsb.gov.br', 'KLR27', 'tech-c'),
+ ('eafsb.gov.br', 'KLR27', 'billing-c'),
+ ('brasilcultura.gov.br', 'SAT7', 'owner-c'),
+ ('brasilcultura.gov.br', 'SAT7', 'admin-c'),
+ ('brasilcultura.gov.br', 'SAT7', 'tech-c'),
+ ('brasilcultura.gov.br', 'SAT7', 'billing-c'),
+ ('ipp.gov.br', 'JUR8', 'owner-c'),
+ ('ipp.gov.br', 'JUR8', 'admin-c'),
+ ('ipp.gov.br', 'JUR8', 'tech-c'),
+ ('ipp.gov.br', 'JUR8', 'billing-c'),
+ ('brasildigital.gov.br', 'ARRAL9', 'owner-c'),
+ ('brasildigital.gov.br', 'ARRAL9', 'admin-c'),
+ ('brasildigital.gov.br', 'RETMI', 'tech-c'),
+ ('brasildigital.gov.br', 'ARRAL9', 'billing-c'),
+ ('preps.gov.br', 'RESCA114', 'owner-c'),
+ ('preps.gov.br', 'RESCA114', 'admin-c'),
+ ('preps.gov.br', 'RESCA114', 'tech-c'),
+ ('preps.gov.br', 'RESCA114', 'billing-c'),
+ ('humanizaredes.gov.br', 'MAAJU182', 'owner-c'),
+ ('humanizaredes.gov.br', 'WEL52', 'admin-c'),
+ ('humanizaredes.gov.br', 'FRASO52', 'tech-c'),
+ ('humanizaredes.gov.br', 'WEL52', 'billing-c'),
+ ('mps.gov.br', 'DDA66', 'owner-c'),
+ ('mps.gov.br', 'DDA66', 'admin-c'),
+ ('mps.gov.br', 'DDT10', 'tech-c'),
+ ('mps.gov.br', 'DDC98', 'billing-c'),
+ ('creci-al.gov.br', 'CRCIM7', 'owner-c'),
+ ('creci-al.gov.br', 'CRCIM7', 'admin-c'),
+ ('creci-al.gov.br', 'CRCIM7', 'tech-c'),
+ ('creci-al.gov.br', 'CRCIM7', 'billing-c'),
+ ('acjus.gov.br', 'PMI', 'owner-c'),
+ ('acjus.gov.br', 'WNAJU', 'admin-c'),
+ ('acjus.gov.br', 'AJM126', 'tech-c'),
+ ('acjus.gov.br', 'PMI2', 'billing-c'),
+ ('informacaoecidadania.gov.br', 'CGSTM2', 'owner-c'),
+ ('informacaoecidadania.gov.br', 'CGSTM2', 'admin-c'),
+ ('informacaoecidadania.gov.br', 'CGSTM2', 'tech-c'),
+ ('informacaoecidadania.gov.br', 'CGSTM2', 'billing-c'),
+ ('acessoainformacao.gov.br', 'AMDSC29', 'owner-c'),
+ ('acessoainformacao.gov.br', 'AMDSC29', 'admin-c'),
+ ('acessoainformacao.gov.br', 'VDMLI12', 'tech-c'),
+ ('acessoainformacao.gov.br', 'GUMSO21', 'billing-c'),
+ ('eafrs.gov.br', 'CCB202', 'owner-c'),
+ ('eafrs.gov.br', 'CCB202', 'admin-c'),
+ ('eafrs.gov.br', 'RSOLI', 'tech-c'),
+ ('eafrs.gov.br', 'CCB202', 'billing-c'),
+ ('raspadinhadacaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('raspadinhadacaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('raspadinhadacaixa.gov.br', 'GIT60', 'tech-c'),
+ ('raspadinhadacaixa.gov.br', 'GIC166', 'billing-c'),
+ ('datasus.gov.br', 'DIS5', 'owner-c'),
+ ('datasus.gov.br', 'DIS5', 'admin-c'),
+ ('datasus.gov.br', 'DIS5', 'tech-c'),
+ ('datasus.gov.br', 'DIS5', 'billing-c'),
+ ('emgea.gov.br', 'SUT30', 'owner-c'),
+ ('emgea.gov.br', 'SUT30', 'admin-c'),
+ ('emgea.gov.br', 'SUT30', 'tech-c'),
+ ('emgea.gov.br', 'SUT30', 'billing-c'),
+ ('diesporte.gov.br', 'JDGPI', 'owner-c'),
+ ('diesporte.gov.br', 'JAA364', 'admin-c'),
+ ('diesporte.gov.br', 'JAA364', 'tech-c'),
+ ('diesporte.gov.br', 'JAA364', 'billing-c'),
+ ('enap.gov.br', 'ENAPU', 'owner-c'),
+ ('enap.gov.br', 'ENAPU', 'admin-c'),
+ ('enap.gov.br', 'ENAPU', 'tech-c'),
+ ('enap.gov.br', 'ENAPU', 'billing-c'),
+ ('caixavirtual.gov.br', 'RMJ35', 'owner-c'),
+ ('caixavirtual.gov.br', 'RMJ35', 'admin-c'),
+ ('caixavirtual.gov.br', 'GIT60', 'tech-c'),
+ ('caixavirtual.gov.br', 'GIC166', 'billing-c'),
+ ('laracps.gov.br', 'AKA7', 'owner-c'),
+ ('laracps.gov.br', 'AKA7', 'admin-c'),
+ ('laracps.gov.br', 'AKA7', 'tech-c'),
+ ('laracps.gov.br', 'AKA7', 'billing-c'),
+ ('crbio5.gov.br', 'CRBRE2', 'owner-c'),
+ ('crbio5.gov.br', 'CRBRE2', 'admin-c'),
+ ('crbio5.gov.br', 'HOT7', 'tech-c'),
+ ('crbio5.gov.br', 'CRBRE2', 'billing-c'),
+ ('inep.gov.br', 'INP', 'owner-c'),
+ ('inep.gov.br', 'INP', 'admin-c'),
+ ('inep.gov.br', 'INP', 'tech-c'),
+ ('inep.gov.br', 'INP', 'billing-c'),
+ ('tcu.gov.br', 'ARRAL9', 'owner-c'),
+ ('tcu.gov.br', 'ARRAL9', 'admin-c'),
+ ('tcu.gov.br', 'RETMI', 'tech-c'),
+ ('tcu.gov.br', 'ARRAL9', 'billing-c'),
+ ('creciba.gov.br', 'AASJU65', 'owner-c'),
+ ('creciba.gov.br', 'AASJU65', 'admin-c'),
+ ('creciba.gov.br', 'IBJ7', 'tech-c'),
+ ('creciba.gov.br', 'AASJU65', 'billing-c'),
+ ('investcaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('investcaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('investcaixa.gov.br', 'GIT60', 'tech-c'),
+ ('investcaixa.gov.br', 'GIC166', 'billing-c'),
+ ('cnmp.gov.br', 'DJSAL', 'owner-c'),
+ ('cnmp.gov.br', 'GFA2', 'admin-c'),
+ ('cnmp.gov.br', 'DJSAL', 'tech-c'),
+ ('cnmp.gov.br', 'GFA2', 'billing-c'),
+ ('banconordeste.gov.br', 'CMRSO14', 'owner-c'),
+ ('banconordeste.gov.br', 'CMRSO14', 'admin-c'),
+ ('banconordeste.gov.br', 'FFN', 'tech-c'),
+ ('banconordeste.gov.br', 'CMRSO14', 'billing-c'),
+ ('eleicoes.gov.br', 'DCC', 'owner-c'),
+ ('eleicoes.gov.br', 'DCC', 'admin-c'),
+ ('eleicoes.gov.br', 'DCC', 'tech-c'),
+ ('eleicoes.gov.br', 'WOS3', 'billing-c'),
+ ('caual.gov.br', 'MICLO17', 'owner-c'),
+ ('caual.gov.br', 'MICLO17', 'admin-c'),
+ ('caual.gov.br', 'SCITI', 'tech-c'),
+ ('caual.gov.br', 'SCFIN', 'billing-c'),
+ ('opeixeeaartedepescar.gov.br', 'SSG50', 'owner-c'),
+ ('opeixeeaartedepescar.gov.br', 'SSG50', 'admin-c'),
+ ('opeixeeaartedepescar.gov.br', 'SSG50', 'tech-c'),
+ ('opeixeeaartedepescar.gov.br', 'SSG50', 'billing-c'),
+ ('aerofacil.gov.br', 'MAR79', 'owner-c'),
+ ('aerofacil.gov.br', 'MAR79', 'admin-c'),
+ ('aerofacil.gov.br', 'MAR79', 'tech-c'),
+ ('aerofacil.gov.br', 'MAR79', 'billing-c'),
+ ('profae.gov.br', 'PMS70', 'owner-c'),
+ ('profae.gov.br', 'PMS70', 'admin-c'),
+ ('profae.gov.br', 'PMS70', 'tech-c'),
+ ('profae.gov.br', 'PMS70', 'billing-c'),
+ ('cenad.gov.br', 'ADSFE47', 'owner-c'),
+ ('cenad.gov.br', 'ADSFE47', 'admin-c'),
+ ('cenad.gov.br', 'ADSFE47', 'tech-c'),
+ ('cenad.gov.br', 'FFDSA72', 'billing-c'),
+ ('iti.gov.br', 'JRGJU4', 'owner-c'),
+ ('iti.gov.br', 'RLSSI74', 'admin-c'),
+ ('iti.gov.br', 'RLSSI74', 'tech-c'),
+ ('iti.gov.br', 'RLSSI74', 'billing-c'),
+ ('abc.gov.br', 'ABC106', 'owner-c'),
+ ('abc.gov.br', 'ABC106', 'admin-c'),
+ ('abc.gov.br', 'VAC23', 'tech-c'),
+ ('abc.gov.br', 'ABC106', 'billing-c'),
+ ('justra.gov.br', 'SCD13', 'owner-c'),
+ ('justra.gov.br', 'SCD13', 'admin-c'),
+ ('justra.gov.br', 'SCD13', 'tech-c'),
+ ('justra.gov.br', 'SCD13', 'billing-c'),
+ ('cbh.gov.br', 'ANS308', 'owner-c'),
+ ('cbh.gov.br', 'ROTFI', 'admin-c'),
+ ('cbh.gov.br', 'ROTFI', 'tech-c'),
+ ('cbh.gov.br', 'ROTFI', 'billing-c'),
+ ('cidadesdigitais.gov.br', 'ADSFE47', 'owner-c'),
+ ('cidadesdigitais.gov.br', 'ADSFE47', 'admin-c'),
+ ('cidadesdigitais.gov.br', 'MRV103', 'tech-c'),
+ ('cidadesdigitais.gov.br', 'ADSFE47', 'billing-c'),
+ ('crbio08.gov.br', 'CRGCA45', 'owner-c'),
+ ('crbio08.gov.br', 'CRGCA45', 'admin-c'),
+ ('crbio08.gov.br', 'MPA195', 'tech-c'),
+ ('crbio08.gov.br', 'CRGCA45', 'billing-c'),
+ ('trt20.gov.br', 'AWF2', 'owner-c'),
+ ('trt20.gov.br', 'AWF2', 'admin-c'),
+ ('trt20.gov.br', 'AWF2', 'tech-c'),
+ ('trt20.gov.br', 'AWF2', 'billing-c'),
+ ('sigepe.gov.br', 'CGSTM2', 'owner-c'),
+ ('sigepe.gov.br', 'CGSTM2', 'admin-c'),
+ ('sigepe.gov.br', 'CGSTM2', 'tech-c'),
+ ('sigepe.gov.br', 'CGSTM2', 'billing-c'),
+ ('previdenciasocial.gov.br', 'LRS181', 'owner-c'),
+ ('previdenciasocial.gov.br', 'LRS181', 'admin-c'),
+ ('previdenciasocial.gov.br', 'DDT10', 'tech-c'),
+ ('previdenciasocial.gov.br', 'DDC98', 'billing-c'),
+ ('tre-rr.gov.br', 'TRR11', 'owner-c'),
+ ('tre-rr.gov.br', 'DCC', 'admin-c'),
+ ('tre-rr.gov.br', 'DCC', 'tech-c'),
+ ('tre-rr.gov.br', 'WOS3', 'billing-c'),
+ ('vispublica.gov.br', 'CGSTM2', 'owner-c'),
+ ('vispublica.gov.br', 'CGSTM2', 'admin-c'),
+ ('vispublica.gov.br', 'CGSTM2', 'tech-c'),
+ ('vispublica.gov.br', 'CGSTM2', 'billing-c'),
+ ('turismoacessivel.gov.br', 'SUAAL3', 'owner-c'),
+ ('turismoacessivel.gov.br', 'SUAAL3', 'admin-c'),
+ ('turismoacessivel.gov.br', 'SUAAL3', 'tech-c'),
+ ('turismoacessivel.gov.br', 'SUAAL3', 'billing-c'),
+ ('sp.gov.br', 'GEIPR', 'owner-c'),
+ ('sp.gov.br', 'GEIPR', 'admin-c'),
+ ('sp.gov.br', 'GEIPR', 'tech-c'),
+ ('sp.gov.br', 'GEIPR', 'billing-c'),
+ ('tradeandinvestment.gov.br', 'CTDPR5', 'owner-c'),
+ ('tradeandinvestment.gov.br', 'CTDPR5', 'admin-c'),
+ ('tradeandinvestment.gov.br', 'CTDPR5', 'tech-c'),
+ ('tradeandinvestment.gov.br', 'CTDPR5', 'billing-c'),
+ ('comiteamazonia.gov.br', 'GGS6', 'owner-c'),
+ ('comiteamazonia.gov.br', 'GGS6', 'admin-c'),
+ ('comiteamazonia.gov.br', 'GGS6', 'tech-c'),
+ ('comiteamazonia.gov.br', 'ECS34', 'billing-c'),
+ ('crmvrn.gov.br', 'FRFLI2', 'owner-c'),
+ ('crmvrn.gov.br', 'FRFLI2', 'admin-c'),
+ ('crmvrn.gov.br', 'FRFLI2', 'tech-c'),
+ ('crmvrn.gov.br', 'FRFLI2', 'billing-c'),
+ ('inclusaodigital.gov.br', 'CGSTM2', 'owner-c'),
+ ('inclusaodigital.gov.br', 'CGSTM2', 'admin-c'),
+ ('inclusaodigital.gov.br', 'CGSTM2', 'tech-c'),
+ ('inclusaodigital.gov.br', 'CGSTM2', 'billing-c'),
+ ('educacion.gov.br', 'WASEV', 'owner-c'),
+ ('educacion.gov.br', 'MIEDU6', 'admin-c'),
+ ('educacion.gov.br', 'MIEDU6', 'tech-c'),
+ ('educacion.gov.br', 'MIEDU6', 'billing-c'),
+ ('infoconsumo.gov.br', 'SAADI5', 'owner-c'),
+ ('infoconsumo.gov.br', 'SAADI5', 'admin-c'),
+ ('infoconsumo.gov.br', 'LFL', 'tech-c'),
+ ('infoconsumo.gov.br', 'SAADI5', 'billing-c'),
+ ('ppsa.gov.br', 'ANOOL10', 'owner-c'),
+ ('ppsa.gov.br', 'ANOOL10', 'admin-c'),
+ ('ppsa.gov.br', 'ANOOL10', 'tech-c'),
+ ('ppsa.gov.br', 'ANOOL10', 'billing-c'),
+ ('cnpd.gov.br', 'MHS92', 'owner-c'),
+ ('cnpd.gov.br', 'PSP4', 'admin-c'),
+ ('cnpd.gov.br', 'MHS92', 'tech-c'),
+ ('cnpd.gov.br', 'PSP4', 'billing-c'),
+ ('logisticabrasil.gov.br', 'EMPLO7', 'owner-c'),
+ ('logisticabrasil.gov.br', 'EMPLO7', 'admin-c'),
+ ('logisticabrasil.gov.br', 'MAFEL176', 'tech-c'),
+ ('logisticabrasil.gov.br', 'DSC84', 'billing-c'),
+ ('mnba.gov.br', 'CSS68', 'owner-c'),
+ ('mnba.gov.br', 'CSS68', 'admin-c'),
+ ('mnba.gov.br', 'RNM126', 'tech-c'),
+ ('mnba.gov.br', 'CSS68', 'billing-c'),
+ ('mt.gov.br', 'GRC35', 'owner-c'),
+ ('mt.gov.br', 'GRC35', 'admin-c'),
+ ('mt.gov.br', 'ADM617', 'tech-c'),
+ ('mt.gov.br', 'ADM617', 'billing-c'),
+ ('mre.gov.br', 'SAT7', 'owner-c'),
+ ('mre.gov.br', 'SAT7', 'admin-c'),
+ ('mre.gov.br', 'SAT7', 'tech-c'),
+ ('mre.gov.br', 'SAT7', 'billing-c'),
+ ('trincadasorte.gov.br', 'RMJ35', 'owner-c'),
+ ('trincadasorte.gov.br', 'RMJ35', 'admin-c'),
+ ('trincadasorte.gov.br', 'GIT60', 'tech-c'),
+ ('trincadasorte.gov.br', 'GIC166', 'billing-c'),
+ ('poupeenergia.gov.br', 'HCB42', 'owner-c'),
+ ('poupeenergia.gov.br', 'HCB42', 'admin-c'),
+ ('poupeenergia.gov.br', 'HCB42', 'tech-c'),
+ ('poupeenergia.gov.br', 'HCB42', 'billing-c'),
+ ('programadorabrasil.gov.br', 'MICBR19', 'owner-c'),
+ ('programadorabrasil.gov.br', 'MICBR19', 'admin-c'),
+ ('programadorabrasil.gov.br', 'MICBR19', 'tech-c'),
+ ('programadorabrasil.gov.br', 'MICBR19', 'billing-c'),
+ ('prodemge.gov.br', 'PGM14', 'owner-c'),
+ ('prodemge.gov.br', 'PGM14', 'admin-c'),
+ ('prodemge.gov.br', 'PGM14', 'tech-c'),
+ ('prodemge.gov.br', 'PGM14', 'billing-c'),
+ ('fundoamazonia.gov.br', 'GGT13', 'owner-c'),
+ ('fundoamazonia.gov.br', 'GGT13', 'admin-c'),
+ ('fundoamazonia.gov.br', 'GGT13', 'tech-c'),
+ ('fundoamazonia.gov.br', 'GGT13', 'billing-c'),
+ ('mj.gov.br', 'MIJUS7', 'owner-c'),
+ ('mj.gov.br', 'ALCBA81', 'admin-c'),
+ ('mj.gov.br', 'ARAJU47', 'tech-c'),
+ ('mj.gov.br', 'ALCBA81', 'billing-c'),
+ ('crq-9.gov.br', 'DIBFI7', 'owner-c'),
+ ('crq-9.gov.br', 'DIBFI7', 'admin-c'),
+ ('crq-9.gov.br', 'JJJ70', 'tech-c'),
+ ('crq-9.gov.br', 'DIBFI7', 'billing-c'),
+ ('copadacultura.gov.br', 'MICUL2', 'owner-c'),
+ ('copadacultura.gov.br', 'MICUL2', 'admin-c'),
+ ('copadacultura.gov.br', 'MICUL2', 'tech-c'),
+ ('copadacultura.gov.br', 'MICUL2', 'billing-c'),
+ ('caupb.gov.br', 'MICLO17', 'owner-c'),
+ ('caupb.gov.br', 'MICLO17', 'admin-c'),
+ ('caupb.gov.br', 'SCITI', 'tech-c'),
+ ('caupb.gov.br', 'SCFIN', 'billing-c'),
+ ('loteriascaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('loteriascaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('loteriascaixa.gov.br', 'GIT60', 'tech-c'),
+ ('loteriascaixa.gov.br', 'GIC166', 'billing-c'),
+ ('infosoc.gov.br', 'LEL7', 'owner-c'),
+ ('infosoc.gov.br', 'LEL7', 'admin-c'),
+ ('infosoc.gov.br', 'LEL7', 'tech-c'),
+ ('infosoc.gov.br', 'LEL7', 'billing-c'),
+ ('mdic.gov.br', 'MDC167', 'owner-c'),
+ ('mdic.gov.br', 'MDC167', 'admin-c'),
+ ('mdic.gov.br', 'MDC167', 'tech-c'),
+ ('mdic.gov.br', 'MDC167', 'billing-c'),
+ ('casemg.gov.br', 'GEFAM', 'owner-c'),
+ ('casemg.gov.br', 'GEFAM', 'admin-c'),
+ ('casemg.gov.br', 'DNA4', 'tech-c'),
+ ('casemg.gov.br', 'GEFAM', 'billing-c'),
+ ('ana.gov.br', 'ANS308', 'owner-c'),
+ ('ana.gov.br', 'ROTFI', 'admin-c'),
+ ('ana.gov.br', 'ROTFI', 'tech-c'),
+ ('ana.gov.br', 'SAA11', 'billing-c'),
+ ('fonoaudiologia-rj.gov.br', 'IAJ2', 'owner-c'),
+ ('fonoaudiologia-rj.gov.br', 'IAJ2', 'admin-c'),
+ ('fonoaudiologia-rj.gov.br', 'IAJ2', 'tech-c'),
+ ('fonoaudiologia-rj.gov.br', 'IAJ2', 'billing-c'),
+ ('parana.gov.br', 'ADC633', 'owner-c'),
+ ('parana.gov.br', 'ADC633', 'admin-c'),
+ ('parana.gov.br', 'ADC633', 'tech-c'),
+ ('parana.gov.br', 'ADC633', 'billing-c'),
+ ('trt-ma.gov.br', 'TRR7', 'owner-c'),
+ ('trt-ma.gov.br', 'TRR7', 'admin-c'),
+ ('trt-ma.gov.br', 'TRR7', 'tech-c'),
+ ('trt-ma.gov.br', 'TRR7', 'billing-c'),
+ ('cemave.gov.br', 'CRC644', 'owner-c'),
+ ('cemave.gov.br', 'CRC644', 'admin-c'),
+ ('cemave.gov.br', 'DALSO56', 'tech-c'),
+ ('cemave.gov.br', 'CRC644', 'billing-c'),
+ ('portalpadrao.gov.br', 'MAMPA145', 'owner-c'),
+ ('portalpadrao.gov.br', 'MAMPA145', 'admin-c'),
+ ('portalpadrao.gov.br', 'MRV103', 'tech-c'),
+ ('portalpadrao.gov.br', 'MAMPA145', 'billing-c'),
+ ('unijus.gov.br', 'DARCO34', 'owner-c'),
+ ('unijus.gov.br', 'DARCO34', 'admin-c'),
+ ('unijus.gov.br', 'DARCO34', 'tech-c'),
+ ('unijus.gov.br', 'DARCO34', 'billing-c'),
+ ('viibra.gov.br', 'SEIRE4', 'owner-c'),
+ ('viibra.gov.br', 'SEIRE4', 'admin-c'),
+ ('viibra.gov.br', 'SEIRE4', 'tech-c'),
+ ('viibra.gov.br', 'SEIRE4', 'billing-c'),
+ ('dtceasj.gov.br', 'SRS330', 'owner-c'),
+ ('dtceasj.gov.br', 'SRS330', 'admin-c'),
+ ('dtceasj.gov.br', 'SRS330', 'tech-c'),
+ ('dtceasj.gov.br', 'SRS330', 'billing-c'),
+ ('consorciobdjur.gov.br', 'DARCO34', 'owner-c'),
+ ('consorciobdjur.gov.br', 'DARCO34', 'admin-c'),
+ ('consorciobdjur.gov.br', 'DARCO34', 'tech-c'),
+ ('consorciobdjur.gov.br', 'DARCO34', 'billing-c'),
+ ('pncda.gov.br', 'IJFFI', 'owner-c'),
+ ('pncda.gov.br', 'YUONI', 'admin-c'),
+ ('pncda.gov.br', 'IJFFI', 'tech-c'),
+ ('pncda.gov.br', 'CFMSI14', 'billing-c'),
+ ('mpf.gov.br', 'GFA2', 'owner-c'),
+ ('mpf.gov.br', 'GFA2', 'admin-c'),
+ ('mpf.gov.br', 'MACSO55', 'tech-c'),
+ ('mpf.gov.br', 'GFA2', 'billing-c'),
+ ('embrapa.gov.br', 'GEA', 'owner-c'),
+ ('embrapa.gov.br', 'GEA', 'admin-c'),
+ ('embrapa.gov.br', 'GEA', 'tech-c'),
+ ('embrapa.gov.br', 'HES56', 'billing-c'),
+ ('eproc-rs.gov.br', 'ALSIL482', 'owner-c'),
+ ('eproc-rs.gov.br', 'ALSIL482', 'admin-c'),
+ ('eproc-rs.gov.br', 'ALSIL482', 'tech-c'),
+ ('eproc-rs.gov.br', 'ANZMA3', 'billing-c'),
+ ('trt17.gov.br', 'CATGO3', 'owner-c'),
+ ('trt17.gov.br', 'CATGO3', 'admin-c'),
+ ('trt17.gov.br', 'JMSCA2', 'tech-c'),
+ ('trt17.gov.br', 'DRZ', 'billing-c'),
+ ('capacidades.gov.br', 'IJFFI', 'owner-c'),
+ ('capacidades.gov.br', 'YUONI', 'admin-c'),
+ ('capacidades.gov.br', 'IJFFI', 'tech-c'),
+ ('capacidades.gov.br', 'CFMSI14', 'billing-c'),
+ ('versionamento.gov.br', 'CGSTM2', 'owner-c'),
+ ('versionamento.gov.br', 'CGSTM2', 'admin-c'),
+ ('versionamento.gov.br', 'CGSTM2', 'tech-c'),
+ ('versionamento.gov.br', 'CGSTM2', 'billing-c'),
+ ('teleceara.gov.br', 'COAOI', 'owner-c'),
+ ('teleceara.gov.br', 'COAOI', 'admin-c'),
+ ('teleceara.gov.br', 'ART3', 'tech-c'),
+ ('teleceara.gov.br', 'COAOI', 'billing-c'),
+ ('hrps.gov.br', 'PSB51', 'owner-c'),
+ ('hrps.gov.br', 'PSB51', 'admin-c'),
+ ('hrps.gov.br', 'PSB51', 'tech-c'),
+ ('hrps.gov.br', 'PSB51', 'billing-c'),
+ ('cultura.gov.br', 'MICUL2', 'owner-c'),
+ ('cultura.gov.br', 'MICUL2', 'admin-c'),
+ ('cultura.gov.br', 'JCC386', 'tech-c'),
+ ('cultura.gov.br', 'MICUL2', 'billing-c'),
+ ('cetene.gov.br', 'CTENE', 'owner-c'),
+ ('cetene.gov.br', 'CTENE', 'admin-c'),
+ ('cetene.gov.br', 'CTENE', 'tech-c'),
+ ('cetene.gov.br', 'CTENE', 'billing-c'),
+ ('ministeriodomeioambiente.gov.br', 'MMR', 'owner-c'),
+ ('ministeriodomeioambiente.gov.br', 'MMR', 'admin-c'),
+ ('ministeriodomeioambiente.gov.br', 'MMR', 'tech-c'),
+ ('ministeriodomeioambiente.gov.br', 'MMR', 'billing-c'),
+ ('jfsc.gov.br', 'MLC166', 'owner-c'),
+ ('jfsc.gov.br', 'MLC166', 'admin-c'),
+ ('jfsc.gov.br', 'MLC166', 'tech-c'),
+ ('jfsc.gov.br', 'PEACO7', 'billing-c'),
+ ('soumaismedicos.gov.br', 'DOEBS', 'owner-c'),
+ ('soumaismedicos.gov.br', 'DOEBS', 'admin-c'),
+ ('soumaismedicos.gov.br', 'DOEBS', 'tech-c'),
+ ('soumaismedicos.gov.br', 'DOEBS', 'billing-c'),
+ ('crefitosp.gov.br', 'CRR351', 'owner-c'),
+ ('crefitosp.gov.br', 'CRR351', 'admin-c'),
+ ('crefitosp.gov.br', 'CRR351', 'tech-c'),
+ ('crefitosp.gov.br', 'CRR351', 'billing-c'),
+ ('cenpra.gov.br', 'ANM153', 'owner-c'),
+ ('cenpra.gov.br', 'PACBE47', 'admin-c'),
+ ('cenpra.gov.br', 'PACBE47', 'tech-c'),
+ ('cenpra.gov.br', 'PACBE47', 'billing-c'),
+ ('censo.gov.br', 'ECO', 'owner-c'),
+ ('censo.gov.br', 'ECO', 'admin-c'),
+ ('censo.gov.br', 'ECO', 'tech-c'),
+ ('censo.gov.br', 'ECO', 'billing-c'),
+ ('congresso.gov.br', 'SEIRE4', 'owner-c'),
+ ('congresso.gov.br', 'SEIRE4', 'admin-c'),
+ ('congresso.gov.br', 'SEIRE4', 'tech-c'),
+ ('congresso.gov.br', 'SEIRE4', 'billing-c'),
+ ('acessoinformacao.gov.br', 'AMDSC29', 'owner-c'),
+ ('acessoinformacao.gov.br', 'AMDSC29', 'admin-c'),
+ ('acessoinformacao.gov.br', 'VDMLI12', 'tech-c'),
+ ('acessoinformacao.gov.br', 'GUMSO21', 'billing-c'),
+ ('crbio03.gov.br', 'CLLUZ2', 'owner-c'),
+ ('crbio03.gov.br', 'CLLUZ2', 'admin-c'),
+ ('crbio03.gov.br', 'CLLUZ2', 'tech-c'),
+ ('crbio03.gov.br', 'CLLUZ2', 'billing-c'),
+ ('amazonasenergia.gov.br', 'GSC187', 'owner-c'),
+ ('amazonasenergia.gov.br', 'GSC187', 'admin-c'),
+ ('amazonasenergia.gov.br', 'GSC187', 'tech-c'),
+ ('amazonasenergia.gov.br', 'RYM6', 'billing-c'),
+ ('portaldoempreendedor.gov.br', 'MDC167', 'owner-c'),
+ ('portaldoempreendedor.gov.br', 'MDC167', 'admin-c'),
+ ('portaldoempreendedor.gov.br', 'MRV103', 'tech-c'),
+ ('portaldoempreendedor.gov.br', 'MDC167', 'billing-c'),
+ ('sei.gov.br', 'CGSTM2', 'owner-c'),
+ ('sei.gov.br', 'CGSTM2', 'admin-c'),
+ ('sei.gov.br', 'CGSTM2', 'tech-c'),
+ ('sei.gov.br', 'CGSTM2', 'billing-c'),
+ ('seminariobrasildigital.gov.br', 'ARRAL9', 'owner-c'),
+ ('seminariobrasildigital.gov.br', 'ARRAL9', 'admin-c'),
+ ('seminariobrasildigital.gov.br', 'RETMI', 'tech-c'),
+ ('seminariobrasildigital.gov.br', 'ARRAL9', 'billing-c'),
+ ('sae.gov.br', 'MAR79', 'owner-c'),
+ ('sae.gov.br', 'GDS174', 'admin-c'),
+ ('sae.gov.br', 'DSARA3', 'tech-c'),
+ ('sae.gov.br', 'GDS174', 'billing-c'),
+ ('reformapostal.gov.br', 'MAR1601', 'owner-c'),
+ ('reformapostal.gov.br', 'MAR1601', 'admin-c'),
+ ('reformapostal.gov.br', 'EEA', 'tech-c'),
+ ('reformapostal.gov.br', 'MAR1601', 'billing-c'),
+ ('portodevitoria.gov.br', 'CFB68', 'owner-c'),
+ ('portodevitoria.gov.br', 'CFB68', 'admin-c'),
+ ('portodevitoria.gov.br', 'VOSIL2', 'tech-c'),
+ ('portodevitoria.gov.br', 'CFB68', 'billing-c'),
+ ('capoeira.gov.br', 'ABCSO3', 'owner-c'),
+ ('capoeira.gov.br', 'ABCSO3', 'admin-c'),
+ ('capoeira.gov.br', 'ABCSO3', 'tech-c'),
+ ('capoeira.gov.br', 'ABCSO3', 'billing-c'),
+ ('sudene.gov.br', 'EDS21', 'owner-c'),
+ ('sudene.gov.br', 'EDS21', 'admin-c'),
+ ('sudene.gov.br', 'MRAGA3', 'tech-c'),
+ ('sudene.gov.br', 'EDS21', 'billing-c'),
+ ('trt13.gov.br', 'TRTAR', 'owner-c'),
+ ('trt13.gov.br', 'TRTAR', 'admin-c'),
+ ('trt13.gov.br', 'TRTAR', 'tech-c'),
+ ('trt13.gov.br', 'TRTAR', 'billing-c'),
+ ('eafspb.gov.br', 'AMS741', 'owner-c'),
+ ('eafspb.gov.br', 'AMS741', 'admin-c'),
+ ('eafspb.gov.br', 'AMS741', 'tech-c'),
+ ('eafspb.gov.br', 'AMS741', 'billing-c'),
+ ('crm.gov.br', 'FLF58', 'owner-c'),
+ ('crm.gov.br', 'FLF58', 'admin-c'),
+ ('crm.gov.br', 'RDV', 'tech-c'),
+ ('crm.gov.br', 'FLF58', 'billing-c'),
+ ('regulacao.gov.br', 'MAR79', 'owner-c'),
+ ('regulacao.gov.br', 'MAR79', 'admin-c'),
+ ('regulacao.gov.br', 'MAR79', 'tech-c'),
+ ('regulacao.gov.br', 'MAR79', 'billing-c'),
+ ('fibge.gov.br', 'ECO', 'owner-c'),
+ ('fibge.gov.br', 'ECO', 'admin-c'),
+ ('fibge.gov.br', 'ECO', 'tech-c'),
+ ('fibge.gov.br', 'ECO', 'billing-c'),
+ ('mda.gov.br', 'ECLNA', 'owner-c'),
+ ('mda.gov.br', 'ECLNA', 'admin-c'),
+ ('mda.gov.br', 'ECLNA', 'tech-c'),
+ ('mda.gov.br', 'ECLNA', 'billing-c'),
+ ('entreguesuaarma.gov.br', 'MIJUS7', 'owner-c'),
+ ('entreguesuaarma.gov.br', 'ALCBA81', 'admin-c'),
+ ('entreguesuaarma.gov.br', 'ARAJU47', 'tech-c'),
+ ('entreguesuaarma.gov.br', 'ALCBA81', 'billing-c'),
+ ('crqxx.gov.br', 'CRXXM', 'owner-c'),
+ ('crqxx.gov.br', 'CRXXM', 'admin-c'),
+ ('crqxx.gov.br', 'CRXXM', 'tech-c'),
+ ('crqxx.gov.br', 'CRXXM', 'billing-c'),
+ ('rn.gov.br', 'SET35', 'owner-c'),
+ ('rn.gov.br', 'SRG89', 'admin-c'),
+ ('rn.gov.br', 'JCA6', 'tech-c'),
+ ('rn.gov.br', 'JCA6', 'billing-c'),
+ ('cra-pr.gov.br', 'ARAND20', 'owner-c'),
+ ('cra-pr.gov.br', 'ARAND20', 'admin-c'),
+ ('cra-pr.gov.br', 'RUD30', 'tech-c'),
+ ('cra-pr.gov.br', 'ARAND20', 'billing-c'),
+ ('comunicacoes.gov.br', 'VPF2', 'owner-c'),
+ ('comunicacoes.gov.br', 'VPF2', 'admin-c'),
+ ('comunicacoes.gov.br', 'VPF2', 'tech-c'),
+ ('comunicacoes.gov.br', 'VPF2', 'billing-c'),
+ ('ceasa.gov.br', 'GPL11', 'owner-c'),
+ ('ceasa.gov.br', 'GPL11', 'admin-c'),
+ ('ceasa.gov.br', 'GPL11', 'tech-c'),
+ ('ceasa.gov.br', 'GPL11', 'billing-c'),
+ ('acre.gov.br', 'ALQSI', 'owner-c'),
+ ('acre.gov.br', 'ALQSI', 'admin-c'),
+ ('acre.gov.br', 'ALQSI', 'tech-c'),
+ ('acre.gov.br', 'ALQSI', 'billing-c'),
+ ('mpas.gov.br', 'DDA66', 'owner-c'),
+ ('mpas.gov.br', 'DDA66', 'admin-c'),
+ ('mpas.gov.br', 'DDT10', 'tech-c'),
+ ('mpas.gov.br', 'DDC98', 'billing-c'),
+ ('amazonfund.gov.br', 'GGT13', 'owner-c'),
+ ('amazonfund.gov.br', 'GGT13', 'admin-c'),
+ ('amazonfund.gov.br', 'GGT13', 'tech-c'),
+ ('amazonfund.gov.br', 'GGT13', 'billing-c'),
+ ('dtceaaf.gov.br', 'SRS330', 'owner-c'),
+ ('dtceaaf.gov.br', 'SRS330', 'admin-c'),
+ ('dtceaaf.gov.br', 'SRS330', 'tech-c'),
+ ('dtceaaf.gov.br', 'SRS330', 'billing-c'),
+ ('crtrrj.gov.br', 'CRR111', 'owner-c'),
+ ('crtrrj.gov.br', 'CRR111', 'admin-c'),
+ ('crtrrj.gov.br', 'RVI3', 'tech-c'),
+ ('crtrrj.gov.br', 'CRR111', 'billing-c'),
+ ('crbio06.gov.br', 'KYFAQ', 'owner-c'),
+ ('crbio06.gov.br', 'KYFAQ', 'admin-c'),
+ ('crbio06.gov.br', 'KYFAQ', 'tech-c'),
+ ('crbio06.gov.br', 'KYFAQ', 'billing-c'),
+ ('al.gov.br', 'GESNE7', 'owner-c'),
+ ('al.gov.br', 'GESNE7', 'admin-c'),
+ ('al.gov.br', 'BRCBA15', 'tech-c'),
+ ('al.gov.br', 'ANFSO60', 'billing-c'),
+ ('seade.gov.br', 'SRR29', 'owner-c'),
+ ('seade.gov.br', 'SRR29', 'admin-c'),
+ ('seade.gov.br', 'SRR29', 'tech-c'),
+ ('seade.gov.br', 'IRO', 'billing-c'),
+ ('esocial.gov.br', 'ADSFE47', 'owner-c'),
+ ('esocial.gov.br', 'ADSFE47', 'admin-c'),
+ ('esocial.gov.br', 'MRV103', 'tech-c'),
+ ('esocial.gov.br', 'ADSFE47', 'billing-c'),
+ ('eafmanaus.gov.br', 'SCS223', 'owner-c'),
+ ('eafmanaus.gov.br', 'SCS223', 'admin-c'),
+ ('eafmanaus.gov.br', 'AIP6', 'tech-c'),
+ ('eafmanaus.gov.br', 'SCS223', 'billing-c'),
+ ('loteriafederal.gov.br', 'RMJ35', 'owner-c'),
+ ('loteriafederal.gov.br', 'RMJ35', 'admin-c'),
+ ('loteriafederal.gov.br', 'GIT60', 'tech-c'),
+ ('loteriafederal.gov.br', 'GIC166', 'billing-c'),
+ ('dinheiroemcaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('dinheiroemcaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('dinheiroemcaixa.gov.br', 'GIT60', 'tech-c'),
+ ('dinheiroemcaixa.gov.br', 'GIC166', 'billing-c'),
+ ('mme.gov.br', 'HCB42', 'owner-c'),
+ ('mme.gov.br', 'HCB42', 'admin-c'),
+ ('mme.gov.br', 'HCB42', 'tech-c'),
+ ('mme.gov.br', 'HCB42', 'billing-c'),
+ ('jfpb.gov.br', 'JODME4', 'owner-c'),
+ ('jfpb.gov.br', 'ROXCO2', 'admin-c'),
+ ('jfpb.gov.br', 'JODME4', 'tech-c'),
+ ('jfpb.gov.br', 'ROXCO2', 'billing-c'),
+ ('conarq.gov.br', 'KERPO', 'owner-c'),
+ ('conarq.gov.br', 'KERPO', 'admin-c'),
+ ('conarq.gov.br', 'KERPO', 'tech-c'),
+ ('conarq.gov.br', 'KERPO', 'billing-c'),
+ ('ministeriopublicodf.gov.br', 'DTMPD', 'owner-c'),
+ ('ministeriopublicodf.gov.br', 'DTMPD', 'admin-c'),
+ ('ministeriopublicodf.gov.br', 'DTMPD', 'tech-c'),
+ ('ministeriopublicodf.gov.br', 'DTMPD', 'billing-c'),
+ ('eafcatu.gov.br', 'ASS387', 'owner-c'),
+ ('eafcatu.gov.br', 'ASS387', 'admin-c'),
+ ('eafcatu.gov.br', 'ASS387', 'tech-c'),
+ ('eafcatu.gov.br', 'ASS387', 'billing-c'),
+ ('fat.gov.br', 'COINF90', 'owner-c'),
+ ('fat.gov.br', 'CLMEN28', 'admin-c'),
+ ('fat.gov.br', 'MALHE11', 'tech-c'),
+ ('fat.gov.br', 'MALHE11', 'billing-c'),
+ ('creci-pr.gov.br', 'GPD21', 'owner-c'),
+ ('creci-pr.gov.br', 'GPD21', 'admin-c'),
+ ('creci-pr.gov.br', 'GPD21', 'tech-c'),
+ ('creci-pr.gov.br', 'GPD21', 'billing-c'),
+ ('epe.gov.br', 'EPT33', 'owner-c'),
+ ('epe.gov.br', 'EPT33', 'admin-c'),
+ ('epe.gov.br', 'EPT33', 'tech-c'),
+ ('epe.gov.br', 'EPT33', 'billing-c'),
+ ('proinfa.gov.br', 'JMMSA2', 'owner-c'),
+ ('proinfa.gov.br', 'JMMSA2', 'admin-c'),
+ ('proinfa.gov.br', 'VABSI7', 'tech-c'),
+ ('proinfa.gov.br', 'JMMSA2', 'billing-c'),
+ ('colab.gov.br', 'CGSTM2', 'owner-c'),
+ ('colab.gov.br', 'CGSTM2', 'admin-c'),
+ ('colab.gov.br', 'CGSTM2', 'tech-c'),
+ ('colab.gov.br', 'CGSTM2', 'billing-c'),
+ ('caixamasterpass.gov.br', 'RMJ35', 'owner-c'),
+ ('caixamasterpass.gov.br', 'RMJ35', 'admin-c'),
+ ('caixamasterpass.gov.br', 'GIT60', 'tech-c'),
+ ('caixamasterpass.gov.br', 'GIC166', 'billing-c'),
+ ('cprm-ma.gov.br', 'INL3', 'owner-c'),
+ ('cprm-ma.gov.br', 'INL3', 'admin-c'),
+ ('cprm-ma.gov.br', 'INL3', 'tech-c'),
+ ('cprm-ma.gov.br', 'INL3', 'billing-c'),
+ ('funpresp.gov.br', 'MAACR88', 'owner-c'),
+ ('funpresp.gov.br', 'ELBCH', 'admin-c'),
+ ('funpresp.gov.br', 'DDT10', 'tech-c'),
+ ('funpresp.gov.br', 'ELBCH', 'billing-c'),
+ ('transparencianacopa.gov.br', 'SEIRE4', 'owner-c'),
+ ('transparencianacopa.gov.br', 'SEIRE4', 'admin-c'),
+ ('transparencianacopa.gov.br', 'SEIRE4', 'tech-c'),
+ ('transparencianacopa.gov.br', 'SEIRE4', 'billing-c'),
+ ('eafmuz.gov.br', 'GMMPE2', 'owner-c'),
+ ('eafmuz.gov.br', 'GRF28', 'admin-c'),
+ ('eafmuz.gov.br', 'GRF28', 'tech-c'),
+ ('eafmuz.gov.br', 'GRF28', 'billing-c'),
+ ('jfceara.gov.br', 'GOTLA', 'owner-c'),
+ ('jfceara.gov.br', 'GOTLA', 'admin-c'),
+ ('jfceara.gov.br', 'HCS36', 'tech-c'),
+ ('jfceara.gov.br', 'GOTLA', 'billing-c'),
+ ('pracasdopac.gov.br', 'MIEDU6', 'owner-c'),
+ ('pracasdopac.gov.br', 'MIEDU6', 'admin-c'),
+ ('pracasdopac.gov.br', 'MIEDU6', 'tech-c'),
+ ('pracasdopac.gov.br', 'MIEDU6', 'billing-c'),
+ ('ect.gov.br', 'MAR1601', 'owner-c'),
+ ('ect.gov.br', 'MAR1601', 'admin-c'),
+ ('ect.gov.br', 'EEA', 'tech-c'),
+ ('ect.gov.br', 'MAR1601', 'billing-c'),
+ ('mds.gov.br', 'MACSO438', 'owner-c'),
+ ('mds.gov.br', 'MACSO438', 'admin-c'),
+ ('mds.gov.br', 'MACSO438', 'tech-c'),
+ ('mds.gov.br', 'MACSO438', 'billing-c'),
+ ('cenipa.gov.br', 'RAA543', 'owner-c'),
+ ('cenipa.gov.br', 'RAA543', 'admin-c'),
+ ('cenipa.gov.br', 'SVSJU', 'tech-c'),
+ ('cenipa.gov.br', 'SVSJU', 'billing-c'),
+ ('stj.gov.br', 'DARCO34', 'owner-c'),
+ ('stj.gov.br', 'DARCO34', 'admin-c'),
+ ('stj.gov.br', 'LEJ2', 'tech-c'),
+ ('stj.gov.br', 'DARCO34', 'billing-c'),
+ ('defesaagropecuaria.gov.br', 'SDA', 'owner-c'),
+ ('defesaagropecuaria.gov.br', 'SDA', 'admin-c'),
+ ('defesaagropecuaria.gov.br', 'JCL22', 'tech-c'),
+ ('defesaagropecuaria.gov.br', 'SDA', 'billing-c'),
+ ('corenpb.gov.br', 'GESRI10', 'owner-c'),
+ ('corenpb.gov.br', 'GESRI10', 'admin-c'),
+ ('corenpb.gov.br', 'GHV12', 'tech-c'),
+ ('corenpb.gov.br', 'GESRI10', 'billing-c'),
+ ('inb.gov.br', 'RRBSI16', 'owner-c'),
+ ('inb.gov.br', 'JCP16', 'admin-c'),
+ ('inb.gov.br', 'FAM703', 'tech-c'),
+ ('inb.gov.br', 'JCP16', 'billing-c'),
+ ('institutochicomendes.gov.br', 'CRC644', 'owner-c'),
+ ('institutochicomendes.gov.br', 'CRC644', 'admin-c'),
+ ('institutochicomendes.gov.br', 'DALSO56', 'tech-c'),
+ ('institutochicomendes.gov.br', 'CRC644', 'billing-c'),
+ ('projovem.gov.br', 'CPPAV', 'owner-c'),
+ ('projovem.gov.br', 'CPPAV', 'admin-c'),
+ ('projovem.gov.br', 'CPPAV', 'tech-c'),
+ ('projovem.gov.br', 'CPPAV', 'billing-c'),
+ ('mpes.gov.br', 'AMP477', 'owner-c'),
+ ('mpes.gov.br', 'AMP477', 'admin-c'),
+ ('mpes.gov.br', 'AMP477', 'tech-c'),
+ ('mpes.gov.br', 'AMP477', 'billing-c'),
+ ('ctnbio.gov.br', 'REDOM95', 'owner-c'),
+ ('ctnbio.gov.br', 'ADNMC', 'admin-c'),
+ ('ctnbio.gov.br', 'ADNMC', 'tech-c'),
+ ('ctnbio.gov.br', 'ADNMC', 'billing-c'),
+ ('inmetrogo.gov.br', 'WSD11', 'owner-c'),
+ ('inmetrogo.gov.br', 'WSD11', 'admin-c'),
+ ('inmetrogo.gov.br', 'RMT47', 'tech-c'),
+ ('inmetrogo.gov.br', 'WSD11', 'billing-c'),
+ ('pgr.gov.br', 'GFA2', 'owner-c'),
+ ('pgr.gov.br', 'GFA2', 'admin-c'),
+ ('pgr.gov.br', 'MACSO55', 'tech-c'),
+ ('pgr.gov.br', 'GFA2', 'billing-c'),
+ ('comex.gov.br', 'CTDPR5', 'owner-c'),
+ ('comex.gov.br', 'CTDPR5', 'admin-c'),
+ ('comex.gov.br', 'CTDPR5', 'tech-c'),
+ ('comex.gov.br', 'CTDPR5', 'billing-c'),
+ ('etfto.gov.br', 'ROP415', 'owner-c'),
+ ('etfto.gov.br', 'ROP415', 'admin-c'),
+ ('etfto.gov.br', 'ROP415', 'tech-c'),
+ ('etfto.gov.br', 'ETP27', 'billing-c'),
+ ('clicksaudavel.gov.br', 'SCO6', 'owner-c'),
+ ('clicksaudavel.gov.br', 'SCO6', 'admin-c'),
+ ('clicksaudavel.gov.br', 'SCO6', 'tech-c'),
+ ('clicksaudavel.gov.br', 'SCO6', 'billing-c'),
+ ('planalto.gov.br', 'MAR79', 'owner-c'),
+ ('planalto.gov.br', 'MAR79', 'admin-c'),
+ ('planalto.gov.br', 'MAR79', 'tech-c'),
+ ('planalto.gov.br', 'MAR79', 'billing-c'),
+ ('cp2.gov.br', 'MAAVA111', 'owner-c'),
+ ('cp2.gov.br', 'MAAVA111', 'admin-c'),
+ ('cp2.gov.br', 'MAAVA111', 'tech-c'),
+ ('cp2.gov.br', 'MAAVA111', 'billing-c'),
+ ('federalcap.gov.br', 'RMJ35', 'owner-c'),
+ ('federalcap.gov.br', 'RMJ35', 'admin-c'),
+ ('federalcap.gov.br', 'GIT60', 'tech-c'),
+ ('federalcap.gov.br', 'GIC166', 'billing-c'),
+ ('eafvsa.gov.br', 'JASCO48', 'owner-c'),
+ ('eafvsa.gov.br', 'JASCO48', 'admin-c'),
+ ('eafvsa.gov.br', 'JASCO48', 'tech-c'),
+ ('eafvsa.gov.br', 'JASCO48', 'billing-c'),
+ ('venturecapital.gov.br', 'CAZ89', 'owner-c'),
+ ('venturecapital.gov.br', 'CAZ89', 'admin-c'),
+ ('venturecapital.gov.br', 'CAZ89', 'tech-c'),
+ ('venturecapital.gov.br', 'CAZ89', 'billing-c'),
+ ('portaldatransparencia.gov.br', 'AMDSC29', 'owner-c'),
+ ('portaldatransparencia.gov.br', 'AMDSC29', 'admin-c'),
+ ('portaldatransparencia.gov.br', 'VDMLI12', 'tech-c'),
+ ('portaldatransparencia.gov.br', 'GUMSO21', 'billing-c'),
+ ('sipia.gov.br', 'MAAJU182', 'owner-c'),
+ ('sipia.gov.br', 'WEL52', 'admin-c'),
+ ('sipia.gov.br', 'FLMSA16', 'tech-c'),
+ ('sipia.gov.br', 'WEL52', 'billing-c'),
+ ('cdb.gov.br', 'SAT7', 'owner-c'),
+ ('cdb.gov.br', 'SAT7', 'admin-c'),
+ ('cdb.gov.br', 'SAT7', 'tech-c'),
+ ('cdb.gov.br', 'SAT7', 'billing-c'),
+ ('creci-sc.gov.br', 'AGS33', 'owner-c'),
+ ('creci-sc.gov.br', 'AGS33', 'admin-c'),
+ ('creci-sc.gov.br', 'AGS33', 'tech-c'),
+ ('creci-sc.gov.br', 'AGS33', 'billing-c'),
+ ('amazoniafundo.gov.br', 'GGT13', 'owner-c'),
+ ('amazoniafundo.gov.br', 'GGT13', 'admin-c'),
+ ('amazoniafundo.gov.br', 'GGT13', 'tech-c'),
+ ('amazoniafundo.gov.br', 'GGT13', 'billing-c'),
+ ('epost.gov.br', 'MAR1601', 'owner-c'),
+ ('epost.gov.br', 'MAR1601', 'admin-c'),
+ ('epost.gov.br', 'EEA', 'tech-c'),
+ ('epost.gov.br', 'MAR1601', 'billing-c'),
+ ('desenvolvimentoagrario.gov.br', 'ECLNA', 'owner-c'),
+ ('desenvolvimentoagrario.gov.br', 'ECLNA', 'admin-c'),
+ ('desenvolvimentoagrario.gov.br', 'ECLNA', 'tech-c'),
+ ('desenvolvimentoagrario.gov.br', 'ECLNA', 'billing-c'),
+ ('sivnet.gov.br', 'SUTIN', 'owner-c'),
+ ('sivnet.gov.br', 'SUTIN', 'admin-c'),
+ ('sivnet.gov.br', 'SUTIN', 'tech-c'),
+ ('sivnet.gov.br', 'GESUP4', 'billing-c'),
+ ('niteroi-artes.gov.br', 'ALTME7', 'owner-c'),
+ ('niteroi-artes.gov.br', 'ALTME7', 'admin-c'),
+ ('niteroi-artes.gov.br', 'ALTME7', 'tech-c'),
+ ('niteroi-artes.gov.br', 'ALTME7', 'billing-c'),
+ ('eafsi.gov.br', 'NSS21', 'owner-c'),
+ ('eafsi.gov.br', 'NSS21', 'admin-c'),
+ ('eafsi.gov.br', 'NSS21', 'tech-c'),
+ ('eafsi.gov.br', 'NSS21', 'billing-c'),
+ ('trt-pe.gov.br', 'JAS64', 'owner-c'),
+ ('trt-pe.gov.br', 'JAS64', 'admin-c'),
+ ('trt-pe.gov.br', 'JAS64', 'tech-c'),
+ ('trt-pe.gov.br', 'JAS64', 'billing-c'),
+ ('servir.gov.br', 'CGSTM2', 'owner-c'),
+ ('servir.gov.br', 'CGSTM2', 'admin-c'),
+ ('servir.gov.br', 'CGSTM2', 'tech-c'),
+ ('servir.gov.br', 'CGSTM2', 'billing-c'),
+ ('observatoriodaindustria.gov.br', 'MDC167', 'owner-c'),
+ ('observatoriodaindustria.gov.br', 'MDC167', 'admin-c'),
+ ('observatoriodaindustria.gov.br', 'MDC167', 'tech-c'),
+ ('observatoriodaindustria.gov.br', 'MDC167', 'billing-c'),
+ ('computadoresparainclusao.gov.br', 'CGSTM2', 'owner-c'),
+ ('computadoresparainclusao.gov.br', 'CGSTM2', 'admin-c'),
+ ('computadoresparainclusao.gov.br', 'CGSTM2', 'tech-c'),
+ ('computadoresparainclusao.gov.br', 'CGSTM2', 'billing-c'),
+ ('jfes.gov.br', 'FAVCO2', 'owner-c'),
+ ('jfes.gov.br', 'FAVCO2', 'admin-c'),
+ ('jfes.gov.br', 'ROQBA5', 'tech-c'),
+ ('jfes.gov.br', 'FAVCO2', 'billing-c'),
+ ('codomar.gov.br', 'RZJ', 'owner-c'),
+ ('codomar.gov.br', 'RZJ', 'admin-c'),
+ ('codomar.gov.br', 'ROEVI6', 'tech-c'),
+ ('codomar.gov.br', 'ROEVI6', 'billing-c'),
+ ('telepar.gov.br', 'COAOI', 'owner-c'),
+ ('telepar.gov.br', 'COAOI', 'admin-c'),
+ ('telepar.gov.br', 'COAOI', 'tech-c'),
+ ('telepar.gov.br', 'COAOI', 'billing-c'),
+ ('agronet-pe.gov.br', 'JATNA7', 'owner-c'),
+ ('agronet-pe.gov.br', 'JAS506', 'admin-c'),
+ ('agronet-pe.gov.br', 'JATNA7', 'tech-c'),
+ ('agronet-pe.gov.br', 'JATNA7', 'billing-c'),
+ ('nex.gov.br', 'ABC106', 'owner-c'),
+ ('nex.gov.br', 'ABC106', 'admin-c'),
+ ('nex.gov.br', 'EMS72', 'tech-c'),
+ ('nex.gov.br', 'ABC106', 'billing-c'),
+ ('apec.gov.br', 'MVO3', 'owner-c'),
+ ('apec.gov.br', 'MVO3', 'admin-c'),
+ ('apec.gov.br', 'MVO3', 'tech-c'),
+ ('apec.gov.br', 'MVO3', 'billing-c'),
+ ('creci-pb.gov.br', 'ENL57', 'owner-c'),
+ ('creci-pb.gov.br', 'ENL57', 'admin-c'),
+ ('creci-pb.gov.br', 'ENL57', 'tech-c'),
+ ('creci-pb.gov.br', 'ENL57', 'billing-c'),
+ ('agenciabrasil.gov.br', 'RSM9', 'owner-c'),
+ ('agenciabrasil.gov.br', 'RSM9', 'admin-c'),
+ ('agenciabrasil.gov.br', 'RSM9', 'tech-c'),
+ ('agenciabrasil.gov.br', 'RSM9', 'billing-c'),
+ ('programaarpa.gov.br', 'MMR', 'owner-c'),
+ ('programaarpa.gov.br', 'MMR', 'admin-c'),
+ ('programaarpa.gov.br', 'MMR', 'tech-c'),
+ ('programaarpa.gov.br', 'MMR', 'billing-c'),
+ ('territoriosrurais.gov.br', 'ECLNA', 'owner-c'),
+ ('territoriosrurais.gov.br', 'ECLNA', 'admin-c'),
+ ('territoriosrurais.gov.br', 'ECLNA', 'tech-c'),
+ ('territoriosrurais.gov.br', 'ECLNA', 'billing-c'),
+ ('mulhergoverno.gov.br', 'CGSTM2', 'owner-c'),
+ ('mulhergoverno.gov.br', 'CGSTM2', 'admin-c'),
+ ('mulhergoverno.gov.br', 'CGSTM2', 'tech-c'),
+ ('mulhergoverno.gov.br', 'CGSTM2', 'billing-c'),
+ ('trt24.gov.br', 'GAS5', 'owner-c'),
+ ('trt24.gov.br', 'GAS5', 'admin-c'),
+ ('trt24.gov.br', 'AMS339', 'tech-c'),
+ ('trt24.gov.br', 'MAMSA38', 'billing-c'),
+ ('vivaleitura.gov.br', 'MICUL2', 'owner-c'),
+ ('vivaleitura.gov.br', 'MICUL2', 'admin-c'),
+ ('vivaleitura.gov.br', 'MICUL2', 'tech-c'),
+ ('vivaleitura.gov.br', 'MICUL2', 'billing-c'),
+ ('epamigcaldas.gov.br', 'MBC34', 'owner-c'),
+ ('epamigcaldas.gov.br', 'MBC34', 'admin-c'),
+ ('epamigcaldas.gov.br', 'INCEN7', 'tech-c'),
+ ('epamigcaldas.gov.br', 'MBC34', 'billing-c'),
+ ('investidor.gov.br', 'CVGTE', 'owner-c'),
+ ('investidor.gov.br', 'CVGTE', 'admin-c'),
+ ('investidor.gov.br', 'CVGTE', 'tech-c'),
+ ('investidor.gov.br', 'CVGTE', 'billing-c'),
+ ('lexml.gov.br', 'SEIRE4', 'owner-c'),
+ ('lexml.gov.br', 'SEIRE4', 'admin-c'),
+ ('lexml.gov.br', 'SIT80', 'tech-c'),
+ ('lexml.gov.br', 'SEIRE4', 'billing-c'),
+ ('creci-ce.gov.br', 'CFI6', 'owner-c'),
+ ('creci-ce.gov.br', 'CFI6', 'admin-c'),
+ ('creci-ce.gov.br', 'CRCEA4', 'tech-c'),
+ ('creci-ce.gov.br', 'CRCEA4', 'billing-c'),
+ ('maismedicos.gov.br', 'DOEBS', 'owner-c'),
+ ('maismedicos.gov.br', 'DOEBS', 'admin-c'),
+ ('maismedicos.gov.br', 'DOEBS', 'tech-c'),
+ ('maismedicos.gov.br', 'DOEBS', 'billing-c'),
+ ('crbiopr.gov.br', 'RODGE', 'owner-c'),
+ ('crbiopr.gov.br', 'RODGE', 'admin-c'),
+ ('crbiopr.gov.br', 'RODGE', 'tech-c'),
+ ('crbiopr.gov.br', 'RODGE', 'billing-c'),
+ ('coren-mg.gov.br', 'UTCOR', 'owner-c'),
+ ('coren-mg.gov.br', 'ROCOL105', 'admin-c'),
+ ('coren-mg.gov.br', 'ROCOL105', 'tech-c'),
+ ('coren-mg.gov.br', 'ROCOL105', 'billing-c'),
+ ('eafuberaba.gov.br', 'JRS213', 'owner-c'),
+ ('eafuberaba.gov.br', 'JRS213', 'admin-c'),
+ ('eafuberaba.gov.br', 'MBF80', 'tech-c'),
+ ('eafuberaba.gov.br', 'JRS213', 'billing-c'),
+ ('lapa-pe.gov.br', 'DFA22', 'owner-c'),
+ ('lapa-pe.gov.br', 'DFA22', 'admin-c'),
+ ('lapa-pe.gov.br', 'EDS231', 'tech-c'),
+ ('lapa-pe.gov.br', 'DFA22', 'billing-c'),
+ ('arquitetura.gov.br', 'MICLO17', 'owner-c'),
+ ('arquitetura.gov.br', 'MICLO17', 'admin-c'),
+ ('arquitetura.gov.br', 'SCITI', 'tech-c'),
+ ('arquitetura.gov.br', 'SCFIN', 'billing-c'),
+ ('invexbrasil.gov.br', 'CTDPR5', 'owner-c'),
+ ('invexbrasil.gov.br', 'CTDPR5', 'admin-c'),
+ ('invexbrasil.gov.br', 'CTDPR5', 'tech-c'),
+ ('invexbrasil.gov.br', 'CTDPR5', 'billing-c'),
+ ('renaqua.gov.br', 'RESCA114', 'owner-c'),
+ ('renaqua.gov.br', 'RESCA114', 'admin-c'),
+ ('renaqua.gov.br', 'FELPE18', 'tech-c'),
+ ('renaqua.gov.br', 'RESCA114', 'billing-c'),
+ ('cinemateca.gov.br', 'CIBRA24', 'owner-c'),
+ ('cinemateca.gov.br', 'CIBRA24', 'admin-c'),
+ ('cinemateca.gov.br', 'CIBRA24', 'tech-c'),
+ ('cinemateca.gov.br', 'CIBRA24', 'billing-c'),
+ ('crea-ro.gov.br', 'CRR81', 'owner-c'),
+ ('crea-ro.gov.br', 'CRR81', 'admin-c'),
+ ('crea-ro.gov.br', 'CRR81', 'tech-c'),
+ ('crea-ro.gov.br', 'CRR81', 'billing-c'),
+ ('vitrinedoexportador.gov.br', 'MDC167', 'owner-c'),
+ ('vitrinedoexportador.gov.br', 'MDC167', 'admin-c'),
+ ('vitrinedoexportador.gov.br', 'MDC167', 'tech-c'),
+ ('vitrinedoexportador.gov.br', 'MDC167', 'billing-c'),
+ ('to.gov.br', 'DIISE', 'owner-c'),
+ ('to.gov.br', 'DIISE', 'admin-c'),
+ ('to.gov.br', 'DIISE', 'tech-c'),
+ ('to.gov.br', 'DIISE', 'billing-c'),
+ ('brazilianexporters.gov.br', 'MDC167', 'owner-c'),
+ ('brazilianexporters.gov.br', 'MDC167', 'admin-c'),
+ ('brazilianexporters.gov.br', 'MDC167', 'tech-c'),
+ ('brazilianexporters.gov.br', 'MDC167', 'billing-c'),
+ ('mestradoprofissional.gov.br', 'MHS92', 'owner-c'),
+ ('mestradoprofissional.gov.br', 'MHS92', 'admin-c'),
+ ('mestradoprofissional.gov.br', 'MHS92', 'tech-c'),
+ ('mestradoprofissional.gov.br', 'MHS92', 'billing-c'),
+ ('cortesmercosul.gov.br', 'EDR194', 'owner-c'),
+ ('cortesmercosul.gov.br', 'SETIN14', 'admin-c'),
+ ('cortesmercosul.gov.br', 'SGSRE3', 'tech-c'),
+ ('cortesmercosul.gov.br', 'GASTI6', 'billing-c'),
+ ('protocolointegrado.gov.br', 'CGSTM2', 'owner-c'),
+ ('protocolointegrado.gov.br', 'CGSTM2', 'admin-c'),
+ ('protocolointegrado.gov.br', 'CGSTM2', 'tech-c'),
+ ('protocolointegrado.gov.br', 'CGSTM2', 'billing-c'),
+ ('egressos-esaf.gov.br', 'JRS323', 'owner-c'),
+ ('egressos-esaf.gov.br', 'JRS323', 'admin-c'),
+ ('egressos-esaf.gov.br', 'YRD7', 'tech-c'),
+ ('egressos-esaf.gov.br', 'YRD7', 'billing-c'),
+ ('caixaforte.gov.br', 'RMJ35', 'owner-c'),
+ ('caixaforte.gov.br', 'RMJ35', 'admin-c'),
+ ('caixaforte.gov.br', 'GIT60', 'tech-c'),
+ ('caixaforte.gov.br', 'GIC166', 'billing-c'),
+ ('juventude.gov.br', 'MAR79', 'owner-c'),
+ ('juventude.gov.br', 'MAR79', 'admin-c'),
+ ('juventude.gov.br', 'MAR79', 'tech-c'),
+ ('juventude.gov.br', 'MAR79', 'billing-c'),
+ ('maisambiente.gov.br', 'JXM', 'owner-c'),
+ ('maisambiente.gov.br', 'JXM', 'admin-c'),
+ ('maisambiente.gov.br', 'AJA4', 'tech-c'),
+ ('maisambiente.gov.br', 'NEGRE8', 'billing-c'),
+ ('brasilre.gov.br', 'GURJR', 'owner-c'),
+ ('brasilre.gov.br', 'AKG6', 'admin-c'),
+ ('brasilre.gov.br', 'AKG6', 'tech-c'),
+ ('brasilre.gov.br', 'AKG6', 'billing-c'),
+ ('rni.gov.br', 'SVF12', 'owner-c'),
+ ('rni.gov.br', 'SVF12', 'admin-c'),
+ ('rni.gov.br', 'EMN66', 'tech-c'),
+ ('rni.gov.br', 'SVF12', 'billing-c'),
+ ('trt14.gov.br', 'TRT4', 'owner-c'),
+ ('trt14.gov.br', 'TRT4', 'admin-c'),
+ ('trt14.gov.br', 'TRT4', 'tech-c'),
+ ('trt14.gov.br', 'TRT4', 'billing-c'),
+ ('siscomex.gov.br', 'ADSFE47', 'owner-c'),
+ ('siscomex.gov.br', 'ADSFE47', 'admin-c'),
+ ('siscomex.gov.br', 'MRV103', 'tech-c'),
+ ('siscomex.gov.br', 'WEQLI', 'billing-c'),
+ ('corenma.gov.br', 'GAM204', 'owner-c'),
+ ('corenma.gov.br', 'GAM204', 'admin-c'),
+ ('corenma.gov.br', 'GAM204', 'tech-c'),
+ ('corenma.gov.br', 'GAM204', 'billing-c'),
+ ('dpr.gov.br', 'CTDPR5', 'owner-c'),
+ ('dpr.gov.br', 'CTDPR5', 'admin-c'),
+ ('dpr.gov.br', 'CTDPR5', 'tech-c'),
+ ('dpr.gov.br', 'CTDPR5', 'billing-c'),
+ ('trevodaloteria.gov.br', 'RMJ35', 'owner-c'),
+ ('trevodaloteria.gov.br', 'RMJ35', 'admin-c'),
+ ('trevodaloteria.gov.br', 'GIT60', 'tech-c'),
+ ('trevodaloteria.gov.br', 'GIC166', 'billing-c'),
+ ('cra-amrr.gov.br', 'ICM47', 'owner-c'),
+ ('cra-amrr.gov.br', 'CRA181', 'admin-c'),
+ ('cra-amrr.gov.br', 'CRA181', 'tech-c'),
+ ('cra-amrr.gov.br', 'CRA181', 'billing-c'),
+ ('dfasp.gov.br', 'NFN2', 'owner-c'),
+ ('dfasp.gov.br', 'NFN2', 'admin-c'),
+ ('dfasp.gov.br', 'NFN2', 'tech-c'),
+ ('dfasp.gov.br', 'MIA61', 'billing-c'),
+ ('purn.gov.br', 'LEA2', 'owner-c'),
+ ('purn.gov.br', 'LEA2', 'admin-c'),
+ ('purn.gov.br', 'LEA2', 'tech-c'),
+ ('purn.gov.br', 'DDF42', 'billing-c'),
+ ('cefetbg.gov.br', 'ADRIF4', 'owner-c'),
+ ('cefetbg.gov.br', 'ADRIF4', 'admin-c'),
+ ('cefetbg.gov.br', 'ADRIF4', 'tech-c'),
+ ('cefetbg.gov.br', 'ADRIF4', 'billing-c'),
+ ('sinesp.gov.br', 'MIJUS7', 'owner-c'),
+ ('sinesp.gov.br', 'ALCBA81', 'admin-c'),
+ ('sinesp.gov.br', 'MRV103', 'tech-c'),
+ ('sinesp.gov.br', 'ALCBA81', 'billing-c'),
+ ('dpu.gov.br', 'ERF65', 'owner-c'),
+ ('dpu.gov.br', 'ERF65', 'admin-c'),
+ ('dpu.gov.br', 'ERF65', 'tech-c'),
+ ('dpu.gov.br', 'ERF65', 'billing-c'),
+ ('ipsm.gov.br', 'CGP3', 'owner-c'),
+ ('ipsm.gov.br', 'CGP3', 'admin-c'),
+ ('ipsm.gov.br', 'DNA4', 'tech-c'),
+ ('ipsm.gov.br', 'SEB10', 'billing-c'),
+ ('investecaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('investecaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('investecaixa.gov.br', 'GIT60', 'tech-c'),
+ ('investecaixa.gov.br', 'GIC166', 'billing-c'),
+ ('pdp.gov.br', 'MDC167', 'owner-c'),
+ ('pdp.gov.br', 'MDC167', 'admin-c'),
+ ('pdp.gov.br', 'MDC167', 'tech-c'),
+ ('pdp.gov.br', 'MDC167', 'billing-c'),
+ ('saudesuplementar.gov.br', 'JWD3', 'owner-c'),
+ ('saudesuplementar.gov.br', 'JWD3', 'admin-c'),
+ ('saudesuplementar.gov.br', 'JWD3', 'tech-c'),
+ ('saudesuplementar.gov.br', 'JWD3', 'billing-c'),
+ ('pormin.gov.br', 'FAFBO2', 'owner-c'),
+ ('pormin.gov.br', 'FAFBO2', 'admin-c'),
+ ('pormin.gov.br', 'MLGSI24', 'tech-c'),
+ ('pormin.gov.br', 'FAFBO2', 'billing-c'),
+ ('cprmpa.gov.br', 'GAP12', 'owner-c'),
+ ('cprmpa.gov.br', 'GAP12', 'admin-c'),
+ ('cprmpa.gov.br', 'ALH3', 'tech-c'),
+ ('cprmpa.gov.br', 'GAP12', 'billing-c'),
+ ('ouvidoria.gov.br', 'AMDSC29', 'owner-c'),
+ ('ouvidoria.gov.br', 'AMDSC29', 'admin-c'),
+ ('ouvidoria.gov.br', 'VDMLI12', 'tech-c'),
+ ('ouvidoria.gov.br', 'GUMSO21', 'billing-c'),
+ ('eletrosul.gov.br', 'LGC230', 'owner-c'),
+ ('eletrosul.gov.br', 'LGC230', 'admin-c'),
+ ('eletrosul.gov.br', 'LGC230', 'tech-c'),
+ ('eletrosul.gov.br', 'LGC230', 'billing-c'),
+ ('cremesp.gov.br', 'CRS44', 'owner-c'),
+ ('cremesp.gov.br', 'CRS44', 'admin-c'),
+ ('cremesp.gov.br', 'CRS44', 'tech-c'),
+ ('cremesp.gov.br', 'CRS44', 'billing-c'),
+ ('cprm.gov.br', 'RFCSI22', 'owner-c'),
+ ('cprm.gov.br', 'CPRMI', 'admin-c'),
+ ('cprm.gov.br', 'RFCSI22', 'tech-c'),
+ ('cprm.gov.br', 'CPRMI', 'billing-c'),
+ ('corensp.gov.br', 'BRMCE7', 'owner-c'),
+ ('corensp.gov.br', 'BRMCE7', 'admin-c'),
+ ('corensp.gov.br', 'RJS174', 'tech-c'),
+ ('corensp.gov.br', 'BRMCE7', 'billing-c'),
+ ('crasp.gov.br', 'CRASP', 'owner-c'),
+ ('crasp.gov.br', 'CRASP', 'admin-c'),
+ ('crasp.gov.br', 'CRASP', 'tech-c'),
+ ('crasp.gov.br', 'CRASP', 'billing-c'),
+ ('redepcs.gov.br', 'MMR', 'owner-c'),
+ ('redepcs.gov.br', 'MMR', 'admin-c'),
+ ('redepcs.gov.br', 'MMR', 'tech-c'),
+ ('redepcs.gov.br', 'MMR', 'billing-c'),
+ ('coren-pe.gov.br', 'CRP294', 'owner-c'),
+ ('coren-pe.gov.br', 'CRP294', 'admin-c'),
+ ('coren-pe.gov.br', 'CRP294', 'tech-c'),
+ ('coren-pe.gov.br', 'CRP294', 'billing-c'),
+ ('fundacentrorj.gov.br', 'MAH384', 'owner-c'),
+ ('fundacentrorj.gov.br', 'MAH384', 'admin-c'),
+ ('fundacentrorj.gov.br', 'MAH384', 'tech-c'),
+ ('fundacentrorj.gov.br', 'MAH384', 'billing-c'),
+ ('officebankingsocial.gov.br', 'RMJ35', 'owner-c'),
+ ('officebankingsocial.gov.br', 'RMJ35', 'admin-c'),
+ ('officebankingsocial.gov.br', 'GIT60', 'tech-c'),
+ ('officebankingsocial.gov.br', 'GIC166', 'billing-c'),
+ ('e-sic.gov.br', 'AMDSC29', 'owner-c'),
+ ('e-sic.gov.br', 'AMDSC29', 'admin-c'),
+ ('e-sic.gov.br', 'VDMLI12', 'tech-c'),
+ ('e-sic.gov.br', 'GUMSO21', 'billing-c'),
+ ('dnc.gov.br', 'RALFA27', 'owner-c'),
+ ('dnc.gov.br', 'RALFA27', 'admin-c'),
+ ('dnc.gov.br', 'RALFA27', 'tech-c'),
+ ('dnc.gov.br', 'RALFA27', 'billing-c'),
+ ('dtceasp.gov.br', 'SRS330', 'owner-c'),
+ ('dtceasp.gov.br', 'SRS330', 'admin-c'),
+ ('dtceasp.gov.br', 'SRS330', 'tech-c'),
+ ('dtceasp.gov.br', 'SRS330', 'billing-c'),
+ ('ensaiosclinicos.gov.br', 'ARC452', 'owner-c'),
+ ('ensaiosclinicos.gov.br', 'ARC452', 'admin-c'),
+ ('ensaiosclinicos.gov.br', 'MAVTO30', 'tech-c'),
+ ('ensaiosclinicos.gov.br', 'ARC452', 'billing-c'),
+ ('infrastructurebrazil.gov.br', 'CGSTM2', 'owner-c'),
+ ('infrastructurebrazil.gov.br', 'CGSTM2', 'admin-c'),
+ ('infrastructurebrazil.gov.br', 'CGSTM2', 'tech-c'),
+ ('infrastructurebrazil.gov.br', 'CGSTM2', 'billing-c'),
+ ('colabora.gov.br', 'CGSTM2', 'owner-c'),
+ ('colabora.gov.br', 'CGSTM2', 'admin-c'),
+ ('colabora.gov.br', 'CGSTM2', 'tech-c'),
+ ('colabora.gov.br', 'CGSTM2', 'billing-c'),
+ ('secretaria-geral.gov.br', 'MAR79', 'owner-c'),
+ ('secretaria-geral.gov.br', 'MAR79', 'admin-c'),
+ ('secretaria-geral.gov.br', 'MAR79', 'tech-c'),
+ ('secretaria-geral.gov.br', 'MAR79', 'billing-c'),
+ ('eafsertao.gov.br', 'PNS41', 'owner-c'),
+ ('eafsertao.gov.br', 'PNS41', 'admin-c'),
+ ('eafsertao.gov.br', 'PNS41', 'tech-c'),
+ ('eafsertao.gov.br', 'PNS41', 'billing-c'),
+ ('empresasimples.gov.br', 'ADSFE47', 'owner-c'),
+ ('empresasimples.gov.br', 'ADSFE47', 'admin-c'),
+ ('empresasimples.gov.br', 'MRV103', 'tech-c'),
+ ('empresasimples.gov.br', 'ADSFE47', 'billing-c'),
+ ('amazul.gov.br', 'CHMME21', 'owner-c'),
+ ('amazul.gov.br', 'CHMME21', 'admin-c'),
+ ('amazul.gov.br', 'CHMME21', 'tech-c'),
+ ('amazul.gov.br', 'CHMME21', 'billing-c'),
+ ('epl.gov.br', 'EMPLO7', 'owner-c'),
+ ('epl.gov.br', 'EMPLO7', 'admin-c'),
+ ('epl.gov.br', 'MAFEL176', 'tech-c'),
+ ('epl.gov.br', 'EMPLO7', 'billing-c'),
+ ('fiscalizacaorio2016.gov.br', 'ARRAL9', 'owner-c'),
+ ('fiscalizacaorio2016.gov.br', 'ARRAL9', 'admin-c'),
+ ('fiscalizacaorio2016.gov.br', 'RETMI', 'tech-c'),
+ ('fiscalizacaorio2016.gov.br', 'ARRAL9', 'billing-c'),
+ ('rais.gov.br', 'ADSFE47', 'owner-c'),
+ ('rais.gov.br', 'ADSFE47', 'admin-c'),
+ ('rais.gov.br', 'MRV103', 'tech-c'),
+ ('rais.gov.br', 'WEQLI', 'billing-c'),
+ ('certics.gov.br', 'ANM153', 'owner-c'),
+ ('certics.gov.br', 'PACBE47', 'admin-c'),
+ ('certics.gov.br', 'PACBE47', 'tech-c'),
+ ('certics.gov.br', 'PACBE47', 'billing-c'),
+ ('dnpm.gov.br', 'FAFBO2', 'owner-c'),
+ ('dnpm.gov.br', 'FAFBO2', 'admin-c'),
+ ('dnpm.gov.br', 'MLGSI24', 'tech-c'),
+ ('dnpm.gov.br', 'FAFBO2', 'billing-c'),
+ ('caixadasorte.gov.br', 'RMJ35', 'owner-c'),
+ ('caixadasorte.gov.br', 'RMJ35', 'admin-c'),
+ ('caixadasorte.gov.br', 'GIT60', 'tech-c'),
+ ('caixadasorte.gov.br', 'GIC166', 'billing-c'),
+ ('museuvictormeirelles.gov.br', 'INBMU', 'owner-c'),
+ ('museuvictormeirelles.gov.br', 'INBMU', 'admin-c'),
+ ('museuvictormeirelles.gov.br', 'INBMU', 'tech-c'),
+ ('museuvictormeirelles.gov.br', 'INBMU', 'billing-c'),
+ ('desenvolvimento.gov.br', 'MDC167', 'owner-c'),
+ ('desenvolvimento.gov.br', 'MDC167', 'admin-c'),
+ ('desenvolvimento.gov.br', 'MDC167', 'tech-c'),
+ ('desenvolvimento.gov.br', 'MDC167', 'billing-c'),
+ ('go.gov.br', 'AGP35', 'owner-c'),
+ ('go.gov.br', 'AGP35', 'admin-c'),
+ ('go.gov.br', 'AGP35', 'tech-c'),
+ ('go.gov.br', 'AGP35', 'billing-c'),
+ ('mpt.gov.br', 'STPGT', 'owner-c'),
+ ('mpt.gov.br', 'STPGT', 'admin-c'),
+ ('mpt.gov.br', 'STPGT', 'tech-c'),
+ ('mpt.gov.br', 'STPGT', 'billing-c'),
+ ('belomonte.gov.br', 'GSC187', 'owner-c'),
+ ('belomonte.gov.br', 'GSC187', 'admin-c'),
+ ('belomonte.gov.br', 'GSC187', 'tech-c'),
+ ('belomonte.gov.br', 'GSC187', 'billing-c'),
+ ('cbtu-sturec.gov.br', 'FCV93', 'owner-c'),
+ ('cbtu-sturec.gov.br', 'FCV93', 'admin-c'),
+ ('cbtu-sturec.gov.br', 'FCV93', 'tech-c'),
+ ('cbtu-sturec.gov.br', 'CAR107', 'billing-c'),
+ ('eletronuclear.gov.br', 'EPB6', 'owner-c'),
+ ('eletronuclear.gov.br', 'EPB6', 'admin-c'),
+ ('eletronuclear.gov.br', 'EPB6', 'tech-c'),
+ ('eletronuclear.gov.br', 'CJR3', 'billing-c'),
+ ('avozdobrasil.gov.br', 'RSM9', 'owner-c'),
+ ('avozdobrasil.gov.br', 'RSM9', 'admin-c'),
+ ('avozdobrasil.gov.br', 'RSM9', 'tech-c'),
+ ('avozdobrasil.gov.br', 'RSM9', 'billing-c'),
+ ('int.gov.br', 'ETL205', 'owner-c'),
+ ('int.gov.br', 'ETL205', 'admin-c'),
+ ('int.gov.br', 'ETL205', 'tech-c'),
+ ('int.gov.br', 'ETL205', 'billing-c'),
+ ('cauce.gov.br', 'MICLO17', 'owner-c'),
+ ('cauce.gov.br', 'MICLO17', 'admin-c'),
+ ('cauce.gov.br', 'SCITI', 'tech-c'),
+ ('cauce.gov.br', 'SCFIN', 'billing-c'),
+ ('aleam.gov.br', 'CBB27', 'owner-c'),
+ ('aleam.gov.br', 'CBB27', 'admin-c'),
+ ('aleam.gov.br', 'CBB27', 'tech-c'),
+ ('aleam.gov.br', 'CBB27', 'billing-c'),
+ ('expresso.gov.br', 'ADSFE47', 'owner-c'),
+ ('expresso.gov.br', 'ADSFE47', 'admin-c'),
+ ('expresso.gov.br', 'MRV103', 'tech-c'),
+ ('expresso.gov.br', 'WEQLI', 'billing-c'),
+ ('dpf-ce.gov.br', 'SAP3', 'owner-c'),
+ ('dpf-ce.gov.br', 'SAP3', 'admin-c'),
+ ('dpf-ce.gov.br', 'SAP3', 'tech-c'),
+ ('dpf-ce.gov.br', 'SAP3', 'billing-c'),
+ ('obrasnet.gov.br', 'ADSFE47', 'owner-c'),
+ ('obrasnet.gov.br', 'ADSFE47', 'admin-c'),
+ ('obrasnet.gov.br', 'RMJ35', 'tech-c'),
+ ('obrasnet.gov.br', 'RMJ35', 'billing-c'),
+ ('bn.gov.br', 'GGCJU6', 'owner-c'),
+ ('bn.gov.br', 'GGCJU6', 'admin-c'),
+ ('bn.gov.br', 'LACAJ', 'tech-c'),
+ ('bn.gov.br', 'GGCJU6', 'billing-c'),
+ ('vlibras.gov.br', 'CGSTM2', 'owner-c'),
+ ('vlibras.gov.br', 'CGSTM2', 'admin-c'),
+ ('vlibras.gov.br', 'CGSTM2', 'tech-c'),
+ ('vlibras.gov.br', 'CGSTM2', 'billing-c'),
+ ('crbm2.gov.br', 'CRP114', 'owner-c'),
+ ('crbm2.gov.br', 'CRP114', 'admin-c'),
+ ('crbm2.gov.br', 'GFLFE2', 'tech-c'),
+ ('crbm2.gov.br', 'CRP114', 'billing-c'),
+ ('previc.gov.br', 'WEMCA39', 'owner-c'),
+ ('previc.gov.br', 'WEMCA39', 'admin-c'),
+ ('previc.gov.br', 'DDT10', 'tech-c'),
+ ('previc.gov.br', 'MAMAZ132', 'billing-c'),
+ ('politicasmulheres.gov.br', 'MAR79', 'owner-c'),
+ ('politicasmulheres.gov.br', 'MAR79', 'admin-c'),
+ ('politicasmulheres.gov.br', 'MRV103', 'tech-c'),
+ ('politicasmulheres.gov.br', 'MAR79', 'billing-c'),
+ ('portalambiental.gov.br', 'MMR', 'owner-c'),
+ ('portalambiental.gov.br', 'MMR', 'admin-c'),
+ ('portalambiental.gov.br', 'MMR', 'tech-c'),
+ ('portalambiental.gov.br', 'MMR', 'billing-c'),
+ ('crmvpaap.gov.br', 'ADLNE7', 'owner-c'),
+ ('crmvpaap.gov.br', 'ADLNE7', 'admin-c'),
+ ('crmvpaap.gov.br', 'ADLNE7', 'tech-c'),
+ ('crmvpaap.gov.br', 'ADLNE7', 'billing-c'),
+ ('aeroportoindustrial.gov.br', 'SUTIN', 'owner-c'),
+ ('aeroportoindustrial.gov.br', 'SUTIN', 'admin-c'),
+ ('aeroportoindustrial.gov.br', 'SUTIN', 'tech-c'),
+ ('aeroportoindustrial.gov.br', 'GESUP4', 'billing-c'),
+ ('pndrss.gov.br', 'ECLNA', 'owner-c'),
+ ('pndrss.gov.br', 'ECLNA', 'admin-c'),
+ ('pndrss.gov.br', 'ECLNA', 'tech-c'),
+ ('pndrss.gov.br', 'ECLNA', 'billing-c'),
+ ('aviacaocivil.gov.br', 'ELLPA12', 'owner-c'),
+ ('aviacaocivil.gov.br', 'SEACI', 'admin-c'),
+ ('aviacaocivil.gov.br', 'SEACI', 'tech-c'),
+ ('aviacaocivil.gov.br', 'SEACI', 'billing-c'),
+ ('dadosabertos.gov.br', 'CGSTM2', 'owner-c'),
+ ('dadosabertos.gov.br', 'CGSTM2', 'admin-c'),
+ ('dadosabertos.gov.br', 'CGSTM2', 'tech-c'),
+ ('dadosabertos.gov.br', 'CGSTM2', 'billing-c'),
+ ('aeb.gov.br', 'VIL10', 'owner-c'),
+ ('aeb.gov.br', 'VIL10', 'admin-c'),
+ ('aeb.gov.br', 'VIL10', 'tech-c'),
+ ('aeb.gov.br', 'GMB5', 'billing-c'),
+ ('embratur.gov.br', 'SUAAL3', 'owner-c'),
+ ('embratur.gov.br', 'LUCBA85', 'admin-c'),
+ ('embratur.gov.br', 'LUCBA85', 'tech-c'),
+ ('embratur.gov.br', 'LUCBA85', 'billing-c'),
+ ('pnll.gov.br', 'MICUL2', 'owner-c'),
+ ('pnll.gov.br', 'MICUL2', 'admin-c'),
+ ('pnll.gov.br', 'MICUL2', 'tech-c'),
+ ('pnll.gov.br', 'MICUL2', 'billing-c'),
+ ('redefloresta.gov.br', 'GSC187', 'owner-c'),
+ ('redefloresta.gov.br', 'CEB23', 'admin-c'),
+ ('redefloresta.gov.br', 'GSC187', 'tech-c'),
+ ('redefloresta.gov.br', 'CEB23', 'billing-c'),
+ ('siorg.gov.br', 'CGSTM2', 'owner-c'),
+ ('siorg.gov.br', 'CGSTM2', 'admin-c'),
+ ('siorg.gov.br', 'CGSTM2', 'tech-c'),
+ ('siorg.gov.br', 'CGSTM2', 'billing-c'),
+ ('smpe.gov.br', 'ADSFE47', 'owner-c'),
+ ('smpe.gov.br', 'ADSFE47', 'admin-c'),
+ ('smpe.gov.br', 'MRV103', 'tech-c'),
+ ('smpe.gov.br', 'ADSFE47', 'billing-c'),
+ ('jfse.gov.br', 'HCMJR', 'owner-c'),
+ ('jfse.gov.br', 'MMLBA', 'admin-c'),
+ ('jfse.gov.br', 'MMLBA', 'tech-c'),
+ ('jfse.gov.br', 'MMLBA', 'billing-c'),
+ ('qualidadedealimentos.gov.br', 'MIJUS7', 'owner-c'),
+ ('qualidadedealimentos.gov.br', 'ALCBA81', 'admin-c'),
+ ('qualidadedealimentos.gov.br', 'ARAJU47', 'tech-c'),
+ ('qualidadedealimentos.gov.br', 'ALCBA81', 'billing-c'),
+ ('cenp.gov.br', 'CAKAH', 'owner-c'),
+ ('cenp.gov.br', 'CAKAH', 'admin-c'),
+ ('cenp.gov.br', 'CAKAH', 'tech-c'),
+ ('cenp.gov.br', 'CAKAH', 'billing-c'),
+ ('crediamigo.gov.br', 'CMRSO14', 'owner-c'),
+ ('crediamigo.gov.br', 'CLL14', 'admin-c'),
+ ('crediamigo.gov.br', 'FFN', 'tech-c'),
+ ('crediamigo.gov.br', 'CLL14', 'billing-c'),
+ ('lotofacil.gov.br', 'RMJ35', 'owner-c'),
+ ('lotofacil.gov.br', 'RMJ35', 'admin-c'),
+ ('lotofacil.gov.br', 'GIT60', 'tech-c'),
+ ('lotofacil.gov.br', 'GIC166', 'billing-c'),
+ ('crbio-3.gov.br', 'CLLUZ2', 'owner-c'),
+ ('crbio-3.gov.br', 'CLLUZ2', 'admin-c'),
+ ('crbio-3.gov.br', 'CLLUZ2', 'tech-c'),
+ ('crbio-3.gov.br', 'CLLUZ2', 'billing-c'),
+ ('jef-pr.gov.br', 'ALSIL482', 'owner-c'),
+ ('jef-pr.gov.br', 'ALSIL482', 'admin-c'),
+ ('jef-pr.gov.br', 'ALSIL482', 'tech-c'),
+ ('jef-pr.gov.br', 'ANZMA3', 'billing-c'),
+ ('crecies.gov.br', 'VIMTR2', 'owner-c'),
+ ('crecies.gov.br', 'VIMTR2', 'admin-c'),
+ ('crecies.gov.br', 'VIMTR2', 'tech-c'),
+ ('crecies.gov.br', 'VIMTR2', 'billing-c'),
+ ('eafst.gov.br', 'LESMO7', 'owner-c'),
+ ('eafst.gov.br', 'LESMO7', 'admin-c'),
+ ('eafst.gov.br', 'LESMO7', 'tech-c'),
+ ('eafst.gov.br', 'LESMO7', 'billing-c'),
+ ('trt11.gov.br', 'JRORE', 'owner-c'),
+ ('trt11.gov.br', 'AMO26', 'admin-c'),
+ ('trt11.gov.br', 'JRORE', 'tech-c'),
+ ('trt11.gov.br', 'AMO26', 'billing-c'),
+ ('crbio-7.gov.br', 'RODGE', 'owner-c'),
+ ('crbio-7.gov.br', 'RODGE', 'admin-c'),
+ ('crbio-7.gov.br', 'RODGE', 'tech-c'),
+ ('crbio-7.gov.br', 'RODGE', 'billing-c'),
+ ('participa.gov.br', 'MAR79', 'owner-c'),
+ ('participa.gov.br', 'MAR79', 'admin-c'),
+ ('participa.gov.br', 'MRV103', 'tech-c'),
+ ('participa.gov.br', 'MAR79', 'billing-c'),
+ ('turismobrasil.gov.br', 'SUAAL3', 'owner-c'),
+ ('turismobrasil.gov.br', 'SUAAL3', 'admin-c'),
+ ('turismobrasil.gov.br', 'SUAAL3', 'tech-c'),
+ ('turismobrasil.gov.br', 'SUAAL3', 'billing-c'),
+ ('cft.gov.br', 'CTBCO', 'owner-c'),
+ ('cft.gov.br', 'CTBCO', 'admin-c'),
+ ('cft.gov.br', 'ESSCO3', 'tech-c'),
+ ('cft.gov.br', 'CTBCO', 'billing-c'),
+ ('participe.gov.br', 'MAR79', 'owner-c'),
+ ('participe.gov.br', 'MAR79', 'admin-c'),
+ ('participe.gov.br', 'MRV103', 'tech-c'),
+ ('participe.gov.br', 'MAR79', 'billing-c'),
+ ('bancodaterra.gov.br', 'ECLNA', 'owner-c'),
+ ('bancodaterra.gov.br', 'ECLNA', 'admin-c'),
+ ('bancodaterra.gov.br', 'ECLNA', 'tech-c'),
+ ('bancodaterra.gov.br', 'ECLNA', 'billing-c'),
+ ('tre-ce.gov.br', 'CAM189', 'owner-c'),
+ ('tre-ce.gov.br', 'HPF17', 'admin-c'),
+ ('tre-ce.gov.br', 'SACRO39', 'tech-c'),
+ ('tre-ce.gov.br', 'HPF17', 'billing-c'),
+ ('crecise.gov.br', 'CORCO18', 'owner-c'),
+ ('crecise.gov.br', 'CORCO18', 'admin-c'),
+ ('crecise.gov.br', 'CORCO18', 'tech-c'),
+ ('crecise.gov.br', 'CORCO18', 'billing-c'),
+ ('tjdft.gov.br', 'SERCO46', 'owner-c'),
+ ('tjdft.gov.br', 'SERCO46', 'admin-c'),
+ ('tjdft.gov.br', 'SERCO46', 'tech-c'),
+ ('tjdft.gov.br', 'SERCO46', 'billing-c'),
+ ('srpvsp.gov.br', 'SRS330', 'owner-c'),
+ ('srpvsp.gov.br', 'SRS330', 'admin-c'),
+ ('srpvsp.gov.br', 'SRS330', 'tech-c'),
+ ('srpvsp.gov.br', 'SRS330', 'billing-c'),
+ ('voluntariado.gov.br', 'JDGPI', 'owner-c'),
+ ('voluntariado.gov.br', 'JAA364', 'admin-c'),
+ ('voluntariado.gov.br', 'JAA364', 'tech-c'),
+ ('voluntariado.gov.br', 'JAA364', 'billing-c'),
+ ('rededopoderjudiciario.gov.br', 'EDR194', 'owner-c'),
+ ('rededopoderjudiciario.gov.br', 'SETIN14', 'admin-c'),
+ ('rededopoderjudiciario.gov.br', 'SGSRE3', 'tech-c'),
+ ('rededopoderjudiciario.gov.br', 'GASTI6', 'billing-c'),
+ ('brazilexport.gov.br', 'CTDPR5', 'owner-c'),
+ ('brazilexport.gov.br', 'CTDPR5', 'admin-c'),
+ ('brazilexport.gov.br', 'CTDPR5', 'tech-c'),
+ ('brazilexport.gov.br', 'CTDPR5', 'billing-c'),
+ ('diariodajustica.gov.br', 'EDR194', 'owner-c'),
+ ('diariodajustica.gov.br', 'SETIN14', 'admin-c'),
+ ('diariodajustica.gov.br', 'SGSRE3', 'tech-c'),
+ ('diariodajustica.gov.br', 'GASTI6', 'billing-c'),
+ ('mincrj.gov.br', 'MICUL2', 'owner-c'),
+ ('mincrj.gov.br', 'MICUL2', 'admin-c'),
+ ('mincrj.gov.br', 'MICUL2', 'tech-c'),
+ ('mincrj.gov.br', 'MICUL2', 'billing-c'),
+ ('desaparecidos.gov.br', 'MAAJU182', 'owner-c'),
+ ('desaparecidos.gov.br', 'WEL52', 'admin-c'),
+ ('desaparecidos.gov.br', 'FRASO52', 'tech-c'),
+ ('desaparecidos.gov.br', 'WEL52', 'billing-c'),
+ ('loteca.gov.br', 'RMJ35', 'owner-c'),
+ ('loteca.gov.br', 'RMJ35', 'admin-c'),
+ ('loteca.gov.br', 'GIT60', 'tech-c'),
+ ('loteca.gov.br', 'GIC166', 'billing-c'),
+ ('trt01.gov.br', 'DIINF4', 'owner-c'),
+ ('trt01.gov.br', 'DIINF4', 'admin-c'),
+ ('trt01.gov.br', 'FAD102', 'tech-c'),
+ ('trt01.gov.br', 'DIINF4', 'billing-c'),
+ ('controle.gov.br', 'AMDSC29', 'owner-c'),
+ ('controle.gov.br', 'AMDSC29', 'admin-c'),
+ ('controle.gov.br', 'VDMLI12', 'tech-c'),
+ ('controle.gov.br', 'GUMSO21', 'billing-c'),
+ ('defesadoconsumidor.gov.br', 'MIJUS7', 'owner-c'),
+ ('defesadoconsumidor.gov.br', 'ALCBA81', 'admin-c'),
+ ('defesadoconsumidor.gov.br', 'ALCBA81', 'tech-c'),
+ ('defesadoconsumidor.gov.br', 'ALCBA81', 'billing-c'),
+ ('e-pagamentos.gov.br', 'RMJ35', 'owner-c'),
+ ('e-pagamentos.gov.br', 'RMJ35', 'admin-c'),
+ ('e-pagamentos.gov.br', 'GIT60', 'tech-c'),
+ ('e-pagamentos.gov.br', 'GIC166', 'billing-c'),
+ ('saudenacopa.gov.br', 'RGC5', 'owner-c'),
+ ('saudenacopa.gov.br', 'RGC5', 'admin-c'),
+ ('saudenacopa.gov.br', 'RGC5', 'tech-c'),
+ ('saudenacopa.gov.br', 'RGC5', 'billing-c'),
+ ('pi.gov.br', 'CAJ8', 'owner-c'),
+ ('pi.gov.br', 'CAJ8', 'admin-c'),
+ ('pi.gov.br', 'CAJ8', 'tech-c'),
+ ('pi.gov.br', 'CAJ8', 'billing-c'),
+ ('rededecontrole.gov.br', 'ARRAL9', 'owner-c'),
+ ('rededecontrole.gov.br', 'ARRAL9', 'admin-c'),
+ ('rededecontrole.gov.br', 'RETMI', 'tech-c'),
+ ('rededecontrole.gov.br', 'ARRAL9', 'billing-c'),
+ ('transparencia.gov.br', 'AMDSC29', 'owner-c'),
+ ('transparencia.gov.br', 'AMDSC29', 'admin-c'),
+ ('transparencia.gov.br', 'VDMLI12', 'tech-c'),
+ ('transparencia.gov.br', 'GUMSO21', 'billing-c'),
+ ('caubr.gov.br', 'MICLO17', 'owner-c'),
+ ('caubr.gov.br', 'MICLO17', 'admin-c'),
+ ('caubr.gov.br', 'SCITI', 'tech-c'),
+ ('caubr.gov.br', 'SCFIN', 'billing-c'),
+ ('trt3.gov.br', 'SEMVE4', 'owner-c'),
+ ('trt3.gov.br', 'GAPFA4', 'admin-c'),
+ ('trt3.gov.br', 'JOPVI11', 'tech-c'),
+ ('trt3.gov.br', 'JOPVI11', 'billing-c'),
+ ('crmvsp.gov.br', 'CRS389', 'owner-c'),
+ ('crmvsp.gov.br', 'CRS389', 'admin-c'),
+ ('crmvsp.gov.br', 'CRS389', 'tech-c'),
+ ('crmvsp.gov.br', 'CRS389', 'billing-c'),
+ ('emdiacomopronaf.gov.br', 'ECLNA', 'owner-c'),
+ ('emdiacomopronaf.gov.br', 'ECLNA', 'admin-c'),
+ ('emdiacomopronaf.gov.br', 'ECLNA', 'tech-c'),
+ ('emdiacomopronaf.gov.br', 'ECLNA', 'billing-c'),
+ ('bolaofederal.gov.br', 'RMJ35', 'owner-c'),
+ ('bolaofederal.gov.br', 'RMJ35', 'admin-c'),
+ ('bolaofederal.gov.br', 'GIT60', 'tech-c'),
+ ('bolaofederal.gov.br', 'GIC166', 'billing-c'),
+ ('paranaeleitoral.gov.br', 'SEDSI27', 'owner-c'),
+ ('paranaeleitoral.gov.br', 'SEDSI27', 'admin-c'),
+ ('paranaeleitoral.gov.br', 'SEDSI27', 'tech-c'),
+ ('paranaeleitoral.gov.br', 'SEDSI27', 'billing-c'),
+ ('cbtujp.gov.br', 'GOD', 'owner-c'),
+ ('cbtujp.gov.br', 'GOD', 'admin-c'),
+ ('cbtujp.gov.br', 'GOD', 'tech-c'),
+ ('cbtujp.gov.br', 'NSL79', 'billing-c'),
+ ('acraiz.gov.br', 'JRGJU4', 'owner-c'),
+ ('acraiz.gov.br', 'JRGJU4', 'admin-c'),
+ ('acraiz.gov.br', 'GCSMA8', 'tech-c'),
+ ('acraiz.gov.br', 'JRGJU4', 'billing-c'),
+ ('prt4.gov.br', 'ALMKO', 'owner-c'),
+ ('prt4.gov.br', 'ALMKO', 'admin-c'),
+ ('prt4.gov.br', 'ALMKO', 'tech-c'),
+ ('prt4.gov.br', 'ALMKO', 'billing-c'),
+ ('ans-saude.gov.br', 'JWD3', 'owner-c'),
+ ('ans-saude.gov.br', 'JWD3', 'admin-c'),
+ ('ans-saude.gov.br', 'JWD3', 'tech-c'),
+ ('ans-saude.gov.br', 'JWD3', 'billing-c'),
+ ('convensi.gov.br', 'CFI6', 'owner-c'),
+ ('convensi.gov.br', 'CFI6', 'admin-c'),
+ ('convensi.gov.br', 'CFI6', 'tech-c'),
+ ('convensi.gov.br', 'CFI6', 'billing-c'),
+ ('d.gov.br', 'CGSTM2', 'owner-c'),
+ ('d.gov.br', 'CGSTM2', 'admin-c'),
+ ('d.gov.br', 'CGSTM2', 'tech-c'),
+ ('d.gov.br', 'CGSTM2', 'billing-c'),
+ ('brmcc.gov.br', 'ADRED14', 'owner-c'),
+ ('brmcc.gov.br', 'CLL352', 'admin-c'),
+ ('brmcc.gov.br', 'JSC125', 'tech-c'),
+ ('brmcc.gov.br', 'JSC125', 'billing-c'),
+ ('prf.gov.br', 'DITEL10', 'owner-c'),
+ ('prf.gov.br', 'DITEL10', 'admin-c'),
+ ('prf.gov.br', 'DITEL10', 'tech-c'),
+ ('prf.gov.br', 'DITEL10', 'billing-c'),
+ ('casabrasil.gov.br', 'REDOM95', 'owner-c'),
+ ('casabrasil.gov.br', 'ADNMC', 'admin-c'),
+ ('casabrasil.gov.br', 'ADNMC', 'tech-c'),
+ ('casabrasil.gov.br', 'ADNMC', 'billing-c'),
+ ('creci-se.gov.br', 'CORCO18', 'owner-c'),
+ ('creci-se.gov.br', 'CORCO18', 'admin-c'),
+ ('creci-se.gov.br', 'CORCO18', 'tech-c'),
+ ('creci-se.gov.br', 'CORCO18', 'billing-c'),
+ ('pru5.gov.br', 'VNOFI2', 'owner-c'),
+ ('pru5.gov.br', 'VNOFI2', 'admin-c'),
+ ('pru5.gov.br', 'VNOFI2', 'tech-c'),
+ ('pru5.gov.br', 'VNOFI2', 'billing-c'),
+ ('causp.gov.br', 'MICLO17', 'owner-c'),
+ ('causp.gov.br', 'MICLO17', 'admin-c'),
+ ('causp.gov.br', 'SCITI', 'tech-c'),
+ ('causp.gov.br', 'SCFIN', 'billing-c'),
+ ('senadora.gov.br', 'SEIRE4', 'owner-c'),
+ ('senadora.gov.br', 'SEIRE4', 'admin-c'),
+ ('senadora.gov.br', 'SEIRE4', 'tech-c'),
+ ('senadora.gov.br', 'SEIRE4', 'billing-c'),
+ ('portalexportacao.gov.br', 'MDC167', 'owner-c'),
+ ('portalexportacao.gov.br', 'MDC167', 'admin-c'),
+ ('portalexportacao.gov.br', 'MDC167', 'tech-c'),
+ ('portalexportacao.gov.br', 'MDC167', 'billing-c'),
+ ('saofrancisco.gov.br', 'NBC10', 'owner-c'),
+ ('saofrancisco.gov.br', 'NBC10', 'admin-c'),
+ ('saofrancisco.gov.br', 'NBC10', 'tech-c'),
+ ('saofrancisco.gov.br', 'NBC10', 'billing-c'),
+ ('e.gov.br', 'ADSFE47', 'owner-c'),
+ ('e.gov.br', 'ADSFE47', 'admin-c'),
+ ('e.gov.br', 'MRV103', 'tech-c'),
+ ('e.gov.br', 'WEQLI', 'billing-c'),
+ ('computadorparaprofessores.gov.br', 'ADSFE47', 'owner-c'),
+ ('computadorparaprofessores.gov.br', 'ADSFE47', 'admin-c'),
+ ('computadorparaprofessores.gov.br', 'MRV103', 'tech-c'),
+ ('computadorparaprofessores.gov.br', 'WEQLI', 'billing-c'),
+ ('fnsms.gov.br', 'WSDLT4', 'owner-c'),
+ ('fnsms.gov.br', 'WSDLT4', 'admin-c'),
+ ('fnsms.gov.br', 'WSDLT4', 'tech-c'),
+ ('fnsms.gov.br', 'WSDLT4', 'billing-c'),
+ ('irb-brasilre.gov.br', 'GURJR', 'owner-c'),
+ ('irb-brasilre.gov.br', 'AKG6', 'admin-c'),
+ ('irb-brasilre.gov.br', 'AKG6', 'tech-c'),
+ ('irb-brasilre.gov.br', 'AKG6', 'billing-c'),
+ ('ibge.gov.br', 'ECO', 'owner-c'),
+ ('ibge.gov.br', 'ECO', 'admin-c'),
+ ('ibge.gov.br', 'ECO', 'tech-c'),
+ ('ibge.gov.br', 'ECO', 'billing-c'),
+ ('cprmbh.gov.br', 'NBC10', 'owner-c'),
+ ('cprmbh.gov.br', 'NBC10', 'admin-c'),
+ ('cprmbh.gov.br', 'CLO79', 'tech-c'),
+ ('cprmbh.gov.br', 'NBC10', 'billing-c'),
+ ('pb.gov.br', 'CHMSA32', 'owner-c'),
+ ('pb.gov.br', 'CHMSA32', 'admin-c'),
+ ('pb.gov.br', 'ALFAR180', 'tech-c'),
+ ('pb.gov.br', 'CHMSA32', 'billing-c'),
+ ('e-car.gov.br', 'ADSFE47', 'owner-c'),
+ ('e-car.gov.br', 'ADSFE47', 'admin-c'),
+ ('e-car.gov.br', 'MRV103', 'tech-c'),
+ ('e-car.gov.br', 'WEQLI', 'billing-c'),
+ ('carrocampeao.gov.br', 'RMJ35', 'owner-c'),
+ ('carrocampeao.gov.br', 'RMJ35', 'admin-c'),
+ ('carrocampeao.gov.br', 'GIT60', 'tech-c'),
+ ('carrocampeao.gov.br', 'GIC166', 'billing-c'),
+ ('portaldacopa.gov.br', 'JDGPI', 'owner-c'),
+ ('portaldacopa.gov.br', 'JAA364', 'admin-c'),
+ ('portaldacopa.gov.br', 'JAA364', 'tech-c'),
+ ('portaldacopa.gov.br', 'JAA364', 'billing-c'),
+ ('direitoshumanos.gov.br', 'MAAJU182', 'owner-c'),
+ ('direitoshumanos.gov.br', 'WEL52', 'admin-c'),
+ ('direitoshumanos.gov.br', 'WEL52', 'tech-c'),
+ ('direitoshumanos.gov.br', 'WEL52', 'billing-c'),
+ ('reste.gov.br', 'RFS9', 'owner-c'),
+ ('reste.gov.br', 'RFS9', 'admin-c'),
+ ('reste.gov.br', 'RFS9', 'tech-c'),
+ ('reste.gov.br', 'RFS9', 'billing-c'),
+ ('agenciacamara.gov.br', 'SSG50', 'owner-c'),
+ ('agenciacamara.gov.br', 'SSG50', 'admin-c'),
+ ('agenciacamara.gov.br', 'SSG50', 'tech-c'),
+ ('agenciacamara.gov.br', 'SSG50', 'billing-c'),
+ ('ac.gov.br', 'ALQSI', 'owner-c'),
+ ('ac.gov.br', 'ALQSI', 'admin-c'),
+ ('ac.gov.br', 'ALQSI', 'tech-c'),
+ ('ac.gov.br', 'ALQSI', 'billing-c'),
+ ('brasil2016.gov.br', 'JDGPI', 'owner-c'),
+ ('brasil2016.gov.br', 'JAA364', 'admin-c'),
+ ('brasil2016.gov.br', 'JAA364', 'tech-c'),
+ ('brasil2016.gov.br', 'JAA364', 'billing-c'),
+ ('agritempo.gov.br', 'SMFSM2', 'owner-c'),
+ ('agritempo.gov.br', 'SMFSM2', 'admin-c'),
+ ('agritempo.gov.br', 'CFP8', 'tech-c'),
+ ('agritempo.gov.br', 'SMFSM2', 'billing-c'),
+ ('fns.gov.br', 'MVO3', 'owner-c'),
+ ('fns.gov.br', 'MVO3', 'admin-c'),
+ ('fns.gov.br', 'MVO3', 'tech-c'),
+ ('fns.gov.br', 'MVO3', 'billing-c'),
+ ('insa.gov.br', 'LJS88', 'owner-c'),
+ ('insa.gov.br', 'LJS88', 'admin-c'),
+ ('insa.gov.br', 'LJS88', 'tech-c'),
+ ('insa.gov.br', 'LJS88', 'billing-c'),
+ ('fbn.gov.br', 'GGCJU6', 'owner-c'),
+ ('fbn.gov.br', 'GGCJU6', 'admin-c'),
+ ('fbn.gov.br', 'LACAJ', 'tech-c'),
+ ('fbn.gov.br', 'GGCJU6', 'billing-c'),
+ ('comexbrazil.gov.br', 'MDC167', 'owner-c'),
+ ('comexbrazil.gov.br', 'MDC167', 'admin-c'),
+ ('comexbrazil.gov.br', 'MDC167', 'tech-c'),
+ ('comexbrazil.gov.br', 'MDC167', 'billing-c'),
+ ('se.gov.br', 'RMT44', 'owner-c'),
+ ('se.gov.br', 'AMNOL2', 'admin-c'),
+ ('se.gov.br', 'RMT44', 'tech-c'),
+ ('se.gov.br', 'AMNOL2', 'billing-c'),
+ ('anapost.gov.br', 'MAR1601', 'owner-c'),
+ ('anapost.gov.br', 'MAR1601', 'admin-c'),
+ ('anapost.gov.br', 'EEA', 'tech-c'),
+ ('anapost.gov.br', 'MAR1601', 'billing-c'),
+ ('lotomania.gov.br', 'RMJ35', 'owner-c'),
+ ('lotomania.gov.br', 'RMJ35', 'admin-c'),
+ ('lotomania.gov.br', 'GIT60', 'tech-c'),
+ ('lotomania.gov.br', 'GIC166', 'billing-c'),
+ ('dner1drf.gov.br', 'AMA61', 'owner-c'),
+ ('dner1drf.gov.br', 'AMA61', 'admin-c'),
+ ('dner1drf.gov.br', 'AIP6', 'tech-c'),
+ ('dner1drf.gov.br', 'AMA61', 'billing-c'),
+ ('mcti.gov.br', 'REDOM95', 'owner-c'),
+ ('mcti.gov.br', 'ADNMC', 'admin-c'),
+ ('mcti.gov.br', 'ADNMC', 'tech-c'),
+ ('mcti.gov.br', 'ADNMC', 'billing-c'),
+ ('mb.gov.br', 'CAS39', 'owner-c'),
+ ('mb.gov.br', 'CAS39', 'admin-c'),
+ ('mb.gov.br', 'CAS39', 'tech-c'),
+ ('mb.gov.br', 'CAS39', 'billing-c'),
+ ('gnre.gov.br', 'ADSFE47', 'owner-c'),
+ ('gnre.gov.br', 'ADSFE47', 'admin-c'),
+ ('gnre.gov.br', 'ADSFE47', 'tech-c'),
+ ('gnre.gov.br', 'WEQLI', 'billing-c'),
+ ('gra.gov.br', 'ADSFE47', 'owner-c'),
+ ('gra.gov.br', 'ADSFE47', 'admin-c'),
+ ('gra.gov.br', 'MRV103', 'tech-c'),
+ ('gra.gov.br', 'WEQLI', 'billing-c'),
+ ('brasiltradenet.gov.br', 'CTDPR5', 'owner-c'),
+ ('brasiltradenet.gov.br', 'CTDPR5', 'admin-c'),
+ ('brasiltradenet.gov.br', 'CTDPR5', 'tech-c'),
+ ('brasiltradenet.gov.br', 'CTDPR5', 'billing-c'),
+ ('portosdobrasil.gov.br', 'MAR79', 'owner-c'),
+ ('portosdobrasil.gov.br', 'MAR79', 'admin-c'),
+ ('portosdobrasil.gov.br', 'MAR79', 'tech-c'),
+ ('portosdobrasil.gov.br', 'MAR79', 'billing-c'),
+ ('crbio-rs.gov.br', 'CLLUZ2', 'owner-c'),
+ ('crbio-rs.gov.br', 'CLLUZ2', 'admin-c'),
+ ('crbio-rs.gov.br', 'CLLUZ2', 'tech-c'),
+ ('crbio-rs.gov.br', 'CLLUZ2', 'billing-c'),
+ ('cienciasemfronteiras.gov.br', 'FUCAP4', 'owner-c'),
+ ('cienciasemfronteiras.gov.br', 'FUCAP4', 'admin-c'),
+ ('cienciasemfronteiras.gov.br', 'GUS228', 'tech-c'),
+ ('cienciasemfronteiras.gov.br', 'LUSMA43', 'billing-c'),
+ ('errec.gov.br', 'RFA3', 'owner-c'),
+ ('errec.gov.br', 'RFA3', 'admin-c'),
+ ('errec.gov.br', 'RFA3', 'tech-c'),
+ ('errec.gov.br', 'RFA3', 'billing-c'),
+ ('eproc.gov.br', 'ALSIL482', 'owner-c'),
+ ('eproc.gov.br', 'ALSIL482', 'admin-c'),
+ ('eproc.gov.br', 'ALSIL482', 'tech-c'),
+ ('eproc.gov.br', 'ANZMA3', 'billing-c'),
+ ('bvenergia.gov.br', 'GSC187', 'owner-c'),
+ ('bvenergia.gov.br', 'AFN123', 'admin-c'),
+ ('bvenergia.gov.br', 'JPLBR2', 'tech-c'),
+ ('bvenergia.gov.br', 'AFN123', 'billing-c'),
+ ('dfa-ba.gov.br', 'PAU', 'owner-c'),
+ ('dfa-ba.gov.br', 'PAU', 'admin-c'),
+ ('dfa-ba.gov.br', 'PAU', 'tech-c'),
+ ('dfa-ba.gov.br', 'PAU', 'billing-c'),
+ ('govbankingcaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('govbankingcaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('govbankingcaixa.gov.br', 'GIT60', 'tech-c'),
+ ('govbankingcaixa.gov.br', 'GIC166', 'billing-c'),
+ ('trtrio.gov.br', 'DIINF4', 'owner-c'),
+ ('trtrio.gov.br', 'DIINF4', 'admin-c'),
+ ('trtrio.gov.br', 'FAD102', 'tech-c'),
+ ('trtrio.gov.br', 'DIINF4', 'billing-c'),
+ ('exportabrasil.gov.br', 'MDC167', 'owner-c'),
+ ('exportabrasil.gov.br', 'MDC167', 'admin-c'),
+ ('exportabrasil.gov.br', 'MDC167', 'tech-c'),
+ ('exportabrasil.gov.br', 'MDC167', 'billing-c'),
+ ('ceturb.gov.br', 'WAFFH', 'owner-c'),
+ ('ceturb.gov.br', 'WAFFH', 'admin-c'),
+ ('ceturb.gov.br', 'EIL95', 'tech-c'),
+ ('ceturb.gov.br', 'WAFFH', 'billing-c'),
+ ('bc.gov.br', 'SETIN16', 'owner-c'),
+ ('bc.gov.br', 'DIBCB', 'admin-c'),
+ ('bc.gov.br', 'SETIN16', 'tech-c'),
+ ('bc.gov.br', 'DIBCB', 'billing-c'),
+ ('sdh.gov.br', 'MAAJU182', 'owner-c'),
+ ('sdh.gov.br', 'WEL52', 'admin-c'),
+ ('sdh.gov.br', 'FLMSA16', 'tech-c'),
+ ('sdh.gov.br', 'WEL52', 'billing-c'),
+ ('crefito16.gov.br', 'CRFTE13', 'owner-c'),
+ ('crefito16.gov.br', 'CRFTE13', 'admin-c'),
+ ('crefito16.gov.br', 'CRFTE13', 'tech-c'),
+ ('crefito16.gov.br', 'CRFTE13', 'billing-c'),
+ ('caurj.gov.br', 'MICLO17', 'owner-c'),
+ ('caurj.gov.br', 'MICLO17', 'admin-c'),
+ ('caurj.gov.br', 'SCITI', 'tech-c'),
+ ('caurj.gov.br', 'SCFIN', 'billing-c'),
+ ('tre-sc.gov.br', 'TRC18', 'owner-c'),
+ ('tre-sc.gov.br', 'DCC', 'admin-c'),
+ ('tre-sc.gov.br', 'DCC', 'tech-c'),
+ ('tre-sc.gov.br', 'WOS3', 'billing-c'),
+ ('trtwap.gov.br', 'COARE11', 'owner-c'),
+ ('trtwap.gov.br', 'RECCO133', 'admin-c'),
+ ('trtwap.gov.br', 'SERTE12', 'tech-c'),
+ ('trtwap.gov.br', 'RECCO133', 'billing-c'),
+ ('catir.gov.br', 'CGSTM2', 'owner-c'),
+ ('catir.gov.br', 'CGSTM2', 'admin-c'),
+ ('catir.gov.br', 'CGSTM2', 'tech-c'),
+ ('catir.gov.br', 'CGSTM2', 'billing-c'),
+ ('dominiopublico.gov.br', 'WASEV', 'owner-c'),
+ ('dominiopublico.gov.br', 'MIEDU6', 'admin-c'),
+ ('dominiopublico.gov.br', 'MIEDU6', 'tech-c'),
+ ('dominiopublico.gov.br', 'MIEDU6', 'billing-c'),
+ ('museuimperial.gov.br', 'SEABR7', 'owner-c'),
+ ('museuimperial.gov.br', 'SEABR7', 'admin-c'),
+ ('museuimperial.gov.br', 'SEABR7', 'tech-c'),
+ ('museuimperial.gov.br', 'SEABR7', 'billing-c'),
+ ('tjrn.gov.br', 'DIDTE2', 'owner-c'),
+ ('tjrn.gov.br', 'DIDTE2', 'admin-c'),
+ ('tjrn.gov.br', 'DIDTE2', 'tech-c'),
+ ('tjrn.gov.br', 'DIDTE2', 'billing-c'),
+ ('comunicacaosocial.gov.br', 'MAMPA145', 'owner-c'),
+ ('comunicacaosocial.gov.br', 'MAMPA145', 'admin-c'),
+ ('comunicacaosocial.gov.br', 'MRV103', 'tech-c'),
+ ('comunicacaosocial.gov.br', 'MAMPA145', 'billing-c'),
+ ('coren-df.gov.br', 'COEDF2', 'owner-c'),
+ ('coren-df.gov.br', 'COEDF2', 'admin-c'),
+ ('coren-df.gov.br', 'COEDF2', 'tech-c'),
+ ('coren-df.gov.br', 'COEDF2', 'billing-c'),
+ ('cauac.gov.br', 'MICLO17', 'owner-c'),
+ ('cauac.gov.br', 'MICLO17', 'admin-c'),
+ ('cauac.gov.br', 'SCITI', 'tech-c'),
+ ('cauac.gov.br', 'SCFIN', 'billing-c'),
+ ('combateafome.gov.br', 'MACSO438', 'owner-c'),
+ ('combateafome.gov.br', 'MACSO438', 'admin-c'),
+ ('combateafome.gov.br', 'MACSO438', 'tech-c'),
+ ('combateafome.gov.br', 'MACSO438', 'billing-c'),
+ ('infra-estruturabrasil.gov.br', 'CGSTM2', 'owner-c'),
+ ('infra-estruturabrasil.gov.br', 'CGSTM2', 'admin-c'),
+ ('infra-estruturabrasil.gov.br', 'CGSTM2', 'tech-c'),
+ ('infra-estruturabrasil.gov.br', 'CGSTM2', 'billing-c'),
+ ('sic.gov.br', 'AMDSC29', 'owner-c'),
+ ('sic.gov.br', 'AMDSC29', 'admin-c'),
+ ('sic.gov.br', 'VDMLI12', 'tech-c'),
+ ('sic.gov.br', 'GUMSO21', 'billing-c'),
+ ('tre-rj.gov.br', 'ALA187', 'owner-c'),
+ ('tre-rj.gov.br', 'TRR14', 'admin-c'),
+ ('tre-rj.gov.br', 'TRR14', 'tech-c'),
+ ('tre-rj.gov.br', 'ALA187', 'billing-c'),
+ ('seliganacaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('seliganacaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('seliganacaixa.gov.br', 'GIT60', 'tech-c'),
+ ('seliganacaixa.gov.br', 'GIC166', 'billing-c'),
+ ('sivam.gov.br', 'MAC46', 'owner-c'),
+ ('sivam.gov.br', 'MAC46', 'admin-c'),
+ ('sivam.gov.br', 'MAC46', 'tech-c'),
+ ('sivam.gov.br', 'MAC46', 'billing-c'),
+ ('eafa-to.gov.br', 'FGCLI', 'owner-c'),
+ ('eafa-to.gov.br', 'FGCLI', 'admin-c'),
+ ('eafa-to.gov.br', 'KAB14', 'tech-c'),
+ ('eafa-to.gov.br', 'RJP49', 'billing-c'),
+ ('comexresponde.gov.br', 'MDC167', 'owner-c'),
+ ('comexresponde.gov.br', 'MDC167', 'admin-c'),
+ ('comexresponde.gov.br', 'MDC167', 'tech-c'),
+ ('comexresponde.gov.br', 'MDC167', 'billing-c'),
+ ('telebrasilia.gov.br', 'GFS8', 'owner-c'),
+ ('telebrasilia.gov.br', 'GFS8', 'admin-c'),
+ ('telebrasilia.gov.br', 'BPS14', 'tech-c'),
+ ('telebrasilia.gov.br', 'GFS8', 'billing-c'),
+ ('exportadoresbrasilenos.gov.br', 'MDC167', 'owner-c'),
+ ('exportadoresbrasilenos.gov.br', 'MDC167', 'admin-c'),
+ ('exportadoresbrasilenos.gov.br', 'MDC167', 'tech-c'),
+ ('exportadoresbrasilenos.gov.br', 'MDC167', 'billing-c'),
+ ('cauba.gov.br', 'MICLO17', 'owner-c'),
+ ('cauba.gov.br', 'MICLO17', 'admin-c'),
+ ('cauba.gov.br', 'SCITI', 'tech-c'),
+ ('cauba.gov.br', 'SCFIN', 'billing-c'),
+ ('data.gov.br', 'CGSTM2', 'owner-c'),
+ ('data.gov.br', 'CGSTM2', 'admin-c'),
+ ('data.gov.br', 'CGSTM2', 'tech-c'),
+ ('data.gov.br', 'CGSTM2', 'billing-c'),
+ ('education.gov.br', 'WASEV', 'owner-c'),
+ ('education.gov.br', 'MIEDU6', 'admin-c'),
+ ('education.gov.br', 'MIEDU6', 'tech-c'),
+ ('education.gov.br', 'MIEDU6', 'billing-c'),
+ ('dnrc.gov.br', 'MDC167', 'owner-c'),
+ ('dnrc.gov.br', 'MDC167', 'admin-c'),
+ ('dnrc.gov.br', 'MDC167', 'tech-c'),
+ ('dnrc.gov.br', 'MDC167', 'billing-c'),
+ ('pernambuco.gov.br', 'AETIN', 'owner-c'),
+ ('pernambuco.gov.br', 'EFP21', 'admin-c'),
+ ('pernambuco.gov.br', 'EFP21', 'tech-c'),
+ ('pernambuco.gov.br', 'EFP21', 'billing-c'),
+ ('amazoniafundo-bndes.gov.br', 'GGT13', 'owner-c'),
+ ('amazoniafundo-bndes.gov.br', 'GGT13', 'admin-c'),
+ ('amazoniafundo-bndes.gov.br', 'GGT13', 'tech-c'),
+ ('amazoniafundo-bndes.gov.br', 'GGT13', 'billing-c'),
+ ('brazil-rounds.gov.br', 'RALFA27', 'owner-c'),
+ ('brazil-rounds.gov.br', 'RALFA27', 'admin-c'),
+ ('brazil-rounds.gov.br', 'RALFA27', 'tech-c'),
+ ('brazil-rounds.gov.br', 'RALFA27', 'billing-c'),
+ ('traficodepessoas.gov.br', 'MIJUS7', 'owner-c'),
+ ('traficodepessoas.gov.br', 'ALCBA81', 'admin-c'),
+ ('traficodepessoas.gov.br', 'ARAJU47', 'tech-c'),
+ ('traficodepessoas.gov.br', 'ALCBA81', 'billing-c'),
+ ('crt.gov.br', 'DSL124', 'owner-c'),
+ ('crt.gov.br', 'DSL124', 'admin-c'),
+ ('crt.gov.br', 'DSL124', 'tech-c'),
+ ('crt.gov.br', 'DSL124', 'billing-c'),
+ ('justica.gov.br', 'MIJUS7', 'owner-c'),
+ ('justica.gov.br', 'ALCBA81', 'admin-c'),
+ ('justica.gov.br', 'ARAJU47', 'tech-c'),
+ ('justica.gov.br', 'ALCBA81', 'billing-c'),
+ ('maerj.gov.br', 'MVF120', 'owner-c'),
+ ('maerj.gov.br', 'LFB6', 'admin-c'),
+ ('maerj.gov.br', 'MVF120', 'tech-c'),
+ ('maerj.gov.br', 'MVF120', 'billing-c'),
+ ('mtur.gov.br', 'SUAAL3', 'owner-c'),
+ ('mtur.gov.br', 'SUAAL3', 'admin-c'),
+ ('mtur.gov.br', 'SUAAL3', 'tech-c'),
+ ('mtur.gov.br', 'SUAAL3', 'billing-c'),
+ ('cnis.gov.br', 'DDA66', 'owner-c'),
+ ('cnis.gov.br', 'DDA66', 'admin-c'),
+ ('cnis.gov.br', 'DDT10', 'tech-c'),
+ ('cnis.gov.br', 'DDC98', 'billing-c'),
+ ('portalexporta.gov.br', 'MDC167', 'owner-c'),
+ ('portalexporta.gov.br', 'MDC167', 'admin-c'),
+ ('portalexporta.gov.br', 'MDC167', 'tech-c'),
+ ('portalexporta.gov.br', 'MDC167', 'billing-c'),
+ ('cbtu-natal.gov.br', 'STF', 'owner-c'),
+ ('cbtu-natal.gov.br', 'STF', 'admin-c'),
+ ('cbtu-natal.gov.br', 'STF', 'tech-c'),
+ ('cbtu-natal.gov.br', 'DHA3', 'billing-c'),
+ ('trinka.gov.br', 'RMJ35', 'owner-c'),
+ ('trinka.gov.br', 'RMJ35', 'admin-c'),
+ ('trinka.gov.br', 'GIT60', 'tech-c'),
+ ('trinka.gov.br', 'GIC166', 'billing-c'),
+ ('sptrt.gov.br', 'COARE11', 'owner-c'),
+ ('sptrt.gov.br', 'RECCO133', 'admin-c'),
+ ('sptrt.gov.br', 'SERTE12', 'tech-c'),
+ ('sptrt.gov.br', 'RECCO133', 'billing-c'),
+ ('vice-presidencia.gov.br', 'RMP45', 'owner-c'),
+ ('vice-presidencia.gov.br', 'RMP45', 'admin-c'),
+ ('vice-presidencia.gov.br', 'MAR79', 'tech-c'),
+ ('vice-presidencia.gov.br', 'RMP45', 'billing-c'),
+ ('comunidadenegra.gov.br', 'ARC397', 'owner-c'),
+ ('comunidadenegra.gov.br', 'ARC397', 'admin-c'),
+ ('comunidadenegra.gov.br', 'ARC397', 'tech-c'),
+ ('comunidadenegra.gov.br', 'ARC397', 'billing-c'),
+ ('brasil.gov.br', 'MAR79', 'owner-c'),
+ ('brasil.gov.br', 'MAR79', 'admin-c'),
+ ('brasil.gov.br', 'MAR79', 'tech-c'),
+ ('brasil.gov.br', 'MAR79', 'billing-c'),
+ ('eusoumaismedico.gov.br', 'DOEBS', 'owner-c'),
+ ('eusoumaismedico.gov.br', 'DOEBS', 'admin-c'),
+ ('eusoumaismedico.gov.br', 'DOEBS', 'tech-c'),
+ ('eusoumaismedico.gov.br', 'DOEBS', 'billing-c'),
+ ('crbio-03.gov.br', 'CLLUZ2', 'owner-c'),
+ ('crbio-03.gov.br', 'CLLUZ2', 'admin-c'),
+ ('crbio-03.gov.br', 'CLLUZ2', 'tech-c'),
+ ('crbio-03.gov.br', 'CLLUZ2', 'billing-c'),
+ ('ilbsenado.gov.br', 'SMM32', 'owner-c'),
+ ('ilbsenado.gov.br', 'SMM32', 'admin-c'),
+ ('ilbsenado.gov.br', 'HIS5', 'tech-c'),
+ ('ilbsenado.gov.br', 'SMM32', 'billing-c'),
+ ('infraero.gov.br', 'SUTIN', 'owner-c'),
+ ('infraero.gov.br', 'SUTIN', 'admin-c'),
+ ('infraero.gov.br', 'GESUP4', 'tech-c'),
+ ('infraero.gov.br', 'GESUP4', 'billing-c'),
+ ('veracruz-rs.gov.br', 'FLP88', 'owner-c'),
+ ('veracruz-rs.gov.br', 'FLP88', 'admin-c'),
+ ('veracruz-rs.gov.br', 'FLP88', 'tech-c'),
+ ('veracruz-rs.gov.br', 'FLP88', 'billing-c'),
+ ('acessoajustica.gov.br', 'MIJUS7', 'owner-c'),
+ ('acessoajustica.gov.br', 'ALCBA81', 'admin-c'),
+ ('acessoajustica.gov.br', 'ALCBA81', 'tech-c'),
+ ('acessoajustica.gov.br', 'ALCBA81', 'billing-c'),
+ ('ctav.gov.br', 'CIBRA24', 'owner-c'),
+ ('ctav.gov.br', 'HGC57', 'admin-c'),
+ ('ctav.gov.br', 'MICUL2', 'tech-c'),
+ ('ctav.gov.br', 'MICUL2', 'billing-c'),
+ ('shoppingcaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('shoppingcaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('shoppingcaixa.gov.br', 'GIT60', 'tech-c'),
+ ('shoppingcaixa.gov.br', 'GIC166', 'billing-c'),
+ ('ien.gov.br', 'MAWAI8', 'owner-c'),
+ ('ien.gov.br', 'MAWAI8', 'admin-c'),
+ ('ien.gov.br', 'MAWAI8', 'tech-c'),
+ ('ien.gov.br', 'MAWAI8', 'billing-c'),
+ ('celepar.gov.br', 'ADC633', 'owner-c'),
+ ('celepar.gov.br', 'ADC633', 'admin-c'),
+ ('celepar.gov.br', 'ADC633', 'tech-c'),
+ ('celepar.gov.br', 'ADC633', 'billing-c'),
+ ('dtceatmrj.gov.br', 'SRS330', 'owner-c'),
+ ('dtceatmrj.gov.br', 'SRS330', 'admin-c'),
+ ('dtceatmrj.gov.br', 'SRS330', 'tech-c'),
+ ('dtceatmrj.gov.br', 'SRS330', 'billing-c'),
+ ('museudebiologiamelloleitao.gov.br', 'HQBFE', 'owner-c'),
+ ('museudebiologiamelloleitao.gov.br', 'HQBFE', 'admin-c'),
+ ('museudebiologiamelloleitao.gov.br', 'HDSUP', 'tech-c'),
+ ('museudebiologiamelloleitao.gov.br', 'HQBFE', 'billing-c'),
+ ('worldcup2014.gov.br', 'JDGPI', 'owner-c'),
+ ('worldcup2014.gov.br', 'JAA364', 'admin-c'),
+ ('worldcup2014.gov.br', 'JAA364', 'tech-c'),
+ ('worldcup2014.gov.br', 'JAA364', 'billing-c'),
+ ('tre-ac.gov.br', 'LRV11', 'owner-c'),
+ ('tre-ac.gov.br', 'DCC', 'admin-c'),
+ ('tre-ac.gov.br', 'DCC', 'tech-c'),
+ ('tre-ac.gov.br', 'WOS3', 'billing-c'),
+ ('crefono8.gov.br', 'CRFAR6', 'owner-c'),
+ ('crefono8.gov.br', 'CRFAR6', 'admin-c'),
+ ('crefono8.gov.br', 'MAMMO35', 'tech-c'),
+ ('crefono8.gov.br', 'MAMMO35', 'billing-c'),
+ ('spmulheres.gov.br', 'MAR79', 'owner-c'),
+ ('spmulheres.gov.br', 'MAR79', 'admin-c'),
+ ('spmulheres.gov.br', 'MAR79', 'tech-c'),
+ ('spmulheres.gov.br', 'MAR79', 'billing-c'),
+ ('todosjuntoscontracorrupcao.gov.br', 'AMDSC29', 'owner-c'),
+ ('todosjuntoscontracorrupcao.gov.br', 'AMDSC29', 'admin-c'),
+ ('todosjuntoscontracorrupcao.gov.br', 'VDMLI12', 'tech-c'),
+ ('todosjuntoscontracorrupcao.gov.br', 'GUMSO21', 'billing-c'),
+ ('splp.gov.br', 'MAR79', 'owner-c'),
+ ('splp.gov.br', 'MAR79', 'admin-c'),
+ ('splp.gov.br', 'MAR79', 'tech-c'),
+ ('splp.gov.br', 'MAR79', 'billing-c'),
+ ('caixadotesouro.gov.br', 'RMJ35', 'owner-c'),
+ ('caixadotesouro.gov.br', 'RMJ35', 'admin-c'),
+ ('caixadotesouro.gov.br', 'GIT60', 'tech-c'),
+ ('caixadotesouro.gov.br', 'GIC166', 'billing-c'),
+ ('cauro.gov.br', 'MICLO17', 'owner-c'),
+ ('cauro.gov.br', 'MICLO17', 'admin-c'),
+ ('cauro.gov.br', 'SCITI', 'tech-c'),
+ ('cauro.gov.br', 'SCFIN', 'billing-c'),
+ ('crm-rj.gov.br', 'ALM784', 'owner-c'),
+ ('crm-rj.gov.br', 'ALM784', 'admin-c'),
+ ('crm-rj.gov.br', 'ALM784', 'tech-c'),
+ ('crm-rj.gov.br', 'ALM784', 'billing-c'),
+ ('decine.gov.br', 'ROHSI8', 'owner-c'),
+ ('decine.gov.br', 'FCD97', 'admin-c'),
+ ('decine.gov.br', 'ROHSI8', 'tech-c'),
+ ('decine.gov.br', 'ROHSI8', 'billing-c'),
+ ('dataprev.gov.br', 'DDA66', 'owner-c'),
+ ('dataprev.gov.br', 'DDA66', 'admin-c'),
+ ('dataprev.gov.br', 'DDT10', 'tech-c'),
+ ('dataprev.gov.br', 'DDC98', 'billing-c'),
+ ('ls.gov.br', 'GDS174', 'owner-c'),
+ ('ls.gov.br', 'GDS174', 'admin-c'),
+ ('ls.gov.br', 'DSARA3', 'tech-c'),
+ ('ls.gov.br', 'DSARA3', 'billing-c'),
+ ('ambiente.gov.br', 'MMR', 'owner-c'),
+ ('ambiente.gov.br', 'MMR', 'admin-c'),
+ ('ambiente.gov.br', 'MMR', 'tech-c'),
+ ('ambiente.gov.br', 'MMR', 'billing-c'),
+ ('coren-sp.gov.br', 'BRMCE7', 'owner-c'),
+ ('coren-sp.gov.br', 'BRMCE7', 'admin-c'),
+ ('coren-sp.gov.br', 'RJS174', 'tech-c'),
+ ('coren-sp.gov.br', 'BRMCE7', 'billing-c'),
+ ('procel.gov.br', 'JMMSA2', 'owner-c'),
+ ('procel.gov.br', 'JMMSA2', 'admin-c'),
+ ('procel.gov.br', 'VABSI7', 'tech-c'),
+ ('procel.gov.br', 'ASCEL3', 'billing-c'),
+ ('nuclep.gov.br', 'NES116', 'owner-c'),
+ ('nuclep.gov.br', 'NES116', 'admin-c'),
+ ('nuclep.gov.br', 'NES116', 'tech-c'),
+ ('nuclep.gov.br', 'NES116', 'billing-c'),
+ ('pbh.gov.br', 'HACVI7', 'owner-c'),
+ ('pbh.gov.br', 'BAC52', 'admin-c'),
+ ('pbh.gov.br', 'BAC52', 'tech-c'),
+ ('pbh.gov.br', 'MFSMO10', 'billing-c'),
+ ('crmvmg.gov.br', 'JOPAM', 'owner-c'),
+ ('crmvmg.gov.br', 'JOPAM', 'admin-c'),
+ ('crmvmg.gov.br', 'JOPAM', 'tech-c'),
+ ('crmvmg.gov.br', 'JOPAM', 'billing-c'),
+ ('scnet.gov.br', 'FLR3', 'owner-c'),
+ ('scnet.gov.br', 'LAB13', 'admin-c'),
+ ('scnet.gov.br', 'LAB548', 'tech-c'),
+ ('scnet.gov.br', 'LAB548', 'billing-c'),
+ ('redesim.gov.br', 'ADSFE47', 'owner-c'),
+ ('redesim.gov.br', 'ADSFE47', 'admin-c'),
+ ('redesim.gov.br', 'MRV103', 'tech-c'),
+ ('redesim.gov.br', 'ADSFE47', 'billing-c'),
+ ('coegv.gov.br', 'GSC187', 'owner-c'),
+ ('coegv.gov.br', 'GSC187', 'admin-c'),
+ ('coegv.gov.br', 'GSC187', 'tech-c'),
+ ('coegv.gov.br', 'GSC187', 'billing-c'),
+ ('cdp-ahitar.gov.br', 'JCP325', 'owner-c'),
+ ('cdp-ahitar.gov.br', 'JCP325', 'admin-c'),
+ ('cdp-ahitar.gov.br', 'MIL275', 'tech-c'),
+ ('cdp-ahitar.gov.br', 'MIL275', 'billing-c'),
+ ('centrodememoriabndes.gov.br', 'GGT13', 'owner-c'),
+ ('centrodememoriabndes.gov.br', 'GGT13', 'admin-c'),
+ ('centrodememoriabndes.gov.br', 'GGT13', 'tech-c'),
+ ('centrodememoriabndes.gov.br', 'GGT13', 'billing-c'),
+ ('inmet.gov.br', 'WGS3', 'owner-c'),
+ ('inmet.gov.br', 'WGS3', 'admin-c'),
+ ('inmet.gov.br', 'CAP44', 'tech-c'),
+ ('inmet.gov.br', 'WGS3', 'billing-c'),
+ ('solucoestipublica.gov.br', 'ADSFE47', 'owner-c'),
+ ('solucoestipublica.gov.br', 'ADSFE47', 'admin-c'),
+ ('solucoestipublica.gov.br', 'MRV103', 'tech-c'),
+ ('solucoestipublica.gov.br', 'WEQLI', 'billing-c'),
+ ('proinfo.gov.br', 'WASEV', 'owner-c'),
+ ('proinfo.gov.br', 'MIEDU6', 'admin-c'),
+ ('proinfo.gov.br', 'MIEDU6', 'tech-c'),
+ ('proinfo.gov.br', 'MIEDU6', 'billing-c'),
+ ('ro.gov.br', 'FMDSA106', 'owner-c'),
+ ('ro.gov.br', 'FMDSA106', 'admin-c'),
+ ('ro.gov.br', 'FMDSA106', 'tech-c'),
+ ('ro.gov.br', 'FMDSA106', 'billing-c'),
+ ('cjf.gov.br', 'PMI', 'owner-c'),
+ ('cjf.gov.br', 'WNAJU', 'admin-c'),
+ ('cjf.gov.br', 'AJM126', 'tech-c'),
+ ('cjf.gov.br', 'PMI2', 'billing-c'),
+ ('processoeletronico.gov.br', 'CGSTM2', 'owner-c'),
+ ('processoeletronico.gov.br', 'CGSTM2', 'admin-c'),
+ ('processoeletronico.gov.br', 'CGSTM2', 'tech-c'),
+ ('processoeletronico.gov.br', 'CGSTM2', 'billing-c'),
+ ('btig.gov.br', 'CTDPR5', 'owner-c'),
+ ('btig.gov.br', 'CTDPR5', 'admin-c'),
+ ('btig.gov.br', 'CTDPR5', 'tech-c'),
+ ('btig.gov.br', 'CTDPR5', 'billing-c'),
+ ('prr4.gov.br', 'LPF124', 'owner-c'),
+ ('prr4.gov.br', 'LPF124', 'admin-c'),
+ ('prr4.gov.br', 'LPF124', 'tech-c'),
+ ('prr4.gov.br', 'ELS6', 'billing-c'),
+ ('comprasnet.gov.br', 'ADSFE47', 'owner-c'),
+ ('comprasnet.gov.br', 'ADSFE47', 'admin-c'),
+ ('comprasnet.gov.br', 'MRV103', 'tech-c'),
+ ('comprasnet.gov.br', 'WEQLI', 'billing-c'),
+ ('uca.gov.br', 'ADSFE47', 'owner-c'),
+ ('uca.gov.br', 'ADSFE47', 'admin-c'),
+ ('uca.gov.br', 'MRV103', 'tech-c'),
+ ('uca.gov.br', 'WEQLI', 'billing-c'),
+ ('fundacentro-pe.gov.br', 'AML656', 'owner-c'),
+ ('fundacentro-pe.gov.br', 'AML656', 'admin-c'),
+ ('fundacentro-pe.gov.br', 'HOT7', 'tech-c'),
+ ('fundacentro-pe.gov.br', 'DAM8', 'billing-c'),
+ ('eafi.gov.br', 'GMMPE2', 'owner-c'),
+ ('eafi.gov.br', 'GMMPE2', 'admin-c'),
+ ('eafi.gov.br', 'GMMPE2', 'tech-c'),
+ ('eafi.gov.br', 'GMMPE2', 'billing-c'),
+ ('scdp.gov.br', 'ADSFE47', 'owner-c'),
+ ('scdp.gov.br', 'ADSFE47', 'admin-c'),
+ ('scdp.gov.br', 'MRV103', 'tech-c'),
+ ('scdp.gov.br', 'WEQLI', 'billing-c'),
+ ('alemg.gov.br', 'MVR2', 'owner-c'),
+ ('alemg.gov.br', 'MVR2', 'admin-c'),
+ ('alemg.gov.br', 'MVR2', 'tech-c'),
+ ('alemg.gov.br', 'MVR2', 'billing-c'),
+ ('dom.gov.br', 'IDR7', 'owner-c'),
+ ('dom.gov.br', 'IDR7', 'admin-c'),
+ ('dom.gov.br', 'IDR7', 'tech-c'),
+ ('dom.gov.br', 'IDR7', 'billing-c'),
+ ('crtr01.gov.br', 'MAHEN40', 'owner-c'),
+ ('crtr01.gov.br', 'MAHEN40', 'admin-c'),
+ ('crtr01.gov.br', 'MAHEN40', 'tech-c'),
+ ('crtr01.gov.br', 'MAHEN40', 'billing-c'),
+ ('ccpe.gov.br', 'HCB42', 'owner-c'),
+ ('ccpe.gov.br', 'HCB42', 'admin-c'),
+ ('ccpe.gov.br', 'HCB42', 'tech-c'),
+ ('ccpe.gov.br', 'HCB42', 'billing-c'),
+ ('federalcard.gov.br', 'RMJ35', 'owner-c'),
+ ('federalcard.gov.br', 'RMJ35', 'admin-c'),
+ ('federalcard.gov.br', 'GIT60', 'tech-c'),
+ ('federalcard.gov.br', 'GIC166', 'billing-c'),
+ ('capitalderisco.gov.br', 'CAZ89', 'owner-c'),
+ ('capitalderisco.gov.br', 'CAZ89', 'admin-c'),
+ ('capitalderisco.gov.br', 'CAZ89', 'tech-c'),
+ ('capitalderisco.gov.br', 'CAZ89', 'billing-c'),
+ ('imbel.gov.br', 'IMB57', 'owner-c'),
+ ('imbel.gov.br', 'IMB57', 'admin-c'),
+ ('imbel.gov.br', 'IMB57', 'tech-c'),
+ ('imbel.gov.br', 'IMB57', 'billing-c'),
+ ('c-brazil.gov.br', 'ADSFE47', 'owner-c'),
+ ('c-brazil.gov.br', 'ADSFE47', 'admin-c'),
+ ('c-brazil.gov.br', 'MRV103', 'tech-c'),
+ ('c-brazil.gov.br', 'WEQLI', 'billing-c'),
+ ('crecigo.gov.br', 'ANSOA74', 'owner-c'),
+ ('crecigo.gov.br', 'ANSOA74', 'admin-c'),
+ ('crecigo.gov.br', 'APCJU9', 'tech-c'),
+ ('crecigo.gov.br', 'APCJU9', 'billing-c'),
+ ('senasp.gov.br', 'ANFME67', 'owner-c'),
+ ('senasp.gov.br', 'AQSNE', 'admin-c'),
+ ('senasp.gov.br', 'CCO83', 'tech-c'),
+ ('senasp.gov.br', 'ANFME67', 'billing-c'),
+ ('premioconservacaoenergia.gov.br', 'JMMSA2', 'owner-c'),
+ ('premioconservacaoenergia.gov.br', 'JMMSA2', 'admin-c'),
+ ('premioconservacaoenergia.gov.br', 'VABSI7', 'tech-c'),
+ ('premioconservacaoenergia.gov.br', 'KAKLE2', 'billing-c'),
+ ('crbio8.gov.br', 'CRGCA45', 'owner-c'),
+ ('crbio8.gov.br', 'CRGCA45', 'admin-c'),
+ ('crbio8.gov.br', 'CRGCA45', 'tech-c'),
+ ('crbio8.gov.br', 'CRGCA45', 'billing-c'),
+ ('encomex.gov.br', 'MDC167', 'owner-c'),
+ ('encomex.gov.br', 'MDC167', 'admin-c'),
+ ('encomex.gov.br', 'MDC167', 'tech-c'),
+ ('encomex.gov.br', 'MDC167', 'billing-c'),
+ ('cadastrominhacasaminhavida.gov.br', 'RMJ35', 'owner-c'),
+ ('cadastrominhacasaminhavida.gov.br', 'RMJ35', 'admin-c'),
+ ('cadastrominhacasaminhavida.gov.br', 'GIT60', 'tech-c'),
+ ('cadastrominhacasaminhavida.gov.br', 'GIC166', 'billing-c'),
+ ('relacoesexteriores.gov.br', 'SAT7', 'owner-c'),
+ ('relacoesexteriores.gov.br', 'SAT7', 'admin-c'),
+ ('relacoesexteriores.gov.br', 'SAT7', 'tech-c'),
+ ('relacoesexteriores.gov.br', 'SAT7', 'billing-c'),
+ ('tre-pa.gov.br', 'TRP11', 'owner-c'),
+ ('tre-pa.gov.br', 'DCC', 'admin-c'),
+ ('tre-pa.gov.br', 'DCC', 'tech-c'),
+ ('tre-pa.gov.br', 'JFR25', 'billing-c'),
+ ('bdep.gov.br', 'RALFA27', 'owner-c'),
+ ('bdep.gov.br', 'RALFA27', 'admin-c'),
+ ('bdep.gov.br', 'RALFA27', 'tech-c'),
+ ('bdep.gov.br', 'RALFA27', 'billing-c'),
+ ('amazonianfund.gov.br', 'GGT13', 'owner-c'),
+ ('amazonianfund.gov.br', 'GGT13', 'admin-c'),
+ ('amazonianfund.gov.br', 'GGT13', 'tech-c'),
+ ('amazonianfund.gov.br', 'GGT13', 'billing-c'),
+ ('brazilrounds.gov.br', 'RALFA27', 'owner-c'),
+ ('brazilrounds.gov.br', 'RALFA27', 'admin-c'),
+ ('brazilrounds.gov.br', 'RALFA27', 'tech-c'),
+ ('brazilrounds.gov.br', 'RALFA27', 'billing-c'),
+ ('cetem.gov.br', 'SEGES3', 'owner-c'),
+ ('cetem.gov.br', 'SEGES3', 'admin-c'),
+ ('cetem.gov.br', 'SERED', 'tech-c'),
+ ('cetem.gov.br', 'SEGES3', 'billing-c'),
+ ('e-pagamentoscaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('e-pagamentoscaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('e-pagamentoscaixa.gov.br', 'GIT60', 'tech-c'),
+ ('e-pagamentoscaixa.gov.br', 'GIC166', 'billing-c'),
+ ('jt.gov.br', 'SCD13', 'owner-c'),
+ ('jt.gov.br', 'SCD13', 'admin-c'),
+ ('jt.gov.br', 'SCD13', 'tech-c'),
+ ('jt.gov.br', 'SCD13', 'billing-c'),
+ ('cnater.gov.br', 'ECLNA', 'owner-c'),
+ ('cnater.gov.br', 'ECLNA', 'admin-c'),
+ ('cnater.gov.br', 'ECLNA', 'tech-c'),
+ ('cnater.gov.br', 'ECLNA', 'billing-c'),
+ ('spm.gov.br', 'MAR79', 'owner-c'),
+ ('spm.gov.br', 'MAR79', 'admin-c'),
+ ('spm.gov.br', 'MRV103', 'tech-c'),
+ ('spm.gov.br', 'MAR79', 'billing-c'),
+ ('redecidadao.gov.br', 'ADC633', 'owner-c'),
+ ('redecidadao.gov.br', 'ADC633', 'admin-c'),
+ ('redecidadao.gov.br', 'ADC633', 'tech-c'),
+ ('redecidadao.gov.br', 'ADC633', 'billing-c'),
+ ('convergenciademidias.gov.br', 'MAMPA145', 'owner-c'),
+ ('convergenciademidias.gov.br', 'MAMPA145', 'admin-c'),
+ ('convergenciademidias.gov.br', 'MAR79', 'tech-c'),
+ ('convergenciademidias.gov.br', 'MAR79', 'billing-c'),
+ ('gestaopublica.gov.br', 'CGSTM2', 'owner-c'),
+ ('gestaopublica.gov.br', 'CGSTM2', 'admin-c'),
+ ('gestaopublica.gov.br', 'CGSTM2', 'tech-c'),
+ ('gestaopublica.gov.br', 'CGSTM2', 'billing-c'),
+ ('portaldoexportador.gov.br', 'MDC167', 'owner-c'),
+ ('portaldoexportador.gov.br', 'MDC167', 'admin-c'),
+ ('portaldoexportador.gov.br', 'MDC167', 'tech-c'),
+ ('portaldoexportador.gov.br', 'MDC167', 'billing-c'),
+ ('pescabrasil.gov.br', 'RESCA114', 'owner-c'),
+ ('pescabrasil.gov.br', 'RESCA114', 'admin-c'),
+ ('pescabrasil.gov.br', 'RESCA114', 'tech-c'),
+ ('pescabrasil.gov.br', 'RESCA114', 'billing-c'),
+ ('dtceasc.gov.br', 'SRS330', 'owner-c'),
+ ('dtceasc.gov.br', 'SRS330', 'admin-c'),
+ ('dtceasc.gov.br', 'SRS330', 'tech-c'),
+ ('dtceasc.gov.br', 'SRS330', 'billing-c'),
+ ('cindacta2.gov.br', 'LUAQU28', 'owner-c'),
+ ('cindacta2.gov.br', 'LUAQU28', 'admin-c'),
+ ('cindacta2.gov.br', 'LUAQU28', 'tech-c'),
+ ('cindacta2.gov.br', 'LUAQU28', 'billing-c'),
+ ('correios.gov.br', 'MAR1601', 'owner-c'),
+ ('correios.gov.br', 'MAR1601', 'admin-c'),
+ ('correios.gov.br', 'EEA', 'tech-c'),
+ ('correios.gov.br', 'MAR1601', 'billing-c'),
+ ('coletasolidaria.gov.br', 'MACSO438', 'owner-c'),
+ ('coletasolidaria.gov.br', 'ADSFE47', 'admin-c'),
+ ('coletasolidaria.gov.br', 'MRV103', 'tech-c'),
+ ('coletasolidaria.gov.br', 'WEQLI', 'billing-c'),
+ ('controladoria.gov.br', 'AMDSC29', 'owner-c'),
+ ('controladoria.gov.br', 'AMDSC29', 'admin-c'),
+ ('controladoria.gov.br', 'VDMLI12', 'tech-c'),
+ ('controladoria.gov.br', 'GUMSO21', 'billing-c'),
+ ('dtpdf.gov.br', 'LRS181', 'owner-c'),
+ ('dtpdf.gov.br', 'LRS181', 'admin-c'),
+ ('dtpdf.gov.br', 'DDT10', 'tech-c'),
+ ('dtpdf.gov.br', 'LRS181', 'billing-c'),
+ ('sisgen.gov.br', 'MMR', 'owner-c'),
+ ('sisgen.gov.br', 'MMR', 'admin-c'),
+ ('sisgen.gov.br', 'MMR', 'tech-c'),
+ ('sisgen.gov.br', 'MMR', 'billing-c'),
+ ('caurs.gov.br', 'MICLO17', 'owner-c'),
+ ('caurs.gov.br', 'MICLO17', 'admin-c'),
+ ('caurs.gov.br', 'SCITI', 'tech-c'),
+ ('caurs.gov.br', 'SCFIN', 'billing-c'),
+ ('aeroportoindustria.gov.br', 'SUTIN', 'owner-c'),
+ ('aeroportoindustria.gov.br', 'SUTIN', 'admin-c'),
+ ('aeroportoindustria.gov.br', 'SUTIN', 'tech-c'),
+ ('aeroportoindustria.gov.br', 'GESUP4', 'billing-c'),
+ ('caixamaisqueumbanco.gov.br', 'RMJ35', 'owner-c'),
+ ('caixamaisqueumbanco.gov.br', 'RMJ35', 'admin-c'),
+ ('caixamaisqueumbanco.gov.br', 'GIT60', 'tech-c'),
+ ('caixamaisqueumbanco.gov.br', 'GIC166', 'billing-c'),
+ ('viversemlimite.gov.br', 'MAAJU182', 'owner-c'),
+ ('viversemlimite.gov.br', 'WEL52', 'admin-c'),
+ ('viversemlimite.gov.br', 'FLMSA16', 'tech-c'),
+ ('viversemlimite.gov.br', 'FLMSA16', 'billing-c'),
+ ('jmpi2015.gov.br', 'JDGPI', 'owner-c'),
+ ('jmpi2015.gov.br', 'JAA364', 'admin-c'),
+ ('jmpi2015.gov.br', 'JAA364', 'tech-c'),
+ ('jmpi2015.gov.br', 'JAA364', 'billing-c'),
+ ('causc.gov.br', 'MICLO17', 'owner-c'),
+ ('causc.gov.br', 'MICLO17', 'admin-c'),
+ ('causc.gov.br', 'SCITI', 'tech-c'),
+ ('causc.gov.br', 'SCFIN', 'billing-c'),
+ ('tst.gov.br', 'SCD13', 'owner-c'),
+ ('tst.gov.br', 'SCD13', 'admin-c'),
+ ('tst.gov.br', 'SCD13', 'tech-c'),
+ ('tst.gov.br', 'SCD13', 'billing-c'),
+ ('agu.gov.br', 'DIDAG7', 'owner-c'),
+ ('agu.gov.br', 'DIDAG7', 'admin-c'),
+ ('agu.gov.br', 'MCTMA', 'tech-c'),
+ ('agu.gov.br', 'DIDAG7', 'billing-c'),
+ ('caumt.gov.br', 'MICLO17', 'owner-c'),
+ ('caumt.gov.br', 'MICLO17', 'admin-c'),
+ ('caumt.gov.br', 'SCITI', 'tech-c'),
+ ('caumt.gov.br', 'SCFIN', 'billing-c'),
+ ('desenvolvimentosocial.gov.br', 'MACSO438', 'owner-c'),
+ ('desenvolvimentosocial.gov.br', 'MACSO438', 'admin-c'),
+ ('desenvolvimentosocial.gov.br', 'MACSO438', 'tech-c'),
+ ('desenvolvimentosocial.gov.br', 'MACSO438', 'billing-c'),
+ ('servicos.gov.br', 'CGSTM2', 'owner-c'),
+ ('servicos.gov.br', 'CGSTM2', 'admin-c'),
+ ('servicos.gov.br', 'CGSTM2', 'tech-c'),
+ ('servicos.gov.br', 'CGSTM2', 'billing-c'),
+ ('rs.gov.br', 'PAANG11', 'owner-c'),
+ ('rs.gov.br', 'GRPRO20', 'admin-c'),
+ ('rs.gov.br', 'RDV', 'tech-c'),
+ ('rs.gov.br', 'RDV', 'billing-c'),
+ ('cidadaniafinanceira.gov.br', 'SETIN16', 'owner-c'),
+ ('cidadaniafinanceira.gov.br', 'SETIN16', 'admin-c'),
+ ('cidadaniafinanceira.gov.br', 'SETIN16', 'tech-c'),
+ ('cidadaniafinanceira.gov.br', 'SETIN16', 'billing-c'),
+ ('reluz.gov.br', 'JMMSA2', 'owner-c'),
+ ('reluz.gov.br', 'JMMSA2', 'admin-c'),
+ ('reluz.gov.br', 'VABSI7', 'tech-c'),
+ ('reluz.gov.br', 'JMMSA2', 'billing-c'),
+ ('anvisa.gov.br', 'SCO6', 'owner-c'),
+ ('anvisa.gov.br', 'SCO6', 'admin-c'),
+ ('anvisa.gov.br', 'SCO6', 'tech-c'),
+ ('anvisa.gov.br', 'SCO6', 'billing-c'),
+ ('rfb.gov.br', 'ADSFE47', 'owner-c'),
+ ('rfb.gov.br', 'ADSFE47', 'admin-c'),
+ ('rfb.gov.br', 'MRV103', 'tech-c'),
+ ('rfb.gov.br', 'WEQLI', 'billing-c'),
+ ('copa2014.gov.br', 'JDGPI', 'owner-c'),
+ ('copa2014.gov.br', 'JAA364', 'admin-c'),
+ ('copa2014.gov.br', 'JAA364', 'tech-c'),
+ ('copa2014.gov.br', 'JAA364', 'billing-c'),
+ ('contaspublicas.gov.br', 'ARRAL9', 'owner-c'),
+ ('contaspublicas.gov.br', 'ARRAL9', 'admin-c'),
+ ('contaspublicas.gov.br', 'RETMI', 'tech-c'),
+ ('contaspublicas.gov.br', 'ARRAL9', 'billing-c'),
+ ('jf.gov.br', 'PMI', 'owner-c'),
+ ('jf.gov.br', 'WNAJU', 'admin-c'),
+ ('jf.gov.br', 'AJM126', 'tech-c'),
+ ('jf.gov.br', 'PMI2', 'billing-c'),
+ ('voz.gov.br', 'RSM9', 'owner-c'),
+ ('voz.gov.br', 'RSM9', 'admin-c'),
+ ('voz.gov.br', 'RSM9', 'tech-c'),
+ ('voz.gov.br', 'RSM9', 'billing-c'),
+ ('educacaofiscal.gov.br', 'JRS323', 'owner-c'),
+ ('educacaofiscal.gov.br', 'JRS323', 'admin-c'),
+ ('educacaofiscal.gov.br', 'YRD7', 'tech-c'),
+ ('educacaofiscal.gov.br', 'JRS323', 'billing-c'),
+ ('imprensanacional.gov.br', 'IMNAC', 'owner-c'),
+ ('imprensanacional.gov.br', 'EDMOL13', 'admin-c'),
+ ('imprensanacional.gov.br', 'IMNAC', 'tech-c'),
+ ('imprensanacional.gov.br', 'IMNAC', 'billing-c'),
+ ('sus.gov.br', 'DIS5', 'owner-c'),
+ ('sus.gov.br', 'DIS5', 'admin-c'),
+ ('sus.gov.br', 'DIS5', 'tech-c'),
+ ('sus.gov.br', 'DIS5', 'billing-c'),
+ ('cgna.gov.br', 'ADRED14', 'owner-c'),
+ ('cgna.gov.br', 'ADRED14', 'admin-c'),
+ ('cgna.gov.br', 'MPGPA4', 'tech-c'),
+ ('cgna.gov.br', 'MVF212', 'billing-c'),
+ ('governancapublica.gov.br', 'ARRAL9', 'owner-c'),
+ ('governancapublica.gov.br', 'ARRAL9', 'admin-c'),
+ ('governancapublica.gov.br', 'RETMI', 'tech-c'),
+ ('governancapublica.gov.br', 'ARRAL9', 'billing-c'),
+ ('casacivil.gov.br', 'MAR79', 'owner-c'),
+ ('casacivil.gov.br', 'MAR79', 'admin-c'),
+ ('casacivil.gov.br', 'MAR79', 'tech-c'),
+ ('casacivil.gov.br', 'MAR79', 'billing-c'),
+ ('participo.gov.br', 'MAR79', 'owner-c'),
+ ('participo.gov.br', 'MAR79', 'admin-c'),
+ ('participo.gov.br', 'MRV103', 'tech-c'),
+ ('participo.gov.br', 'MAR79', 'billing-c'),
+ ('funarte.gov.br', 'ROHSI8', 'owner-c'),
+ ('funarte.gov.br', 'FCD97', 'admin-c'),
+ ('funarte.gov.br', 'ROHSI8', 'tech-c'),
+ ('funarte.gov.br', 'ROHSI8', 'billing-c'),
+ ('contracorrupcao.gov.br', 'AMDSC29', 'owner-c'),
+ ('contracorrupcao.gov.br', 'AMDSC29', 'admin-c'),
+ ('contracorrupcao.gov.br', 'VDMLI12', 'tech-c'),
+ ('contracorrupcao.gov.br', 'GUMSO21', 'billing-c'),
+ ('trt22.gov.br', 'GBM19', 'owner-c'),
+ ('trt22.gov.br', 'TRR3', 'admin-c'),
+ ('trt22.gov.br', 'GBM19', 'tech-c'),
+ ('trt22.gov.br', 'GBM19', 'billing-c'),
+ ('brasilmaior.gov.br', 'MDC167', 'owner-c'),
+ ('brasilmaior.gov.br', 'MDC167', 'admin-c'),
+ ('brasilmaior.gov.br', 'MDC167', 'tech-c'),
+ ('brasilmaior.gov.br', 'MDC167', 'billing-c'),
+ ('cauam.gov.br', 'MICLO17', 'owner-c'),
+ ('cauam.gov.br', 'MICLO17', 'admin-c'),
+ ('cauam.gov.br', 'SCITI', 'tech-c'),
+ ('cauam.gov.br', 'SCFIN', 'billing-c'),
+ ('projetobrasilmunicipios.gov.br', 'CGSTM2', 'owner-c'),
+ ('projetobrasilmunicipios.gov.br', 'CGSTM2', 'admin-c'),
+ ('projetobrasilmunicipios.gov.br', 'CGSTM2', 'tech-c'),
+ ('projetobrasilmunicipios.gov.br', 'CGSTM2', 'billing-c'),
+ ('ebndes.gov.br', 'GGT13', 'owner-c'),
+ ('ebndes.gov.br', 'GGT13', 'admin-c'),
+ ('ebndes.gov.br', 'GGT13', 'tech-c'),
+ ('ebndes.gov.br', 'GGT13', 'billing-c'),
+ ('odmbrasil.gov.br', 'MAR79', 'owner-c'),
+ ('odmbrasil.gov.br', 'MAR79', 'admin-c'),
+ ('odmbrasil.gov.br', 'MAR79', 'tech-c'),
+ ('odmbrasil.gov.br', 'MAR79', 'billing-c'),
+ ('scdl.gov.br', 'WRMKR', 'owner-c'),
+ ('scdl.gov.br', 'WRMKR', 'admin-c'),
+ ('scdl.gov.br', 'WRMKR', 'tech-c'),
+ ('scdl.gov.br', 'WRMKR', 'billing-c'),
+ ('tradepromotion.gov.br', 'CTDPR5', 'owner-c'),
+ ('tradepromotion.gov.br', 'CTDPR5', 'admin-c'),
+ ('tradepromotion.gov.br', 'CTDPR5', 'tech-c'),
+ ('tradepromotion.gov.br', 'CTDPR5', 'billing-c'),
+ ('museulasarsegall.gov.br', 'INBMU', 'owner-c'),
+ ('museulasarsegall.gov.br', 'INBMU', 'admin-c'),
+ ('museulasarsegall.gov.br', 'INBMU', 'tech-c'),
+ ('museulasarsegall.gov.br', 'INBMU', 'billing-c'),
+ ('dnocspb.gov.br', 'BLC4', 'owner-c'),
+ ('dnocspb.gov.br', 'BLC4', 'admin-c'),
+ ('dnocspb.gov.br', 'BLC4', 'tech-c'),
+ ('dnocspb.gov.br', 'FDD5', 'billing-c'),
+ ('df.gov.br', 'STC46', 'owner-c'),
+ ('df.gov.br', 'STC46', 'admin-c'),
+ ('df.gov.br', 'STC46', 'tech-c'),
+ ('df.gov.br', 'STC46', 'billing-c'),
+ ('megasena.gov.br', 'RMJ35', 'owner-c'),
+ ('megasena.gov.br', 'RMJ35', 'admin-c'),
+ ('megasena.gov.br', 'GIT60', 'tech-c'),
+ ('megasena.gov.br', 'GIC166', 'billing-c'),
+ ('inmetro-es.gov.br', 'INN12', 'owner-c'),
+ ('inmetro-es.gov.br', 'INN12', 'admin-c'),
+ ('inmetro-es.gov.br', 'INN12', 'tech-c'),
+ ('inmetro-es.gov.br', 'INN12', 'billing-c'),
+ ('integracaosaofrancisco.gov.br', 'ADSFE47', 'owner-c'),
+ ('integracaosaofrancisco.gov.br', 'FFDSA72', 'admin-c'),
+ ('integracaosaofrancisco.gov.br', 'HEMGO28', 'tech-c'),
+ ('integracaosaofrancisco.gov.br', 'FFDSA72', 'billing-c'),
+ ('crecidf.gov.br', 'HRF61', 'owner-c'),
+ ('crecidf.gov.br', 'HRF61', 'admin-c'),
+ ('crecidf.gov.br', 'ROM1194', 'tech-c'),
+ ('crecidf.gov.br', 'ROM1194', 'billing-c'),
+ ('amazoniafund.gov.br', 'GGT13', 'owner-c'),
+ ('amazoniafund.gov.br', 'GGT13', 'admin-c'),
+ ('amazoniafund.gov.br', 'GGT13', 'tech-c'),
+ ('amazoniafund.gov.br', 'GGT13', 'billing-c'),
+ ('ibc.gov.br', 'EDO124', 'owner-c'),
+ ('ibc.gov.br', 'EDO124', 'admin-c'),
+ ('ibc.gov.br', 'EDO124', 'tech-c'),
+ ('ibc.gov.br', 'EDO124', 'billing-c'),
+ ('juntoscontracorrupcao.gov.br', 'AMDSC29', 'owner-c'),
+ ('juntoscontracorrupcao.gov.br', 'AMDSC29', 'admin-c'),
+ ('juntoscontracorrupcao.gov.br', 'VDMLI12', 'tech-c'),
+ ('juntoscontracorrupcao.gov.br', 'GUMSO21', 'billing-c'),
+ ('consumosustentavel.gov.br', 'MMR', 'owner-c'),
+ ('consumosustentavel.gov.br', 'MMR', 'admin-c'),
+ ('consumosustentavel.gov.br', 'MMR', 'tech-c'),
+ ('consumosustentavel.gov.br', 'MMR', 'billing-c'),
+ ('crfsc.gov.br', 'JOF197', 'owner-c'),
+ ('crfsc.gov.br', 'JOF197', 'admin-c'),
+ ('crfsc.gov.br', 'JOF197', 'tech-c'),
+ ('crfsc.gov.br', 'JOF197', 'billing-c'),
+ ('jornadasdip.gov.br', 'SAT7', 'owner-c'),
+ ('jornadasdip.gov.br', 'SAT7', 'admin-c'),
+ ('jornadasdip.gov.br', 'SAT7', 'tech-c'),
+ ('jornadasdip.gov.br', 'SAT7', 'billing-c'),
+ ('eafco.gov.br', 'JBN177', 'owner-c'),
+ ('eafco.gov.br', 'JBN177', 'admin-c'),
+ ('eafco.gov.br', 'JBN177', 'tech-c'),
+ ('eafco.gov.br', 'JBN177', 'billing-c'),
+ ('eafsl.gov.br', 'CAF859', 'owner-c'),
+ ('eafsl.gov.br', 'WETPA2', 'admin-c'),
+ ('eafsl.gov.br', 'WETPA2', 'tech-c'),
+ ('eafsl.gov.br', 'CAF859', 'billing-c'),
+ ('fundoamazonia-bndes.gov.br', 'GGT13', 'owner-c'),
+ ('fundoamazonia-bndes.gov.br', 'GGT13', 'admin-c'),
+ ('fundoamazonia-bndes.gov.br', 'GGT13', 'tech-c'),
+ ('fundoamazonia-bndes.gov.br', 'GGT13', 'billing-c'),
+ ('educacao.gov.br', 'WASEV', 'owner-c'),
+ ('educacao.gov.br', 'MIEDU6', 'admin-c'),
+ ('educacao.gov.br', 'MIEDU6', 'tech-c'),
+ ('educacao.gov.br', 'MIEDU6', 'billing-c'),
+ ('radiocamara.gov.br', 'SSG50', 'owner-c'),
+ ('radiocamara.gov.br', 'SSG50', 'admin-c'),
+ ('radiocamara.gov.br', 'SSG50', 'tech-c'),
+ ('radiocamara.gov.br', 'SSG50', 'billing-c'),
+ ('prt8.gov.br', 'SAC142', 'owner-c'),
+ ('prt8.gov.br', 'SAC142', 'admin-c'),
+ ('prt8.gov.br', 'SAC142', 'tech-c'),
+ ('prt8.gov.br', 'CAC15', 'billing-c'),
+ ('cnj.gov.br', 'OTNCI', 'owner-c'),
+ ('cnj.gov.br', 'OTNCI', 'admin-c'),
+ ('cnj.gov.br', 'OTNCI', 'tech-c'),
+ ('cnj.gov.br', 'OTNCI', 'billing-c'),
+ ('govbrasil.gov.br', 'MAR79', 'owner-c'),
+ ('govbrasil.gov.br', 'MAR79', 'admin-c'),
+ ('govbrasil.gov.br', 'MRV103', 'tech-c'),
+ ('govbrasil.gov.br', 'MAR79', 'billing-c'),
+ ('sudam.gov.br', 'GGS6', 'owner-c'),
+ ('sudam.gov.br', 'GGS6', 'admin-c'),
+ ('sudam.gov.br', 'GGS6', 'tech-c'),
+ ('sudam.gov.br', 'GGS4', 'billing-c'),
+ ('emdefesadademocracia.gov.br', 'MAR79', 'owner-c'),
+ ('emdefesadademocracia.gov.br', 'MAR79', 'admin-c'),
+ ('emdefesadademocracia.gov.br', 'MAR79', 'tech-c'),
+ ('emdefesadademocracia.gov.br', 'MAR79', 'billing-c'),
+ ('trt18.gov.br', 'HMA3', 'owner-c'),
+ ('trt18.gov.br', 'HMA3', 'admin-c'),
+ ('trt18.gov.br', 'HMA3', 'tech-c'),
+ ('trt18.gov.br', 'HMA3', 'billing-c'),
+ ('comprasagriculturafamiliar.gov.br', 'MACSO438', 'owner-c'),
+ ('comprasagriculturafamiliar.gov.br', 'MACSO438', 'admin-c'),
+ ('comprasagriculturafamiliar.gov.br', 'MACSO438', 'tech-c'),
+ ('comprasagriculturafamiliar.gov.br', 'MACSO438', 'billing-c'),
+ ('presalpetroleo.gov.br', 'ANOOL10', 'owner-c'),
+ ('presalpetroleo.gov.br', 'ANOOL10', 'admin-c'),
+ ('presalpetroleo.gov.br', 'ANOOL10', 'tech-c'),
+ ('presalpetroleo.gov.br', 'ANOOL10', 'billing-c'),
+ ('sgi.gov.br', 'CGSTM2', 'owner-c'),
+ ('sgi.gov.br', 'CGSTM2', 'admin-c'),
+ ('sgi.gov.br', 'CGSTM2', 'tech-c'),
+ ('sgi.gov.br', 'CGSTM2', 'billing-c'),
+ ('e-contacaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('e-contacaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('e-contacaixa.gov.br', 'GIT60', 'tech-c'),
+ ('e-contacaixa.gov.br', 'GIC166', 'billing-c'),
+ ('serpro.gov.br', 'ADSFE47', 'owner-c'),
+ ('serpro.gov.br', 'ADSFE47', 'admin-c'),
+ ('serpro.gov.br', 'MRV103', 'tech-c'),
+ ('serpro.gov.br', 'WEQLI', 'billing-c'),
+ ('caixaresolve.gov.br', 'RMJ35', 'owner-c'),
+ ('caixaresolve.gov.br', 'RMJ35', 'admin-c'),
+ ('caixaresolve.gov.br', 'GIT60', 'tech-c'),
+ ('caixaresolve.gov.br', 'GIC166', 'billing-c'),
+ ('cref-sp.gov.br', 'CPM144', 'owner-c'),
+ ('cref-sp.gov.br', 'CPM144', 'admin-c'),
+ ('cref-sp.gov.br', 'CPM144', 'tech-c'),
+ ('cref-sp.gov.br', 'CPM144', 'billing-c'),
+ ('selic.gov.br', 'RIS125', 'owner-c'),
+ ('selic.gov.br', 'RIS125', 'admin-c'),
+ ('selic.gov.br', 'RIS125', 'tech-c'),
+ ('selic.gov.br', 'RIS125', 'billing-c'),
+ ('bioform.gov.br', 'DAJBA6', 'owner-c'),
+ ('bioform.gov.br', 'ADSFE47', 'admin-c'),
+ ('bioform.gov.br', 'MRV103', 'tech-c'),
+ ('bioform.gov.br', 'ADSFE47', 'billing-c'),
+ ('rffsa.gov.br', 'MHA6', 'owner-c'),
+ ('rffsa.gov.br', 'MHA6', 'admin-c'),
+ ('rffsa.gov.br', 'VIILT26', 'tech-c'),
+ ('rffsa.gov.br', 'MHA6', 'billing-c'),
+ ('crtr19.gov.br', 'RMCLA3', 'owner-c'),
+ ('crtr19.gov.br', 'HIS5', 'admin-c'),
+ ('crtr19.gov.br', 'HIS5', 'tech-c'),
+ ('crtr19.gov.br', 'RMCLA3', 'billing-c'),
+ ('dner-ms.gov.br', 'TEE7', 'owner-c'),
+ ('dner-ms.gov.br', 'TEE7', 'admin-c'),
+ ('dner-ms.gov.br', 'TEE7', 'tech-c'),
+ ('dner-ms.gov.br', 'TEE7', 'billing-c'),
+ ('mtbauru.gov.br', 'RRB72', 'owner-c'),
+ ('mtbauru.gov.br', 'RRB72', 'admin-c'),
+ ('mtbauru.gov.br', 'RRB72', 'tech-c'),
+ ('mtbauru.gov.br', 'RRB72', 'billing-c'),
+ ('tjap.gov.br', 'MACSC41', 'owner-c'),
+ ('tjap.gov.br', 'MACSC41', 'admin-c'),
+ ('tjap.gov.br', 'LEBEZ10', 'tech-c'),
+ ('tjap.gov.br', 'MACSC41', 'billing-c'),
+ ('amazonianfund-bndes.gov.br', 'GGT13', 'owner-c'),
+ ('amazonianfund-bndes.gov.br', 'GGT13', 'admin-c'),
+ ('amazonianfund-bndes.gov.br', 'GGT13', 'tech-c'),
+ ('amazonianfund-bndes.gov.br', 'GGT13', 'billing-c'),
+ ('incrarn.gov.br', 'JCK36', 'owner-c'),
+ ('incrarn.gov.br', 'JCK36', 'admin-c'),
+ ('incrarn.gov.br', 'JCK36', 'tech-c'),
+ ('incrarn.gov.br', 'JCK36', 'billing-c'),
+ ('wikilegis.gov.br', 'SSG50', 'owner-c'),
+ ('wikilegis.gov.br', 'SSG50', 'admin-c'),
+ ('wikilegis.gov.br', 'SSG50', 'tech-c'),
+ ('wikilegis.gov.br', 'SSG50', 'billing-c'),
+ ('softwarelivre.gov.br', 'ADSFE47', 'owner-c'),
+ ('softwarelivre.gov.br', 'ADSFE47', 'admin-c'),
+ ('softwarelivre.gov.br', 'MRV103', 'tech-c'),
+ ('softwarelivre.gov.br', 'WEQLI', 'billing-c'),
+ ('portalfederativo.gov.br', 'MHS92', 'owner-c'),
+ ('portalfederativo.gov.br', 'PSP4', 'admin-c'),
+ ('portalfederativo.gov.br', 'MAR79', 'tech-c'),
+ ('portalfederativo.gov.br', 'MAR79', 'billing-c'),
+ ('mma.gov.br', 'MMR', 'owner-c'),
+ ('mma.gov.br', 'MMR', 'admin-c'),
+ ('mma.gov.br', 'MMR', 'tech-c'),
+ ('mma.gov.br', 'MMR', 'billing-c'),
+ ('separeolixo.gov.br', 'MMR', 'owner-c'),
+ ('separeolixo.gov.br', 'MMR', 'admin-c'),
+ ('separeolixo.gov.br', 'MMR', 'tech-c'),
+ ('separeolixo.gov.br', 'MMR', 'billing-c'),
+ ('crmvrs.gov.br', 'ZAC', 'owner-c'),
+ ('crmvrs.gov.br', 'ZAC', 'admin-c'),
+ ('crmvrs.gov.br', 'ZAC', 'tech-c'),
+ ('crmvrs.gov.br', 'ZAC', 'billing-c'),
+ ('fjp.gov.br', 'BRB', 'owner-c'),
+ ('fjp.gov.br', 'RDR60', 'admin-c'),
+ ('fjp.gov.br', 'PGM14', 'tech-c'),
+ ('fjp.gov.br', 'RDR60', 'billing-c'),
+ ('eafguanambi.gov.br', 'ALDTE2', 'owner-c'),
+ ('eafguanambi.gov.br', 'ALDTE2', 'admin-c'),
+ ('eafguanambi.gov.br', 'LXH', 'tech-c'),
+ ('eafguanambi.gov.br', 'ALDTE2', 'billing-c'),
+ ('tre-mg.gov.br', 'WRA17', 'owner-c'),
+ ('tre-mg.gov.br', 'DCC', 'admin-c'),
+ ('tre-mg.gov.br', 'LAM645', 'tech-c'),
+ ('tre-mg.gov.br', 'WOS3', 'billing-c'),
+ ('cop15brasil.gov.br', 'MAMPA145', 'owner-c'),
+ ('cop15brasil.gov.br', 'MAMPA145', 'admin-c'),
+ ('cop15brasil.gov.br', 'INTVC', 'tech-c'),
+ ('cop15brasil.gov.br', 'MAR79', 'billing-c'),
+ ('crecipe.gov.br', 'CRI31', 'owner-c'),
+ ('crecipe.gov.br', 'CRI31', 'admin-c'),
+ ('crecipe.gov.br', 'CRI31', 'tech-c'),
+ ('crecipe.gov.br', 'CRI31', 'billing-c'),
+ ('censo2000.gov.br', 'ECO', 'owner-c'),
+ ('censo2000.gov.br', 'ECO', 'admin-c'),
+ ('censo2000.gov.br', 'ECO', 'tech-c'),
+ ('censo2000.gov.br', 'ECO', 'billing-c'),
+ ('caixaqui.gov.br', 'RMJ35', 'owner-c'),
+ ('caixaqui.gov.br', 'RMJ35', 'admin-c'),
+ ('caixaqui.gov.br', 'GIT60', 'tech-c'),
+ ('caixaqui.gov.br', 'GIC166', 'billing-c'),
+ ('sena.gov.br', 'RMJ35', 'owner-c'),
+ ('sena.gov.br', 'RMJ35', 'admin-c'),
+ ('sena.gov.br', 'GIT60', 'tech-c'),
+ ('sena.gov.br', 'GIC166', 'billing-c'),
+ ('mtecbo2000.gov.br', 'COINF90', 'owner-c'),
+ ('mtecbo2000.gov.br', 'CLMEN28', 'admin-c'),
+ ('mtecbo2000.gov.br', 'MALHE11', 'tech-c'),
+ ('mtecbo2000.gov.br', 'MALHE11', 'billing-c'),
+ ('gsi.gov.br', 'GCTGS', 'owner-c'),
+ ('gsi.gov.br', 'GCTGS', 'admin-c'),
+ ('gsi.gov.br', 'MAR79', 'tech-c'),
+ ('gsi.gov.br', 'GCTGS', 'billing-c'),
+ ('lai.gov.br', 'AMDSC29', 'owner-c'),
+ ('lai.gov.br', 'AMDSC29', 'admin-c'),
+ ('lai.gov.br', 'VDMLI12', 'tech-c'),
+ ('lai.gov.br', 'GUMSO21', 'billing-c'),
+ ('eln.gov.br', 'GSC187', 'owner-c'),
+ ('eln.gov.br', 'GSC187', 'admin-c'),
+ ('eln.gov.br', 'GSC187', 'tech-c'),
+ ('eln.gov.br', 'GSC187', 'billing-c'),
+ ('bolsadacaixa.gov.br', 'RMJ35', 'owner-c'),
+ ('bolsadacaixa.gov.br', 'RMJ35', 'admin-c'),
+ ('bolsadacaixa.gov.br', 'GIT60', 'tech-c'),
+ ('bolsadacaixa.gov.br', 'GIC166', 'billing-c'),
+ ('eafigt.gov.br', 'EAI15', 'owner-c'),
+ ('eafigt.gov.br', 'EAI15', 'admin-c'),
+ ('eafigt.gov.br', 'EAI15', 'tech-c'),
+ ('eafigt.gov.br', 'EAI15', 'billing-c'),
+ ('eafajt.gov.br', 'ALDTE2', 'owner-c'),
+ ('eafajt.gov.br', 'ALDTE2', 'admin-c'),
+ ('eafajt.gov.br', 'LXH', 'tech-c'),
+ ('eafajt.gov.br', 'ALDTE2', 'billing-c'),
+ ('ctis.gov.br', 'ECLNA', 'owner-c'),
+ ('ctis.gov.br', 'ECLNA', 'admin-c'),
+ ('ctis.gov.br', 'ECLNA', 'tech-c'),
+ ('ctis.gov.br', 'ECLNA', 'billing-c'),
+ ('abcnaidadecerta.gov.br', 'MIEDU6', 'owner-c'),
+ ('abcnaidadecerta.gov.br', 'WASEV', 'admin-c'),
+ ('abcnaidadecerta.gov.br', 'MIEDU6', 'tech-c'),
+ ('abcnaidadecerta.gov.br', 'MIEDU6', 'billing-c'),
+ ('pr.gov.br', 'ADC633', 'owner-c'),
+ ('pr.gov.br', 'ADC633', 'admin-c'),
+ ('pr.gov.br', 'ADC633', 'tech-c'),
+ ('pr.gov.br', 'ADC633', 'billing-c'),
+ ('crbio-4.gov.br', 'GLCAR63', 'owner-c'),
+ ('crbio-4.gov.br', 'GLCAR63', 'admin-c'),
+ ('crbio-4.gov.br', 'GLCAR63', 'tech-c'),
+ ('crbio-4.gov.br', 'GLCAR63', 'billing-c'),
+ ('turismo.gov.br', 'SUAAL3', 'owner-c'),
+ ('turismo.gov.br', 'SUAAL3', 'admin-c'),
+ ('turismo.gov.br', 'SUAAL3', 'tech-c'),
+ ('turismo.gov.br', 'SUAAL3', 'billing-c'),
+ ('simples.gov.br', 'ADSFE47', 'owner-c'),
+ ('simples.gov.br', 'ADSFE47', 'admin-c'),
+ ('simples.gov.br', 'MRV103', 'tech-c'),
+ ('simples.gov.br', 'ADSFE47', 'billing-c'),
+ ('semanaenef.gov.br', 'CVGTE', 'owner-c'),
+ ('semanaenef.gov.br', 'CVGTE', 'admin-c'),
+ ('semanaenef.gov.br', 'CVGTE', 'tech-c'),
+ ('semanaenef.gov.br', 'CVGTE', 'billing-c'),
+ ('antarcticabrazil.gov.br', 'SAT7', 'owner-c'),
+ ('antarcticabrazil.gov.br', 'SAT7', 'admin-c'),
+ ('antarcticabrazil.gov.br', 'SAT7', 'tech-c'),
+ ('antarcticabrazil.gov.br', 'SAT7', 'billing-c'),
+ ('ceplacdf.gov.br', 'FBB24', 'owner-c'),
+ ('ceplacdf.gov.br', 'FBB24', 'admin-c'),
+ ('ceplacdf.gov.br', 'FBB24', 'tech-c'),
+ ('ceplacdf.gov.br', 'FBB24', 'billing-c'),
+ ('pen.gov.br', 'CGSTM2', 'owner-c'),
+ ('pen.gov.br', 'CGSTM2', 'admin-c'),
+ ('pen.gov.br', 'CGSTM2', 'tech-c'),
+ ('pen.gov.br', 'CGSTM2', 'billing-c'),
+ ('crq13.gov.br', 'CRR2', 'owner-c'),
+ ('crq13.gov.br', 'CRR2', 'admin-c'),
+ ('crq13.gov.br', 'WAL149', 'tech-c'),
+ ('crq13.gov.br', 'CRR2', 'billing-c'),
+ ('dinheiroinstantaneo.gov.br', 'RMJ35', 'owner-c'),
+ ('dinheiroinstantaneo.gov.br', 'RMJ35', 'admin-c'),
+ ('dinheiroinstantaneo.gov.br', 'GIT60', 'tech-c'),
+ ('dinheiroinstantaneo.gov.br', 'GIC166', 'billing-c'),
+ ('conasp.gov.br', 'ANFME67', 'owner-c'),
+ ('conasp.gov.br', 'ANFME67', 'admin-c'),
+ ('conasp.gov.br', 'ANFME67', 'tech-c'),
+ ('conasp.gov.br', 'ANFME67', 'billing-c'),
+ ('crq7.gov.br', 'CRQ27', 'owner-c'),
+ ('crq7.gov.br', 'CRQ27', 'admin-c'),
+ ('crq7.gov.br', 'CRQ27', 'tech-c'),
+ ('crq7.gov.br', 'CRQ27', 'billing-c'),
+ ('valec.gov.br', 'IRSPI3', 'owner-c'),
+ ('valec.gov.br', 'IRSPI3', 'admin-c'),
+ ('valec.gov.br', 'IRSPI3', 'tech-c'),
+ ('valec.gov.br', 'IRSPI3', 'billing-c'),
+ ('prt6.gov.br', 'GGP4', 'owner-c'),
+ ('prt6.gov.br', 'GGP4', 'admin-c'),
+ ('prt6.gov.br', 'GGP4', 'tech-c'),
+ ('prt6.gov.br', 'GGP4', 'billing-c'),
+ ('susep.gov.br', 'SUSPR6', 'owner-c'),
+ ('susep.gov.br', 'SUSPR6', 'admin-c'),
+ ('susep.gov.br', 'RBRPI3', 'tech-c'),
+ ('susep.gov.br', 'SUSPR6', 'billing-c'),
+ ('almg.gov.br', 'MVR2', 'owner-c'),
+ ('almg.gov.br', 'MVR2', 'admin-c'),
+ ('almg.gov.br', 'MVR2', 'tech-c'),
+ ('almg.gov.br', 'MVR2', 'billing-c'),
+ ('inmetro.gov.br', 'SAADI5', 'owner-c'),
+ ('inmetro.gov.br', 'SAADI5', 'admin-c'),
+ ('inmetro.gov.br', 'LFL', 'tech-c'),
+ ('inmetro.gov.br', 'SAADI5', 'billing-c'),
+ ('cfbm.gov.br', 'CFBAD', 'owner-c'),
+ ('cfbm.gov.br', 'CFBAD', 'admin-c'),
+ ('cfbm.gov.br', 'CFBAD', 'tech-c'),
+ ('cfbm.gov.br', 'CFBAD', 'billing-c'),
+ ('am.gov.br', 'ANSNA49', 'owner-c'),
+ ('am.gov.br', 'ANSNA49', 'admin-c'),
+ ('am.gov.br', 'FAAAN28', 'tech-c'),
+ ('am.gov.br', 'JMPFI9', 'billing-c'),
+ ('infopen.gov.br', 'MIJUS7', 'owner-c'),
+ ('infopen.gov.br', 'ALCBA81', 'admin-c'),
+ ('infopen.gov.br', 'ARAJU47', 'tech-c'),
+ ('infopen.gov.br', 'ALCBA81', 'billing-c'),
+ ('brasilexport.gov.br', 'CTDPR5', 'owner-c'),
+ ('brasilexport.gov.br', 'CTDPR5', 'admin-c'),
+ ('brasilexport.gov.br', 'CTDPR5', 'tech-c'),
+ ('brasilexport.gov.br', 'CTDPR5', 'billing-c'),
+ ('pcdl.gov.br', 'RSP142', 'owner-c'),
+ ('pcdl.gov.br', 'RSP142', 'admin-c'),
+ ('pcdl.gov.br', 'RSP142', 'tech-c'),
+ ('pcdl.gov.br', 'RSP142', 'billing-c'),
+ ('bcb.gov.br', 'SETIN16', 'owner-c'),
+ ('bcb.gov.br', 'DIBCB', 'admin-c'),
+ ('bcb.gov.br', 'SETIN16', 'tech-c'),
+ ('bcb.gov.br', 'DIBCB', 'billing-c'),
+ ('prt3.gov.br', 'JEM99', 'owner-c'),
+ ('prt3.gov.br', 'JEM99', 'admin-c'),
+ ('prt3.gov.br', 'JEM99', 'tech-c'),
+ ('prt3.gov.br', 'JEM99', 'billing-c'),
+ ('dac.gov.br', 'GESAN124', 'owner-c'),
+ ('dac.gov.br', 'RGRSI7', 'admin-c'),
+ ('dac.gov.br', 'RGRSI7', 'tech-c'),
+ ('dac.gov.br', 'RGRSI7', 'billing-c'),
+ ('dprf.gov.br', 'DITEL10', 'owner-c'),
+ ('dprf.gov.br', 'DITEL10', 'admin-c'),
+ ('dprf.gov.br', 'DITEL10', 'tech-c'),
+ ('dprf.gov.br', 'DITEL10', 'billing-c'),
+ ('inovaif.gov.br', 'INFBR6', 'owner-c'),
+ ('inovaif.gov.br', 'INFBR6', 'admin-c'),
+ ('inovaif.gov.br', 'INFBR6', 'tech-c'),
+ ('inovaif.gov.br', 'INFBR6', 'billing-c'),
+ ('ceitec.gov.br', 'SSD38', 'owner-c'),
+ ('ceitec.gov.br', 'SSD38', 'admin-c'),
+ ('ceitec.gov.br', 'SSD38', 'tech-c'),
+ ('ceitec.gov.br', 'SSD38', 'billing-c'),
+ ('creci-sp.gov.br', 'CSSPA', 'owner-c'),
+ ('creci-sp.gov.br', 'CSSPA', 'admin-c'),
+ ('creci-sp.gov.br', 'CSSPA', 'tech-c'),
+ ('creci-sp.gov.br', 'CSSPA', 'billing-c'),
+ ('sacoeumsaco.gov.br', 'MMR', 'owner-c'),
+ ('sacoeumsaco.gov.br', 'MMR', 'admin-c'),
+ ('sacoeumsaco.gov.br', 'MMR', 'tech-c'),
+ ('sacoeumsaco.gov.br', 'MMR', 'billing-c'),
+ ('concar.gov.br', 'ECO', 'owner-c'),
+ ('concar.gov.br', 'ECO', 'admin-c'),
+ ('concar.gov.br', 'ECO', 'tech-c'),
+ ('concar.gov.br', 'ECO', 'billing-c'),
+ ('portalsiscomex.gov.br', 'ADSFE47', 'owner-c'),
+ ('portalsiscomex.gov.br', 'ADSFE47', 'admin-c'),
+ ('portalsiscomex.gov.br', 'MRV103', 'tech-c'),
+ ('portalsiscomex.gov.br', 'ADSFE47', 'billing-c'),
+ ('consultaprotocolo.gov.br', 'CGSTM2', 'owner-c'),
+ ('consultaprotocolo.gov.br', 'CGSTM2', 'admin-c'),
+ ('consultaprotocolo.gov.br', 'CGSTM2', 'tech-c'),
+ ('consultaprotocolo.gov.br', 'CGSTM2', 'billing-c'),
+ ('maranhao.gov.br', 'GEISE', 'owner-c'),
+ ('maranhao.gov.br', 'GEISE', 'admin-c'),
+ ('maranhao.gov.br', 'GEISE', 'tech-c'),
+ ('maranhao.gov.br', 'GEISE', 'billing-c'),
+ ('projovemurbano.gov.br', 'CPPAV', 'owner-c'),
+ ('projovemurbano.gov.br', 'CPPAV', 'admin-c'),
+ ('projovemurbano.gov.br', 'CPPAV', 'tech-c'),
+ ('projovemurbano.gov.br', 'CPPAV', 'billing-c'),
+ ('agrolivre.gov.br', 'SMFSM2', 'owner-c'),
+ ('agrolivre.gov.br', 'SMFSM2', 'admin-c'),
+ ('agrolivre.gov.br', 'CFP8', 'tech-c'),
+ ('agrolivre.gov.br', 'SMFSM2', 'billing-c'),
+ ('hemobras.gov.br', 'CLLJU18', 'owner-c'),
+ ('hemobras.gov.br', 'CLLJU18', 'admin-c'),
+ ('hemobras.gov.br', 'CLLJU18', 'tech-c'),
+ ('hemobras.gov.br', 'CLLJU18', 'billing-c'),
+ ('eafsgc.gov.br', 'RSF290', 'owner-c'),
+ ('eafsgc.gov.br', 'RSF290', 'admin-c'),
+ ('eafsgc.gov.br', 'RSF290', 'tech-c'),
+ ('eafsgc.gov.br', 'RSF290', 'billing-c'),
+ ('trt21.gov.br', 'SERED2', 'owner-c'),
+ ('trt21.gov.br', 'SERED2', 'admin-c'),
+ ('trt21.gov.br', 'SERED2', 'tech-c'),
+ ('trt21.gov.br', 'WCJ56', 'billing-c'),
+ ('qualidadedoleite.gov.br', 'MIJUS7', 'owner-c'),
+ ('qualidadedoleite.gov.br', 'ALCBA81', 'admin-c'),
+ ('qualidadedoleite.gov.br', 'ARAJU47', 'tech-c'),
+ ('qualidadedoleite.gov.br', 'ALCBA81', 'billing-c'),
+ ('sispac.gov.br', 'CGSTM2', 'owner-c'),
+ ('sispac.gov.br', 'CGSTM2', 'admin-c'),
+ ('sispac.gov.br', 'CGSTM2', 'tech-c'),
+ ('sispac.gov.br', 'CGSTM2', 'billing-c'),
+ ('atlasdeacessoajustica.gov.br', 'MIJUS7', 'owner-c'),
+ ('atlasdeacessoajustica.gov.br', 'ALCBA81', 'admin-c'),
+ ('atlasdeacessoajustica.gov.br', 'ALCBA81', 'tech-c'),
+ ('atlasdeacessoajustica.gov.br', 'ALCBA81', 'billing-c'),
+ ('senad.gov.br', 'MAR79', 'owner-c'),
+ ('senad.gov.br', 'MAR79', 'admin-c'),
+ ('senad.gov.br', 'CCO83', 'tech-c'),
+ ('senad.gov.br', 'CCO83', 'billing-c'),
+ ('jfal.gov.br', 'JFA66', 'owner-c'),
+ ('jfal.gov.br', 'FAC335', 'admin-c'),
+ ('jfal.gov.br', 'JAFNE10', 'tech-c'),
+ ('jfal.gov.br', 'FAC335', 'billing-c'),
+ ('tjdf.gov.br', 'SERCO46', 'owner-c'),
+ ('tjdf.gov.br', 'SERCO46', 'admin-c'),
+ ('tjdf.gov.br', 'SERCO46', 'tech-c'),
+ ('tjdf.gov.br', 'SERCO46', 'billing-c'),
+ ('jcdf.gov.br', 'MDC167', 'owner-c'),
+ ('jcdf.gov.br', 'MDC167', 'admin-c'),
+ ('jcdf.gov.br', 'MDC167', 'tech-c'),
+ ('jcdf.gov.br', 'MDC167', 'billing-c'),
+ ('logisticsbrazil.gov.br', 'EMPLO7', 'owner-c'),
+ ('logisticsbrazil.gov.br', 'EMPLO7', 'admin-c'),
+ ('logisticsbrazil.gov.br', 'MAFEL176', 'tech-c'),
+ ('logisticsbrazil.gov.br', 'DSC84', 'billing-c'),
+ ('softwarepublico.gov.br', 'ADSFE47', 'owner-c'),
+ ('softwarepublico.gov.br', 'ADSFE47', 'admin-c'),
+ ('softwarepublico.gov.br', 'MRV103', 'tech-c'),
+ ('softwarepublico.gov.br', 'WEQLI', 'billing-c'),
+ ('funag.gov.br', 'ALLSA55', 'owner-c'),
+ ('funag.gov.br', 'ALLSA55', 'admin-c'),
+ ('funag.gov.br', 'TFSFO2', 'tech-c'),
+ ('funag.gov.br', 'TFSFO2', 'billing-c'),
+ ('tjmg.gov.br', 'TJMGE', 'owner-c'),
+ ('tjmg.gov.br', 'TJMGE', 'admin-c'),
+ ('tjmg.gov.br', 'GTT19', 'tech-c'),
+ ('tjmg.gov.br', 'GTT19', 'billing-c'),
+ ('tavbrasil.gov.br', 'MAFSO91', 'owner-c'),
+ ('tavbrasil.gov.br', 'MAFSO91', 'admin-c'),
+ ('tavbrasil.gov.br', 'MAFSO91', 'tech-c'),
+ ('tavbrasil.gov.br', 'MAFSO91', 'billing-c'),
+ ('portaltransparencia.gov.br', 'AMDSC29', 'owner-c'),
+ ('portaltransparencia.gov.br', 'AMDSC29', 'admin-c'),
+ ('portaltransparencia.gov.br', 'VDMLI12', 'tech-c'),
+ ('portaltransparencia.gov.br', 'GUMSO21', 'billing-c'),
+ ('geipot.gov.br', 'SECDA3', 'owner-c'),
+ ('geipot.gov.br', 'SECDA3', 'admin-c'),
+ ('geipot.gov.br', 'SECDA3', 'tech-c'),
+ ('geipot.gov.br', 'SECDA3', 'billing-c'),
+ ('riocmsi.gov.br', 'ADSFE47', 'owner-c'),
+ ('riocmsi.gov.br', 'ADSFE47', 'admin-c'),
+ ('riocmsi.gov.br', 'MRV103', 'tech-c'),
+ ('riocmsi.gov.br', 'WEQLI', 'billing-c'),
+ ('consegi.gov.br', 'ADSFE47', 'owner-c'),
+ ('consegi.gov.br', 'ADSFE47', 'admin-c'),
+ ('consegi.gov.br', 'MRV103', 'tech-c'),
+ ('consegi.gov.br', 'WEQLI', 'billing-c'),
+ ('pronasci.gov.br', 'MIJUS7', 'owner-c'),
+ ('pronasci.gov.br', 'ALCBA81', 'admin-c'),
+ ('pronasci.gov.br', 'ARAJU47', 'tech-c'),
+ ('pronasci.gov.br', 'ALCBA81', 'billing-c'),
+ ('caisan.gov.br', 'MACSO438', 'owner-c'),
+ ('caisan.gov.br', 'MACSO438', 'admin-c'),
+ ('caisan.gov.br', 'MACSO438', 'tech-c'),
+ ('caisan.gov.br', 'MACSO438', 'billing-c'),
+ ('sjrs.gov.br', 'ALSIL482', 'owner-c'),
+ ('sjrs.gov.br', 'ALSIL482', 'admin-c'),
+ ('sjrs.gov.br', 'ALSIL482', 'tech-c'),
+ ('sjrs.gov.br', 'ANZMA3', 'billing-c'),
+ ('sibbr.gov.br', 'WVL', 'owner-c'),
+ ('sibbr.gov.br', 'WVL', 'admin-c'),
+ ('sibbr.gov.br', 'WVL', 'tech-c'),
+ ('sibbr.gov.br', 'WVL', 'billing-c'),
+ ('cefetsvs.gov.br', 'PRD12', 'owner-c'),
+ ('cefetsvs.gov.br', 'PRD12', 'admin-c'),
+ ('cefetsvs.gov.br', 'PRD12', 'tech-c'),
+ ('cefetsvs.gov.br', 'PRD12', 'billing-c'),
+ ('sisbacen.gov.br', 'SETIN16', 'owner-c'),
+ ('sisbacen.gov.br', 'DIBCB', 'admin-c'),
+ ('sisbacen.gov.br', 'SETIN16', 'tech-c'),
+ ('sisbacen.gov.br', 'DIBCB', 'billing-c'),
+ ('gcth-sida.gov.br', 'RGC5', 'owner-c'),
+ ('gcth-sida.gov.br', 'RGC5', 'admin-c'),
+ ('gcth-sida.gov.br', 'RGC5', 'tech-c'),
+ ('gcth-sida.gov.br', 'RGC5', 'billing-c'),
+ ('bancodonordeste.gov.br', 'CMRSO14', 'owner-c'),
+ ('bancodonordeste.gov.br', 'CMRSO14', 'admin-c'),
+ ('bancodonordeste.gov.br', 'FFN', 'tech-c'),
+ ('bancodonordeste.gov.br', 'CMRSO14', 'billing-c'),
+ ('economizar.gov.br', 'EDFEL11', 'owner-c'),
+ ('economizar.gov.br', 'EDFEL11', 'admin-c'),
+ ('economizar.gov.br', 'EDFEL11', 'tech-c'),
+ ('economizar.gov.br', 'EDFEL11', 'billing-c'),
+ ('brazilenvironment-mobile.gov.br', 'MMR', 'owner-c'),
+ ('brazilenvironment-mobile.gov.br', 'MMR', 'admin-c'),
+ ('brazilenvironment-mobile.gov.br', 'MMR', 'tech-c'),
+ ('brazilenvironment-mobile.gov.br', 'MMR', 'billing-c'),
+ ('tre-sp.gov.br', 'MRH14', 'owner-c'),
+ ('tre-sp.gov.br', 'PSA20', 'admin-c'),
+ ('tre-sp.gov.br', 'PSA20', 'tech-c'),
+ ('tre-sp.gov.br', 'PAA79', 'billing-c'),
+ ('hcl.gov.br', 'ACC1039', 'owner-c'),
+ ('hcl.gov.br', 'CEH23', 'admin-c'),
+ ('hcl.gov.br', 'CEH23', 'tech-c'),
+ ('hcl.gov.br', 'CEH23', 'billing-c'),
+ ('tre-rn.gov.br', 'MDM36', 'owner-c'),
+ ('tre-rn.gov.br', 'DCC', 'admin-c'),
+ ('tre-rn.gov.br', 'DCC', 'tech-c'),
+ ('tre-rn.gov.br', 'WOS3', 'billing-c'),
+ ('nead.gov.br', 'CII3', 'owner-c'),
+ ('nead.gov.br', 'CII3', 'admin-c'),
+ ('nead.gov.br', 'ROFAL36', 'tech-c'),
+ ('nead.gov.br', 'ROFAL36', 'billing-c'),
+ ('florestal.gov.br', 'MMR', 'owner-c'),
+ ('florestal.gov.br', 'MMR', 'admin-c'),
+ ('florestal.gov.br', 'MMR', 'tech-c'),
+ ('florestal.gov.br', 'MMR', 'billing-c'),
+ ('serac4.gov.br', 'DKO11', 'owner-c'),
+ ('serac4.gov.br', 'DKO11', 'admin-c'),
+ ('serac4.gov.br', 'DKO11', 'tech-c'),
+ ('serac4.gov.br', 'DKO11', 'billing-c'),
+ ('boavistaenergia.gov.br', 'GSC187', 'owner-c'),
+ ('boavistaenergia.gov.br', 'AFN123', 'admin-c'),
+ ('boavistaenergia.gov.br', 'JPLBR2', 'tech-c'),
+ ('boavistaenergia.gov.br', 'AFN123', 'billing-c'),
+ ('stn.gov.br', 'MNR', 'owner-c'),
+ ('stn.gov.br', 'MNR', 'admin-c'),
+ ('stn.gov.br', 'ROFFR86', 'tech-c'),
+ ('stn.gov.br', 'MNR', 'billing-c'),
+ ('sisp.gov.br', 'CGSTM2', 'owner-c'),
+ ('sisp.gov.br', 'CGSTM2', 'admin-c'),
+ ('sisp.gov.br', 'CGSTM2', 'tech-c'),
+ ('sisp.gov.br', 'CGSTM2', 'billing-c'),
+ ('crbio01.gov.br', 'OLY', 'owner-c'),
+ ('crbio01.gov.br', 'OLY', 'admin-c'),
+ ('crbio01.gov.br', 'EML280', 'tech-c'),
+ ('crbio01.gov.br', 'OLY', 'billing-c'),
+ ('ibama.gov.br', 'JXM', 'owner-c'),
+ ('ibama.gov.br', 'AJA4', 'admin-c'),
+ ('ibama.gov.br', 'AJA4', 'tech-c'),
+ ('ibama.gov.br', 'JXM', 'billing-c'),
+ ('igualdaderacial.gov.br', 'SASAL43', 'owner-c'),
+ ('igualdaderacial.gov.br', 'SASAL43', 'admin-c'),
+ ('igualdaderacial.gov.br', 'MAR79', 'tech-c'),
+ ('igualdaderacial.gov.br', 'SASAL43', 'billing-c'),
+ ('sirc.gov.br', 'DDA66', 'owner-c'),
+ ('sirc.gov.br', 'DDA66', 'admin-c'),
+ ('sirc.gov.br', 'DDT10', 'tech-c'),
+ ('sirc.gov.br', 'DDC98', 'billing-c'),
+ ('cauma.gov.br', 'MICLO17', 'owner-c'),
+ ('cauma.gov.br', 'MICLO17', 'admin-c'),
+ ('cauma.gov.br', 'SCITI', 'tech-c'),
+ ('cauma.gov.br', 'SCFIN', 'billing-c'),
+ ('crbio2.gov.br', 'DRS76', 'owner-c'),
+ ('crbio2.gov.br', 'DRS76', 'admin-c'),
+ ('crbio2.gov.br', 'DRS76', 'tech-c'),
+ ('crbio2.gov.br', 'DRS76', 'billing-c'),
+ ('casadamoeda.gov.br', 'CMB', 'owner-c'),
+ ('casadamoeda.gov.br', 'CMB', 'admin-c'),
+ ('casadamoeda.gov.br', 'SIC198', 'tech-c'),
+ ('casadamoeda.gov.br', 'CMB', 'billing-c'),
+ ('aiaf2014.gov.br', 'ECLNA', 'owner-c'),
+ ('aiaf2014.gov.br', 'ECLNA', 'admin-c'),
+ ('aiaf2014.gov.br', 'ECLNA', 'tech-c'),
+ ('aiaf2014.gov.br', 'ECLNA', 'billing-c'),
+ ('eafmachado.gov.br', 'MAL889', 'owner-c'),
+ ('eafmachado.gov.br', 'MAL889', 'admin-c'),
+ ('eafmachado.gov.br', 'MAL889', 'tech-c'),
+ ('eafmachado.gov.br', 'MAL889', 'billing-c'),
+ ('agricultura.gov.br', 'MAS3725', 'owner-c'),
+ ('agricultura.gov.br', 'MAS3725', 'admin-c'),
+ ('agricultura.gov.br', 'MAS3725', 'tech-c'),
+ ('agricultura.gov.br', 'MAS3725', 'billing-c'),
+ ('dados.gov.br', 'CGSTM2', 'owner-c'),
+ ('dados.gov.br', 'CGSTM2', 'admin-c'),
+ ('dados.gov.br', 'CGSTM2', 'tech-c'),
+ ('dados.gov.br', 'CGSTM2', 'billing-c'),
+ ('copatransparente.gov.br', 'SEIRE4', 'owner-c'),
+ ('copatransparente.gov.br', 'SEIRE4', 'admin-c'),
+ ('copatransparente.gov.br', 'SEIRE4', 'tech-c'),
+ ('copatransparente.gov.br', 'SEIRE4', 'billing-c'),
+ ('sgov.gov.br', 'MAR79', 'owner-c'),
+ ('sgov.gov.br', 'MAR79', 'admin-c'),
+ ('sgov.gov.br', 'MAR79', 'tech-c'),
+ ('sgov.gov.br', 'MAR79', 'billing-c'),
+ ('loteriaesportiva.gov.br', 'RMJ35', 'owner-c'),
+ ('loteriaesportiva.gov.br', 'RMJ35', 'admin-c'),
+ ('loteriaesportiva.gov.br', 'GIT60', 'tech-c'),
+ ('loteriaesportiva.gov.br', 'GIC166', 'billing-c'),
+ ('dj.gov.br', 'EDR194', 'owner-c'),
+ ('dj.gov.br', 'SETIN14', 'admin-c'),
+ ('dj.gov.br', 'SGSRE3', 'tech-c'),
+ ('dj.gov.br', 'GASTI6', 'billing-c'),
+ ('cdv.gov.br', 'MAAJU182', 'owner-c'),
+ ('cdv.gov.br', 'WEL52', 'admin-c'),
+ ('cdv.gov.br', 'FRASO52', 'tech-c'),
+ ('cdv.gov.br', 'WEL52', 'billing-c'),
+ ('chequeazul.gov.br', 'RMJ35', 'owner-c'),
+ ('chequeazul.gov.br', 'RMJ35', 'admin-c'),
+ ('chequeazul.gov.br', 'GIT60', 'tech-c'),
+ ('chequeazul.gov.br', 'GIC166', 'billing-c'),
+ ('brasilvoluntario.gov.br', 'JORLO58', 'owner-c'),
+ ('brasilvoluntario.gov.br', 'JORLO58', 'admin-c'),
+ ('brasilvoluntario.gov.br', 'JORLO58', 'tech-c'),
+ ('brasilvoluntario.gov.br', 'JORLO58', 'billing-c'),
+ ('cnarq.gov.br', 'KERPO', 'owner-c'),
+ ('cnarq.gov.br', 'KERPO', 'admin-c'),
+ ('cnarq.gov.br', 'KERPO', 'tech-c'),
+ ('cnarq.gov.br', 'KERPO', 'billing-c'),
+ ('crbm3.gov.br', 'ROMCA209', 'owner-c'),
+ ('crbm3.gov.br', 'ROMCA209', 'admin-c'),
+ ('crbm3.gov.br', 'FCCFE11', 'tech-c'),
+ ('crbm3.gov.br', 'ROMCA209', 'billing-c'),
+ ('policiafederal.gov.br', 'CTI44', 'owner-c'),
+ ('policiafederal.gov.br', 'CTI44', 'admin-c'),
+ ('policiafederal.gov.br', 'CTI44', 'tech-c'),
+ ('policiafederal.gov.br', 'CTI44', 'billing-c'),
+ ('crmvto.gov.br', 'FZM13', 'owner-c'),
+ ('crmvto.gov.br', 'FZM13', 'admin-c'),
+ ('crmvto.gov.br', 'FZM13', 'tech-c'),
+ ('crmvto.gov.br', 'FZM13', 'billing-c'),
+ ('mtps.gov.br', 'COINF90', 'owner-c'),
+ ('mtps.gov.br', 'COINF90', 'admin-c'),
+ ('mtps.gov.br', 'COINF90', 'tech-c'),
+ ('mtps.gov.br', 'COINF90', 'billing-c'),
+ ('crbm1.gov.br', 'MAA575', 'owner-c'),
+ ('crbm1.gov.br', 'MAA575', 'admin-c'),
+ ('crbm1.gov.br', 'MAA575', 'tech-c'),
+ ('crbm1.gov.br', 'MAA575', 'billing-c'),
+ ('fundacentroms.gov.br', 'TEE7', 'owner-c'),
+ ('fundacentroms.gov.br', 'TEE7', 'admin-c'),
+ ('fundacentroms.gov.br', 'TEE7', 'tech-c'),
+ ('fundacentroms.gov.br', 'TEE7', 'billing-c'),
+ ('prodeb.gov.br', 'LEOSI20', 'owner-c'),
+ ('prodeb.gov.br', 'LEOSI20', 'admin-c'),
+ ('prodeb.gov.br', 'LEOSI20', 'tech-c'),
+ ('prodeb.gov.br', 'LEOSI20', 'billing-c'),
+ ('cancer.gov.br', 'RLSDS12', 'owner-c'),
+ ('cancer.gov.br', 'RLSDS12', 'admin-c'),
+ ('cancer.gov.br', 'CALPI31', 'tech-c'),
+ ('cancer.gov.br', 'RLSDS12', 'billing-c'),
+ ('e-parana.gov.br', 'ADC633', 'owner-c'),
+ ('e-parana.gov.br', 'ADC633', 'admin-c'),
+ ('e-parana.gov.br', 'ADC633', 'tech-c'),
+ ('e-parana.gov.br', 'ADC633', 'billing-c'),
+ ('protocolo.gov.br', 'CGSTM2', 'owner-c'),
+ ('protocolo.gov.br', 'CGSTM2', 'admin-c'),
+ ('protocolo.gov.br', 'CGSTM2', 'tech-c'),
+ ('protocolo.gov.br', 'CGSTM2', 'billing-c'),
+ ('trabalho.gov.br', 'COINF90', 'owner-c'),
+ ('trabalho.gov.br', 'MALHE11', 'admin-c'),
+ ('trabalho.gov.br', 'MALHE11', 'tech-c'),
+ ('trabalho.gov.br', 'MALHE11', 'billing-c'),
+ ('migrantes.gov.br', 'MIJUS7', 'owner-c'),
+ ('migrantes.gov.br', 'ALCBA81', 'admin-c'),
+ ('migrantes.gov.br', 'ALCBA81', 'tech-c'),
+ ('migrantes.gov.br', 'ALCBA81', 'billing-c'),
+ ('forumsocinfo.gov.br', 'ADSFE47', 'owner-c'),
+ ('forumsocinfo.gov.br', 'ADSFE47', 'admin-c'),
+ ('forumsocinfo.gov.br', 'MRV103', 'tech-c'),
+ ('forumsocinfo.gov.br', 'WEQLI', 'billing-c'),
+ ('eafbambui.gov.br', 'EAB20', 'owner-c'),
+ ('eafbambui.gov.br', 'EAB20', 'admin-c'),
+ ('eafbambui.gov.br', 'EAB20', 'tech-c'),
+ ('eafbambui.gov.br', 'EAB20', 'billing-c'),
+ ('culturaviva.gov.br', 'MICUL2', 'owner-c'),
+ ('culturaviva.gov.br', 'MICUL2', 'admin-c'),
+ ('culturaviva.gov.br', 'MICUL2', 'tech-c'),
+ ('culturaviva.gov.br', 'MICUL2', 'billing-c'),
+ ('aeroportodesalvador.gov.br', 'SUTIN', 'owner-c'),
+ ('aeroportodesalvador.gov.br', 'SUTIN', 'admin-c'),
+ ('aeroportodesalvador.gov.br', 'SUTIN', 'tech-c'),
+ ('aeroportodesalvador.gov.br', 'GESUP4', 'billing-c'),
+ ('ci-brasil.gov.br', 'ANM153', 'owner-c'),
+ ('ci-brasil.gov.br', 'PACBE47', 'admin-c'),
+ ('ci-brasil.gov.br', 'PACBE47', 'tech-c'),
+ ('ci-brasil.gov.br', 'PACBE47', 'billing-c'),
+ ('caupe.gov.br', 'MICLO17', 'owner-c'),
+ ('caupe.gov.br', 'MICLO17', 'admin-c'),
+ ('caupe.gov.br', 'SCITI', 'tech-c'),
+ ('caupe.gov.br', 'SCFIN', 'billing-c'),
+ ('inde.gov.br', 'ECO', 'owner-c'),
+ ('inde.gov.br', 'ECO', 'admin-c'),
+ ('inde.gov.br', 'ECO', 'tech-c'),
+ ('inde.gov.br', 'ECO', 'billing-c'),
+ ('tesourodireto.gov.br', 'ADSFE47', 'owner-c'),
+ ('tesourodireto.gov.br', 'ADSFE47', 'admin-c'),
+ ('tesourodireto.gov.br', 'MRV103', 'tech-c'),
+ ('tesourodireto.gov.br', 'WEQLI', 'billing-c'),
+ ('dpf.gov.br', 'CTI44', 'owner-c'),
+ ('dpf.gov.br', 'CTI44', 'admin-c'),
+ ('dpf.gov.br', 'CTI44', 'tech-c'),
+ ('dpf.gov.br', 'CTI44', 'billing-c'),
+ ('portaldaexportacao.gov.br', 'MDC167', 'owner-c'),
+ ('portaldaexportacao.gov.br', 'MDC167', 'admin-c'),
+ ('portaldaexportacao.gov.br', 'MDC167', 'tech-c'),
+ ('portaldaexportacao.gov.br', 'MDC167', 'billing-c'),
+ ('maismedico.gov.br', 'DOEBS', 'owner-c'),
+ ('maismedico.gov.br', 'DOEBS', 'admin-c'),
+ ('maismedico.gov.br', 'DOEBS', 'tech-c'),
+ ('maismedico.gov.br', 'DOEBS', 'billing-c'),
+ ('trt05.gov.br', 'SEIRE', 'owner-c'),
+ ('trt05.gov.br', 'SEIRE', 'admin-c'),
+ ('trt05.gov.br', 'SEIRE', 'tech-c'),
+ ('trt05.gov.br', 'SEIRE', 'billing-c'),
+ ('condraf.gov.br', 'ECLNA', 'owner-c'),
+ ('condraf.gov.br', 'ECLNA', 'admin-c'),
+ ('condraf.gov.br', 'ECLNA', 'tech-c'),
+ ('condraf.gov.br', 'ECLNA', 'billing-c'),
+ ('pe.gov.br', 'AETIN', 'owner-c'),
+ ('pe.gov.br', 'EFP21', 'admin-c'),
+ ('pe.gov.br', 'EFP21', 'tech-c'),
+ ('pe.gov.br', 'EFP21', 'billing-c'),
+ ('infoseg.gov.br', 'ANFME67', 'owner-c'),
+ ('infoseg.gov.br', 'ANFME67', 'admin-c'),
+ ('infoseg.gov.br', 'MRV103', 'tech-c'),
+ ('infoseg.gov.br', 'ANFME67', 'billing-c'),
+ ('simulaminhacasaminhavida.gov.br', 'IJFFI', 'owner-c'),
+ ('simulaminhacasaminhavida.gov.br', 'IJFFI', 'admin-c'),
+ ('simulaminhacasaminhavida.gov.br', 'IJFFI', 'tech-c'),
+ ('simulaminhacasaminhavida.gov.br', 'IJFFI', 'billing-c'),
+ ('defesacivil.gov.br', 'ADSFE47', 'owner-c'),
+ ('defesacivil.gov.br', 'ADSFE47', 'admin-c'),
+ ('defesacivil.gov.br', 'ADSFE47', 'tech-c'),
+ ('defesacivil.gov.br', 'FFDSA72', 'billing-c'),
+ ('tre-to.gov.br', 'DCC', 'owner-c'),
+ ('tre-to.gov.br', 'DCC', 'admin-c'),
+ ('tre-to.gov.br', 'DCC', 'tech-c'),
+ ('tre-to.gov.br', 'WOS3', 'billing-c'),
+ ('interlegis.gov.br', 'SEIRE4', 'owner-c'),
+ ('interlegis.gov.br', 'SIT80', 'admin-c'),
+ ('interlegis.gov.br', 'SIT80', 'tech-c'),
+ ('interlegis.gov.br', 'SIT80', 'billing-c'),
+ ('ap.gov.br', 'GEIPR3', 'owner-c'),
+ ('ap.gov.br', 'GEIPR3', 'admin-c'),
+ ('ap.gov.br', 'GEIPR3', 'tech-c'),
+ ('ap.gov.br', 'GEIPR3', 'billing-c'),
+ ('portalcoren-rs.gov.br', 'CRE12', 'owner-c'),
+ ('portalcoren-rs.gov.br', 'CRE12', 'admin-c'),
+ ('portalcoren-rs.gov.br', 'CRE12', 'tech-c'),
+ ('portalcoren-rs.gov.br', 'CRE12', 'billing-c'),
+ ('documenta.gov.br', 'GGCJU6', 'owner-c'),
+ ('documenta.gov.br', 'GGCJU6', 'admin-c'),
+ ('documenta.gov.br', 'LACAJ', 'tech-c'),
+ ('documenta.gov.br', 'GGCJU6', 'billing-c'),
+ ('justicaeleitoral.gov.br', 'DCC', 'owner-c'),
+ ('justicaeleitoral.gov.br', 'DCC', 'admin-c'),
+ ('justicaeleitoral.gov.br', 'DCC', 'tech-c'),
+ ('justicaeleitoral.gov.br', 'WOS3', 'billing-c'),
+ ('secgeral.gov.br', 'MAR79', 'owner-c'),
+ ('secgeral.gov.br', 'MAR79', 'admin-c'),
+ ('secgeral.gov.br', 'MAR79', 'tech-c'),
+ ('secgeral.gov.br', 'MAR79', 'billing-c'),
+ ('incra.gov.br', 'CII3', 'owner-c'),
+ ('incra.gov.br', 'JER7', 'admin-c'),
+ ('incra.gov.br', 'JER', 'tech-c'),
+ ('incra.gov.br', 'JER', 'billing-c'),
+ ('redecontrole.gov.br', 'ARRAL9', 'owner-c'),
+ ('redecontrole.gov.br', 'ARRAL9', 'admin-c'),
+ ('redecontrole.gov.br', 'RETMI', 'tech-c'),
+ ('redecontrole.gov.br', 'ARRAL9', 'billing-c'),
+ ('governo.gov.br', 'MAR79', 'owner-c'),
+ ('governo.gov.br', 'MAR79', 'admin-c'),
+ ('governo.gov.br', 'MAR79', 'tech-c'),
+ ('governo.gov.br', 'MAR79', 'billing-c'),
+ ('assistenciasocial.gov.br', 'MACSO438', 'owner-c'),
+ ('assistenciasocial.gov.br', 'MACSO438', 'admin-c'),
+ ('assistenciasocial.gov.br', 'MACSO438', 'tech-c'),
+ ('assistenciasocial.gov.br', 'MACSO438', 'billing-c'),
+ ('novoaeroportorecife.gov.br', 'SUTIN', 'owner-c'),
+ ('novoaeroportorecife.gov.br', 'SUTIN', 'admin-c'),
+ ('novoaeroportorecife.gov.br', 'GESUP4', 'tech-c'),
+ ('novoaeroportorecife.gov.br', 'GESUP4', 'billing-c'),
+ ('cop15brazil.gov.br', 'MAMPA145', 'owner-c'),
+ ('cop15brazil.gov.br', 'MAMPA145', 'admin-c'),
+ ('cop15brazil.gov.br', 'INTVC', 'tech-c'),
+ ('cop15brazil.gov.br', 'MAR79', 'billing-c'),
+ ('confecom.gov.br', 'MAMPA145', 'owner-c'),
+ ('confecom.gov.br', 'MAMPA145', 'admin-c'),
+ ('confecom.gov.br', 'MAR79', 'tech-c'),
+ ('confecom.gov.br', 'MAR79', 'billing-c'),
+ ('ba.gov.br', 'LEOSI20', 'owner-c'),
+ ('ba.gov.br', 'LEOSI20', 'admin-c'),
+ ('ba.gov.br', 'MRM11', 'tech-c'),
+ ('ba.gov.br', 'LEOSI20', 'billing-c'),
+ ('caupa.gov.br', 'MICLO17', 'owner-c'),
+ ('caupa.gov.br', 'MICLO17', 'admin-c'),
+ ('caupa.gov.br', 'SCITI', 'tech-c'),
+ ('caupa.gov.br', 'SCFIN', 'billing-c'),
+ ('fatoseboatos.gov.br', 'MAMPA145', 'owner-c'),
+ ('fatoseboatos.gov.br', 'MAMPA145', 'admin-c'),
+ ('fatoseboatos.gov.br', 'MAMPA145', 'tech-c'),
+ ('fatoseboatos.gov.br', 'MAMPA145', 'billing-c'),
+ ('jfrn.gov.br', 'FRRRO5', 'owner-c'),
+ ('jfrn.gov.br', 'FRRRO5', 'admin-c'),
+ ('jfrn.gov.br', 'FRRRO5', 'tech-c'),
+ ('jfrn.gov.br', 'FRRRO5', 'billing-c'),
+ ('nae.gov.br', 'MAR79', 'owner-c'),
+ ('nae.gov.br', 'MAR79', 'admin-c'),
+ ('nae.gov.br', 'MAR79', 'tech-c'),
+ ('nae.gov.br', 'MAR79', 'billing-c'),
+ ('dfa-pe.gov.br', 'DFA22', 'owner-c'),
+ ('dfa-pe.gov.br', 'DFA22', 'admin-c'),
+ ('dfa-pe.gov.br', 'HOT7', 'tech-c'),
+ ('dfa-pe.gov.br', 'DFA22', 'billing-c'),
+ ('crmrj.gov.br', 'ALM784', 'owner-c'),
+ ('crmrj.gov.br', 'ALM784', 'admin-c'),
+ ('crmrj.gov.br', 'ALM784', 'tech-c'),
+ ('crmrj.gov.br', 'ALM784', 'billing-c'),
+ ('quiosque.gov.br', 'ADSFE47', 'owner-c'),
+ ('quiosque.gov.br', 'ADSFE47', 'admin-c'),
+ ('quiosque.gov.br', 'MRV103', 'tech-c'),
+ ('quiosque.gov.br', 'WEQLI', 'billing-c'),
+ ('redebrasil.gov.br', 'REDOM95', 'owner-c'),
+ ('redebrasil.gov.br', 'ADNMC', 'admin-c'),
+ ('redebrasil.gov.br', 'ADNMC', 'tech-c'),
+ ('redebrasil.gov.br', 'ADNMC', 'billing-c'),
+ ('ciscea.gov.br', 'MAC46', 'owner-c'),
+ ('ciscea.gov.br', 'MAC46', 'admin-c'),
+ ('ciscea.gov.br', 'MAC46', 'tech-c'),
+ ('ciscea.gov.br', 'MAC46', 'billing-c'),
+ ('tre-pb.gov.br', 'TRP12', 'owner-c'),
+ ('tre-pb.gov.br', 'TRP12', 'admin-c'),
+ ('tre-pb.gov.br', 'DCC', 'tech-c'),
+ ('tre-pb.gov.br', 'TRP12', 'billing-c'),
+ ('confiancanobrasil.gov.br', 'MAR79', 'owner-c'),
+ ('confiancanobrasil.gov.br', 'MAR79', 'admin-c'),
+ ('confiancanobrasil.gov.br', 'MAR79', 'tech-c'),
+ ('confiancanobrasil.gov.br', 'MAR79', 'billing-c'),
+ ('secom.gov.br', 'MAMPA145', 'owner-c'),
+ ('secom.gov.br', 'MAMPA145', 'admin-c'),
+ ('secom.gov.br', 'MRV103', 'tech-c'),
+ ('secom.gov.br', 'MAR79', 'billing-c'),
+ ('cop.gov.br', 'MAMPA145', 'owner-c'),
+ ('cop.gov.br', 'MAMPA145', 'admin-c'),
+ ('cop.gov.br', 'INTVC', 'tech-c'),
+ ('cop.gov.br', 'MAR79', 'billing-c'),
+ ('cade.gov.br', 'BEGSO3', 'owner-c'),
+ ('cade.gov.br', 'VAVSO31', 'admin-c'),
+ ('cade.gov.br', 'GACMA58', 'tech-c'),
+ ('cade.gov.br', 'BEGSO3', 'billing-c'),
+ ('finame.gov.br', 'GGT13', 'owner-c'),
+ ('finame.gov.br', 'GGT13', 'admin-c'),
+ ('finame.gov.br', 'GGT13', 'tech-c'),
+ ('finame.gov.br', 'GGT13', 'billing-c'),
+ ('netminas.gov.br', 'PGM14', 'owner-c'),
+ ('netminas.gov.br', 'PGM14', 'admin-c'),
+ ('netminas.gov.br', 'PGM14', 'tech-c'),
+ ('netminas.gov.br', 'PGM14', 'billing-c'),
+ ('fiscopa2014.gov.br', 'ARRAL9', 'owner-c'),
+ ('fiscopa2014.gov.br', 'ARRAL9', 'admin-c'),
+ ('fiscopa2014.gov.br', 'RETMI', 'tech-c'),
+ ('fiscopa2014.gov.br', 'ACSQU', 'billing-c'),
+ ('emquestao.gov.br', 'MAMPA145', 'owner-c'),
+ ('emquestao.gov.br', 'MAMPA145', 'admin-c'),
+ ('emquestao.gov.br', 'MRV103', 'tech-c'),
+ ('emquestao.gov.br', 'MAR79', 'billing-c'),
+ ('sipam.gov.br', 'ROGUE84', 'owner-c'),
+ ('sipam.gov.br', 'RAPCO62', 'admin-c'),
+ ('sipam.gov.br', 'CACMO25', 'tech-c'),
+ ('sipam.gov.br', 'CACMO25', 'billing-c'),
+ ('redesocial.gov.br', 'CGSTM2', 'owner-c'),
+ ('redesocial.gov.br', 'CGSTM2', 'admin-c'),
+ ('redesocial.gov.br', 'CGSTM2', 'tech-c'),
+ ('redesocial.gov.br', 'CGSTM2', 'billing-c'),
+ ('cnrh.gov.br', 'BRGDU2', 'owner-c'),
+ ('cnrh.gov.br', 'BRGDU2', 'admin-c'),
+ ('cnrh.gov.br', 'BRGDU2', 'tech-c'),
+ ('cnrh.gov.br', 'BRGDU2', 'billing-c'),
+ ('soumaismedico.gov.br', 'DOEBS', 'owner-c'),
+ ('soumaismedico.gov.br', 'DOEBS', 'admin-c'),
+ ('soumaismedico.gov.br', 'DOEBS', 'tech-c'),
+ ('soumaismedico.gov.br', 'DOEBS', 'billing-c'),
+ ('fundacentro-es.gov.br', 'FJT46', 'owner-c'),
+ ('fundacentro-es.gov.br', 'FJT46', 'admin-c'),
+ ('fundacentro-es.gov.br', 'TEE11', 'tech-c'),
+ ('fundacentro-es.gov.br', 'FJT46', 'billing-c'),
+ ('trensurb.gov.br', 'SECDA3', 'owner-c'),
+ ('trensurb.gov.br', 'SECDA3', 'admin-c'),
+ ('trensurb.gov.br', 'SECDA3', 'tech-c'),
+ ('trensurb.gov.br', 'GLF41', 'billing-c'),
+ ('caixapostal.gov.br', 'RMJ35', 'owner-c'),
+ ('caixapostal.gov.br', 'RMJ35', 'admin-c'),
+ ('caixapostal.gov.br', 'GIT60', 'tech-c'),
+ ('caixapostal.gov.br', 'GIC166', 'billing-c'),
+ ('dnpmsc.gov.br', 'IPI12', 'owner-c'),
+ ('dnpmsc.gov.br', 'IPI12', 'admin-c'),
+ ('dnpmsc.gov.br', 'IPI12', 'tech-c'),
+ ('dnpmsc.gov.br', 'IPI12', 'billing-c'),
+ ('infojus.gov.br', 'EDR194', 'owner-c'),
+ ('infojus.gov.br', 'SETIN14', 'admin-c'),
+ ('infojus.gov.br', 'SGSRE3', 'tech-c'),
+ ('infojus.gov.br', 'GASTI6', 'billing-c'),
+ ('rededojudiciario.gov.br', 'EDR194', 'owner-c'),
+ ('rededojudiciario.gov.br', 'SETIN14', 'admin-c'),
+ ('rededojudiciario.gov.br', 'SGSRE3', 'tech-c'),
+ ('rededojudiciario.gov.br', 'GASTI6', 'billing-c'),
+ ('businessbrasil.gov.br', 'CTDPR5', 'owner-c'),
+ ('businessbrasil.gov.br', 'CTDPR5', 'admin-c'),
+ ('businessbrasil.gov.br', 'CTDPR5', 'tech-c'),
+ ('businessbrasil.gov.br', 'CTDPR5', 'billing-c'),
+ ('dnpm-pe.gov.br', 'DDP38', 'owner-c'),
+ ('dnpm-pe.gov.br', 'DDP38', 'admin-c'),
+ ('dnpm-pe.gov.br', 'FOX2', 'tech-c'),
+ ('dnpm-pe.gov.br', 'DDP38', 'billing-c'),
+ ('brasilglobalnet.gov.br', 'CTDPR5', 'owner-c'),
+ ('brasilglobalnet.gov.br', 'CTDPR5', 'admin-c'),
+ ('brasilglobalnet.gov.br', 'CTDPR5', 'tech-c'),
+ ('brasilglobalnet.gov.br', 'CTDPR5', 'billing-c'),
+ ('gestaoemdestaque.gov.br', 'CGSTM2', 'owner-c'),
+ ('gestaoemdestaque.gov.br', 'CGSTM2', 'admin-c'),
+ ('gestaoemdestaque.gov.br', 'CGSTM2', 'tech-c'),
+ ('gestaoemdestaque.gov.br', 'CGSTM2', 'billing-c'),
+ ('car.gov.br', 'JXM', 'owner-c'),
+ ('car.gov.br', 'JXM', 'admin-c'),
+ ('car.gov.br', 'AJA4', 'tech-c'),
+ ('car.gov.br', 'NEGRE8', 'billing-c'),
+ ('crbm5.gov.br', 'REMIN22', 'owner-c'),
+ ('crbm5.gov.br', 'REMIN22', 'admin-c'),
+ ('crbm5.gov.br', 'MAGSI53', 'tech-c'),
+ ('crbm5.gov.br', 'REMIN22', 'billing-c'),
+ ('nordesteeletronico.gov.br', 'CMRSO14', 'owner-c'),
+ ('nordesteeletronico.gov.br', 'CMRSO14', 'admin-c'),
+ ('nordesteeletronico.gov.br', 'FFN', 'tech-c'),
+ ('nordesteeletronico.gov.br', 'CMRSO14', 'billing-c'),
+ ('crtr17.gov.br', 'MAMOC2', 'owner-c'),
+ ('crtr17.gov.br', 'MAMOC2', 'admin-c'),
+ ('crtr17.gov.br', 'CRARE8', 'tech-c'),
+ ('crtr17.gov.br', 'CRARE8', 'billing-c'),
+ ('informacao.gov.br', 'AMDSC29', 'owner-c'),
+ ('informacao.gov.br', 'AMDSC29', 'admin-c'),
+ ('informacao.gov.br', 'VDMLI12', 'tech-c'),
+ ('informacao.gov.br', 'GUMSO21', 'billing-c'),
+ ('brasilpresente.gov.br', 'MAMPA145', 'owner-c'),
+ ('brasilpresente.gov.br', 'MAMPA145', 'admin-c'),
+ ('brasilpresente.gov.br', 'DCL372', 'tech-c'),
+ ('brasilpresente.gov.br', 'MAR79', 'billing-c'),
+ ('agronet.gov.br', 'CWSRO5', 'owner-c'),
+ ('agronet.gov.br', 'CWSRO5', 'admin-c'),
+ ('agronet.gov.br', 'CWSRO5', 'tech-c'),
+ ('agronet.gov.br', 'CWSRO5', 'billing-c'),
+ ('corensc.gov.br', 'MIRKA', 'owner-c'),
+ ('corensc.gov.br', 'MIRKA', 'admin-c'),
+ ('corensc.gov.br', 'MIRKA', 'tech-c'),
+ ('corensc.gov.br', 'MIRKA', 'billing-c'),
+ ('siga.gov.br', 'SEIRE4', 'owner-c'),
+ ('siga.gov.br', 'SEIRE4', 'admin-c'),
+ ('siga.gov.br', 'SEIRE4', 'tech-c'),
+ ('siga.gov.br', 'SEIRE4', 'billing-c'),
+ ('ipardes.gov.br', 'PMG11', 'owner-c'),
+ ('ipardes.gov.br', 'HPS12', 'admin-c'),
+ ('ipardes.gov.br', 'MAB10', 'tech-c'),
+ ('ipardes.gov.br', 'ACP108', 'billing-c'),
+ ('pesquisa.gov.br', 'CGSTM2', 'owner-c'),
+ ('pesquisa.gov.br', 'CGSTM2', 'admin-c'),
+ ('pesquisa.gov.br', 'MRV103', 'tech-c'),
+ ('pesquisa.gov.br', 'CGSTM2', 'billing-c'),
+ ('cgtee.gov.br', 'MNM131', 'owner-c'),
+ ('cgtee.gov.br', 'MNM131', 'admin-c'),
+ ('cgtee.gov.br', 'MNM131', 'tech-c'),
+ ('cgtee.gov.br', 'MNM131', 'billing-c'),
+ ('mercosul.gov.br', 'SAT7', 'owner-c'),
+ ('mercosul.gov.br', 'SAT7', 'admin-c'),
+ ('mercosul.gov.br', 'SAT7', 'tech-c'),
+ ('mercosul.gov.br', 'SAT7', 'billing-c'),
+ ('mmirjdh.gov.br', 'DMPRO12', 'owner-c'),
+ ('mmirjdh.gov.br', 'DMPRO12', 'admin-c'),
+ ('mmirjdh.gov.br', 'FRASO52', 'tech-c'),
+ ('mmirjdh.gov.br', 'ANHCA25', 'billing-c'),
+ ('saemec.gov.br', 'INP', 'owner-c'),
+ ('saemec.gov.br', 'INP', 'admin-c'),
+ ('saemec.gov.br', 'INP', 'tech-c'),
+ ('saemec.gov.br', 'INP', 'billing-c'),
+ ('snisb.gov.br', 'ANS308', 'owner-c'),
+ ('snisb.gov.br', 'ANS308', 'admin-c'),
+ ('snisb.gov.br', 'ANS308', 'tech-c'),
+ ('snisb.gov.br', 'ANS308', 'billing-c'),
+ ('fns-es.gov.br', 'TEE7', 'owner-c'),
+ ('fns-es.gov.br', 'TEE7', 'admin-c'),
+ ('fns-es.gov.br', 'TEE7', 'tech-c'),
+ ('fns-es.gov.br', 'TEE7', 'billing-c'),
+ ('quiosqueredegoverno.gov.br', 'ADSFE47', 'owner-c'),
+ ('quiosqueredegoverno.gov.br', 'ADSFE47', 'admin-c'),
+ ('quiosqueredegoverno.gov.br', 'MRV103', 'tech-c'),
+ ('quiosqueredegoverno.gov.br', 'WEQLI', 'billing-c'),
+ ('processoeletroniconacional.gov.br', 'CGSTM2', 'owner-c'),
+ ('processoeletroniconacional.gov.br', 'CGSTM2', 'admin-c'),
+ ('processoeletroniconacional.gov.br', 'CGSTM2', 'tech-c'),
+ ('processoeletroniconacional.gov.br', 'CGSTM2', 'billing-c'),
+ ('trevofederal.gov.br', 'RMJ35', 'owner-c'),
+ ('trevofederal.gov.br', 'RMJ35', 'admin-c'),
+ ('trevofederal.gov.br', 'GIT60', 'tech-c'),
+ ('trevofederal.gov.br', 'GIC166', 'billing-c'),
+ ('memoriabndes.gov.br', 'GGT13', 'owner-c'),
+ ('memoriabndes.gov.br', 'GGT13', 'admin-c'),
+ ('memoriabndes.gov.br', 'GGT13', 'tech-c'),
+ ('memoriabndes.gov.br', 'GGT13', 'billing-c'),
+ ('eafudi.gov.br', 'HPF9', 'owner-c'),
+ ('eafudi.gov.br', 'HPF9', 'admin-c'),
+ ('eafudi.gov.br', 'HPF9', 'tech-c'),
+ ('eafudi.gov.br', 'CCRDO', 'billing-c'),
+ ('portaldajustica.gov.br', 'DARCO34', 'owner-c'),
+ ('portaldajustica.gov.br', 'DARCO34', 'admin-c'),
+ ('portaldajustica.gov.br', 'DARCO34', 'tech-c'),
+ ('portaldajustica.gov.br', 'DARCO34', 'billing-c'),
+ ('obscriancaeadolescente.gov.br', 'MAAJU182', 'owner-c'),
+ ('obscriancaeadolescente.gov.br', 'WEL52', 'admin-c'),
+ ('obscriancaeadolescente.gov.br', 'FRASO52', 'tech-c'),
+ ('obscriancaeadolescente.gov.br', 'WEL52', 'billing-c'),
+ ('bcdam.gov.br', 'RFCSI22', 'owner-c'),
+ ('bcdam.gov.br', 'CPRMI', 'admin-c'),
+ ('bcdam.gov.br', 'RFCSI22', 'tech-c'),
+ ('bcdam.gov.br', 'CPRMI', 'billing-c'),
+ ('nbr.gov.br', 'RSM9', 'owner-c'),
+ ('nbr.gov.br', 'RSM9', 'admin-c'),
+ ('nbr.gov.br', 'RSM9', 'tech-c'),
+ ('nbr.gov.br', 'RSM9', 'billing-c'),
+ ('trt10.gov.br', 'FRCPF', 'owner-c'),
+ ('trt10.gov.br', 'ROP54', 'admin-c'),
+ ('trt10.gov.br', 'RGA182', 'tech-c'),
+ ('trt10.gov.br', 'ROP54', 'billing-c'),
+ ('investexportbrasil.gov.br', 'CTDPR5', 'owner-c'),
+ ('investexportbrasil.gov.br', 'CTDPR5', 'admin-c'),
+ ('investexportbrasil.gov.br', 'CTDPR5', 'tech-c'),
+ ('investexportbrasil.gov.br', 'CTDPR5', 'billing-c'),
+ ('e-stj.gov.br', 'DARCO34', 'owner-c'),
+ ('e-stj.gov.br', 'DARCO34', 'admin-c'),
+ ('e-stj.gov.br', 'FKPSI2', 'tech-c'),
+ ('e-stj.gov.br', 'DARCO34', 'billing-c'),
+ ('tre-ma.gov.br', 'WTM9', 'owner-c'),
+ ('tre-ma.gov.br', 'DCC', 'admin-c'),
+ ('tre-ma.gov.br', 'DCC', 'tech-c'),
+ ('tre-ma.gov.br', 'DCC', 'billing-c'),
+ ('dtceast.gov.br', 'SRS330', 'owner-c'),
+ ('dtceast.gov.br', 'SRS330', 'admin-c'),
+ ('dtceast.gov.br', 'SRS330', 'tech-c'),
+ ('dtceast.gov.br', 'SRS330', 'billing-c'),
+ ('es.gov.br', 'FAM765', 'owner-c'),
+ ('es.gov.br', 'FAM765', 'admin-c'),
+ ('es.gov.br', 'DEFMA30', 'tech-c'),
+ ('es.gov.br', 'FAM765', 'billing-c'),
+ ('badesc.gov.br', 'BDE', 'owner-c'),
+ ('badesc.gov.br', 'BDE', 'admin-c'),
+ ('badesc.gov.br', 'BDE', 'tech-c'),
+ ('badesc.gov.br', 'BDE', 'billing-c'),
+ ('a2000.gov.br', 'ADSFE47', 'owner-c'),
+ ('a2000.gov.br', 'ADSFE47', 'admin-c'),
+ ('a2000.gov.br', 'MRV103', 'tech-c'),
+ ('a2000.gov.br', 'WEQLI', 'billing-c'),
+ ('cprm-sp.gov.br', 'SKR', 'owner-c'),
+ ('cprm-sp.gov.br', 'SKR', 'admin-c'),
+ ('cprm-sp.gov.br', 'SKR', 'tech-c'),
+ ('cprm-sp.gov.br', 'SKR', 'billing-c'),
+ ('relacoesinstitucionais.gov.br', 'FERSI56', 'owner-c'),
+ ('relacoesinstitucionais.gov.br', 'FERSI56', 'admin-c'),
+ ('relacoesinstitucionais.gov.br', 'MRV103', 'tech-c'),
+ ('relacoesinstitucionais.gov.br', 'FERSI56', 'billing-c'),
+ ('brasilia2010.gov.br', 'MICUL2', 'owner-c'),
+ ('brasilia2010.gov.br', 'MICUL2', 'admin-c'),
+ ('brasilia2010.gov.br', 'MICUL2', 'tech-c'),
+ ('brasilia2010.gov.br', 'MICUL2', 'billing-c'),
+ ('brasilsemmiseria.gov.br', 'ADSFE47', 'owner-c'),
+ ('brasilsemmiseria.gov.br', 'ADSFE47', 'admin-c'),
+ ('brasilsemmiseria.gov.br', 'EDMED27', 'tech-c'),
+ ('brasilsemmiseria.gov.br', 'ADSFE47', 'billing-c'),
+ ('guiafacilgps.gov.br', 'RMJ35', 'owner-c'),
+ ('guiafacilgps.gov.br', 'RMJ35', 'admin-c'),
+ ('guiafacilgps.gov.br', 'GIT60', 'tech-c'),
+ ('guiafacilgps.gov.br', 'GIC166', 'billing-c'),
+ ('conferenciameioambiente.gov.br', 'MMR', 'owner-c'),
+ ('conferenciameioambiente.gov.br', 'MMR', 'admin-c'),
+ ('conferenciameioambiente.gov.br', 'MMR', 'tech-c'),
+ ('conferenciameioambiente.gov.br', 'MMR', 'billing-c'),
+ ('funpresp-exe.gov.br', 'MAACR88', 'owner-c'),
+ ('funpresp-exe.gov.br', 'ELBCH', 'admin-c'),
+ ('funpresp-exe.gov.br', 'DDT10', 'tech-c'),
+ ('funpresp-exe.gov.br', 'ELBCH', 'billing-c'),
+ ('eixos.gov.br', 'CGSTM2', 'owner-c'),
+ ('eixos.gov.br', 'CGSTM2', 'admin-c'),
+ ('eixos.gov.br', 'CGSTM2', 'tech-c'),
+ ('eixos.gov.br', 'CGSTM2', 'billing-c'),
+ ('siapenet.gov.br', 'ADSFE47', 'owner-c'),
+ ('siapenet.gov.br', 'ADSFE47', 'admin-c'),
+ ('siapenet.gov.br', 'MRV103', 'tech-c'),
+ ('siapenet.gov.br', 'WEQLI', 'billing-c'),
+ ('nordestenegocios.gov.br', 'CMRSO14', 'owner-c'),
+ ('nordestenegocios.gov.br', 'CMRSO14', 'admin-c'),
+ ('nordestenegocios.gov.br', 'FFN', 'tech-c'),
+ ('nordestenegocios.gov.br', 'CMRSO14', 'billing-c'),
+ ('simecpr.gov.br', 'MIEDU6', 'owner-c'),
+ ('simecpr.gov.br', 'MIEDU6', 'admin-c'),
+ ('simecpr.gov.br', 'MIEDU6', 'tech-c'),
+ ('simecpr.gov.br', 'MIEDU6', 'billing-c'),
+ ('p2r2.gov.br', 'MMR', 'owner-c'),
+ ('p2r2.gov.br', 'MMR', 'admin-c'),
+ ('p2r2.gov.br', 'MMR', 'tech-c'),
+ ('p2r2.gov.br', 'MMR', 'billing-c'),
+ ('deputado.gov.br', 'SSG50', 'owner-c'),
+ ('deputado.gov.br', 'SSG50', 'admin-c'),
+ ('deputado.gov.br', 'SSG50', 'tech-c'),
+ ('deputado.gov.br', 'SSG50', 'billing-c'),
+ ('eafb.gov.br', 'MDG45', 'owner-c'),
+ ('eafb.gov.br', 'MDG45', 'admin-c'),
+ ('eafb.gov.br', 'JABLJ2', 'tech-c'),
+ ('eafb.gov.br', 'MDG45', 'billing-c'),
+ ('guiadeservicos.gov.br', 'CGSTM2', 'owner-c'),
+ ('guiadeservicos.gov.br', 'CGSTM2', 'admin-c'),
+ ('guiadeservicos.gov.br', 'CGSTM2', 'tech-c'),
+ ('guiadeservicos.gov.br', 'CGSTM2', 'billing-c'),
+ ('tre-pi.gov.br', 'PML39', 'owner-c'),
+ ('tre-pi.gov.br', 'DCC', 'admin-c'),
+ ('tre-pi.gov.br', 'DCC', 'tech-c'),
+ ('tre-pi.gov.br', 'WOS3', 'billing-c'),
+ ('goias.gov.br', 'AGP35', 'owner-c'),
+ ('goias.gov.br', 'AGP35', 'admin-c'),
+ ('goias.gov.br', 'AGP35', 'tech-c'),
+ ('goias.gov.br', 'AGP35', 'billing-c'),
+ ('incra-pe.gov.br', 'SRH7', 'owner-c'),
+ ('incra-pe.gov.br', 'SRH7', 'admin-c'),
+ ('incra-pe.gov.br', 'IEL2', 'tech-c'),
+ ('incra-pe.gov.br', 'SRH7', 'billing-c'),
+ ('fazenda.gov.br', 'ADSFE47', 'owner-c'),
+ ('fazenda.gov.br', 'ADSFE47', 'admin-c'),
+ ('fazenda.gov.br', 'MRV103', 'tech-c'),
+ ('fazenda.gov.br', 'WEQLI', 'billing-c'),
+ ('cti.gov.br', 'ANM153', 'owner-c'),
+ ('cti.gov.br', 'PACBE47', 'admin-c'),
+ ('cti.gov.br', 'PACBE47', 'tech-c'),
+ ('cti.gov.br', 'PACBE47', 'billing-c'),
+ ('rbmlq.gov.br', 'AOS4', 'owner-c'),
+ ('rbmlq.gov.br', 'AOS4', 'admin-c'),
+ ('rbmlq.gov.br', 'AOS4', 'tech-c'),
+ ('rbmlq.gov.br', 'AOS4', 'billing-c'),
+ ('mtb.gov.br', 'COINF90', 'owner-c'),
+ ('mtb.gov.br', 'CLMEN28', 'admin-c'),
+ ('mtb.gov.br', 'MALHE11', 'tech-c'),
+ ('mtb.gov.br', 'MALHE11', 'billing-c'),
+ ('dialogabrasil.gov.br', 'MAR79', 'owner-c'),
+ ('dialogabrasil.gov.br', 'MAR79', 'admin-c'),
+ ('dialogabrasil.gov.br', 'MAR79', 'tech-c'),
+ ('dialogabrasil.gov.br', 'MAR79', 'billing-c'),
+ ('promocaocomercial.gov.br', 'CTDPR5', 'owner-c'),
+ ('promocaocomercial.gov.br', 'CTDPR5', 'admin-c'),
+ ('promocaocomercial.gov.br', 'CTDPR5', 'tech-c'),
+ ('promocaocomercial.gov.br', 'CTDPR5', 'billing-c'),
+ ('bcc.gov.br', 'CIBRA24', 'owner-c'),
+ ('bcc.gov.br', 'CIBRA24', 'admin-c'),
+ ('bcc.gov.br', 'CIBRA24', 'tech-c'),
+ ('bcc.gov.br', 'CIBRA24', 'billing-c'),
+ ('prt16.gov.br', 'FAA16', 'owner-c'),
+ ('prt16.gov.br', 'FAA16', 'admin-c'),
+ ('prt16.gov.br', 'SCA36', 'tech-c'),
+ ('prt16.gov.br', 'SCA36', 'billing-c'),
+ ('e-jud.gov.br', 'DARCO34', 'owner-c'),
+ ('e-jud.gov.br', 'DARCO34', 'admin-c'),
+ ('e-jud.gov.br', 'FKPSI2', 'tech-c'),
+ ('e-jud.gov.br', 'DARCO34', 'billing-c');
