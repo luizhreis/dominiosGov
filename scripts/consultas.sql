@@ -3,11 +3,11 @@ SELECT domain as dominios
 FROM Dominios
 WHERE ticket > 20000;
 
-/*Consulta 2 (Junção 2 tabelas): Ordenar, de forma crescente, as empresas que possuem o maior número de funcionarios como administradores de domínios.*/
+/*Consulta 2 (Junção 2 tabelas): Ordenar, de forma decrescente, as empresas que possuem o maior número de funcionarios como administradores de domínios.*/
 SELECT e.nome as Empresa, COUNT(DISTINCT f.nic_hdl_br) as Num_Func
 FROM Ents_Resps e INNER JOIN Funcionario f ON e.documento=f.documento
 GROUP BY nome
-ORDER BY Num_Func;
+ORDER BY Num_Func DESC;
 
 /*Consulta 3 (Junção 2 tabelas com junção externa): Selecionar as datas de criação e alteração dos domínios, seus endereços, o documento da empresa responsável e o papel exercido pelos funcionários, bem como suas siglas.*/
 SELECT * FROM Dominios LEFT OUTER JOIN Papel ON Papel.domain=Dominios.domain
@@ -64,11 +64,6 @@ FROM Ents_Resps e INNER JOIN (SELECT id_cidade, estado, bandeira FROM Cidades IN
 GROUP BY estados
 ORDER BY qnt_empresas DESC;
 
-/*Consulta 13 (Relatório): Ordenar, de forma decrescente, as empresas por número de domínios criados entre 2000 e 2015
-SELECT e.nome, d.data_cadastro, sum(d.domain) as qnt_dominios
-FROM Ents_Resps e INNER JOIN Dominios d ON e.documento=d.documento
-GROUP BY e.nome
-HAVING sum(d.domain) > 0 /*AND d.data_cadastro BETWEEN '1999-12-31' AND '2016-01-01'*/;
 
 
 
