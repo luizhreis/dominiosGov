@@ -2,9 +2,8 @@ package DominiosGov::Controller::EstadosQtdEmps;
 use Mojo::Base 'Mojolicious::Controller';
 use Mojo::mysql;
 
-use Data::Dumper;
 
-use DominiosGov::Model::Relatorios;
+use DominiosGov::Model::Consultas;
 
 sub pre_gerar_consulta {
 	my $self = shift;
