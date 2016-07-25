@@ -2,17 +2,19 @@
 % title 'DominiosGov';
 
 <div class="well bs-component">
-	<label for="btn3">Listar o nome dos funcionários e a empresa na qual ele possui ligação: </label>
+	<label for="btn3">Média de domínios por empresa e total de domínios existentes: </label>
 	<table class="table table-striped table-bordered">
 		<thead>
 			<tr>
-				<th>Funcionario</th>
-				<th>Empresa</th>
+				<th></th>
+				<th>Estado</th>
+				<th>Quantidade</th>
 			</tr>
 		</thead>
 		<tbody>
 			<% for my $item (@$itens) { %>
 				<tr scope="row">
+				<td><%= $item->[2] %></td>
 				<td><%= $item->[0] %></td>
 				<td><%= $item->[1] %></td>
 				</tr>

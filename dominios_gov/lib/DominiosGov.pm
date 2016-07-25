@@ -17,6 +17,7 @@ sub startup {
     # Model
     $self->helper(mysql => sub { state $mysql = Mojo::mysql->new('mysql://root:aulabd@/dominiosgov') });
     $self->helper(consultas => sub { state $consultas = DominiosGov::Model::Consultas->new(mysql => shift->mysql) });
+    $self->helper(relatorios => sub { state $relatorios = DominiosGov::Model::Relatorios->new(mysql => shift->mysql) });
 
 	# Router
 	my $r = $self->routes;
@@ -37,6 +38,8 @@ sub startup {
 	$r->get('/consultas/funcemps')->to('FuncEmps#pre_gerar_consulta', template => 'consultas/funcemps');
 	$r->get('/consultas/empsrio')->to('EmpsRio#pre_gerar_consulta', template => 'consultas/empsrio');
 	$r->get('/consultas/domsatualizados20102015')->to('DomsAtualizados20102015#pre_gerar_consulta', template => 'consultas/domsatualizados20102015');
+	$r->get('/relatorios/mediatotal')->to('MediaTotal#pre_gerar_consulta', template => 'relatorios/mediatotal');
+	$r->get('/relatorios/estadosqtdemps')->to('EstadosQtdEmps#pre_gerar_consulta', template => 'relatorios/estadosqtdemps');
 }
 
 1;

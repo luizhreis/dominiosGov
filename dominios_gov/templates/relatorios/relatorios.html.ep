@@ -1,5 +1,12 @@
 % layout 'layout';
 % title 'DominiosGov';
 
-PAGINA DE RELATORIOS
+<div class="well bs-component">
+	<div class="form-group">
+		<a class="btn btn-default btn-lg" href="/relatorios/mediatotal" role="button">Listar a média de domínios por empresa e o total de domínios existentes</a>
+	</div>
+	<div class="form-group">
+		<a class="btn btn-default btn-lg" href="/relatorios/estadosqtdemps" role="button">Listar os estados ordenados pela quantidade de empresas responsáveis por domínios</a>
+	</div>
+</div>
 

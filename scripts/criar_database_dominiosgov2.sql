@@ -1,7 +1,7 @@
 CREATE TABLE Estados (
 id_estado serial PRIMARY KEY,
 estado varchar(128) NOT NULL,
-bandeira blob,
+bandeira varchar(255) NOT NULL,
 sigla char(2) NOT NULL
 );
 
