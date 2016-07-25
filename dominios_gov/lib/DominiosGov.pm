@@ -17,7 +17,7 @@ sub startup {
     # Model
     $self->helper(mysql => sub { state $mysql = Mojo::mysql->new('mysql://root:aulabd@/dominiosgov') });
     $self->helper(consultas => sub { state $consultas = DominiosGov::Model::Consultas->new(mysql => shift->mysql) });
-    $self->helper(relatorios => sub { state $relatorios = DominiosGov::Model::Relatorios->new(mysql => shift->mysql) });
+    #$self->helper(relatorios => sub { state $relatorios = DominiosGov::Model::Relatorios->new(mysql => shift->mysql) });
 
 	# Router
 	my $r = $self->routes;
