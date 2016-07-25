@@ -1,4 +1,4 @@
-package DominiosGov::Model::Consultas;
+package DominiosGov::Model::Relatorios;
 use Mojo::Base -base;
 
 has 'mysql';
