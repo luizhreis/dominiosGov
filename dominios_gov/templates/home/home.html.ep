@@ -1,11 +1,4 @@
 % layout 'layout';
 % title 'DominiosGov';
 
-TESTE DO TRABALHO DE BD
-
-This page was generated from the template "templates/example/welcome.html.ep"
-and the layout "templates/layouts/default.html.ep",
-<%= link_to 'click here' => url_for %> to reload the page or
-<%= link_to 'here' => '/index.html' %> to move forward to a static page. To
-learn more, you can also browse through the documentation
-<%= link_to 'here' => '/perldoc' %>.
+<h2>Trabalho sobre a base de dados DominiosGov, criada para a disciplina Banco de Dados I do curso de Ciência da Computação (UFRJ), ministrada pela professora Giseli R. Lopes</h2>
